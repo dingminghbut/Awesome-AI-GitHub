@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generatedAt": "2026-06-29T06:49:38.338Z",
+  "generatedAt": "2026-06-29T06:52:39.592Z",
   "projects": [
     {
       "id": 1136590548,
@@ -13,7 +13,7 @@
     {
       "id": 1024554267,
       "fullName": "NousResearch/hermes-agent",
-      "stars": 205190,
+      "stars": 205194,
       "forks": 37005,
       "category": "llm",
       "pushedAt": "2026-06-29T06:05:34Z"
@@ -37,7 +37,7 @@
     {
       "id": 574523116,
       "fullName": "f/prompts.chat",
-      "stars": 164501,
+      "stars": 164502,
       "forks": 21289,
       "category": "llm",
       "pushedAt": "2026-06-29T04:36:47Z"
@@ -46,14 +46,14 @@
       "id": 155220641,
       "fullName": "huggingface/transformers",
       "stars": 162003,
-      "forks": 33627,
+      "forks": 33628,
       "category": "llm",
       "pushedAt": "2026-06-29T06:44:36Z"
     },
     {
       "id": 599320067,
       "fullName": "langflow-ai/langflow",
-      "stars": 150177,
+      "stars": 150178,
       "forks": 9357,
       "category": "agents",
       "pushedAt": "2026-06-29T01:03:12Z"
@@ -61,7 +61,7 @@
     {
       "id": 626805178,
       "fullName": "langgenius/dify",
-      "stars": 146915,
+      "stars": 146917,
       "forks": 23139,
       "category": "llm",
       "pushedAt": "2026-06-29T06:46:36Z"
@@ -72,12 +72,12 @@
       "stars": 143382,
       "forks": 20665,
       "category": "llm",
-      "pushedAt": "2026-06-29T06:45:53Z"
+      "pushedAt": "2026-06-29T06:52:10Z"
     },
     {
       "id": 787076358,
       "fullName": "firecrawl/firecrawl",
-      "stars": 140991,
+      "stars": 140996,
       "forks": 8113,
       "category": "llm",
       "pushedAt": "2026-06-29T06:21:29Z"
@@ -85,7 +85,7 @@
     {
       "id": 552661142,
       "fullName": "langchain-ai/langchain",
-      "stars": 140446,
+      "stars": 140447,
       "forks": 23311,
       "category": "llm",
       "pushedAt": "2026-06-29T05:21:15Z"
@@ -109,7 +109,7 @@
     {
       "id": 599547518,
       "fullName": "vllm-project/vllm",
-      "stars": 84734,
+      "stars": 84735,
       "forks": 18627,
       "category": "llm",
       "pushedAt": "2026-06-29T05:48:40Z"
@@ -117,7 +117,7 @@
     {
       "id": 730534580,
       "fullName": "infiniflow/ragflow",
-      "stars": 83817,
+      "stars": 83819,
       "forks": 9719,
       "category": "rag",
       "pushedAt": "2026-06-29T05:45:29Z"
@@ -133,7 +133,7 @@
     {
       "id": 771302083,
       "fullName": "OpenHands/OpenHands",
-      "stars": 78627,
+      "stars": 78628,
       "forks": 10002,
       "category": "llm",
       "pushedAt": "2026-06-29T01:50:14Z"
@@ -141,16 +141,16 @@
     {
       "id": 979115477,
       "fullName": "bytedance/deer-flow",
-      "stars": 75332,
-      "forks": 10161,
+      "stars": 75333,
+      "forks": 10162,
       "category": "llm",
       "pushedAt": "2026-06-28T15:30:40Z"
     },
     {
       "id": 1200597263,
       "fullName": "safishamsi/graphify",
-      "stars": 73893,
-      "forks": 7369,
+      "stars": 73894,
+      "forks": 7370,
       "category": "rag",
       "pushedAt": "2026-06-28T21:45:50Z"
     },
@@ -168,12 +168,12 @@
       "stars": 67556,
       "forks": 6070,
       "category": "llm",
-      "pushedAt": "2026-06-29T06:47:56Z"
+      "pushedAt": "2026-06-29T06:52:26Z"
     },
     {
       "id": 909213664,
       "fullName": "TauricResearch/TradingAgents",
-      "stars": 89554,
+      "stars": 89555,
       "forks": 17286,
       "category": "llm",
       "pushedAt": "2026-06-22T02:05:09Z"
@@ -181,7 +181,7 @@
     {
       "id": 1266797999,
       "fullName": "DietrichGebert/ponytail",
-      "stars": 65453,
+      "stars": 65460,
       "forks": 3366,
       "category": "llm",
       "pushedAt": "2026-06-29T05:26:32Z"
@@ -205,7 +205,7 @@
     {
       "id": 793375104,
       "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "stars": 115993,
+      "stars": 115995,
       "forks": 17253,
       "category": "agents",
       "pushedAt": "2026-06-15T01:00:09Z"
@@ -221,15 +221,15 @@
     {
       "id": 1010681419,
       "fullName": "shareAI-lab/learn-claude-code",
-      "stars": 68868,
-      "forks": 11215,
+      "stars": 68871,
+      "forks": 11217,
       "category": "agents",
       "pushedAt": "2026-06-26T19:36:35Z"
     },
     {
       "id": 649170660,
       "fullName": "Mintplex-Labs/anything-llm",
-      "stars": 62257,
+      "stars": 62258,
       "forks": 6799,
       "category": "rag",
       "pushedAt": "2026-06-28T19:13:33Z"
@@ -261,7 +261,7 @@
     {
       "id": 1129940957,
       "fullName": "headroomlabs-ai/headroom",
-      "stars": 53306,
+      "stars": 53308,
       "forks": 3814,
       "category": "rag",
       "pushedAt": "2026-06-29T05:37:05Z"
@@ -277,7 +277,7 @@
     {
       "id": 710601088,
       "fullName": "crewAIInc/crewAI",
-      "stars": 54526,
+      "stars": 54527,
       "forks": 7638,
       "category": "agents",
       "pushedAt": "2026-06-28T05:26:35Z"
@@ -285,7 +285,7 @@
     {
       "id": 671269505,
       "fullName": "BerriAI/litellm",
-      "stars": 51920,
+      "stars": 51922,
       "forks": 9275,
       "category": "llm",
       "pushedAt": "2026-06-29T06:41:36Z"
@@ -293,7 +293,7 @@
     {
       "id": 1052050442,
       "fullName": "datawhalechina/hello-agents",
-      "stars": 62506,
+      "stars": 62507,
       "forks": 7736,
       "category": "llm",
       "pushedAt": "2026-06-24T17:33:54Z"
@@ -309,8 +309,8 @@
     {
       "id": 1131513930,
       "fullName": "ZhuLinsen/daily_stock_analysis",
-      "stars": 51352,
-      "forks": 44598,
+      "stars": 51357,
+      "forks": 44601,
       "category": "agents",
       "pushedAt": "2026-06-28T14:30:59Z"
     },
@@ -341,7 +341,7 @@
     {
       "id": 976921297,
       "fullName": "asgeirtj/system_prompts_leaks",
-      "stars": 46937,
+      "stars": 46939,
       "forks": 7677,
       "category": "llm",
       "pushedAt": "2026-06-29T00:26:14Z"
@@ -357,8 +357,8 @@
     {
       "id": 1165277268,
       "fullName": "Panniantong/Agent-Reach",
-      "stars": 44859,
-      "forks": 3562,
+      "stars": 44866,
+      "forks": 3563,
       "category": "agents",
       "pushedAt": "2026-06-29T03:34:57Z"
     },
@@ -373,10 +373,10 @@
     {
       "id": 615869301,
       "fullName": "mudler/LocalAI",
-      "stars": 47217,
+      "stars": 47216,
       "forks": 4183,
       "category": "agents",
-      "pushedAt": "2026-06-29T06:30:06Z"
+      "pushedAt": "2026-06-29T06:51:39Z"
     },
     {
       "id": 1201173969,
@@ -413,7 +413,7 @@
     {
       "id": 1113573066,
       "fullName": "hugohe3/ppt-master",
-      "stars": 33971,
+      "stars": 33973,
       "forks": 2871,
       "category": "agents",
       "pushedAt": "2026-06-29T06:03:29Z"
@@ -437,7 +437,7 @@
     {
       "id": 1185590488,
       "fullName": "rohitg00/ai-engineering-from-scratch",
-      "stars": 36747,
+      "stars": 36748,
       "forks": 6066,
       "category": "agents",
       "pushedAt": "2026-06-25T19:43:11Z"
@@ -453,7 +453,7 @@
     {
       "id": 1033778670,
       "fullName": "iOfficeAI/AionUi",
-      "stars": 29025,
+      "stars": 29026,
       "forks": 2892,
       "category": "agents",
       "pushedAt": "2026-06-29T06:12:11Z"
@@ -478,7 +478,7 @@
       "id": 1171026502,
       "fullName": "googleworkspace/cli",
       "stars": 29093,
-      "forks": 1651,
+      "forks": 1652,
       "category": "agents",
       "pushedAt": "2026-06-28T23:24:40Z"
     },
@@ -501,7 +501,7 @@
     {
       "id": 840056306,
       "fullName": "getzep/graphiti",
-      "stars": 28109,
+      "stars": 28110,
       "forks": 2808,
       "category": "agents",
       "pushedAt": "2026-06-27T17:32:51Z"
@@ -525,7 +525,7 @@
     {
       "id": 1216785679,
       "fullName": "esengine/DeepSeek-Reasonix",
-      "stars": 25274,
+      "stars": 25275,
       "forks": 1545,
       "category": "agents",
       "pushedAt": "2026-06-29T04:11:31Z"
@@ -605,7 +605,7 @@
     {
       "id": 660551251,
       "fullName": "FoundationAgents/MetaGPT",
-      "stars": 69100,
+      "stars": 69099,
       "forks": 8818,
       "category": "llm",
       "pushedAt": "2026-01-21T10:12:33Z"
@@ -614,7 +614,7 @@
       "id": 1024118326,
       "fullName": "Tencent/WeKnora",
       "stars": 17471,
-      "forks": 2301,
+      "forks": 2302,
       "category": "rag",
       "pushedAt": "2026-06-29T03:08:29Z"
     },
@@ -629,7 +629,7 @@
     {
       "id": 1126947080,
       "fullName": "kepano/obsidian-skills",
-      "stars": 38766,
+      "stars": 38767,
       "forks": 2746,
       "category": "agents",
       "pushedAt": "2026-06-08T16:12:01Z"
@@ -653,7 +653,7 @@
     {
       "id": 1125856365,
       "fullName": "can1357/oh-my-pi",
-      "stars": 15052,
+      "stars": 15053,
       "forks": 1339,
       "category": "agents",
       "pushedAt": "2026-06-29T06:22:26Z"
@@ -677,8 +677,8 @@
     {
       "id": 1198306812,
       "fullName": "HKUDS/Vibe-Trading",
-      "stars": 14563,
-      "forks": 2652,
+      "stars": 14567,
+      "forks": 2653,
       "category": "agents",
       "pushedAt": "2026-06-28T14:19:38Z"
     },
@@ -715,14 +715,6 @@
       "pushedAt": "2026-06-29T06:42:01Z"
     },
     {
-      "id": 1118085970,
-      "fullName": "opensandbox-group/OpenSandbox",
-      "stars": 11713,
-      "forks": 972,
-      "category": "agents",
-      "pushedAt": "2026-06-29T06:28:30Z"
-    },
-    {
       "id": 997220241,
       "fullName": "HKUDS/RAG-Anything",
       "stars": 21650,
@@ -734,7 +726,7 @@
       "id": 1139782619,
       "fullName": "waooAI/waoowaoo",
       "stars": 12964,
-      "forks": 2911,
+      "forks": 2912,
       "category": "agents",
       "pushedAt": "2026-06-26T08:44:27Z"
     },
@@ -742,7 +734,7 @@
       "id": 1145022970,
       "fullName": "HBAI-Ltd/Toonflow-app",
       "stars": 10717,
-      "forks": 1970,
+      "forks": 1971,
       "category": "generative-ai",
       "pushedAt": "2026-06-29T06:30:53Z"
     },
@@ -784,12 +776,12 @@
       "stars": 19175,
       "forks": 1256,
       "category": "agents",
-      "pushedAt": "2026-06-29T06:44:42Z"
+      "pushedAt": "2026-06-29T06:50:21Z"
     },
     {
       "id": 1217522067,
       "fullName": "earthtojake/text-to-cad",
-      "stars": 7177,
+      "stars": 7178,
       "forks": 850,
       "category": "robotics",
       "pushedAt": "2026-06-29T04:32:46Z"
@@ -829,7 +821,7 @@
     {
       "id": 1231170332,
       "fullName": "opensquilla/opensquilla",
-      "stars": 4977,
+      "stars": 4978,
       "forks": 361,
       "category": "llm",
       "pushedAt": "2026-06-29T06:40:59Z"
@@ -853,7 +845,7 @@
     {
       "id": 522158088,
       "fullName": "zhayujie/CowAgent",
-      "stars": 45663,
+      "stars": 45664,
       "forks": 10240,
       "category": "agents",
       "pushedAt": "2026-06-29T04:17:46Z"
@@ -1003,6 +995,14 @@
       "pushedAt": "2026-06-26T18:48:27Z"
     },
     {
+      "id": 1014729376,
+      "fullName": "MemTensor/MemOS",
+      "stars": 10026,
+      "forks": 911,
+      "category": "rag",
+      "pushedAt": "2026-06-29T06:11:04Z"
+    },
+    {
       "id": 1234460360,
       "fullName": "Octoday-Hub/Embodied-AI",
       "stars": 1683,
@@ -1064,7 +1064,7 @@
       "stars": 2904,
       "forks": 315,
       "category": "llm",
-      "pushedAt": "2026-06-29T06:37:06Z"
+      "pushedAt": "2026-06-29T06:52:06Z"
     },
     {
       "id": 291438522,
@@ -1107,20 +1107,20 @@
       "pushedAt": "2026-06-25T16:40:48Z"
     },
     {
+      "id": 1179959183,
+      "fullName": "BuilderIO/agent-native",
+      "stars": 2954,
+      "forks": 293,
+      "category": "agents",
+      "pushedAt": "2026-06-29T06:52:46Z"
+    },
+    {
       "id": 691347156,
       "fullName": "1Panel-dev/MaxKB",
       "stars": 21544,
       "forks": 2924,
       "category": "rag",
-      "pushedAt": "2026-06-29T06:49:25Z"
-    },
-    {
-      "id": 1179959183,
-      "fullName": "BuilderIO/agent-native",
-      "stars": 2953,
-      "forks": 293,
-      "category": "agents",
-      "pushedAt": "2026-06-29T06:46:41Z"
+      "pushedAt": "2026-06-29T06:50:34Z"
     },
     {
       "id": 74627617,
@@ -1149,7 +1149,7 @@
     {
       "id": 633927609,
       "fullName": "promptfoo/promptfoo",
-      "stars": 22709,
+      "stars": 22710,
       "forks": 2019,
       "category": "evaluation",
       "pushedAt": "2026-06-29T06:10:09Z"
@@ -1216,7 +1216,7 @@
       "stars": 19990,
       "forks": 1564,
       "category": "evaluation",
-      "pushedAt": "2026-06-29T06:14:25Z"
+      "pushedAt": "2026-06-29T06:51:52Z"
     },
     {
       "id": 570384908,
