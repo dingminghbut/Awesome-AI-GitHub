@@ -1,0 +1,21 @@
+{
+  "name": "awesome-ai-github",
+  "version": "0.1.0",
+  "description": "Daily updated bilingual collection of trending AI projects on GitHub.",
+  "type": "module",
+  "private": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "compile": "tsc -p tsconfig.json",
+    "update": "npm run compile && node dist/update.js",
+    "build": "npm run compile && node dist/build.js",
+    "check": "npm run compile && node dist/check.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.3"
+  }
+}
