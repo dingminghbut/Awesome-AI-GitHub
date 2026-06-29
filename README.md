@@ -1,10 +1,14 @@
 # Awesome AI GitHub
 
-Daily updated collection of trending AI projects on GitHub.
+Daily AI open-source radar: discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.
 
-[中文](README.zh-CN.md) | [Live dashboard](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [Data](data/projects.json)
+[中文](README.zh-CN.md) | [Live dashboard](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [Weekly digest](reports/weekly-digest.md) | [Methodology](METHODOLOGY.md) | [Suggest a project](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml) | [Data](data/projects.json)
 
 > Descriptions are kept in their original GitHub language. This repository uses bilingual navigation and labels without paid translation services.
+
+## Why This Exists
+
+AI open source moves too fast for a static bookmark list. This repo refreshes every day, keeps lightweight historical snapshots, and highlights projects that are gaining attention now so builders, researchers, and founders can find useful work earlier.
 
 ## Snapshot
 
@@ -13,6 +17,14 @@ Daily updated collection of trending AI projects on GitHub.
 - Total stars: 7,627,602
 - Ranking signal: 24h/7d star growth, repository freshness, and a first-run stars fallback
 - A trailing `+` on growth numbers means GitHub returned at least that many recent stars.
+
+## Today's Picks
+
+1. [**affaan-m/ECC**](https://github.com/affaan-m/ECC) - LLM & Chatbots; Strong recent attention: +200+ stars over 7d and +200+ over 24h in LLM & Chatbots.
+2. [**nexu-io/open-design**](https://github.com/nexu-io/open-design) - Generative AI; Strong recent attention: +200+ stars over 7d and +200+ over 24h in Generative AI.
+3. [**safishamsi/graphify**](https://github.com/safishamsi/graphify) - RAG & Knowledge; Strong recent attention: +200+ stars over 7d and +200+ over 24h in RAG & Knowledge.
+4. [**santifer/career-ops**](https://github.com/santifer/career-ops) - Agents; Strong recent attention: +200+ stars over 7d and +200+ over 24h in Agents.
+5. [**commaai/openpilot**](https://github.com/commaai/openpilot) - Robotics & Embodied AI; Strong recent attention: +200+ stars over 7d and +200+ over 24h in Robotics & Embodied AI.
 
 ## Trending Now
 
@@ -78,8 +90,12 @@ Daily updated collection of trending AI projects on GitHub.
 
 The repository updates itself every day with GitHub Actions. The workflow uses the built-in `GITHUB_TOKEN`, fetches public repository data from the GitHub REST Search API, stores a daily snapshot, and regenerates the README files plus the GitHub Pages dashboard.
 
+## Contributing
+
+Know a useful AI project that should be tracked? [Suggest it here](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml). Good submissions include a working repository URL, the category, and a short note about who benefits from it.
+
 ## Notes
 
 - Ranking becomes more accurate after several daily snapshots exist.
 - Missing repository metadata such as license, homepage, or topics is shown as `Unknown`.
-- The static dashboard is generated into `docs/index.html` and can be served by GitHub Pages from the `docs/` directory.
+- The static dashboard is generated into `docs/index.html` and served by GitHub Pages from the `docs/` directory.

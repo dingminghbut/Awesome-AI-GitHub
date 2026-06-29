@@ -1,0 +1,53 @@
+name: Suggest an AI project
+description: Recommend a useful AI open-source repository for the daily radar.
+title: "[Project]: "
+labels: ["project-suggestion"]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      description: Paste the GitHub repository URL.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Best category
+      options:
+        - LLM & Chatbots
+        - Agents
+        - RAG & Knowledge
+        - Generative AI
+        - AI Infrastructure
+        - Evaluation & Benchmarks
+        - Robotics & Embodied AI
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why is it valuable?
+      description: Explain who benefits from this project and what problem it solves.
+      placeholder: This helps developers build...
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: If known, add the repository license.
+      placeholder: MIT, Apache-2.0, GPL-3.0, unknown
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick checks
+      options:
+        - label: The repository is public.
+          required: true
+        - label: The project is related to AI, LLMs, agents, RAG, AI infrastructure, evaluation, robotics, or generative AI.
+          required: true
+        - label: I am not submitting spam, a private repo, or a purely commercial landing page.
+          required: true

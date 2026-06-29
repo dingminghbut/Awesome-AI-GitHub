@@ -24,9 +24,13 @@ async function main(): Promise<void> {
 
   const readme = fromRoot("README.md");
   const chineseReadme = fromRoot("README.zh-CN.md");
+  const methodology = fromRoot("METHODOLOGY.md");
+  const weeklyDigest = fromRoot("reports", "weekly-digest.md");
   const page = fromRoot("docs", "index.html");
+  const methodologyPage = fromRoot("docs", "methodology.html");
+  const weeklyPage = fromRoot("docs", "weekly.html");
 
-  for (const file of [readme, chineseReadme, page]) {
+  for (const file of [readme, chineseReadme, methodology, weeklyDigest, page, methodologyPage, weeklyPage]) {
     if (!existsSync(file)) {
       errors.push(`${file} is missing.`);
     }
@@ -34,21 +38,35 @@ async function main(): Promise<void> {
 
   if (existsSync(readme)) {
     const text = await readFile(readme, "utf8");
-    if (!text.includes("Trending Now") || !text.includes("Live dashboard")) {
+    if (!text.includes("Trending Now") || !text.includes("Today's Picks") || !text.includes("Live dashboard")) {
       errors.push("README.md does not look generated.");
     }
   }
 
   if (existsSync(chineseReadme)) {
     const text = await readFile(chineseReadme, "utf8");
-    if (!text.includes("当前热门") || !text.includes("在线榜单")) {
+    if (!text.includes("当前热门") || !text.includes("今日精选") || !text.includes("在线榜单")) {
       errors.push("README.zh-CN.md does not look generated.");
+    }
+  }
+
+  if (existsSync(methodology)) {
+    const text = await readFile(methodology, "utf8");
+    if (!text.includes("Ranking Signals") || !text.includes("No Database")) {
+      errors.push("METHODOLOGY.md does not look generated.");
+    }
+  }
+
+  if (existsSync(weeklyDigest)) {
+    const text = await readFile(weeklyDigest, "utf8");
+    if (!text.includes("Weekly AI Open-Source Digest") || !text.includes("Projects To Scan")) {
+      errors.push("reports/weekly-digest.md does not look generated.");
     }
   }
 
   if (existsSync(page)) {
     const text = await readFile(page, "utf8");
-    if (!text.includes("window.__PROJECTS__") || !text.includes("categoryChips")) {
+    if (!text.includes("window.__PROJECTS__") || !text.includes("categoryChips") || !text.includes("pickList")) {
       errors.push("docs/index.html does not include the expected dashboard payload.");
     }
   }

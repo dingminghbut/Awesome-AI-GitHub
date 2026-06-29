@@ -1,10 +1,14 @@
 # Awesome AI GitHub
 
-每日自动更新的热门 AI GitHub 项目集锦。
+每日 AI 开源雷达：更早发现正在快速增长的 LLM、Agent、RAG、生成式 AI 与 AI 基础设施项目。
 
-[English](README.md) | [在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [数据文件](data/projects.json)
+[English](README.md) | [在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml) | [数据文件](data/projects.json)
 
 > 项目描述保留 GitHub 原文。本仓库使用中英双语导航、标签和说明，不依赖付费翻译服务。
+
+## 为什么做这个
+
+AI 开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助开发者、研究者和创业者更早发现有价值的开源工作。
 
 ## 今日快照
 
@@ -13,6 +17,14 @@
 - 累计 Stars：7,627,602
 - 排名信号：24h/7d 增星、项目新鲜度，以及首次运行时的 stars 兜底排序
 - 增星数字后面的 `+` 表示 GitHub 至少返回了这么多近期 stars。
+
+## 今日精选
+
+1. [**affaan-m/ECC**](https://github.com/affaan-m/ECC) - 大语言模型与聊天; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 大语言模型与聊天 方向。
+2. [**nexu-io/open-design**](https://github.com/nexu-io/open-design) - 生成式 AI; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 生成式 AI 方向。
+3. [**safishamsi/graphify**](https://github.com/safishamsi/graphify) - RAG 与知识库; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 RAG 与知识库 方向。
+4. [**santifer/career-ops**](https://github.com/santifer/career-ops) - 智能体; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 智能体 方向。
+5. [**commaai/openpilot**](https://github.com/commaai/openpilot) - 机器人与具身智能; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 机器人与具身智能 方向。
 
 ## 当前热门
 
@@ -77,6 +89,10 @@
 ## 自动化
 
 仓库每天通过 GitHub Actions 自动更新。工作流使用内置 `GITHUB_TOKEN`，从 GitHub REST Search API 抓取公开仓库数据，保存每日快照，并重新生成中英 README 与 GitHub Pages 榜单页面。
+
+## 参与贡献
+
+如果你知道值得追踪的 AI 开源项目，可以[在这里推荐](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)。好的推荐应包含仓库链接、分类，以及这个项目能帮到哪类人的一句话说明。
 
 ## 说明
 

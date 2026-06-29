@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Methodology - Awesome AI GitHub</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f6f7f9;
+      color: #17202a;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+    }
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 48px;
+    }
+    nav {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+    }
+    button,
+    a.nav-link {
+      border: 1px solid #d9dee7;
+      background: #fff;
+      color: #17202a;
+      min-height: 36px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 14px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    button.active {
+      border-color: #0f766e;
+      color: #0f766e;
+    }
+    article {
+      background: #fff;
+      border: 1px solid #d9dee7;
+      border-radius: 8px;
+      padding: 24px;
+      overflow-x: auto;
+    }
+    h1, h2 {
+      line-height: 1.2;
+    }
+    a {
+      color: #0f766e;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+    th, td {
+      border-bottom: 1px solid #d9dee7;
+      padding: 8px;
+      text-align: left;
+      vertical-align: top;
+    }
+    code {
+      background: #eef2f7;
+      border-radius: 4px;
+      padding: 2px 4px;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <nav>
+      <a class="nav-link" href="index.html">Dashboard</a>
+      <a class="nav-link" href="https://github.com/dingminghbut/Awesome-AI-GitHub">GitHub</a>
+      <button id="enButton" class="active" type="button">EN</button>
+      <button id="zhButton" type="button">中文</button>
+    </nav>
+    <article id="contentEn"><h1>Methodology</h1>
+<p><a href="https://github.com/dingminghbut/Awesome-AI-GitHub#readme">Back to README</a> | <a href="https://dingminghbut.github.io/Awesome-AI-GitHub/">Live dashboard</a> | <a href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/data/projects.json">Open data</a></p>
+<p>Awesome AI GitHub is a daily AI open-source radar. It is designed to help people discover useful projects that are gaining attention now, not only the biggest repositories of all time.</p>
+<h2>Data Sources</h2>
+<ul>
+<li>GitHub REST Search API is used to discover public repositories by AI-related topics and activity.</li>
+<li>GitHub GraphQL stargazer data is used to estimate recent 24h and 7d star growth.</li>
+<li>Daily JSON snapshots are stored in <code>data/snapshots/</code> so the repository can improve its trend calculations over time.</li>
+</ul>
+<h2>Ranking Signals</h2>
+<ul>
+<li>Recent growth: 24h and 7d star movement have the strongest weight.</li>
+<li>Freshness: recently pushed repositories receive a small boost.</li>
+<li>Traction: total stars are used as a fallback, especially on early runs with limited snapshot history.</li>
+<li>Category diversity: Today&#039;s Picks avoid showing only one type of project when several categories have strong signals.</li>
+</ul>
+<h2>Growth Numbers</h2>
+<ul>
+<li>A value like <code>+200+</code> means GitHub returned at least 200 recent stars. The trailing <code>+</code> appears when the updater hits the configured recent-stargazer page limit.</li>
+<li>When recent stargazer lookup is unavailable, the updater falls back to daily snapshots.</li>
+<li>These numbers are discovery signals, not financial, academic, or product-quality guarantees.</li>
+</ul>
+<h2>Categories</h2>
+<ul>
+<li><strong>LLM &amp; Chatbots</strong> - Large language models, chat apps, prompt tooling, and model orchestration.</li>
+<li><strong>Agents</strong> - Agent frameworks, autonomous workflows, tool use, and multi-agent systems.</li>
+<li><strong>RAG &amp; Knowledge</strong> - Retrieval augmented generation, vector search, indexing, and knowledge systems.</li>
+<li><strong>Generative AI</strong> - Image, video, audio, 3D, diffusion, and creative AI projects.</li>
+<li><strong>AI Infrastructure</strong> - Inference, serving, MLOps, deployment, optimization, and developer infrastructure.</li>
+<li><strong>Evaluation &amp; Benchmarks</strong> - Evaluation suites, benchmarks, observability, and model quality tooling.</li>
+<li><strong>Robotics &amp; Embodied AI</strong> - Robotics, embodied AI, simulators, planning, and autonomous systems.</li>
+</ul>
+<h2>No Database</h2>
+<p>This project intentionally uses static JSON files instead of a database. GitHub Actions regenerates the data daily, Git stores the history, and GitHub Pages serves the dashboard for free.</p>
+<h2>Suggest a Project</h2>
+<p>Open a <a href="https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml">project suggestion issue</a> with the repository URL, category, and why it helps builders, researchers, or founders.</p></article>
+    <article id="contentZh" class="hidden"><h1>排名方法</h1>
+<p><a href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/README.zh-CN.md">返回 README</a> | <a href="https://dingminghbut.github.io/Awesome-AI-GitHub/">在线榜单</a> | <a href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/data/projects.json">开放数据</a></p>
+<p>Awesome AI GitHub 是一个每日 AI 开源雷达。目标不是只展示历史总星数最高的仓库，而是帮助大家更早发现正在获得关注、可能值得投入时间的项目。</p>
+<h2>数据来源</h2>
+<ul>
+<li>使用 GitHub REST Search API 按 AI 相关 topic 和活跃度发现公开仓库。</li>
+<li>使用 GitHub GraphQL stargazer 数据估算最近 24 小时和 7 天增星。</li>
+<li>每日 JSON 快照保存在 <code>data/snapshots/</code>，后续运行会逐步提升趋势计算的稳定性。</li>
+</ul>
+<h2>排名信号</h2>
+<ul>
+<li>近期增长：24h 和 7d 增星权重最高。</li>
+<li>新鲜度：最近 push 的仓库有少量加权。</li>
+<li>基础热度：总 stars 作为兜底信号，尤其适合快照历史不足的早期阶段。</li>
+<li>分类多样性：今日精选会避免只展示同一种项目。</li>
+</ul>
+<h2>增星数字说明</h2>
+<ul>
+<li><code>+200+</code> 表示 GitHub 至少返回了 200 个近期 stars；末尾 <code>+</code> 代表触达了当前抓取上限。</li>
+<li>如果最近 stargazer 查询失败，脚本会退回每日快照差值。</li>
+<li>这些数字是发现信号，不代表质量保证、投资建议或学术排名。</li>
+</ul>
+<h2>分类</h2>
+<ul>
+<li><strong>大语言模型与聊天</strong> - 大语言模型、聊天应用、提示词工具与模型编排。</li>
+<li><strong>智能体</strong> - 智能体框架、自主工作流、工具调用与多智能体系统。</li>
+<li><strong>RAG 与知识库</strong> - 检索增强生成、向量检索、索引与知识库系统。</li>
+<li><strong>生成式 AI</strong> - 图像、视频、音频、3D、扩散模型与创意 AI 项目。</li>
+<li><strong>AI 基础设施</strong> - 推理、服务化、MLOps、部署、优化与开发者基础设施。</li>
+<li><strong>评测与基准</strong> - 评测套件、基准测试、可观测性与模型质量工具。</li>
+<li><strong>机器人与具身智能</strong> - 机器人、具身智能、仿真器、规划与自主系统。</li>
+</ul>
+<h2>为什么不用数据库</h2>
+<p>当前项目刻意使用静态 JSON，而不是数据库。GitHub Actions 每天重新生成数据，Git 保存历史，GitHub Pages 免费发布页面，别人 fork 后也能直接运行。</p>
+<h2>推荐项目</h2>
+<p>可以通过<a href="https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml">项目推荐 issue</a> 提交仓库链接、分类，以及它能帮到开发者、研究者或创业者的原因。</p></article>
+  </main>
+  <script>
+    const enButton = document.getElementById("enButton");
+    const zhButton = document.getElementById("zhButton");
+    const contentEn = document.getElementById("contentEn");
+    const contentZh = document.getElementById("contentZh");
+    function setLanguage(language) {
+      document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+      enButton.classList.toggle("active", language === "en");
+      zhButton.classList.toggle("active", language === "zh");
+      contentEn.classList.toggle("hidden", language !== "en");
+      contentZh.classList.toggle("hidden", language !== "zh");
+    }
+    enButton.addEventListener("click", () => setLanguage("en"));
+    zhButton.addEventListener("click", () => setLanguage("zh"));
+  </script>
+</body>
+</html>
