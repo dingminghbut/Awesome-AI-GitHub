@@ -56,6 +56,7 @@
       justify-content: space-between;
       min-height: 64px;
       gap: 16px;
+      flex-wrap: wrap;
     }
 
     .brand {
@@ -86,12 +87,13 @@
       border: 1px solid var(--line);
       background: var(--panel);
       color: var(--text);
-      min-height: 36px;
-      padding: 8px 12px;
+      min-height: 34px;
+      padding: 7px 11px;
       border-radius: 8px;
       font-size: 14px;
       cursor: pointer;
       white-space: nowrap;
+      line-height: 1.1;
     }
 
     .button.active,
@@ -505,6 +507,12 @@
         justify-content: flex-start;
       }
 
+      .button {
+        min-height: 32px;
+        padding: 7px 9px;
+        font-size: 13px;
+      }
+
       .summary {
         gap: 10px;
       }
@@ -540,9 +548,9 @@
       <div class="top-actions">
         <button class="button active" id="languageEn" type="button">EN</button>
         <button class="button" id="languageZh" type="button">中文</button>
-        <a class="button" href="start-here.html" data-i18n="startHere">Start Here</a>
-        <a class="button" href="weekly.html" data-i18n="weeklyDigest">Weekly</a>
-        <a class="button" href="methodology.html" data-i18n="methodology">Methodology</a>
+        <a class="button" href="start-here.html" data-localized-link="start-here.html" data-i18n="startHere">Start Here</a>
+        <a class="button" href="weekly.html" data-localized-link="weekly.html" data-i18n="weeklyDigest">Weekly</a>
+        <a class="button" href="methodology.html" data-localized-link="methodology.html" data-i18n="methodology">Methodology</a>
         <a class="button" href="https://github.com/dingminghbut/Awesome-AI-GitHub">GitHub</a>
       </div>
     </div>
@@ -555,7 +563,7 @@
         <p data-i18n="heroText">Discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.</p>
       </div>
       <div class="link-row">
-        <a class="button" href="start-here.html" data-i18n="startHere">Start Here</a>
+        <a class="button" href="start-here.html" data-localized-link="start-here.html" data-i18n="startHere">Start Here</a>
         <a class="button" href="https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml" data-i18n="suggestProject">Suggest project</a>
         <a class="button" href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/data/projects.json" data-i18n="openData">Open data</a>
       </div>
@@ -675,7 +683,7 @@
       }
     };
 
-    let language = localStorage.getItem("language") || "en";
+    let language = initialLanguage();
     let activeCategory = "all";
     let query = "";
 
@@ -707,6 +715,7 @@
     function setLanguage(nextLanguage) {
       language = nextLanguage;
       localStorage.setItem("language", language);
+      syncUrlLanguage();
       render();
     }
 
@@ -718,6 +727,7 @@
       search.placeholder = language === "zh" ? search.dataset.placeholderZh : search.dataset.placeholderEn;
       languageEn.classList.toggle("active", language === "en");
       languageZh.classList.toggle("active", language === "zh");
+      updateLocalizedLinks();
       renderCategoryChips();
       renderCategoryList();
       renderPicks();
@@ -737,7 +747,7 @@
     function renderCategoryList() {
       categoryList.innerHTML = data.categories
         .map((category) => (
-          '<a class="category-row" href="' + escapeHtml(category.slug) + '.html">' +
+          '<a class="category-row" href="' + escapeHtml(localizedHref(category.slug + '.html')) + '">' +
             '<div><strong>' + escapeHtml(categoryName(category)) + '</strong><span>' + escapeHtml(categoryDescription(category)) + '</span></div>' +
             '<div class="count">' + format(category.count) + '</div>' +
           '</a>'
@@ -840,6 +850,38 @@
 
     function growth(value, capped) {
       return '+' + format(value) + (capped ? '+' : '');
+    }
+
+    function initialLanguage() {
+      const params = new URLSearchParams(window.location.search);
+      return normalizeLanguage(params.get("lang")) ||
+        normalizeLanguage(localStorage.getItem("language")) ||
+        ((navigator.language || "").toLowerCase().startsWith("zh") ? "zh" : "en");
+    }
+
+    function normalizeLanguage(value) {
+      if (!value) {
+        return "";
+      }
+      return String(value).toLowerCase().startsWith("zh") ? "zh" : String(value).toLowerCase().startsWith("en") ? "en" : "";
+    }
+
+    function localizedHref(path) {
+      const url = new URL(path, window.location.href);
+      url.searchParams.set("lang", language);
+      return url.href;
+    }
+
+    function updateLocalizedLinks() {
+      document.querySelectorAll("[data-localized-link]").forEach((anchor) => {
+        anchor.setAttribute("href", localizedHref(anchor.dataset.localizedLink));
+      });
+    }
+
+    function syncUrlLanguage() {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lang", language);
+      window.history.replaceState(null, "", url);
     }
 
     search.addEventListener("input", (event) => {

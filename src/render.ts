@@ -306,6 +306,7 @@ export function renderPage(data: ProjectsFile): string {
       justify-content: space-between;
       min-height: 64px;
       gap: 16px;
+      flex-wrap: wrap;
     }
 
     .brand {
@@ -336,12 +337,13 @@ export function renderPage(data: ProjectsFile): string {
       border: 1px solid var(--line);
       background: var(--panel);
       color: var(--text);
-      min-height: 36px;
-      padding: 8px 12px;
+      min-height: 34px;
+      padding: 7px 11px;
       border-radius: 8px;
       font-size: 14px;
       cursor: pointer;
       white-space: nowrap;
+      line-height: 1.1;
     }
 
     .button.active,
@@ -755,6 +757,12 @@ export function renderPage(data: ProjectsFile): string {
         justify-content: flex-start;
       }
 
+      .button {
+        min-height: 32px;
+        padding: 7px 9px;
+        font-size: 13px;
+      }
+
       .summary {
         gap: 10px;
       }
@@ -790,9 +798,9 @@ export function renderPage(data: ProjectsFile): string {
       <div class="top-actions">
         <button class="button active" id="languageEn" type="button">EN</button>
         <button class="button" id="languageZh" type="button">中文</button>
-        <a class="button" href="start-here.html" data-i18n="startHere">Start Here</a>
-        <a class="button" href="weekly.html" data-i18n="weeklyDigest">Weekly</a>
-        <a class="button" href="methodology.html" data-i18n="methodology">Methodology</a>
+        <a class="button" href="start-here.html" data-localized-link="start-here.html" data-i18n="startHere">Start Here</a>
+        <a class="button" href="weekly.html" data-localized-link="weekly.html" data-i18n="weeklyDigest">Weekly</a>
+        <a class="button" href="methodology.html" data-localized-link="methodology.html" data-i18n="methodology">Methodology</a>
         <a class="button" href="${REPOSITORY.url}">GitHub</a>
       </div>
     </div>
@@ -805,7 +813,7 @@ export function renderPage(data: ProjectsFile): string {
         <p data-i18n="heroText">Discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.</p>
       </div>
       <div class="link-row">
-        <a class="button" href="start-here.html" data-i18n="startHere">Start Here</a>
+        <a class="button" href="start-here.html" data-localized-link="start-here.html" data-i18n="startHere">Start Here</a>
         <a class="button" href="https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml" data-i18n="suggestProject">Suggest project</a>
         <a class="button" href="${REPOSITORY.url}/blob/main/data/projects.json" data-i18n="openData">Open data</a>
       </div>
@@ -925,7 +933,7 @@ export function renderPage(data: ProjectsFile): string {
       }
     };
 
-    let language = localStorage.getItem("language") || "en";
+    let language = initialLanguage();
     let activeCategory = "all";
     let query = "";
 
@@ -957,6 +965,7 @@ export function renderPage(data: ProjectsFile): string {
     function setLanguage(nextLanguage) {
       language = nextLanguage;
       localStorage.setItem("language", language);
+      syncUrlLanguage();
       render();
     }
 
@@ -968,6 +977,7 @@ export function renderPage(data: ProjectsFile): string {
       search.placeholder = language === "zh" ? search.dataset.placeholderZh : search.dataset.placeholderEn;
       languageEn.classList.toggle("active", language === "en");
       languageZh.classList.toggle("active", language === "zh");
+      updateLocalizedLinks();
       renderCategoryChips();
       renderCategoryList();
       renderPicks();
@@ -987,7 +997,7 @@ export function renderPage(data: ProjectsFile): string {
     function renderCategoryList() {
       categoryList.innerHTML = data.categories
         .map((category) => (
-          '<a class="category-row" href="' + escapeHtml(category.slug) + '.html">' +
+          '<a class="category-row" href="' + escapeHtml(localizedHref(category.slug + '.html')) + '">' +
             '<div><strong>' + escapeHtml(categoryName(category)) + '</strong><span>' + escapeHtml(categoryDescription(category)) + '</span></div>' +
             '<div class="count">' + format(category.count) + '</div>' +
           '</a>'
@@ -1090,6 +1100,38 @@ export function renderPage(data: ProjectsFile): string {
 
     function growth(value, capped) {
       return '+' + format(value) + (capped ? '+' : '');
+    }
+
+    function initialLanguage() {
+      const params = new URLSearchParams(window.location.search);
+      return normalizeLanguage(params.get("lang")) ||
+        normalizeLanguage(localStorage.getItem("language")) ||
+        ((navigator.language || "").toLowerCase().startsWith("zh") ? "zh" : "en");
+    }
+
+    function normalizeLanguage(value) {
+      if (!value) {
+        return "";
+      }
+      return String(value).toLowerCase().startsWith("zh") ? "zh" : String(value).toLowerCase().startsWith("en") ? "en" : "";
+    }
+
+    function localizedHref(path) {
+      const url = new URL(path, window.location.href);
+      url.searchParams.set("lang", language);
+      return url.href;
+    }
+
+    function updateLocalizedLinks() {
+      document.querySelectorAll("[data-localized-link]").forEach((anchor) => {
+        anchor.setAttribute("href", localizedHref(anchor.dataset.localizedLink));
+      });
+    }
+
+    function syncUrlLanguage() {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lang", language);
+      window.history.replaceState(null, "", url);
     }
 
     search.addEventListener("input", (event) => {
@@ -1491,12 +1533,13 @@ function renderArticlePage(input: {
       border: 1px solid #d9dee7;
       background: #fff;
       color: #17202a;
-      min-height: 36px;
-      padding: 8px 12px;
+      min-height: 34px;
+      padding: 7px 11px;
       border-radius: 8px;
       font-size: 14px;
       text-decoration: none;
       cursor: pointer;
+      line-height: 1.1;
     }
     button.active {
       border-color: #0f766e;
@@ -1534,12 +1577,27 @@ function renderArticlePage(input: {
     .hidden {
       display: none;
     }
+    @media (max-width: 560px) {
+      main {
+        width: min(100% - 20px, 920px);
+        padding-top: 20px;
+      }
+      article {
+        padding: 16px;
+      }
+      button,
+      a.nav-link {
+        min-height: 32px;
+        padding: 7px 9px;
+        font-size: 13px;
+      }
+    }
   </style>
 </head>
 <body>
   <main>
     <nav>
-      <a class="nav-link" href="index.html">Dashboard</a>
+      <a class="nav-link" href="index.html" data-localized-link="index.html" data-label-en="Dashboard" data-label-zh="榜单首页">Dashboard</a>
       <a class="nav-link" href="${REPOSITORY.url}">GitHub</a>
       <button id="enButton" class="active" type="button">EN</button>
       <button id="zhButton" type="button">中文</button>
@@ -1552,15 +1610,76 @@ function renderArticlePage(input: {
     const zhButton = document.getElementById("zhButton");
     const contentEn = document.getElementById("contentEn");
     const contentZh = document.getElementById("contentZh");
+    const pageTitle = {
+      en: ${JSON.stringify(input.title)},
+      zh: ${JSON.stringify(input.titleZh)}
+    };
+    let currentLanguage = initialLanguage();
+
     function setLanguage(language) {
+      currentLanguage = language;
+      localStorage.setItem("language", language);
       document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+      document.title = (language === "zh" ? pageTitle.zh : pageTitle.en) + " - Awesome AI GitHub";
       enButton.classList.toggle("active", language === "en");
       zhButton.classList.toggle("active", language === "zh");
       contentEn.classList.toggle("hidden", language !== "en");
       contentZh.classList.toggle("hidden", language !== "zh");
+      document.querySelectorAll("[data-label-en]").forEach((node) => {
+        node.textContent = language === "zh" ? node.dataset.labelZh : node.dataset.labelEn;
+      });
+      syncUrlLanguage();
+      updateLocalizedLinks();
     }
+
+    function initialLanguage() {
+      const params = new URLSearchParams(window.location.search);
+      return normalizeLanguage(params.get("lang")) ||
+        normalizeLanguage(localStorage.getItem("language")) ||
+        ((navigator.language || "").toLowerCase().startsWith("zh") ? "zh" : "en");
+    }
+
+    function normalizeLanguage(value) {
+      if (!value) {
+        return "";
+      }
+      return String(value).toLowerCase().startsWith("zh") ? "zh" : String(value).toLowerCase().startsWith("en") ? "en" : "";
+    }
+
+    function localizedHref(path) {
+      const url = new URL(path, window.location.href);
+      url.searchParams.set("lang", currentLanguage);
+      return url.href;
+    }
+
+    function updateLocalizedLinks() {
+      const pagesUrl = new URL("${REPOSITORY.pagesUrl}");
+      document.querySelectorAll("a").forEach((anchor) => {
+        if (anchor.dataset.localizedLink) {
+          anchor.setAttribute("href", localizedHref(anchor.dataset.localizedLink));
+          return;
+        }
+        const rawHref = anchor.getAttribute("href");
+        if (!rawHref) {
+          return;
+        }
+        const url = new URL(rawHref, window.location.href);
+        if (url.origin === pagesUrl.origin && url.pathname.startsWith(pagesUrl.pathname)) {
+          url.searchParams.set("lang", currentLanguage);
+          anchor.setAttribute("href", url.href);
+        }
+      });
+    }
+
+    function syncUrlLanguage() {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lang", currentLanguage);
+      window.history.replaceState(null, "", url);
+    }
+
     enButton.addEventListener("click", () => setLanguage("en"));
     zhButton.addEventListener("click", () => setLanguage("zh"));
+    setLanguage(currentLanguage);
   </script>
 </body>
 </html>

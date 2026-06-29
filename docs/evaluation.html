@@ -28,12 +28,13 @@
       border: 1px solid #d9dee7;
       background: #fff;
       color: #17202a;
-      min-height: 36px;
-      padding: 8px 12px;
+      min-height: 34px;
+      padding: 7px 11px;
       border-radius: 8px;
       font-size: 14px;
       text-decoration: none;
       cursor: pointer;
+      line-height: 1.1;
     }
     button.active {
       border-color: #0f766e;
@@ -71,12 +72,27 @@
     .hidden {
       display: none;
     }
+    @media (max-width: 560px) {
+      main {
+        width: min(100% - 20px, 920px);
+        padding-top: 20px;
+      }
+      article {
+        padding: 16px;
+      }
+      button,
+      a.nav-link {
+        min-height: 32px;
+        padding: 7px 9px;
+        font-size: 13px;
+      }
+    }
   </style>
 </head>
 <body>
   <main>
     <nav>
-      <a class="nav-link" href="index.html">Dashboard</a>
+      <a class="nav-link" href="index.html" data-localized-link="index.html" data-label-en="Dashboard" data-label-zh="榜单首页">Dashboard</a>
       <a class="nav-link" href="https://github.com/dingminghbut/Awesome-AI-GitHub">GitHub</a>
       <button id="enButton" class="active" type="button">EN</button>
       <button id="zhButton" type="button">中文</button>
@@ -143,15 +159,76 @@
     const zhButton = document.getElementById("zhButton");
     const contentEn = document.getElementById("contentEn");
     const contentZh = document.getElementById("contentZh");
+    const pageTitle = {
+      en: "Evaluation & Benchmarks",
+      zh: "评测与基准"
+    };
+    let currentLanguage = initialLanguage();
+
     function setLanguage(language) {
+      currentLanguage = language;
+      localStorage.setItem("language", language);
       document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+      document.title = (language === "zh" ? pageTitle.zh : pageTitle.en) + " - Awesome AI GitHub";
       enButton.classList.toggle("active", language === "en");
       zhButton.classList.toggle("active", language === "zh");
       contentEn.classList.toggle("hidden", language !== "en");
       contentZh.classList.toggle("hidden", language !== "zh");
+      document.querySelectorAll("[data-label-en]").forEach((node) => {
+        node.textContent = language === "zh" ? node.dataset.labelZh : node.dataset.labelEn;
+      });
+      syncUrlLanguage();
+      updateLocalizedLinks();
     }
+
+    function initialLanguage() {
+      const params = new URLSearchParams(window.location.search);
+      return normalizeLanguage(params.get("lang")) ||
+        normalizeLanguage(localStorage.getItem("language")) ||
+        ((navigator.language || "").toLowerCase().startsWith("zh") ? "zh" : "en");
+    }
+
+    function normalizeLanguage(value) {
+      if (!value) {
+        return "";
+      }
+      return String(value).toLowerCase().startsWith("zh") ? "zh" : String(value).toLowerCase().startsWith("en") ? "en" : "";
+    }
+
+    function localizedHref(path) {
+      const url = new URL(path, window.location.href);
+      url.searchParams.set("lang", currentLanguage);
+      return url.href;
+    }
+
+    function updateLocalizedLinks() {
+      const pagesUrl = new URL("https://dingminghbut.github.io/Awesome-AI-GitHub/");
+      document.querySelectorAll("a").forEach((anchor) => {
+        if (anchor.dataset.localizedLink) {
+          anchor.setAttribute("href", localizedHref(anchor.dataset.localizedLink));
+          return;
+        }
+        const rawHref = anchor.getAttribute("href");
+        if (!rawHref) {
+          return;
+        }
+        const url = new URL(rawHref, window.location.href);
+        if (url.origin === pagesUrl.origin && url.pathname.startsWith(pagesUrl.pathname)) {
+          url.searchParams.set("lang", currentLanguage);
+          anchor.setAttribute("href", url.href);
+        }
+      });
+    }
+
+    function syncUrlLanguage() {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lang", currentLanguage);
+      window.history.replaceState(null, "", url);
+    }
+
     enButton.addEventListener("click", () => setLanguage("en"));
     zhButton.addEventListener("click", () => setLanguage("zh"));
+    setLanguage(currentLanguage);
   </script>
 </body>
 </html>

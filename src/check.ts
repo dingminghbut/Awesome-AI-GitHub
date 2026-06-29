@@ -95,6 +95,8 @@ async function main(): Promise<void> {
     if (
       !text.includes("window.__PROJECTS__") ||
       !text.includes("window.__PROJECT_SIGNALS__") ||
+      !text.includes("data-localized-link") ||
+      !text.includes("initialLanguage") ||
       !text.includes("categoryChips") ||
       !text.includes("pickList")
     ) {
@@ -104,7 +106,7 @@ async function main(): Promise<void> {
 
   if (existsSync(startHerePage)) {
     const text = await readFile(startHerePage, "utf8");
-    if (!text.includes("Start Here") || !text.includes("Ten-Minute Workflow")) {
+    if (!text.includes("Start Here") || !text.includes("Ten-Minute Workflow") || !text.includes("initialLanguage")) {
       errors.push("docs/start-here.html does not look generated.");
     }
   }
