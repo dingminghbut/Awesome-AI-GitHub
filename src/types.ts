@@ -79,8 +79,18 @@ export type Project = {
   categories: string[];
   dailyStars: number;
   weeklyStars: number;
+  dailyStarsCapped: boolean;
+  weeklyStarsCapped: boolean;
+  starGrowthSource: "stargazers" | "snapshots";
   hotScore: number;
   fetchedAt: string;
+};
+
+export type RecentStarCount = {
+  dailyStars: number;
+  weeklyStars: number;
+  dailyStarsCapped: boolean;
+  weeklyStarsCapped: boolean;
 };
 
 export type SnapshotProject = {

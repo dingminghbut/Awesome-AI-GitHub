@@ -1,6 +1,6 @@
 import { CATEGORIES } from "./config.js";
 import { daysBetweenUtc } from "./date.js";
-import type { GitHubSearchItem, Project, Snapshot } from "./types.js";
+import type { GitHubSearchItem, Project, RecentStarCount, Snapshot } from "./types.js";
 
 type Candidate = {
   item: GitHubSearchItem;
@@ -54,6 +54,9 @@ export function toProjects(candidates: Iterable<Candidate>, fetchedAt: string): 
       categories,
       dailyStars: 0,
       weeklyStars: 0,
+      dailyStarsCapped: false,
+      weeklyStarsCapped: false,
+      starGrowthSource: "snapshots",
       hotScore: 0,
       fetchedAt
     };
@@ -75,7 +78,31 @@ export function applyDeltas(projects: Project[], snapshots: Snapshot[], today: s
         ...project,
         dailyStars: daily,
         weeklyStars: weekly,
+        dailyStarsCapped: false,
+        weeklyStarsCapped: false,
+        starGrowthSource: "snapshots" as const,
         hotScore: hotScore(project, daily, weekly, hasAnyBaseline)
+      };
+    })
+    .sort((a, b) => b.hotScore - a.hotScore || b.weeklyStars - a.weeklyStars || b.dailyStars - a.dailyStars || b.stars - a.stars);
+}
+
+export function applyRecentStarCounts(projects: Project[], recentStars: Map<string, RecentStarCount>): Project[] {
+  return projects
+    .map((project) => {
+      const recent = recentStars.get(project.fullName);
+      if (!recent) {
+        return project;
+      }
+
+      return {
+        ...project,
+        dailyStars: recent.dailyStars,
+        weeklyStars: recent.weeklyStars,
+        dailyStarsCapped: recent.dailyStarsCapped,
+        weeklyStarsCapped: recent.weeklyStarsCapped,
+        starGrowthSource: "stargazers" as const,
+        hotScore: hotScore(project, recent.dailyStars, recent.weeklyStars, true)
       };
     })
     .sort((a, b) => b.hotScore - a.hotScore || b.weeklyStars - a.weeklyStars || b.dailyStars - a.dailyStars || b.stars - a.stars);

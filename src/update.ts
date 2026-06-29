@@ -2,7 +2,7 @@ import { CATEGORIES, SETTINGS, buildSearchJobs } from "./config.js";
 import { daysAgoUtc, todayUtc } from "./date.js";
 import { fromRoot, readSnapshots, writeJson } from "./fs.js";
 import { GitHubClient } from "./github.js";
-import { addCandidate, applyDeltas, toProjects, toSnapshot } from "./rank.js";
+import { addCandidate, applyDeltas, applyRecentStarCounts, toProjects, toSnapshot } from "./rank.js";
 import type { GitHubSearchItem, ProjectsFile } from "./types.js";
 
 const args = new Set(process.argv.slice(2));
@@ -11,6 +11,8 @@ const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 const generatedAt = new Date().toISOString();
 const today = todayUtc();
 const activeSince = daysAgoUtc(SETTINGS.activeDays);
+const sinceDaily = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
+const sinceWeekly = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString();
 const delayMs = Number(process.env.SEARCH_DELAY_MS ?? (token ? 300 : 6500));
 
 async function main(): Promise<void> {
@@ -33,7 +35,19 @@ async function main(): Promise<void> {
   }
 
   const snapshots = await readSnapshots();
-  const projects = applyDeltas(toProjects(candidates.values(), generatedAt), snapshots, today).slice(0, SETTINGS.maxProjects);
+  let projects = applyDeltas(toProjects(candidates.values(), generatedAt), snapshots, today).slice(0, SETTINGS.maxProjects);
+  try {
+    console.log(`Fetching recent stargazers for ${projects.length} repositories.`);
+    const recentStars = await client.recentStarCounts(
+      projects.map((project) => project.fullName),
+      sinceDaily,
+      sinceWeekly
+    );
+    projects = applyRecentStarCounts(projects, recentStars).slice(0, SETTINGS.maxProjects);
+  } catch (error) {
+    console.warn("Recent stargazer lookup failed; falling back to snapshot deltas.");
+    console.warn(error);
+  }
   const data = buildProjectsFile(projects);
   const snapshot = toSnapshot(projects, today, generatedAt);
 

@@ -10,6 +10,9 @@ export const REPOSITORY = {
 export const SETTINGS = {
   perPage: 30,
   maxProjects: 160,
+  recentStarBatchSize: 4,
+  recentStarPages: 2,
+  recentStarPerPage: 100,
   activeDays: 365,
   newcomerDays: 180
 } as const;

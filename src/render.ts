@@ -20,6 +20,7 @@ Daily updated collection of trending AI projects on GitHub.
 - Projects tracked: ${formatNumber(data.summary.totalProjects)}
 - Total stars: ${formatNumber(data.summary.totalStars)}
 - Ranking signal: 24h/7d star growth, repository freshness, and a first-run stars fallback
+- A trailing \`+\` on growth numbers means GitHub returned at least that many recent stars.
 
 ## Trending Now
 
@@ -65,6 +66,7 @@ export function renderChineseReadme(data: ProjectsFile): string {
 - 收录项目：${formatNumber(data.summary.totalProjects)}
 - 累计 Stars：${formatNumber(data.summary.totalStars)}
 - 排名信号：24h/7d 增星、项目新鲜度，以及首次运行时的 stars 兜底排序
+- 增星数字后面的 \`+\` 表示 GitHub 至少返回了这么多近期 stars。
 
 ## 当前热门
 
@@ -94,6 +96,9 @@ ${data.categories
 
 export function renderPage(data: ProjectsFile): string {
   const safeJson = JSON.stringify(data).replaceAll("<", "\\u003c");
+  const topWeeklyGrowthCapped = data.projects.some(
+    (project) => project.weeklyStars === data.summary.topWeeklyGrowth && project.weeklyStarsCapped
+  );
 
   return `<!doctype html>
 <html lang="en">
@@ -536,7 +541,7 @@ export function renderPage(data: ProjectsFile): string {
       </article>
       <article class="stat">
         <small data-i18n="growth">Top 7d growth</small>
-        <strong>+${formatNumber(data.summary.topWeeklyGrowth)}</strong>
+        <strong>+${formatNumber(data.summary.topWeeklyGrowth)}${topWeeklyGrowthCapped ? "+" : ""}</strong>
       </article>
     </section>
 
@@ -581,6 +586,7 @@ export function renderPage(data: ProjectsFile): string {
         starLabel: "Stars",
         dailyLabel: "+24h",
         weeklyLabel: "+7d",
+        capped: "at least",
         pushed: "Pushed"
       },
       zh: {
@@ -598,6 +604,7 @@ export function renderPage(data: ProjectsFile): string {
         starLabel: "Stars",
         dailyLabel: "+24h",
         weeklyLabel: "+7d",
+        capped: "至少",
         pushed: "更新"
       }
     };
@@ -711,8 +718,8 @@ export function renderPage(data: ProjectsFile): string {
               '</div>' +
               '<div class="metrics">' +
                 '<div class="metric"><strong>' + format(project.stars) + '</strong><span>' + t("starLabel") + '</span></div>' +
-                '<div class="metric gain"><strong>+' + format(project.dailyStars) + '</strong><span>' + t("dailyLabel") + '</span></div>' +
-                '<div class="metric gain"><strong>+' + format(project.weeklyStars) + '</strong><span>' + t("weeklyLabel") + '</span></div>' +
+                '<div class="metric gain"><strong>' + growth(project.dailyStars, project.dailyStarsCapped) + '</strong><span>' + t("dailyLabel") + '</span></div>' +
+                '<div class="metric gain"><strong>' + growth(project.weeklyStars, project.weeklyStarsCapped) + '</strong><span>' + t("weeklyLabel") + '</span></div>' +
               '</div>' +
             '</article>'
           );
@@ -727,6 +734,10 @@ export function renderPage(data: ProjectsFile): string {
         .replaceAll(">", "&gt;")
         .replaceAll('"', "&quot;")
         .replaceAll("'", "&#039;");
+    }
+
+    function growth(value, capped) {
+      return '+' + format(value) + (capped ? '+' : '');
     }
 
     search.addEventListener("input", (event) => {
@@ -767,8 +778,8 @@ function projectTable(projects: Project[], language: "en" | "zh"): string {
       `[${escapeMarkdown(project.fullName)}](${project.url})`,
       escapeMarkdown(categoryName ?? project.category),
       formatNumber(project.stars),
-      `+${formatNumber(project.dailyStars)}`,
-      `+${formatNumber(project.weeklyStars)}`,
+      formatGrowth(project.dailyStars, project.dailyStarsCapped),
+      formatGrowth(project.weeklyStars, project.weeklyStarsCapped),
       escapeMarkdown(project.language),
       escapeMarkdown(project.description)
     ];
@@ -796,4 +807,8 @@ function escapeMarkdown(value: string): string {
 
 function formatNumber(value: number): string {
   return new Intl.NumberFormat("en").format(value);
+}
+
+function formatGrowth(value: number, capped: boolean): string {
+  return `+${formatNumber(value)}${capped ? "+" : ""}`;
 }
