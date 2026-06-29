@@ -1,7 +1,13 @@
 import { CATEGORIES } from "./config.js";
+import { daysBetweenUtc } from "./date.js";
 import type { Project, ProjectsFile } from "./types.js";
 
 export type PickReasonLanguage = "en" | "zh";
+export type ProjectSignal = {
+  slug: string;
+  en: string;
+  zh: string;
+};
 
 export function todaysPicks(projects: Project[], count = 5): Project[] {
   const selected: Project[] = [];
@@ -79,10 +85,85 @@ export function pickReason(project: Project, language: PickReasonLanguage): stri
   return `High overall traction and recent activity make it a useful baseline to watch in ${categoryName ?? project.category}.`;
 }
 
+export function projectSignals(project: Project): ProjectSignal[] {
+  const text = searchableProjectText(project);
+  const signals: ProjectSignal[] = [];
+
+  if (project.dailyStars > 25 || project.weeklyStars > 100) {
+    signals.push({ slug: "fast-growing", en: "Fast growing", zh: "增长快" });
+  }
+
+  if (daysBetweenUtc(project.pushedAt) <= 30) {
+    signals.push({ slug: "active", en: "Recently active", zh: "近期活跃" });
+  }
+
+  if (project.license !== "Unknown" && project.license !== "NOASSERTION") {
+    signals.push({ slug: "open-license", en: "Open license", zh: "开源许可" });
+  }
+
+  if (project.homepage || containsAny(text, ["docs", "documentation", "guide", "tutorial", "quickstart"])) {
+    signals.push({ slug: "docs", en: "Docs available", zh: "有文档" });
+  }
+
+  if (containsAny(text, ["beginner", "starter", "example", "examples", "course", "tutorial", "awesome", "template"])) {
+    signals.push({ slug: "starter", en: "Good starting point", zh: "适合入门" });
+  }
+
+  if (
+    containsAny(text, ["production", "deploy", "deployment", "serving", "scale", "enterprise", "workflow"]) ||
+    (project.stars >= 5000 && daysBetweenUtc(project.pushedAt) <= 60)
+  ) {
+    signals.push({ slug: "production", en: "Production oriented", zh: "偏生产可用" });
+  }
+
+  if (containsAny(text, ["paper", "arxiv", "research", "benchmark", "evaluation", "eval", "leaderboard"])) {
+    signals.push({ slug: "research", en: "Research signal", zh: "研究/评测" });
+  }
+
+  if (containsAny(text, ["self-hosted", "self hosted", "local", "offline", "private", "privacy"])) {
+    signals.push({ slug: "self-hosted", en: "Self-host friendly", zh: "适合自托管" });
+  }
+
+  if (containsAny(text, ["demo", "playground", "webui", "web-ui", "ui", "app"])) {
+    signals.push({ slug: "demo", en: "Demo or app", zh: "有演示/应用" });
+  }
+
+  return dedupeSignals(signals).slice(0, 4);
+}
+
+export function projectSignalText(project: Project, language: PickReasonLanguage): string {
+  const signals = projectSignals(project);
+  if (signals.length === 0) {
+    return language === "zh" ? "值得观察" : "Worth watching";
+  }
+  return signals.map((signal) => (language === "zh" ? signal.zh : signal.en)).join(", ");
+}
+
 export function growthText(value: number, capped: boolean): string {
   return `+${new Intl.NumberFormat("en").format(value)}${capped ? "+" : ""}`;
 }
 
 function insightScore(project: Project): number {
   return project.dailyStars * 6 + project.weeklyStars * 2.5 + project.hotScore + Math.log10(project.stars + 1) * 5;
+}
+
+function searchableProjectText(project: Project): string {
+  return [project.fullName, project.description, project.language, project.license, project.homepage, project.topics.join(" ")]
+    .join(" ")
+    .toLowerCase();
+}
+
+function containsAny(value: string, needles: string[]): boolean {
+  return needles.some((needle) => value.includes(needle));
+}
+
+function dedupeSignals(signals: ProjectSignal[]): ProjectSignal[] {
+  const seen = new Set<string>();
+  return signals.filter((signal) => {
+    if (seen.has(signal.slug)) {
+      return false;
+    }
+    seen.add(signal.slug);
+    return true;
+  });
 }

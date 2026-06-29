@@ -1,6 +1,13 @@
 import { CATEGORIES, REPOSITORY, SETTINGS } from "./config.js";
 import { formatDate, formatDateTime } from "./date.js";
-import { categoryGrowthSummary, pickReason, todaysPicks, weeklyDigestProjects } from "./insights.js";
+import {
+  categoryGrowthSummary,
+  pickReason,
+  projectSignals,
+  projectSignalText,
+  todaysPicks,
+  weeklyDigestProjects
+} from "./insights.js";
 import type { Project, ProjectsFile } from "./types.js";
 
 export function renderEnglishReadme(data: ProjectsFile): string {
@@ -12,13 +19,20 @@ export function renderEnglishReadme(data: ProjectsFile): string {
 
 Daily AI open-source radar: discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.
 
-[中文](README.zh-CN.md) | [Live dashboard](${REPOSITORY.pagesUrl}) | [Weekly digest](reports/weekly-digest.md) | [Methodology](METHODOLOGY.md) | [Suggest a project](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml) | [Data](data/projects.json)
+[中文](README.zh-CN.md) | [Start Here](START_HERE.md) | [Live dashboard](${REPOSITORY.pagesUrl}) | [Weekly digest](reports/weekly-digest.md) | [Methodology](METHODOLOGY.md) | [Suggest a project](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml) | [Data](data/projects.json)
 
 > Descriptions are kept in their original GitHub language. This repository uses bilingual navigation and labels without paid translation services.
 
 ## Why This Exists
 
 AI open source moves too fast for a static bookmark list. This repo refreshes every day, keeps lightweight historical snapshots, and highlights projects that are gaining attention now so builders, researchers, and founders can find useful work earlier.
+
+## Start Here
+
+- Want a quick scan? Open the [live dashboard](${REPOSITORY.pagesUrl}) and sort by the default hot ranking.
+- Looking for what changed this week? Read the [weekly digest](reports/weekly-digest.md).
+- Exploring a specific area? Use the category pages on GitHub Pages or jump to the category list below.
+- Evaluating whether a repo is useful? Check the signals column for activity, docs, licensing, production readiness, and self-hosting hints.
 
 ## Snapshot
 
@@ -43,7 +57,7 @@ ${projectTable(topNew, "en")}
 ## Categories
 
 ${data.categories
-  .map((category) => `- **${category.nameEn}** (${category.count}) - ${category.descriptionEn}`)
+  .map((category) => `- [**${category.nameEn}**](${REPOSITORY.pagesUrl}${category.slug}.html) (${category.count}) - ${category.descriptionEn}`)
   .join("\n")}
 
 ## Automation
@@ -71,13 +85,20 @@ export function renderChineseReadme(data: ProjectsFile): string {
 
 每日 AI 开源雷达：更早发现正在快速增长的 LLM、Agent、RAG、生成式 AI 与 AI 基础设施项目。
 
-[English](README.md) | [在线榜单](${REPOSITORY.pagesUrl}) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md) | [推荐项目](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml) | [数据文件](data/projects.json)
+[English](README.md) | [从这里开始](START_HERE.zh-CN.md) | [在线榜单](${REPOSITORY.pagesUrl}) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md) | [推荐项目](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml) | [数据文件](data/projects.json)
 
 > 项目描述保留 GitHub 原文。本仓库使用中英双语导航、标签和说明，不依赖付费翻译服务。
 
 ## 为什么做这个
 
 AI 开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助开发者、研究者和创业者更早发现有价值的开源工作。
+
+## 从这里开始
+
+- 想快速浏览：打开[在线榜单](${REPOSITORY.pagesUrl})，默认就是综合热度排序。
+- 想看本周变化：阅读[每周摘要](reports/weekly-digest.zh-CN.md)。
+- 想按方向探索：使用 GitHub Pages 里的分类专题页，或直接看下面的分类列表。
+- 想判断项目是否值得投入时间：看“标签”列里的活跃度、文档、许可、生产可用、自托管等信号。
 
 ## 今日快照
 
@@ -102,7 +123,7 @@ ${projectTable(topNew, "zh")}
 ## 分类
 
 ${data.categories
-  .map((category) => `- **${category.nameZh}** (${category.count}) - ${category.descriptionZh}`)
+  .map((category) => `- [**${category.nameZh}**](${REPOSITORY.pagesUrl}${category.slug}.html) (${category.count}) - ${category.descriptionZh}`)
   .join("\n")}
 
 ## 自动化
@@ -121,9 +142,108 @@ ${data.categories
 `;
 }
 
+export function renderEnglishStartHere(data: ProjectsFile): string {
+  const picks = todaysPicks(data.projects, 7);
+  const rising = weeklyDigestProjects(data.projects, 10);
+
+  return `# Start Here
+
+[Back to README](${REPOSITORY.url}#readme) | [Live dashboard](${REPOSITORY.pagesUrl}) | [Weekly digest](reports/weekly-digest.md) | [Methodology](METHODOLOGY.md)
+
+Awesome AI GitHub is designed for people who want to find useful AI open-source projects quickly, without manually refreshing dozens of trending pages.
+
+## Choose Your Path
+
+- Building with LLMs or chat interfaces: start with [LLM & Chatbots](${REPOSITORY.pagesUrl}llm.html).
+- Building agents or automated workflows: start with [Agents](${REPOSITORY.pagesUrl}agents.html).
+- Building knowledge-base apps: start with [RAG & Knowledge](${REPOSITORY.pagesUrl}rag.html).
+- Building image, video, audio, or creative tools: start with [Generative AI](${REPOSITORY.pagesUrl}generative-ai.html).
+- Deploying or operating models: start with [AI Infrastructure](${REPOSITORY.pagesUrl}ai-infra.html).
+- Comparing model quality: start with [Evaluation & Benchmarks](${REPOSITORY.pagesUrl}evaluation.html).
+- Exploring embodied systems: start with [Robotics & Embodied AI](${REPOSITORY.pagesUrl}robotics.html).
+
+## How To Read The Signals
+
+- Fast growing: recent 24h or 7d star movement is unusually strong.
+- Recently active: the repository was pushed recently.
+- Docs available: homepage, docs topics, or documentation language exists.
+- Good starting point: examples, tutorials, templates, or beginner-friendly wording appears.
+- Production oriented: deploy, serving, workflow, scale, or strong active traction signals are present.
+- Research signal: papers, benchmarks, evaluation, or leaderboard language appears.
+- Self-host friendly: local, private, offline, or self-hosting language appears.
+
+## Ten-Minute Workflow
+
+1. Open the [live dashboard](${REPOSITORY.pagesUrl}) and scan Today's Picks.
+2. Filter by the category closest to your current work.
+3. Prioritize projects with useful signals for your context, not only the highest star count.
+4. Open two or three repositories and check examples, docs, issues, and release activity.
+5. Star, fork, or submit a suggestion when a project should be tracked here.
+
+## Today's Best Entry Points
+
+${picksList(picks, "en")}
+
+## Fast Movers To Scan
+
+${projectTable(rising, "en")}
+`;
+}
+
+export function renderChineseStartHere(data: ProjectsFile): string {
+  const picks = todaysPicks(data.projects, 7);
+  const rising = weeklyDigestProjects(data.projects, 10);
+
+  return `# 从这里开始
+
+[返回 README](${REPOSITORY.url}/blob/main/README.zh-CN.md) | [在线榜单](${REPOSITORY.pagesUrl}) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md)
+
+Awesome AI GitHub 面向想快速发现 AI 开源项目的人：不用每天手动刷多个榜单，也能看到正在增长、值得进一步了解的项目。
+
+## 按你的目标进入
+
+- 做 LLM 或聊天应用：先看[大语言模型与聊天](${REPOSITORY.pagesUrl}llm.html)。
+- 做智能体或自动化工作流：先看[智能体](${REPOSITORY.pagesUrl}agents.html)。
+- 做知识库应用：先看[RAG 与知识库](${REPOSITORY.pagesUrl}rag.html)。
+- 做图像、视频、音频或创意工具：先看[生成式 AI](${REPOSITORY.pagesUrl}generative-ai.html)。
+- 做模型部署、推理或工程化：先看[AI 基础设施](${REPOSITORY.pagesUrl}ai-infra.html)。
+- 关注模型质量对比：先看[评测与基准](${REPOSITORY.pagesUrl}evaluation.html)。
+- 探索具身智能：先看[机器人与具身智能](${REPOSITORY.pagesUrl}robotics.html)。
+
+## 怎么看标签
+
+- 增长快：24 小时或 7 天增星明显。
+- 近期活跃：仓库最近有 push。
+- 有文档：存在 homepage、docs topic 或文档相关描述。
+- 适合入门：出现 examples、tutorial、template、beginner 等信号。
+- 偏生产可用：出现 deploy、serving、workflow、scale 等工程化信号，或项目活跃且基础热度较高。
+- 研究/评测：出现 paper、benchmark、evaluation、leaderboard 等信号。
+- 适合自托管：出现 local、private、offline、self-hosted 等信号。
+
+## 十分钟使用流程
+
+1. 打开[在线榜单](${REPOSITORY.pagesUrl})，先看今日精选。
+2. 按你当前工作方向选择分类。
+3. 按你的场景看标签，不要只看总 stars。
+4. 打开两三个仓库，检查 examples、docs、issues 和 release 活跃度。
+5. 如果发现值得追踪的新项目，可以提交推荐 issue。
+
+## 今天最适合入手的项目
+
+${picksList(picks, "zh")}
+
+## 值得快速扫一眼的增长项目
+
+${projectTable(rising, "zh")}
+`;
+}
+
 export function renderPage(data: ProjectsFile): string {
   const safeJson = JSON.stringify(data).replaceAll("<", "\\u003c");
   const safePickIds = JSON.stringify(todaysPicks(data.projects).map((project) => project.id));
+  const safeProjectSignals = JSON.stringify(
+    Object.fromEntries(data.projects.map((project) => [project.id, projectSignals(project)]))
+  ).replaceAll("<", "\\u003c");
   const topWeeklyGrowthCapped = data.projects.some(
     (project) => project.weeklyStars === data.summary.topWeeklyGrowth && project.weeklyStarsCapped
   );
@@ -489,6 +609,26 @@ export function renderPage(data: ProjectsFile): string {
       border: 1px solid #c7d2fe;
     }
 
+    .signal-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin: 7px 0 0;
+    }
+
+    .signal {
+      display: inline-flex;
+      align-items: center;
+      min-height: 21px;
+      padding: 2px 7px;
+      border-radius: 8px;
+      background: #f0fdfa;
+      border: 1px solid #99f6e4;
+      color: var(--teal);
+      font-size: 11px;
+      font-weight: 700;
+    }
+
     .description {
       margin: 6px 0 8px;
       color: var(--muted);
@@ -640,6 +780,7 @@ export function renderPage(data: ProjectsFile): string {
 <body>
   <script>window.__PROJECTS__ = ${safeJson};</script>
   <script>window.__PICK_IDS__ = ${safePickIds};</script>
+  <script>window.__PROJECT_SIGNALS__ = ${safeProjectSignals};</script>
   <header class="topbar">
     <div class="shell topbar-inner">
       <div class="brand">
@@ -649,6 +790,7 @@ export function renderPage(data: ProjectsFile): string {
       <div class="top-actions">
         <button class="button active" id="languageEn" type="button">EN</button>
         <button class="button" id="languageZh" type="button">中文</button>
+        <a class="button" href="start-here.html" data-i18n="startHere">Start Here</a>
         <a class="button" href="weekly.html" data-i18n="weeklyDigest">Weekly</a>
         <a class="button" href="methodology.html" data-i18n="methodology">Methodology</a>
         <a class="button" href="${REPOSITORY.url}">GitHub</a>
@@ -663,6 +805,7 @@ export function renderPage(data: ProjectsFile): string {
         <p data-i18n="heroText">Discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.</p>
       </div>
       <div class="link-row">
+        <a class="button" href="start-here.html" data-i18n="startHere">Start Here</a>
         <a class="button" href="https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml" data-i18n="suggestProject">Suggest project</a>
         <a class="button" href="${REPOSITORY.url}/blob/main/data/projects.json" data-i18n="openData">Open data</a>
       </div>
@@ -722,11 +865,13 @@ export function renderPage(data: ProjectsFile): string {
   <script>
     const data = window.__PROJECTS__;
     const pickIds = window.__PICK_IDS__;
+    const projectSignals = window.__PROJECT_SIGNALS__;
     const labels = {
       en: {
         tagline: "Daily AI open-source radar",
         heroTitle: "Daily AI open-source radar",
         heroText: "Discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.",
+        startHere: "Start Here",
         weeklyDigest: "Weekly",
         methodology: "Methodology",
         suggestProject: "Suggest project",
@@ -754,6 +899,7 @@ export function renderPage(data: ProjectsFile): string {
         tagline: "每日 AI 开源雷达",
         heroTitle: "每日 AI 开源雷达",
         heroText: "更早发现正在快速增长的 LLM、Agent、RAG、生成式 AI 与 AI 基础设施项目。",
+        startHere: "从这里开始",
         weeklyDigest: "周报",
         methodology: "方法",
         suggestProject: "推荐项目",
@@ -841,10 +987,10 @@ export function renderPage(data: ProjectsFile): string {
     function renderCategoryList() {
       categoryList.innerHTML = data.categories
         .map((category) => (
-          '<div class="category-row">' +
+          '<a class="category-row" href="' + escapeHtml(category.slug) + '.html">' +
             '<div><strong>' + escapeHtml(categoryName(category)) + '</strong><span>' + escapeHtml(categoryDescription(category)) + '</span></div>' +
             '<div class="count">' + format(category.count) + '</div>' +
-          '</div>'
+          '</a>'
         ))
         .join("");
     }
@@ -876,11 +1022,13 @@ export function renderPage(data: ProjectsFile): string {
         .map((project) => {
           const category = data.categories.find((item) => item.slug === project.category);
           const categoryLabel = category ? categoryName(category) : project.category;
+          const signals = signalBadges(project);
           return (
             '<article class="project">' +
               '<img class="avatar" src="' + escapeHtml(project.avatarUrl) + '" alt="" loading="lazy">' +
               '<div class="project-main">' +
                 '<div class="project-title"><a href="' + escapeHtml(project.url) + '">' + escapeHtml(project.fullName) + '</a><span class="badge">' + escapeHtml(categoryLabel) + '</span></div>' +
+                signals +
                 '<p class="description">' + escapeHtml(project.description) + '</p>' +
                 '<div class="meta">' +
                   '<span>' + escapeHtml(project.language) + '</span>' +
@@ -908,10 +1056,12 @@ export function renderPage(data: ProjectsFile): string {
         .map((project) => {
           const category = data.categories.find((item) => item.slug === project.category);
           const categoryLabel = category ? categoryName(category) : project.category;
+          const signals = signalBadges(project);
           return (
             '<article class="pick">' +
               '<span class="badge">' + escapeHtml(categoryLabel) + '</span>' +
               '<a href="' + escapeHtml(project.url) + '">' + escapeHtml(project.fullName) + '</a>' +
+              signals +
               '<p>' + escapeHtml(project.description) + '</p>' +
               '<p>' + t("pickReason") + '</p>' +
               '<div class="pick-metrics"><span>' + growth(project.dailyStars, project.dailyStarsCapped) + ' ' + t("dailyLabel") + '</span><span>' + growth(project.weeklyStars, project.weeklyStarsCapped) + ' ' + t("weeklyLabel") + '</span></div>' +
@@ -919,6 +1069,14 @@ export function renderPage(data: ProjectsFile): string {
           );
         })
         .join("");
+    }
+
+    function signalBadges(project) {
+      const signals = projectSignals[project.id] || [];
+      if (signals.length === 0) {
+        return "";
+      }
+      return '<div class="signal-list">' + signals.map((signal) => '<span class="signal">' + escapeHtml(language === "zh" ? signal.zh : signal.en) + '</span>').join("") + '</div>';
     }
 
     function escapeHtml(value) {
@@ -1116,11 +1274,105 @@ export function renderWeeklyPage(data: ProjectsFile): string {
   });
 }
 
+export function renderStartHerePage(data: ProjectsFile): string {
+  return renderArticlePage({
+    title: "Start Here",
+    titleZh: "从这里开始",
+    bodyEn: renderEnglishStartHere(data),
+    bodyZh: renderChineseStartHere(data)
+  });
+}
+
+export function renderCategoryPage(data: ProjectsFile, categorySlug: string): string {
+  const category = CATEGORIES.find((item) => item.slug === categorySlug);
+  if (!category) {
+    throw new Error(`Unknown category: ${categorySlug}`);
+  }
+
+  return renderArticlePage({
+    title: category.nameEn,
+    titleZh: category.nameZh,
+    bodyEn: renderCategoryMarkdown(data, categorySlug, "en"),
+    bodyZh: renderCategoryMarkdown(data, categorySlug, "zh")
+  });
+}
+
+export function renderCategoryMarkdown(data: ProjectsFile, categorySlug: string, language: "en" | "zh"): string {
+  const category = CATEGORIES.find((item) => item.slug === categorySlug);
+  if (!category) {
+    throw new Error(`Unknown category: ${categorySlug}`);
+  }
+
+  const projects = data.projects
+    .filter((project) => project.category === category.slug)
+    .sort((a, b) => b.hotScore - a.hotScore || b.weeklyStars - a.weeklyStars || b.stars - a.stars);
+  const topProjects = projects.slice(0, 25);
+  const fastMovers = [...projects]
+    .sort((a, b) => b.weeklyStars - a.weeklyStars || b.dailyStars - a.dailyStars || b.hotScore - a.hotScore || b.stars - a.stars)
+    .slice(0, 10);
+  const activeCount = projects.filter((project) => projectSignals(project).some((signal) => signal.slug === "active")).length;
+  const docsCount = projects.filter((project) => projectSignals(project).some((signal) => signal.slug === "docs")).length;
+
+  if (language === "zh") {
+    return `# ${category.nameZh}
+
+[返回在线榜单](${REPOSITORY.pagesUrl}) | [从这里开始](${REPOSITORY.pagesUrl}start-here.html) | [推荐项目](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml)
+
+${category.descriptionZh}
+
+## 分类快照
+
+- 收录项目：${formatNumber(projects.length)}
+- 近期活跃项目：${formatNumber(activeCount)}
+- 有文档或主页信号：${formatNumber(docsCount)}
+- 更新时间：${formatDateTime(data.generatedAt)} UTC
+
+## 适合谁看
+
+${categoryAudience(category.slug, "zh")}
+
+## 当前热门
+
+${projectTable(topProjects, "zh")}
+
+## 本分类增长项目
+
+${projectTable(fastMovers, "zh")}
+`;
+  }
+
+  return `# ${category.nameEn}
+
+[Back to dashboard](${REPOSITORY.pagesUrl}) | [Start Here](${REPOSITORY.pagesUrl}start-here.html) | [Suggest a project](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml)
+
+${category.descriptionEn}
+
+## Category Snapshot
+
+- Projects tracked: ${formatNumber(projects.length)}
+- Recently active projects: ${formatNumber(activeCount)}
+- Docs or homepage signal: ${formatNumber(docsCount)}
+- Updated: ${formatDateTime(data.generatedAt)} UTC
+
+## Who This Helps
+
+${categoryAudience(category.slug, "en")}
+
+## Trending Now
+
+${projectTable(topProjects, "en")}
+
+## Fast Movers In This Category
+
+${projectTable(fastMovers, "en")}
+`;
+}
+
 function projectTable(projects: Project[], language: "en" | "zh"): string {
   const headings =
     language === "zh"
-      ? ["#", "项目", "分类", "Stars", "+24h", "+7d", "语言", "描述"]
-      : ["#", "Repository", "Category", "Stars", "+24h", "+7d", "Language", "Description"];
+      ? ["#", "项目", "分类", "标签", "Stars", "+24h", "+7d", "语言", "描述"]
+      : ["#", "Repository", "Category", "Signals", "Stars", "+24h", "+7d", "Language", "Description"];
 
   const rows = projects.map((project, index) => {
     const category = CATEGORIES.find((item) => item.slug === project.category);
@@ -1129,6 +1381,7 @@ function projectTable(projects: Project[], language: "en" | "zh"): string {
       String(index + 1),
       `[${escapeMarkdown(project.fullName)}](${project.url})`,
       escapeMarkdown(categoryName ?? project.category),
+      escapeMarkdown(projectSignalText(project, language)),
       formatNumber(project.stars),
       formatGrowth(project.dailyStars, project.dailyStarsCapped),
       formatGrowth(project.weeklyStars, project.weeklyStarsCapped),
@@ -1150,9 +1403,35 @@ function picksList(projects: Project[], language: "en" | "zh"): string {
       const category = CATEGORIES.find((item) => item.slug === project.category);
       const categoryName = language === "zh" ? category?.nameZh : category?.nameEn;
       const reason = pickReason(project, language);
-      return `${index + 1}. [**${escapeMarkdown(project.fullName)}**](${project.url}) - ${escapeMarkdown(categoryName ?? project.category)}; ${escapeMarkdown(reason)}`;
+      const signals = projectSignalText(project, language);
+      return `${index + 1}. [**${escapeMarkdown(project.fullName)}**](${project.url}) - ${escapeMarkdown(categoryName ?? project.category)}; ${escapeMarkdown(signals)}; ${escapeMarkdown(reason)}`;
     })
     .join("\n");
+}
+
+function categoryAudience(slug: string, language: "en" | "zh"): string {
+  const text = {
+    en: {
+      llm: "Useful for developers building chat products, prompt tooling, model wrappers, local LLM workflows, and orchestration layers.",
+      agents: "Useful for teams exploring autonomous workflows, tool calling, coding agents, browser agents, and multi-agent collaboration.",
+      rag: "Useful for builders creating knowledge-base products, document search, vector retrieval, indexing pipelines, and enterprise assistants.",
+      "generative-ai": "Useful for creators and engineers working on image, video, audio, 3D, diffusion, and multimodal generation workflows.",
+      "ai-infra": "Useful for people deploying, serving, observing, optimizing, and operating AI systems in real products.",
+      evaluation: "Useful for researchers and engineering teams comparing model behavior, quality, benchmarks, observability, and regression testing.",
+      robotics: "Useful for builders following embodied AI, robotics simulation, planning, autonomy, and real-world agent systems."
+    },
+    zh: {
+      llm: "适合正在做聊天产品、提示词工具、模型封装、本地 LLM 工作流和模型编排的开发者。",
+      agents: "适合探索自主工作流、工具调用、编程智能体、浏览器智能体和多智能体协作的团队。",
+      rag: "适合构建知识库产品、文档搜索、向量检索、索引管线和企业助手的开发者。",
+      "generative-ai": "适合关注图像、视频、音频、3D、扩散模型和多模态生成工作流的创作者与工程师。",
+      "ai-infra": "适合负责部署、服务化、观测、优化和运行 AI 系统的人。",
+      evaluation: "适合比较模型行为、质量、基准测试、可观测性和回归测试的研究者与工程团队。",
+      robotics: "适合关注具身智能、机器人仿真、规划、自主系统和真实世界智能体的开发者。"
+    }
+  } as const;
+
+  return text[language][slug as keyof (typeof text)["en"]] ?? (language === "zh" ? "适合想快速了解该方向开源生态的人。" : "Useful for people who want a quick view of this open-source area.");
 }
 
 function newestProjects(projects: Project[]): Project[] {

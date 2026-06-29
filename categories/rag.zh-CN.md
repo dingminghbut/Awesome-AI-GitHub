@@ -1,0 +1,61 @@
+# RAG 与知识库
+
+[返回在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [从这里开始](https://dingminghbut.github.io/Awesome-AI-GitHub/start-here.html) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)
+
+检索增强生成、向量检索、索引与知识库系统。
+
+## 分类快照
+
+- 收录项目：27
+- 近期活跃项目：21
+- 有文档或主页信号：24
+- 更新时间：Jun 29, 2026, 7:11 AM UTC
+
+## 适合谁看
+
+适合构建知识库产品、文档搜索、向量检索、索引管线和企业助手的开发者。
+
+## 当前热门
+
+| # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 73,899 | +200+ | +200+ | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
+| 2 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 53,317 | +200+ | +200+ | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,957 | +194 | +200+ | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,178 | +101 | +200+ | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| 5 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 83,821 | +73 | +200+ | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| 6 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 62,261 | +66 | +200+ | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 7 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | RAG 与知识库 | 增长快, 开源许可, 有文档, 研究/评测 | 29,580 | +45 | +200+ | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 偏生产可用 | 17,473 | +43 | +200+ | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 9 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 37,123 | +28 | +200+ | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| 10 | [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | RAG 与知识库 | 增长快, 有文档, 偏生产可用, 有演示/应用 | 31,638 | +29 | +191 | Jupyter Notebook | 📚 从零开始构建大模型 |
+| 11 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 33,491 | +17 | +200+ | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 12 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 34,060 | +28 | +166 | Python | A modular graph-based Retrieval-Augmented Generation (RAG) system |
+| 13 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 35,385 | +31 | +158 | Python | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. |
+| 14 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 21,651 | +21 | +169 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| 15 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 适合入门 | 28,246 | +22 | +155 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. |
+| 16 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 21,546 | +14 | +176 | Python | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 |
+| 17 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 偏生产可用 | 30,597 | +17 | +150 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| 18 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 44,999 | +17 | +136 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 19 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 12,609 | +8 | +133 | Python | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| 20 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | RAG 与知识库 | 增长快, 开源许可, 适合自托管 | 35,488 | +12 | +105 | TypeScript | Vane is an AI-powered answering engine. |
+| 21 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | RAG 与知识库 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 46,910 | +9 | +97 | Java | AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 |
+| 22 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | RAG 与知识库 | 近期活跃, 开源许可, 偏生产可用, 研究/评测 | 8,613 | +4 | +62 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
+| 23 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | RAG 与知识库 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 18,650 | +5 | +49 | TypeScript | Open source agentic operating system |
+| 24 | [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | RAG 与知识库 | 开源许可, 研究/评测, 适合自托管, 有演示/应用 | 38,228 | +6 | +41 | Python | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 \| Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain |
+| 25 | [xberg-io/xberg](https://github.com/xberg-io/xberg) | RAG 与知识库 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 8,566 | +2 | +52 | Rust | A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server. |
+
+## 本分类增长项目
+
+| # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 73,899 | +200+ | +200+ | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
+| 2 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 53,317 | +200+ | +200+ | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,957 | +194 | +200+ | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,178 | +101 | +200+ | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| 5 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 83,821 | +73 | +200+ | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| 6 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 62,261 | +66 | +200+ | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 7 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | RAG 与知识库 | 增长快, 开源许可, 有文档, 研究/评测 | 29,580 | +45 | +200+ | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 偏生产可用 | 17,473 | +43 | +200+ | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 9 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 37,123 | +28 | +200+ | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| 10 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 33,491 | +17 | +200+ | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |

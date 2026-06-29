@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md README.zh-CN.md METHODOLOGY.md METHODOLOGY.zh-CN.md CONTRIBUTING.md reports docs data package-lock.json package.json tsconfig.json src .github .gitignore .gitattributes LICENSE
+          git add README.md README.zh-CN.md START_HERE.md START_HERE.zh-CN.md METHODOLOGY.md METHODOLOGY.zh-CN.md CONTRIBUTING.md categories reports docs data package-lock.json package.json tsconfig.json src .github .gitignore .gitattributes LICENSE
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
