@@ -9,7 +9,7 @@
 - 收录项目：4
 - 近期活跃项目：4
 - 有文档或主页信号：4
-- 更新时间：Jun 30, 2026, 6:35 AM UTC
+- 更新时间：Jul 1, 2026, 6:47 AM UTC
 
 ## 适合谁看
 
@@ -19,16 +19,16 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 评测与基准 | 增长快, 近期活跃, 有文档, 偏生产可用 | 30,103 | +109 | +200+ | TypeScript | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
-| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 20,060 | +74 | +200+ | Python | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 22,752 | +45 | +200+ | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. |
-| 4 | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 16,546 | +30 | +145 | Python | The LLM Evaluation Framework |
+| 1 | [comet-ml/opik](https://github.com/comet-ml/opik) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 20,171 | +117 | +200+ | Python | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 评测与基准 | 增长快, 近期活跃, 有文档, 偏生产可用 | 30,191 | +91 | +200+ | TypeScript | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 22,800 | +49 | +200+ | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. |
+| 4 | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 16,574 | +30 | +144 | Python | The LLM Evaluation Framework |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 评测与基准 | 增长快, 近期活跃, 有文档, 偏生产可用 | 30,103 | +109 | +200+ | TypeScript | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
-| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 20,060 | +74 | +200+ | Python | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 22,752 | +45 | +200+ | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. |
-| 4 | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 16,546 | +30 | +145 | Python | The LLM Evaluation Framework |
+| 1 | [comet-ml/opik](https://github.com/comet-ml/opik) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 20,171 | +117 | +200+ | Python | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 评测与基准 | 增长快, 近期活跃, 有文档, 偏生产可用 | 30,191 | +91 | +200+ | TypeScript | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 22,800 | +49 | +200+ | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. |
+| 4 | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 评测与基准 | 增长快, 近期活跃, 开源许可, 有文档 | 16,574 | +30 | +144 | Python | The LLM Evaluation Framework |
