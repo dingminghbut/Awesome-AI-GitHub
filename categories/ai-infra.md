@@ -9,7 +9,7 @@ Inference, serving, MLOps, deployment, optimization, and developer infrastructur
 - Projects tracked: 2
 - Recently active projects: 2
 - Docs or homepage signal: 2
-- Updated: Jul 1, 2026, 6:47 AM UTC
+- Updated: Jul 2, 2026, 6:12 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,12 @@ Useful for people deploying, serving, observing, optimizing, and operating AI sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,662 | +23 | +134 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,632 | +16 | +65 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,679 | +21 | +133 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,637 | +7 | +55 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,662 | +23 | +134 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,632 | +16 | +65 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,679 | +21 | +133 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,637 | +7 | +55 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |

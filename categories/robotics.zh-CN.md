@@ -9,7 +9,7 @@
 - 收录项目：6
 - 近期活跃项目：4
 - 有文档或主页信号：5
-- 更新时间：Jul 1, 2026, 6:47 AM UTC
+- 更新时间：Jul 2, 2026, 6:12 AM UTC
 
 ## 适合谁看
 
@@ -19,20 +19,20 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [commaai/openpilot](https://github.com/commaai/openpilot) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 62,906 | +81 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 2 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 7,354 | +75 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
-| 3 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 机器人与具身智能 | 增长快, 近期活跃, 适合入门, 偏生产可用 | 82,170 | +63 | +200+ | Unknown | List of Computer Science courses with video lectures. |
-| 4 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 机器人与具身智能 | 增长快, 近期活跃, 有文档, 适合入门 | 1,724 | +32 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 机器人与具身智能 | 增长快, 有文档, 适合入门, 有演示/应用 | 14,534 | +27 | +140 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
-| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 机器人与具身智能 | 开源许可, 有文档, 偏生产可用, 有演示/应用 | 44,169 | +8 | +41 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 7,400 | +50 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
+| 2 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 机器人与具身智能 | 增长快, 近期活跃, 有文档, 适合入门 | 1,753 | +30 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
+| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 62,926 | +27 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| 4 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 机器人与具身智能 | 增长快, 近期活跃, 适合入门, 偏生产可用 | 82,189 | +21 | +200+ | Unknown | List of Computer Science courses with video lectures. |
+| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 机器人与具身智能 | 增长快, 有文档, 适合入门, 有演示/应用 | 14,549 | +18 | +131 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
+| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 机器人与具身智能 | 开源许可, 有文档, 偏生产可用, 有演示/应用 | 44,175 | +11 | +43 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [commaai/openpilot](https://github.com/commaai/openpilot) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 62,906 | +81 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 2 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 7,354 | +75 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
-| 3 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 机器人与具身智能 | 增长快, 近期活跃, 适合入门, 偏生产可用 | 82,170 | +63 | +200+ | Unknown | List of Computer Science courses with video lectures. |
-| 4 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 机器人与具身智能 | 增长快, 近期活跃, 有文档, 适合入门 | 1,724 | +32 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 机器人与具身智能 | 增长快, 有文档, 适合入门, 有演示/应用 | 14,534 | +27 | +140 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
-| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 机器人与具身智能 | 开源许可, 有文档, 偏生产可用, 有演示/应用 | 44,169 | +8 | +41 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 7,400 | +50 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
+| 2 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 机器人与具身智能 | 增长快, 近期活跃, 有文档, 适合入门 | 1,753 | +30 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
+| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 62,926 | +27 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| 4 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 机器人与具身智能 | 增长快, 近期活跃, 适合入门, 偏生产可用 | 82,189 | +21 | +200+ | Unknown | List of Computer Science courses with video lectures. |
+| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 机器人与具身智能 | 增长快, 有文档, 适合入门, 有演示/应用 | 14,549 | +18 | +131 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
+| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 机器人与具身智能 | 开源许可, 有文档, 偏生产可用, 有演示/应用 | 44,175 | +11 | +43 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |

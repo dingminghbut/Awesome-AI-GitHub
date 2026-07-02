@@ -9,7 +9,7 @@
 - 收录项目：2
 - 近期活跃项目：2
 - 有文档或主页信号：2
-- 更新时间：Jul 1, 2026, 6:47 AM UTC
+- 更新时间：Jul 2, 2026, 6:12 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,662 | +23 | +134 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,632 | +16 | +65 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,679 | +21 | +133 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,637 | +7 | +55 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,662 | +23 | +134 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,632 | +16 | +65 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,679 | +21 | +133 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,637 | +7 | +55 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
