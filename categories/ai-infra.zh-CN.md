@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：2
-- 近期活跃项目：2
-- 有文档或主页信号：2
-- 更新时间：Jul 3, 2026, 6:05 AM UTC
+- 收录项目：3
+- 近期活跃项目：3
+- 有文档或主页信号：3
+- 更新时间：Jul 4, 2026, 5:56 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,14 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,698 | +20 | +134 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,649 | +11 | +56 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI 基础设施 | 增长快, 近期活跃, 有文档, 偏生产可用 | 52,559 | +97 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
+| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,733 | +36 | +162 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,649 | +2 | +54 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,698 | +20 | +134 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 2 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,649 | +11 | +56 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI 基础设施 | 增长快, 近期活跃, 有文档, 偏生产可用 | 52,559 | +97 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
+| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,733 | +36 | +162 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,649 | +2 | +54 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
