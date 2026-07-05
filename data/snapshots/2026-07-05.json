@@ -1,0 +1,1286 @@
+{
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T06:16:09.990Z",
+  "projects": [
+    {
+      "id": 1136590548,
+      "fullName": "affaan-m/ECC",
+      "stars": 226111,
+      "forks": 34592,
+      "category": "llm",
+      "pushedAt": "2026-07-04T20:44:28Z"
+    },
+    {
+      "id": 1024554267,
+      "fullName": "NousResearch/hermes-agent",
+      "stars": 209317,
+      "forks": 38199,
+      "category": "llm",
+      "pushedAt": "2026-07-05T06:14:54Z"
+    },
+    {
+      "id": 787076358,
+      "fullName": "firecrawl/firecrawl",
+      "stars": 144546,
+      "forks": 8324,
+      "category": "llm",
+      "pushedAt": "2026-07-04T17:33:13Z"
+    },
+    {
+      "id": 881458615,
+      "fullName": "browser-use/browser-use",
+      "stars": 102765,
+      "forks": 11386,
+      "category": "llm",
+      "pushedAt": "2026-07-03T20:27:33Z"
+    },
+    {
+      "id": 1223170290,
+      "fullName": "nexu-io/open-design",
+      "stars": 75015,
+      "forks": 8570,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-05T06:00:35Z"
+    },
+    {
+      "id": 1200597263,
+      "fullName": "Graphify-Labs/graphify",
+      "stars": 77752,
+      "forks": 7695,
+      "category": "rag",
+      "pushedAt": "2026-07-04T23:30:37Z"
+    },
+    {
+      "id": 1201173969,
+      "fullName": "JuliusBrussee/caveman",
+      "stars": 84183,
+      "forks": 4695,
+      "category": "llm",
+      "pushedAt": "2026-07-03T11:10:42Z"
+    },
+    {
+      "id": 1139971460,
+      "fullName": "rtk-ai/rtk",
+      "stars": 68555,
+      "forks": 4242,
+      "category": "llm",
+      "pushedAt": "2026-07-04T08:44:56Z"
+    },
+    {
+      "id": 1131513930,
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "stars": 54397,
+      "forks": 47096,
+      "category": "llm",
+      "pushedAt": "2026-07-05T06:14:02Z"
+    },
+    {
+      "id": 976921297,
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "stars": 49099,
+      "forks": 8007,
+      "category": "llm",
+      "pushedAt": "2026-07-05T00:22:25Z"
+    },
+    {
+      "id": 1129940957,
+      "fullName": "headroomlabs-ai/headroom",
+      "stars": 56596,
+      "forks": 4135,
+      "category": "rag",
+      "pushedAt": "2026-07-03T22:20:14Z"
+    },
+    {
+      "id": 1266797999,
+      "fullName": "DietrichGebert/ponytail",
+      "stars": 74095,
+      "forks": 3894,
+      "category": "llm",
+      "pushedAt": "2026-07-01T23:34:52Z"
+    },
+    {
+      "id": 1113573066,
+      "fullName": "hugohe3/ppt-master",
+      "stars": 36675,
+      "forks": 3075,
+      "category": "agents",
+      "pushedAt": "2026-07-05T01:14:55Z"
+    },
+    {
+      "id": 1165277268,
+      "fullName": "Panniantong/Agent-Reach",
+      "stars": 50776,
+      "forks": 4066,
+      "category": "agents",
+      "pushedAt": "2026-07-03T06:57:59Z"
+    },
+    {
+      "id": 1032808806,
+      "fullName": "usestrix/strix",
+      "stars": 36300,
+      "forks": 3678,
+      "category": "agents",
+      "pushedAt": "2026-07-03T14:43:32Z"
+    },
+    {
+      "id": 909213664,
+      "fullName": "TauricResearch/TradingAgents",
+      "stars": 90896,
+      "forks": 17558,
+      "category": "llm",
+      "pushedAt": "2026-06-22T02:05:09Z"
+    },
+    {
+      "id": 1125856365,
+      "fullName": "can1357/oh-my-pi",
+      "stars": 16081,
+      "forks": 1429,
+      "category": "agents",
+      "pushedAt": "2026-07-05T02:58:19Z"
+    },
+    {
+      "id": 1048065319,
+      "fullName": "thedotmack/claude-mem",
+      "stars": 85870,
+      "forks": 7428,
+      "category": "rag",
+      "pushedAt": "2026-07-05T04:59:06Z"
+    },
+    {
+      "id": 995029641,
+      "fullName": "ruvnet/ruflo",
+      "stars": 63035,
+      "forks": 7413,
+      "category": "agents",
+      "pushedAt": "2026-07-05T06:06:46Z"
+    },
+    {
+      "id": 1201476594,
+      "fullName": "santifer/career-ops",
+      "stars": 58581,
+      "forks": 11490,
+      "category": "agents",
+      "pushedAt": "2026-07-05T06:06:06Z"
+    },
+    {
+      "id": 1052050442,
+      "fullName": "datawhalechina/hello-agents",
+      "stars": 63970,
+      "forks": 7928,
+      "category": "llm",
+      "pushedAt": "2026-06-24T17:33:54Z"
+    },
+    {
+      "id": 626805178,
+      "fullName": "langgenius/dify",
+      "stars": 147700,
+      "forks": 23256,
+      "category": "llm",
+      "pushedAt": "2026-07-05T04:35:35Z"
+    },
+    {
+      "id": 1126947080,
+      "fullName": "kepano/obsidian-skills",
+      "stars": 39760,
+      "forks": 2825,
+      "category": "agents",
+      "pushedAt": "2026-06-08T16:12:01Z"
+    },
+    {
+      "id": 701547123,
+      "fullName": "open-webui/open-webui",
+      "stars": 144229,
+      "forks": 20838,
+      "category": "llm",
+      "pushedAt": "2026-07-02T17:38:23Z"
+    },
+    {
+      "id": 1219042200,
+      "fullName": "op7418/guizang-ppt-skill",
+      "stars": 20115,
+      "forks": 1453,
+      "category": "agents",
+      "pushedAt": "2026-06-02T09:53:57Z"
+    },
+    {
+      "id": 1198306812,
+      "fullName": "HKUDS/Vibe-Trading",
+      "stars": 17809,
+      "forks": 2942,
+      "category": "agents",
+      "pushedAt": "2026-07-04T06:08:00Z"
+    },
+    {
+      "id": 771302083,
+      "fullName": "OpenHands/OpenHands",
+      "stars": 79454,
+      "forks": 10123,
+      "category": "llm",
+      "pushedAt": "2026-07-05T01:51:30Z"
+    },
+    {
+      "id": 1216785679,
+      "fullName": "esengine/DeepSeek-Reasonix",
+      "stars": 25968,
+      "forks": 1612,
+      "category": "agents",
+      "pushedAt": "2026-07-05T05:59:45Z"
+    },
+    {
+      "id": 638513786,
+      "fullName": "Anil-matcha/Open-Generative-AI",
+      "stars": 22413,
+      "forks": 3806,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-03T17:20:57Z"
+    },
+    {
+      "id": 658928958,
+      "fullName": "ollama/ollama",
+      "stars": 175488,
+      "forks": 16839,
+      "category": "llm",
+      "pushedAt": "2026-07-04T01:30:46Z"
+    },
+    {
+      "id": 942867788,
+      "fullName": "elder-plinius/CL4R1T4S",
+      "stars": 44622,
+      "forks": 9084,
+      "category": "agents",
+      "pushedAt": "2026-06-15T11:09:58Z"
+    },
+    {
+      "id": 599547518,
+      "fullName": "vllm-project/vllm",
+      "stars": 85386,
+      "forks": 18937,
+      "category": "llm",
+      "pushedAt": "2026-07-05T05:39:13Z"
+    },
+    {
+      "id": 1206553433,
+      "fullName": "TencentCloud/CubeSandbox",
+      "stars": 7303,
+      "forks": 604,
+      "category": "agents",
+      "pushedAt": "2026-07-05T05:44:40Z"
+    },
+    {
+      "id": 793375104,
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "stars": 116453,
+      "forks": 17319,
+      "category": "agents",
+      "pushedAt": "2026-06-15T01:00:09Z"
+    },
+    {
+      "id": 979115477,
+      "fullName": "bytedance/deer-flow",
+      "stars": 76116,
+      "forks": 10294,
+      "category": "llm",
+      "pushedAt": "2026-07-05T02:17:25Z"
+    },
+    {
+      "id": 895508656,
+      "fullName": "microsoft/ai-agents-for-beginners",
+      "stars": 68576,
+      "forks": 22746,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-03T13:49:40Z"
+    },
+    {
+      "id": 599320067,
+      "fullName": "langflow-ai/langflow",
+      "stars": 151153,
+      "forks": 9432,
+      "category": "agents",
+      "pushedAt": "2026-07-05T00:50:54Z"
+    },
+    {
+      "id": 1010681419,
+      "fullName": "shareAI-lab/learn-claude-code",
+      "stars": 69838,
+      "forks": 11380,
+      "category": "agents",
+      "pushedAt": "2026-06-26T19:36:35Z"
+    },
+    {
+      "id": 552661142,
+      "fullName": "langchain-ai/langchain",
+      "stars": 140947,
+      "forks": 23408,
+      "category": "llm",
+      "pushedAt": "2026-07-05T04:27:44Z"
+    },
+    {
+      "id": 1185590488,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "stars": 37334,
+      "forks": 6188,
+      "category": "agents",
+      "pushedAt": "2026-06-25T19:43:11Z"
+    },
+    {
+      "id": 676672661,
+      "fullName": "langchain-ai/langgraph",
+      "stars": 36500,
+      "forks": 6116,
+      "category": "agents",
+      "pushedAt": "2026-07-05T00:59:26Z"
+    },
+    {
+      "id": 669879380,
+      "fullName": "rasbt/LLMs-from-scratch",
+      "stars": 98529,
+      "forks": 15111,
+      "category": "llm",
+      "pushedAt": "2026-06-02T14:14:19Z"
+    },
+    {
+      "id": 730534580,
+      "fullName": "infiniflow/ragflow",
+      "stars": 84298,
+      "forks": 9806,
+      "category": "rag",
+      "pushedAt": "2026-07-04T13:33:51Z"
+    },
+    {
+      "id": 671269505,
+      "fullName": "BerriAI/litellm",
+      "stars": 52618,
+      "forks": 9469,
+      "category": "ai-infra",
+      "pushedAt": "2026-07-05T06:08:52Z"
+    },
+    {
+      "id": 710601088,
+      "fullName": "crewAIInc/crewAI",
+      "stars": 54924,
+      "forks": 7704,
+      "category": "agents",
+      "pushedAt": "2026-07-04T10:13:39Z"
+    },
+    {
+      "id": 1174369519,
+      "fullName": "jnMetaCode/agency-agents-zh",
+      "stars": 16617,
+      "forks": 2843,
+      "category": "llm",
+      "pushedAt": "2026-07-05T05:57:07Z"
+    },
+    {
+      "id": 1181982220,
+      "fullName": "jackwener/OpenCLI",
+      "stars": 26026,
+      "forks": 2582,
+      "category": "agents",
+      "pushedAt": "2026-07-04T17:35:15Z"
+    },
+    {
+      "id": 656099147,
+      "fullName": "mem0ai/mem0",
+      "stars": 60102,
+      "forks": 6969,
+      "category": "llm",
+      "pushedAt": "2026-07-03T06:18:42Z"
+    },
+    {
+      "id": 262296122,
+      "fullName": "PaddlePaddle/PaddleOCR",
+      "stars": 84686,
+      "forks": 10955,
+      "category": "rag",
+      "pushedAt": "2026-06-26T09:31:42Z"
+    },
+    {
+      "id": 649170660,
+      "fullName": "Mintplex-Labs/anything-llm",
+      "stars": 62592,
+      "forks": 6841,
+      "category": "rag",
+      "pushedAt": "2026-07-03T21:44:55Z"
+    },
+    {
+      "id": 574523116,
+      "fullName": "f/prompts.chat",
+      "stars": 164732,
+      "forks": 21313,
+      "category": "llm",
+      "pushedAt": "2026-07-05T04:27:55Z"
+    },
+    {
+      "id": 931950959,
+      "fullName": "liyupi/ai-guide",
+      "stars": 16800,
+      "forks": 1881,
+      "category": "llm",
+      "pushedAt": "2026-07-01T14:44:50Z"
+    },
+    {
+      "id": 958531089,
+      "fullName": "VectifyAI/PageIndex",
+      "stars": 33739,
+      "forks": 2952,
+      "category": "rag",
+      "pushedAt": "2026-07-04T14:54:59Z"
+    },
+    {
+      "id": 955620917,
+      "fullName": "upstash/context7",
+      "stars": 58589,
+      "forks": 2748,
+      "category": "llm",
+      "pushedAt": "2026-07-03T14:13:42Z"
+    },
+    {
+      "id": 1213049020,
+      "fullName": "browser-use/browser-harness",
+      "stars": 15715,
+      "forks": 1462,
+      "category": "agents",
+      "pushedAt": "2026-07-01T13:24:53Z"
+    },
+    {
+      "id": 642497346,
+      "fullName": "langfuse/langfuse",
+      "stars": 30428,
+      "forks": 3191,
+      "category": "evaluation",
+      "pushedAt": "2026-07-04T11:50:33Z"
+    },
+    {
+      "id": 974186260,
+      "fullName": "sansan0/TrendRadar",
+      "stars": 60253,
+      "forks": 24761,
+      "category": "llm",
+      "pushedAt": "2026-07-04T12:24:35Z"
+    },
+    {
+      "id": 155220641,
+      "fullName": "huggingface/transformers",
+      "stars": 162248,
+      "forks": 33759,
+      "category": "llm",
+      "pushedAt": "2026-07-04T07:43:55Z"
+    },
+    {
+      "id": 1207639951,
+      "fullName": "EKKOLearnAI/hermes-studio",
+      "stars": 8820,
+      "forks": 1088,
+      "category": "agents",
+      "pushedAt": "2026-07-05T06:09:51Z"
+    },
+    {
+      "id": 805155266,
+      "fullName": "CherryHQ/cherry-studio",
+      "stars": 48166,
+      "forks": 4570,
+      "category": "agents",
+      "pushedAt": "2026-07-05T05:55:38Z"
+    },
+    {
+      "id": 652712035,
+      "fullName": "lyogavin/airllm",
+      "stars": 22155,
+      "forks": 2545,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-04T08:36:37Z"
+    },
+    {
+      "id": 834369920,
+      "fullName": "jingyaogong/minimind",
+      "stars": 52570,
+      "forks": 6780,
+      "category": "llm",
+      "pushedAt": "2026-06-28T10:03:46Z"
+    },
+    {
+      "id": 1025856648,
+      "fullName": "wshobson/agents",
+      "stars": 37526,
+      "forks": 4028,
+      "category": "agents",
+      "pushedAt": "2026-06-29T01:08:41Z"
+    },
+    {
+      "id": 1234460360,
+      "fullName": "Octoday-Hub/Embodied-AI",
+      "stars": 1852,
+      "forks": 187,
+      "category": "robotics",
+      "pushedAt": "2026-06-26T02:56:02Z"
+    },
+    {
+      "id": 1033778670,
+      "fullName": "iOfficeAI/AionUi",
+      "stars": 29289,
+      "forks": 2920,
+      "category": "agents",
+      "pushedAt": "2026-07-04T11:53:48Z"
+    },
+    {
+      "id": 614765452,
+      "fullName": "Significant-Gravitas/AutoGPT",
+      "stars": 185357,
+      "forks": 46118,
+      "category": "agents",
+      "pushedAt": "2026-07-04T16:17:11Z"
+    },
+    {
+      "id": 840056306,
+      "fullName": "getzep/graphiti",
+      "stars": 28382,
+      "forks": 2846,
+      "category": "agents",
+      "pushedAt": "2026-07-02T01:57:27Z"
+    },
+    {
+      "id": 749126547,
+      "fullName": "ScrapeGraphAI/Scrapegraph-ai",
+      "stars": 28000,
+      "forks": 2684,
+      "category": "llm",
+      "pushedAt": "2026-06-25T07:51:20Z"
+    },
+    {
+      "id": 1217522067,
+      "fullName": "earthtojake/text-to-cad",
+      "stars": 7582,
+      "forks": 883,
+      "category": "robotics",
+      "pushedAt": "2026-07-05T00:30:43Z"
+    },
+    {
+      "id": 655806940,
+      "fullName": "microsoft/generative-ai-for-beginners",
+      "stars": 112655,
+      "forks": 60500,
+      "category": "llm",
+      "pushedAt": "2026-07-03T09:53:01Z"
+    },
+    {
+      "id": 1171026502,
+      "fullName": "googleworkspace/cli",
+      "stars": 29394,
+      "forks": 1685,
+      "category": "agents",
+      "pushedAt": "2026-07-01T03:10:20Z"
+    },
+    {
+      "id": 866513204,
+      "fullName": "HKUDS/LightRAG",
+      "stars": 37322,
+      "forks": 5253,
+      "category": "rag",
+      "pushedAt": "2026-07-05T03:31:17Z"
+    },
+    {
+      "id": 633927609,
+      "fullName": "promptfoo/promptfoo",
+      "stars": 22927,
+      "forks": 2041,
+      "category": "evaluation",
+      "pushedAt": "2026-07-04T21:16:01Z"
+    },
+    {
+      "id": 997220241,
+      "fullName": "HKUDS/RAG-Anything",
+      "stars": 21960,
+      "forks": 2552,
+      "category": "rag",
+      "pushedAt": "2026-06-15T04:43:54Z"
+    },
+    {
+      "id": 839037098,
+      "fullName": "mastra-ai/mastra",
+      "stars": 25819,
+      "forks": 2354,
+      "category": "agents",
+      "pushedAt": "2026-07-05T01:37:52Z"
+    },
+    {
+      "id": 740303686,
+      "fullName": "sgl-project/sglang",
+      "stars": 29911,
+      "forks": 6917,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-05T05:45:23Z"
+    },
+    {
+      "id": 655515393,
+      "fullName": "CopilotKit/CopilotKit",
+      "stars": 35761,
+      "forks": 4429,
+      "category": "agents",
+      "pushedAt": "2026-07-04T12:28:25Z"
+    },
+    {
+      "id": 1189166396,
+      "fullName": "alistaitsacle/free-llm-api-keys",
+      "stars": 3093,
+      "forks": 346,
+      "category": "llm",
+      "pushedAt": "2026-07-05T06:07:06Z"
+    },
+    {
+      "id": 71583602,
+      "fullName": "Developer-Y/cs-video-courses",
+      "stars": 82274,
+      "forks": 11355,
+      "category": "robotics",
+      "pushedAt": "2026-07-03T05:55:28Z"
+    },
+    {
+      "id": 621803253,
+      "fullName": "FlowiseAI/Flowise",
+      "stars": 54282,
+      "forks": 24643,
+      "category": "agents",
+      "pushedAt": "2026-07-03T11:55:52Z"
+    },
+    {
+      "id": 828119367,
+      "fullName": "yamadashy/repomix",
+      "stars": 26844,
+      "forks": 1415,
+      "category": "llm",
+      "pushedAt": "2026-07-05T01:50:55Z"
+    },
+    {
+      "id": 725205304,
+      "fullName": "unslothai/unsloth",
+      "stars": 67804,
+      "forks": 6097,
+      "category": "llm",
+      "pushedAt": "2026-07-05T06:11:33Z"
+    },
+    {
+      "id": 1000362065,
+      "fullName": "github/awesome-copilot",
+      "stars": 36177,
+      "forks": 4496,
+      "category": "agents",
+      "pushedAt": "2026-07-04T21:07:28Z"
+    },
+    {
+      "id": 1199668171,
+      "fullName": "fathah/hermes-desktop",
+      "stars": 13078,
+      "forks": 1485,
+      "category": "agents",
+      "pushedAt": "2026-07-05T03:24:58Z"
+    },
+    {
+      "id": 579082810,
+      "fullName": "dair-ai/Prompt-Engineering-Guide",
+      "stars": 76216,
+      "forks": 8339,
+      "category": "agents",
+      "pushedAt": "2026-03-11T20:09:13Z"
+    },
+    {
+      "id": 1147094660,
+      "fullName": "HKUDS/nanobot",
+      "stars": 45012,
+      "forks": 7941,
+      "category": "agents",
+      "pushedAt": "2026-07-04T13:25:47Z"
+    },
+    {
+      "id": 1024118326,
+      "fullName": "Tencent/WeKnora",
+      "stars": 17759,
+      "forks": 2390,
+      "category": "rag",
+      "pushedAt": "2026-07-03T10:38:38Z"
+    },
+    {
+      "id": 1197990888,
+      "fullName": "Gitlawb/openclaude",
+      "stars": 29768,
+      "forks": 8858,
+      "category": "agents",
+      "pushedAt": "2026-07-05T06:11:31Z"
+    },
+    {
+      "id": 680120071,
+      "fullName": "microsoft/autogen",
+      "stars": 59495,
+      "forks": 8959,
+      "category": "agents",
+      "pushedAt": "2026-04-15T11:59:09Z"
+    },
+    {
+      "id": 1142406715,
+      "fullName": "EvoScientist/EvoScientist",
+      "stars": 4048,
+      "forks": 272,
+      "category": "agents",
+      "pushedAt": "2026-07-05T05:14:43Z"
+    },
+    {
+      "id": 776854298,
+      "fullName": "stanford-oval/storm",
+      "stars": 29826,
+      "forks": 2790,
+      "category": "rag",
+      "pushedAt": "2025-09-30T18:07:21Z"
+    },
+    {
+      "id": 646410686,
+      "fullName": "hiyouga/LlamaFactory",
+      "stars": 72954,
+      "forks": 8916,
+      "category": "llm",
+      "pushedAt": "2026-07-03T05:16:11Z"
+    },
+    {
+      "id": 638951438,
+      "fullName": "comet-ml/opik",
+      "stars": 20285,
+      "forks": 1582,
+      "category": "evaluation",
+      "pushedAt": "2026-07-04T10:05:50Z"
+    },
+    {
+      "id": 74627617,
+      "fullName": "commaai/openpilot",
+      "stars": 62978,
+      "forks": 11135,
+      "category": "robotics",
+      "pushedAt": "2026-07-05T04:24:18Z"
+    },
+    {
+      "id": 560704231,
+      "fullName": "run-llama/llama_index",
+      "stars": 50647,
+      "forks": 7685,
+      "category": "agents",
+      "pushedAt": "2026-07-02T17:54:20Z"
+    },
+    {
+      "id": 527591471,
+      "fullName": "AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 163983,
+      "forks": 30377,
+      "category": "generative-ai",
+      "pushedAt": "2026-03-02T07:00:53Z"
+    },
+    {
+      "id": 876064934,
+      "fullName": "patchy631/ai-engineering-hub",
+      "stars": 36335,
+      "forks": 6018,
+      "category": "agents",
+      "pushedAt": "2026-06-08T11:18:11Z"
+    },
+    {
+      "id": 1156960719,
+      "fullName": "millionco/react-doctor",
+      "stars": 13386,
+      "forks": 426,
+      "category": "agents",
+      "pushedAt": "2026-07-05T04:21:05Z"
+    },
+    {
+      "id": 655099582,
+      "fullName": "mlabonne/llm-course",
+      "stars": 80675,
+      "forks": 9400,
+      "category": "llm",
+      "pushedAt": "2026-02-05T13:09:26Z"
+    },
+    {
+      "id": 925270205,
+      "fullName": "trycua/cua",
+      "stars": 19361,
+      "forks": 1273,
+      "category": "agents",
+      "pushedAt": "2026-07-01T17:41:57Z"
+    },
+    {
+      "id": 291438522,
+      "fullName": "siyuan-note/siyuan",
+      "stars": 44919,
+      "forks": 2865,
+      "category": "agents",
+      "pushedAt": "2026-07-05T05:02:32Z"
+    },
+    {
+      "id": 806854629,
+      "fullName": "datawhalechina/happy-llm",
+      "stars": 31798,
+      "forks": 3018,
+      "category": "rag",
+      "pushedAt": "2026-05-06T16:17:10Z"
+    },
+    {
+      "id": 917868934,
+      "fullName": "huggingface/agents-course",
+      "stars": 29818,
+      "forks": 2132,
+      "category": "agents",
+      "pushedAt": "2026-06-30T00:53:26Z"
+    },
+    {
+      "id": 753750990,
+      "fullName": "aishwaryanr/awesome-generative-ai-guide",
+      "stars": 28111,
+      "forks": 5783,
+      "category": "generative-ai",
+      "pushedAt": "2026-06-24T02:01:23Z"
+    },
+    {
+      "id": 644461337,
+      "fullName": "vercel/ai",
+      "stars": 25356,
+      "forks": 4716,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-05T06:15:35Z"
+    },
+    {
+      "id": 522158088,
+      "fullName": "zhayujie/CowAgent",
+      "stars": 45791,
+      "forks": 10250,
+      "category": "agents",
+      "pushedAt": "2026-07-05T04:35:42Z"
+    },
+    {
+      "id": 633262635,
+      "fullName": "onyx-dot-app/onyx",
+      "stars": 30723,
+      "forks": 4211,
+      "category": "rag",
+      "pushedAt": "2026-07-04T10:41:15Z"
+    },
+    {
+      "id": 660551251,
+      "fullName": "FoundationAgents/MetaGPT",
+      "stars": 69193,
+      "forks": 8826,
+      "category": "llm",
+      "pushedAt": "2026-01-21T10:12:33Z"
+    },
+    {
+      "id": 1139782619,
+      "fullName": "waooAI/waoowaoo",
+      "stars": 13084,
+      "forks": 2926,
+      "category": "agents",
+      "pushedAt": "2026-07-02T18:17:38Z"
+    },
+    {
+      "id": 1179413000,
+      "fullName": "Narcooo/inkos",
+      "stars": 7776,
+      "forks": 1460,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-04T20:47:11Z"
+    },
+    {
+      "id": 778431525,
+      "fullName": "microsoft/graphrag",
+      "stars": 34183,
+      "forks": 3615,
+      "category": "rag",
+      "pushedAt": "2026-06-22T07:23:02Z"
+    },
+    {
+      "id": 1222120468,
+      "fullName": "openlake-project/openlake",
+      "stars": 1743,
+      "forks": 282,
+      "category": "ai-infra",
+      "pushedAt": "2026-06-27T19:10:22Z"
+    },
+    {
+      "id": 615869301,
+      "fullName": "mudler/LocalAI",
+      "stars": 47320,
+      "forks": 4198,
+      "category": "agents",
+      "pushedAt": "2026-07-04T22:26:34Z"
+    },
+    {
+      "id": 1135791677,
+      "fullName": "lsdefine/GenericAgent",
+      "stars": 13288,
+      "forks": 1536,
+      "category": "agents",
+      "pushedAt": "2026-07-02T12:26:28Z"
+    },
+    {
+      "id": 1054512829,
+      "fullName": "vllm-project/vllm-omni",
+      "stars": 5432,
+      "forks": 1230,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-04T23:17:58Z"
+    },
+    {
+      "id": 676829188,
+      "fullName": "confident-ai/deepeval",
+      "stars": 16640,
+      "forks": 1615,
+      "category": "evaluation",
+      "pushedAt": "2026-07-02T18:41:12Z"
+    },
+    {
+      "id": 801867971,
+      "fullName": "TianxingChen/Embodied-AI-Guide",
+      "stars": 14601,
+      "forks": 929,
+      "category": "robotics",
+      "pushedAt": "2026-03-12T18:57:02Z"
+    },
+    {
+      "id": 828268839,
+      "fullName": "NirDiamant/RAG_Techniques",
+      "stars": 28341,
+      "forks": 3438,
+      "category": "rag",
+      "pushedAt": "2026-07-04T12:53:20Z"
+    },
+    {
+      "id": 488641606,
+      "fullName": "agno-agi/agno",
+      "stars": 40997,
+      "forks": 5594,
+      "category": "agents",
+      "pushedAt": "2026-07-05T01:07:36Z"
+    },
+    {
+      "id": 396569538,
+      "fullName": "khoj-ai/khoj",
+      "stars": 35472,
+      "forks": 2287,
+      "category": "rag",
+      "pushedAt": "2026-06-24T21:17:20Z"
+    },
+    {
+      "id": 573661753,
+      "fullName": "activepieces/activepieces",
+      "stars": 23124,
+      "forks": 3891,
+      "category": "agents",
+      "pushedAt": "2026-07-04T20:37:55Z"
+    },
+    {
+      "id": 954873280,
+      "fullName": "a2aproject/A2A",
+      "stars": 24627,
+      "forks": 2493,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-02T08:55:16Z"
+    },
+    {
+      "id": 764723738,
+      "fullName": "Skyvern-AI/skyvern",
+      "stars": 22116,
+      "forks": 2068,
+      "category": "llm",
+      "pushedAt": "2026-07-05T06:04:39Z"
+    },
+    {
+      "id": 1118085970,
+      "fullName": "opensandbox-group/OpenSandbox",
+      "stars": 11818,
+      "forks": 987,
+      "category": "agents",
+      "pushedAt": "2026-07-05T06:13:24Z"
+    },
+    {
+      "id": 784181462,
+      "fullName": "ItzCrazyKns/Vane",
+      "stars": 35564,
+      "forks": 3911,
+      "category": "rag",
+      "pushedAt": "2026-04-11T14:33:06Z"
+    },
+    {
+      "id": 762304524,
+      "fullName": "ComposioHQ/composio",
+      "stars": 29094,
+      "forks": 4646,
+      "category": "agents",
+      "pushedAt": "2026-07-04T16:19:12Z"
+    },
+    {
+      "id": 1278930806,
+      "fullName": "benchflow-ai/awesome-evals",
+      "stars": 666,
+      "forks": 48,
+      "category": "evaluation",
+      "pushedAt": "2026-07-01T22:53:19Z"
+    },
+    {
+      "id": 208728772,
+      "fullName": "milvus-io/milvus",
+      "stars": 45073,
+      "forks": 4107,
+      "category": "rag",
+      "pushedAt": "2026-07-04T14:30:29Z"
+    },
+    {
+      "id": 854807707,
+      "fullName": "NirDiamant/GenAI_Agents",
+      "stars": 22995,
+      "forks": 3860,
+      "category": "agents",
+      "pushedAt": "2026-07-04T12:53:21Z"
+    },
+    {
+      "id": 942312530,
+      "fullName": "cocoindex-io/cocoindex",
+      "stars": 10603,
+      "forks": 821,
+      "category": "rag",
+      "pushedAt": "2026-07-05T05:37:10Z"
+    },
+    {
+      "id": 912559512,
+      "fullName": "simstudioai/sim",
+      "stars": 28949,
+      "forks": 3683,
+      "category": "agents",
+      "pushedAt": "2026-07-05T04:19:13Z"
+    },
+    {
+      "id": 546206616,
+      "fullName": "chroma-core/chroma",
+      "stars": 28690,
+      "forks": 2368,
+      "category": "agents",
+      "pushedAt": "2026-07-03T21:29:05Z"
+    },
+    {
+      "id": 107111421,
+      "fullName": "thedaviddias/Front-End-Checklist",
+      "stars": 73123,
+      "forks": 6648,
+      "category": "agents",
+      "pushedAt": "2026-06-18T03:46:44Z"
+    },
+    {
+      "id": 964395174,
+      "fullName": "dyad-sh/dyad",
+      "stars": 20812,
+      "forks": 2493,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-03T16:58:10Z"
+    },
+    {
+      "id": 826170402,
+      "fullName": "elizaOS/eliza",
+      "stars": 18697,
+      "forks": 5581,
+      "category": "rag",
+      "pushedAt": "2026-07-05T06:13:53Z"
+    },
+    {
+      "id": 929868765,
+      "fullName": "LearningCircuit/local-deep-research",
+      "stars": 8663,
+      "forks": 763,
+      "category": "rag",
+      "pushedAt": "2026-07-04T22:54:21Z"
+    },
+    {
+      "id": 835975784,
+      "fullName": "MODSetter/SurfSense",
+      "stars": 15181,
+      "forks": 1456,
+      "category": "agents",
+      "pushedAt": "2026-07-05T05:55:57Z"
+    },
+    {
+      "id": 1008726722,
+      "fullName": "coze-dev/coze-studio",
+      "stars": 21109,
+      "forks": 3070,
+      "category": "generative-ai",
+      "pushedAt": "2026-04-20T09:20:44Z"
+    },
+    {
+      "id": 991431142,
+      "fullName": "memvid/memvid",
+      "stars": 15723,
+      "forks": 1358,
+      "category": "rag",
+      "pushedAt": "2026-05-27T19:31:24Z"
+    },
+    {
+      "id": 498011141,
+      "fullName": "huggingface/diffusers",
+      "stars": 33981,
+      "forks": 7118,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-04T18:28:10Z"
+    },
+    {
+      "id": 916009087,
+      "fullName": "rowboatlabs/rowboat",
+      "stars": 15110,
+      "forks": 1537,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-05T06:08:31Z"
+    },
+    {
+      "id": 668195240,
+      "fullName": "pathwaycom/llm-app",
+      "stars": 59137,
+      "forks": 1433,
+      "category": "llm",
+      "pushedAt": "2026-06-29T21:18:26Z"
+    },
+    {
+      "id": 143328315,
+      "fullName": "mindsdb/minds",
+      "stars": 39380,
+      "forks": 6215,
+      "category": "agents",
+      "pushedAt": "2026-07-01T22:24:36Z"
+    },
+    {
+      "id": 1003143578,
+      "fullName": "NirDiamant/agents-towards-production",
+      "stars": 20907,
+      "forks": 2780,
+      "category": "agents",
+      "pushedAt": "2026-07-04T12:53:24Z"
+    },
+    {
+      "id": 1219087723,
+      "fullName": "future-agi/future-agi",
+      "stars": 1300,
+      "forks": 323,
+      "category": "evaluation",
+      "pushedAt": "2026-07-05T03:56:02Z"
+    },
+    {
+      "id": 1163814566,
+      "fullName": "nextlevelbuilder/goclaw",
+      "stars": 3385,
+      "forks": 954,
+      "category": "agents",
+      "pushedAt": "2026-07-05T06:04:06Z"
+    },
+    {
+      "id": 644235905,
+      "fullName": "liguodongiot/llm-action",
+      "stars": 24651,
+      "forks": 2815,
+      "category": "ai-infra",
+      "pushedAt": "2026-07-01T06:04:47Z"
+    },
+    {
+      "id": 159152904,
+      "fullName": "jeecgboot/JeecgBoot",
+      "stars": 46941,
+      "forks": 16079,
+      "category": "rag",
+      "pushedAt": "2026-07-01T12:57:08Z"
+    },
+    {
+      "id": 998732712,
+      "fullName": "StarTrail-org/LEANN",
+      "stars": 12635,
+      "forks": 1138,
+      "category": "rag",
+      "pushedAt": "2026-07-03T02:43:27Z"
+    },
+    {
+      "id": 1225188401,
+      "fullName": "Ontos-AI/knowhere",
+      "stars": 1854,
+      "forks": 226,
+      "category": "rag",
+      "pushedAt": "2026-07-05T05:00:34Z"
+    },
+    {
+      "id": 280567579,
+      "fullName": "NaiboWang/EasySpider",
+      "stars": 44188,
+      "forks": 5383,
+      "category": "robotics",
+      "pushedAt": "2026-07-03T09:39:50Z"
+    },
+    {
+      "id": 621799276,
+      "fullName": "chatchat-space/Langchain-Chatchat",
+      "stars": 38252,
+      "forks": 6215,
+      "category": "rag",
+      "pushedAt": "2025-11-10T09:27:42Z"
+    },
+    {
+      "id": 570384908,
+      "fullName": "huggingface/peft",
+      "stars": 21362,
+      "forks": 2366,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-02T12:49:41Z"
+    },
+    {
+      "id": 400215964,
+      "fullName": "novuhq/novu",
+      "stars": 39245,
+      "forks": 4345,
+      "category": "agents",
+      "pushedAt": "2026-07-04T10:17:24Z"
+    },
+    {
+      "id": 910986056,
+      "fullName": "browser-use/web-ui",
+      "stars": 16164,
+      "forks": 2712,
+      "category": "agents",
+      "pushedAt": "2026-05-15T07:26:24Z"
+    },
+    {
+      "id": 773544702,
+      "fullName": "wandb/openui",
+      "stars": 22446,
+      "forks": 2057,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-03T07:09:39Z"
+    },
+    {
+      "id": 1135605666,
+      "fullName": "BIT-DataLab/Edit-Banana",
+      "stars": 5395,
+      "forks": 363,
+      "category": "llm",
+      "pushedAt": "2026-07-05T05:57:38Z"
+    },
+    {
+      "id": 636693030,
+      "fullName": "GoogleCloudPlatform/generative-ai",
+      "stars": 17179,
+      "forks": 4312,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-04T05:45:33Z"
+    },
+    {
+      "id": 640079149,
+      "fullName": "QuivrHQ/quivr",
+      "stars": 39185,
+      "forks": 3718,
+      "category": "rag",
+      "pushedAt": "2025-07-09T12:55:23Z"
+    },
+    {
+      "id": 959473422,
+      "fullName": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+      "stars": 12417,
+      "forks": 1415,
+      "category": "llm",
+      "pushedAt": "2026-05-31T01:26:41Z"
+    }
+  ]
+}

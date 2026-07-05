@@ -9,7 +9,7 @@ Inference, serving, MLOps, deployment, optimization, and developer infrastructur
 - Projects tracked: 3
 - Recently active projects: 3
 - Docs or homepage signal: 3
-- Updated: Jul 4, 2026, 5:56 AM UTC
+- Updated: Jul 5, 2026, 6:16 AM UTC
 
 ## Who This Helps
 
@@ -19,14 +19,14 @@ Useful for people deploying, serving, observing, optimizing, and operating AI sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI Infrastructure | Fast growing, Recently active, Docs available, Production oriented | 52,559 | +97 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
-| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,733 | +36 | +162 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,649 | +2 | +54 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI Infrastructure | Fast growing, Recently active, Docs available, Production oriented | 52,618 | +69 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
+| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,743 | +13 | +164 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,651 | +3 | +53 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI Infrastructure | Fast growing, Recently active, Docs available, Production oriented | 52,559 | +97 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
-| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,733 | +36 | +162 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,649 | +2 | +54 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI Infrastructure | Fast growing, Recently active, Docs available, Production oriented | 52,618 | +69 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
+| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI Infrastructure | Fast growing, Recently active, Open license, Docs available | 1,743 | +13 | +164 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
+| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI Infrastructure | Recently active, Open license, Docs available, Production oriented | 24,651 | +3 | +53 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
