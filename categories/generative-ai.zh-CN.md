@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：18
-- 近期活跃项目：16
-- 有文档或主页信号：14
-- 更新时间：Jul 5, 2026, 6:16 AM UTC
+- 收录项目：16
+- 近期活跃项目：14
+- 有文档或主页信号：13
+- 更新时间：Jul 6, 2026, 6:49 AM UTC
 
 ## 适合谁看
 
@@ -19,36 +19,34 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,015 | +200+ | +200+ | TypeScript | 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
-| 2 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 22,413 | +101 | +200+ | JavaScript | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
-| 3 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 68,576 | +83 | +200+ | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
-| 4 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 22,155 | +41 | +200+ | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
-| 5 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 29,911 | +29 | +200+ | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
-| 6 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 生成式 AI | 增长快, 开源许可, 有演示/应用 | 163,983 | +20 | +200+ | Python | Stable Diffusion web UI |
-| 7 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 28,111 | +27 | +158 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
-| 8 | [vercel/ai](https://github.com/vercel/ai) | 生成式 AI | 增长快, 近期活跃, 有文档, 偏生产可用 | 25,356 | +13 | +183 | TypeScript | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
-| 9 | [Narcooo/inkos](https://github.com/Narcooo/inkos) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 7,776 | +14 | +167 | TypeScript | Story Creation AI Agent for novel, scripts, interactive games, and IP content |
-| 10 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 5,432 | +18 | +142 | Python | A framework for efficient model inference with omni-modality models |
-| 11 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 24,627 | +12 | +131 | Shell | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
-| 12 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 生成式 AI | 近期活跃, 有文档, 偏生产可用, 适合自托管 | 20,812 | +9 | +73 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
-| 13 | [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | 生成式 AI | 开源许可, 偏生产可用 | 21,109 | +7 | +58 | TypeScript | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. |
-| 14 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 33,981 | +7 | +55 | Python | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. |
-| 15 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 15,110 | +7 | +52 | TypeScript | Open-source AI coworker, with memory |
-| 16 | [huggingface/peft](https://github.com/huggingface/peft) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 21,362 | +6 | +35 | Python | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
-| 17 | [wandb/openui](https://github.com/wandb/openui) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 22,446 | +2 | +29 | TypeScript | OpenUI let's you describe UI using your imagination, then see it rendered live. |
-| 18 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 17,179 | +1 | +31 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform |
+| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,313 | +200+ | +200+ | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
+| 2 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 22,527 | +111 | +200+ | JavaScript | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 3 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 68,675 | +106 | +200+ | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| 4 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 22,187 | +36 | +200+ | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
+| 5 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 生成式 AI | 增长快, 开源许可, 有演示/应用 | 163,998 | +22 | +200+ | Python | Stable Diffusion web UI |
+| 6 | [vercel/ai](https://github.com/vercel/ai) | 生成式 AI | 增长快, 近期活跃, 有文档, 偏生产可用 | 25,369 | +18 | +165 | TypeScript | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
+| 7 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 28,125 | +15 | +155 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+| 8 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 24,638 | +14 | +122 | Shell | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
+| 9 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 5,447 | +15 | +119 | Python | A framework for efficient model inference with omni-modality models |
+| 10 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 生成式 AI | 近期活跃, 有文档, 偏生产可用, 适合自托管 | 20,821 | +8 | +69 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
+| 11 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 33,990 | +9 | +57 | Python | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. |
+| 12 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 17,195 | +16 | +40 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform |
+| 13 | [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | 生成式 AI | 开源许可, 偏生产可用 | 21,111 | +5 | +59 | TypeScript | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. |
+| 14 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 15,114 | +8 | +49 | TypeScript | Open-source AI coworker, with memory |
+| 15 | [huggingface/peft](https://github.com/huggingface/peft) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 21,369 | +7 | +37 | Python | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
+| 16 | [wandb/openui](https://github.com/wandb/openui) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 22,448 | +2 | +24 | TypeScript | OpenUI let's you describe UI using your imagination, then see it rendered live. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,015 | +200+ | +200+ | TypeScript | 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
-| 2 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 22,413 | +101 | +200+ | JavaScript | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
-| 3 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 68,576 | +83 | +200+ | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
-| 4 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 22,155 | +41 | +200+ | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
-| 5 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 29,911 | +29 | +200+ | Python | SGLang is a high-performance serving framework for large language models and multimodal models. |
-| 6 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 生成式 AI | 增长快, 开源许可, 有演示/应用 | 163,983 | +20 | +200+ | Python | Stable Diffusion web UI |
-| 7 | [vercel/ai](https://github.com/vercel/ai) | 生成式 AI | 增长快, 近期活跃, 有文档, 偏生产可用 | 25,356 | +13 | +183 | TypeScript | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
-| 8 | [Narcooo/inkos](https://github.com/Narcooo/inkos) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 7,776 | +14 | +167 | TypeScript | Story Creation AI Agent for novel, scripts, interactive games, and IP content |
-| 9 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 28,111 | +27 | +158 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
-| 10 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 5,432 | +18 | +142 | Python | A framework for efficient model inference with omni-modality models |
+| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,313 | +200+ | +200+ | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
+| 2 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 22,527 | +111 | +200+ | JavaScript | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| 3 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 68,675 | +106 | +200+ | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| 4 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 22,187 | +36 | +200+ | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
+| 5 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 生成式 AI | 增长快, 开源许可, 有演示/应用 | 163,998 | +22 | +200+ | Python | Stable Diffusion web UI |
+| 6 | [vercel/ai](https://github.com/vercel/ai) | 生成式 AI | 增长快, 近期活跃, 有文档, 偏生产可用 | 25,369 | +18 | +165 | TypeScript | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
+| 7 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 28,125 | +15 | +155 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+| 8 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 24,638 | +14 | +122 | Shell | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
+| 9 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 5,447 | +15 | +119 | Python | A framework for efficient model inference with omni-modality models |
+| 10 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 生成式 AI | 近期活跃, 有文档, 偏生产可用, 适合自托管 | 20,821 | +8 | +69 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
