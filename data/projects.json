@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T10:37:01.766Z",
+  "generatedAt": "2026-07-07T10:43:41.128Z",
   "date": "2026-07-07",
   "source": {
     "name": "GitHub REST Search API",
@@ -156,8 +156,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": true,
       "starGrowthSource": "stargazers",
-      "hotScore": 2243.8,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 2243.79,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1155383451,
@@ -197,7 +197,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 2064.67,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 70271182,
@@ -250,7 +250,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 595.35,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1290241977,
@@ -296,7 +296,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 496.86,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1211089620,
@@ -329,7 +329,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 434.6,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1177556025,
@@ -373,7 +373,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 400.11,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1219590575,
@@ -406,7 +406,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 261.77,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1185016972,
@@ -451,7 +451,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 234.09,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1199101685,
@@ -483,7 +483,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 211.16,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1265706480,
@@ -516,7 +516,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 169.71,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1156131995,
@@ -555,7 +555,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 164.94,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1198690790,
@@ -590,7 +590,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 163.09,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 641440545,
@@ -644,7 +644,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 162.69,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1202194964,
@@ -677,7 +677,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 156.12,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1222372573,
@@ -721,7 +721,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 148.51,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1141100288,
@@ -753,7 +753,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 143.15,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 591995344,
@@ -803,7 +803,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 133.82,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1098866858,
@@ -844,7 +844,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 132.66,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1204321239,
@@ -877,7 +877,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 124.4,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 483894024,
@@ -927,7 +927,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 104.02,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1274797292,
@@ -972,7 +972,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 100.81,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1127855842,
@@ -1017,7 +1017,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 93.41,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1261690469,
@@ -1054,7 +1054,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 87,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1242060029,
@@ -1103,7 +1103,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 86.57,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 703802567,
@@ -1155,7 +1155,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 76.82,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1042844902,
@@ -1195,7 +1195,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 68.54,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1218018309,
@@ -1236,7 +1236,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 68.29,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1153111797,
@@ -1279,7 +1279,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 64.64,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1134942413,
@@ -1319,7 +1319,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 61.15,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1186562824,
@@ -1352,7 +1352,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 57.67,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 904893333,
@@ -1391,7 +1391,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 55.44,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 332585863,
@@ -1443,7 +1443,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 53.91,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1259423904,
@@ -1492,7 +1492,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 53.31,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1236911090,
@@ -1540,7 +1540,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 51.16,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1146166995,
@@ -1585,7 +1585,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 50.4,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1012726162,
@@ -1625,7 +1625,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 45.91,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1248874749,
@@ -1669,7 +1669,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 43.68,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1062541386,
@@ -1702,7 +1702,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 43.26,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1222589733,
@@ -1751,7 +1751,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 41.03,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 693072990,
@@ -1786,8 +1786,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 40.86,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 40.85,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1187572212,
@@ -1840,7 +1840,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.68,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1172212596,
@@ -1873,7 +1873,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.36,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1187460717,
@@ -1906,7 +1906,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 37.31,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1259457554,
@@ -1945,7 +1945,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 35.62,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 990832792,
@@ -1976,7 +1976,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 33.7,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1175588425,
@@ -2022,7 +2022,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 33.03,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1163891582,
@@ -2057,7 +2057,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 31.41,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1273501514,
@@ -2110,7 +2110,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 30.44,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1124100628,
@@ -2163,8 +2163,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 28.45,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 28.44,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1226613826,
@@ -2207,7 +2207,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 27.57,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1074444345,
@@ -2255,7 +2255,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 24.48,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 270530850,
@@ -2304,8 +2304,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 23.83,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 23.82,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1207605833,
@@ -2338,7 +2338,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.59,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 721481892,
@@ -2390,7 +2390,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.36,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1271437886,
@@ -2434,7 +2434,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.22,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1153563416,
@@ -2487,7 +2487,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 22.44,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1227331963,
@@ -2541,7 +2541,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 22.05,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1180497619,
@@ -2574,7 +2574,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.67,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1178450120,
@@ -2607,7 +2607,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.61,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 605189726,
@@ -2653,8 +2653,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 21.6,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 21.59,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1180426897,
@@ -2702,7 +2702,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.16,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 998036124,
@@ -2756,7 +2756,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 19.6,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1088997315,
@@ -2797,7 +2797,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 19.46,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1089901498,
@@ -2835,7 +2835,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 19.15,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1069952948,
@@ -2868,7 +2868,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 18.25,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1199167796,
@@ -2922,7 +2922,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 17.12,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1183226075,
@@ -2961,7 +2961,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 16.51,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1253861590,
@@ -3010,7 +3010,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.67,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 897297668,
@@ -3056,7 +3056,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.33,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1114441622,
@@ -3089,7 +3089,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.22,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 969187519,
@@ -3139,7 +3139,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.2,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1174726144,
@@ -3178,7 +3178,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 14.6,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1168265693,
@@ -3223,8 +3223,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 13.49,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 13.48,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 144914978,
@@ -3277,8 +3277,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 13.43,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 13.42,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1193376462,
@@ -3311,7 +3311,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.87,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1147121400,
@@ -3359,7 +3359,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.62,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 681630259,
@@ -3399,7 +3399,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.61,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1207844328,
@@ -3453,7 +3453,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.33,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 952146584,
@@ -3486,7 +3486,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.31,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1192500555,
@@ -3532,7 +3532,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.19,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 644281555,
@@ -3574,7 +3574,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.12,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 828463793,
@@ -3623,7 +3623,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.08,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1216782078,
@@ -3656,7 +3656,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 11.89,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 892830182,
@@ -3699,7 +3699,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 11.71,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 819471307,
@@ -3744,7 +3744,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 10.8,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1168173438,
@@ -3782,7 +3782,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 10.43,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 709930230,
@@ -3818,8 +3818,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 9.77,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "hotScore": 9.76,
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 725109880,
@@ -3850,7 +3850,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 9.59,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 912766924,
@@ -3889,7 +3889,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 9.32,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 231864103,
@@ -3937,7 +3937,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 7.35,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223830230,
@@ -3970,7 +3970,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.61,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223828208,
@@ -4003,7 +4003,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.61,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223829528,
@@ -4036,7 +4036,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.61,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223827297,
@@ -4069,7 +4069,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.56,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223827137,
@@ -4102,7 +4102,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.56,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223827473,
@@ -4135,7 +4135,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.56,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223828353,
@@ -4168,7 +4168,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.5,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223827646,
@@ -4201,7 +4201,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.5,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223826858,
@@ -4234,7 +4234,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.45,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223829807,
@@ -4267,7 +4267,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.45,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223843284,
@@ -4300,7 +4300,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.45,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223828926,
@@ -4333,7 +4333,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.39,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223830078,
@@ -4366,7 +4366,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.34,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1226775065,
@@ -4399,7 +4399,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.34,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223828072,
@@ -4432,7 +4432,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.28,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 961764179,
@@ -4465,7 +4465,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.27,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223829652,
@@ -4498,7 +4498,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.22,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223828628,
@@ -4531,7 +4531,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.22,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223828763,
@@ -4564,7 +4564,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.22,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1169276096,
@@ -4618,7 +4618,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.17,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223829374,
@@ -4651,7 +4651,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.16,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 994108708,
@@ -4700,7 +4700,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.15,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1223829094,
@@ -4733,7 +4733,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.86,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1005429601,
@@ -4771,7 +4771,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.81,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 612867611,
@@ -4818,7 +4818,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.75,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1004298552,
@@ -4851,7 +4851,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.72,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1144901049,
@@ -4884,7 +4884,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.71,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1100799185,
@@ -4925,7 +4925,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.69,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1262108086,
@@ -4958,7 +4958,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.48,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1144263691,
@@ -4991,7 +4991,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.38,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1222812664,
@@ -5043,7 +5043,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.36,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 961740656,
@@ -5091,7 +5091,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.22,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1180542442,
@@ -5135,7 +5135,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.81,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1193862636,
@@ -5166,7 +5166,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.44,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 251668683,
@@ -5197,7 +5197,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.41,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1001326888,
@@ -5242,7 +5242,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.2,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 994579736,
@@ -5283,7 +5283,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.2,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1055454119,
@@ -5322,7 +5322,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.17,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1027435259,
@@ -5355,7 +5355,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.94,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 903061472,
@@ -5392,7 +5392,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.66,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 963067807,
@@ -5437,7 +5437,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.59,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 396317240,
@@ -5477,7 +5477,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.54,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1132071203,
@@ -5510,7 +5510,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.48,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 907060026,
@@ -5543,7 +5543,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.38,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1152434343,
@@ -5576,7 +5576,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.38,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 349410634,
@@ -5612,7 +5612,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.35,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 811965963,
@@ -5650,7 +5650,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.27,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     },
     {
       "id": 1099039346,
@@ -5703,7 +5703,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 2.59,
-      "fetchedAt": "2026-07-07T10:37:01.766Z"
+      "fetchedAt": "2026-07-07T10:43:41.128Z"
     }
   ]
 }

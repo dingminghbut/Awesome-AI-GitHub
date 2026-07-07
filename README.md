@@ -19,7 +19,7 @@ AI commerce moves too fast for a static bookmark list. This repo refreshes every
 
 ## Snapshot
 
-- Last updated: Jul 7, 2026, 10:37 AM UTC
+- Last updated: Jul 7, 2026, 10:43 AM UTC
 - Projects tracked: 138
 - Total stars: 35,161
 - Ranking signal: 24h/7d star growth, repository freshness, and a first-run stars fallback

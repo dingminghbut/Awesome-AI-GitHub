@@ -2,7 +2,7 @@
 
 [Back to README](https://github.com/dingminghbut/Awesome-AI-GitHub#readme) | [Live dashboard](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [Methodology](https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/METHODOLOGY.md)
 
-Generated: Jul 7, 2026, 10:37 AM UTC
+Generated: Jul 7, 2026, 10:43 AM UTC
 
 ## What Moved This Week
 

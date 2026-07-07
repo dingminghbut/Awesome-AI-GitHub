@@ -9,7 +9,7 @@ Serving, MLOps, data pipelines, search/recommendation infrastructure, feature st
 - Projects tracked: 9
 - Recently active projects: 4
 - Docs or homepage signal: 2
-- Updated: Jul 7, 2026, 10:37 AM UTC
+- Updated: Jul 7, 2026, 10:43 AM UTC
 
 ## Who This Helps
 

@@ -9,7 +9,7 @@ Agents and skill playbooks for merchant operations, listings, pricing, ads, CRM,
 - Projects tracked: 77
 - Recently active projects: 27
 - Docs or homepage signal: 24
-- Updated: Jul 7, 2026, 10:37 AM UTC
+- Updated: Jul 7, 2026, 10:43 AM UTC
 
 ## Who This Helps
 
