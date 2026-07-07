@@ -1,61 +1,38 @@
-# RAG 与知识库
+# 商品 RAG 与知识检索
 
 [返回在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [从这里开始](https://dingminghbut.github.io/Awesome-AI-GitHub/start-here.html) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)
 
-检索增强生成、向量检索、索引与知识库系统。
+商品目录检索、语义搜索、FAQ 知识库、向量索引与面向消费者的搜索体验。
 
 ## 分类快照
 
-- 收录项目：27
-- 近期活跃项目：21
-- 有文档或主页信号：24
-- 更新时间：Jul 7, 2026, 6:26 AM UTC
+- 收录项目：6
+- 近期活跃项目：2
+- 有文档或主页信号：2
+- 更新时间：Jul 7, 2026, 9:22 AM UTC
 
 ## 适合谁看
 
-适合构建知识库产品、文档搜索、向量检索、索引管线和企业助手的开发者。
+适合构建商品目录搜索、FAQ 助手、语义检索、向量索引和面向消费者或运营人员的知识系统。
 
 ## 当前热门
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 78,916 | +200+ | +200+ | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
-| 2 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 57,235 | +200+ | +200+ | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
-| 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 13,644 | +200+ | +200+ | C++ | A lightweight, lightning-fast, in-process vector database |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 86,209 | +194 | +200+ | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 5 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,879 | +112 | +200+ | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
-| 6 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,461 | +102 | +200+ | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
-| 7 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 10,426 | +90 | +200+ | Python | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. |
-| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 62,718 | +78 | +200+ | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 偏生产可用 | 17,878 | +64 | +200+ | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
-| 10 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 37,402 | +53 | +200+ | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
-| 11 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 33,835 | +47 | +200+ | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 12 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 22,025 | +39 | +200+ | Python | "RAG-Anything: All-in-One RAG Framework" |
-| 13 | [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | RAG 与知识库 | 增长快, 有文档, 有演示/应用 | 31,865 | +39 | +200+ | Jupyter Notebook | 📚 从零开始构建大模型 |
-| 14 | [stanford-oval/storm](https://github.com/stanford-oval/storm) | RAG 与知识库 | 增长快, 开源许可, 有文档, 研究/评测 | 29,875 | +26 | +200+ | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
-| 15 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 34,229 | +32 | +159 | Python | A modular graph-based Retrieval-Augmented Generation (RAG) system |
-| 16 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 适合入门 | 28,387 | +26 | +140 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. |
-| 17 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 45,109 | +25 | +110 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 18 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 35,507 | +17 | +127 | Python | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. |
-| 19 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | RAG 与知识库 | 增长快, 开源许可, 适合自托管 | 35,583 | +16 | +109 | TypeScript | Vane is an AI-powered answering engine. |
-| 20 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | RAG 与知识库 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 46,958 | +16 | +61 | Java | AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 |
-| 21 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | RAG 与知识库 | 近期活跃, 开源许可, 偏生产可用, 研究/评测 | 8,678 | +7 | +65 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
-| 22 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | RAG 与知识库 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 18,705 | +5 | +57 | TypeScript | Open source agentic operating system |
-| 23 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | RAG 与知识库 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 12,655 | +6 | +49 | Python | [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
-| 24 | [memvid/memvid](https://github.com/memvid/memvid) | RAG 与知识库 | 开源许可, 有文档, 偏生产可用, 研究/评测 | 15,731 | +7 | +45 | Rust | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
-| 25 | [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | RAG 与知识库 | 开源许可, 研究/评测, 适合自托管, 有演示/应用 | 38,258 | +4 | +37 | Python | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 \| Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain |
+| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 2 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +0 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
+| 3 | [SriPrarabdha/vector_db_from_scratch](https://github.com/SriPrarabdha/vector_db_from_scratch) | 商品 RAG 与知识检索 | 值得观察 | 22 | +0 | +0 | C++ | A high-performance vector database implemented in modern C++ from scratch. Supports ANN search using HNSW, IVF, and Product Quantization (PQ). Designed as a Faiss-like vector search engine for learning and experimentation. |
+| 4 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | 商品 RAG 与知识检索 | 电商技能 | 14 | +0 | +0 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
+| 5 | [Aakash109-hub/eCommerce-Customer-Support-Agent](https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent) | 商品 RAG 与知识检索 | 电商技能, 偏生产可用, 适合自托管, 有演示/应用 | 12 | +0 | +0 | Python | A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit. |
+| 6 | [Annkkitaaa/Ecommerce-RAG-Chatbot](https://github.com/Annkkitaaa/Ecommerce-RAG-Chatbot) | 商品 RAG 与知识检索 | 电商技能, 研究/评测 | 12 | +0 | +0 | Python | A Retrieval-Augmented Generation (RAG) based chatbot system for e-commerce product search and order management. The system provides semantic search capabilities for products and handles order queries through a conversational interface. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 78,916 | +200+ | +200+ | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
-| 2 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 57,235 | +200+ | +200+ | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
-| 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 13,644 | +200+ | +200+ | C++ | A lightweight, lightning-fast, in-process vector database |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 86,209 | +194 | +200+ | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 5 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,879 | +112 | +200+ | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
-| 6 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 84,461 | +102 | +200+ | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
-| 7 | [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 10,426 | +90 | +200+ | Python | One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows. |
-| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 62,718 | +78 | +200+ | JavaScript | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | RAG 与知识库 | 增长快, 近期活跃, 有文档, 偏生产可用 | 17,878 | +64 | +200+ | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
-| 10 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 37,402 | +53 | +200+ | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 2 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +0 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
+| 3 | [SriPrarabdha/vector_db_from_scratch](https://github.com/SriPrarabdha/vector_db_from_scratch) | 商品 RAG 与知识检索 | 值得观察 | 22 | +0 | +0 | C++ | A high-performance vector database implemented in modern C++ from scratch. Supports ANN search using HNSW, IVF, and Product Quantization (PQ). Designed as a Faiss-like vector search engine for learning and experimentation. |
+| 4 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | 商品 RAG 与知识检索 | 电商技能 | 14 | +0 | +0 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
+| 5 | [Aakash109-hub/eCommerce-Customer-Support-Agent](https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent) | 商品 RAG 与知识检索 | 电商技能, 偏生产可用, 适合自托管, 有演示/应用 | 12 | +0 | +0 | Python | A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit. |
+| 6 | [Annkkitaaa/Ecommerce-RAG-Chatbot](https://github.com/Annkkitaaa/Ecommerce-RAG-Chatbot) | 商品 RAG 与知识检索 | 电商技能, 研究/评测 | 12 | +0 | +0 | Python | A Retrieval-Augmented Generation (RAG) based chatbot system for e-commerce product search and order management. The system provides semantic search capabilities for products and handles order queries through a conversational interface. |

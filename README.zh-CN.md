@@ -1,6 +1,6 @@
 # Awesome AI GitHub
 
-每日 AI 开源雷达：更早发现正在快速增长的 LLM、Agent、RAG、生成式 AI 与 AI 基础设施项目。
+每日 AI + 电商开源雷达：更早发现正在快速增长的导购客服、店铺智能体、运营技能、商品 RAG、营销素材生成与零售 AI 基础设施项目。
 
 [English](README.md) | [从这里开始](START_HERE.zh-CN.md) | [在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml) | [数据文件](data/projects.json)
 
@@ -8,90 +8,90 @@
 
 ## 为什么做这个
 
-AI 开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助开发者、研究者和创业者更早发现有价值的开源工作。
+AI + 电商开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助商家、运营者、开发者和创业者更早发现有价值的开源工作。
 
 ## 从这里开始
 
 - 想快速浏览：打开[在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/)，默认就是综合热度排序。
 - 想看本周变化：阅读[每周摘要](reports/weekly-digest.zh-CN.md)。
-- 想按方向探索：使用 GitHub Pages 里的分类专题页，或直接看下面的分类列表。
+- 想按电商场景探索：使用 GitHub Pages 里的分类专题页，或直接看下面的分类列表。
 - 想判断项目是否值得投入时间：看“标签”列里的活跃度、文档、许可、生产可用、自托管等信号。
 
 ## 今日快照
 
-- 更新时间：Jul 7, 2026, 6:26 AM UTC
-- 收录项目：160
-- 累计 Stars：7,755,264
+- 更新时间：Jul 7, 2026, 9:22 AM UTC
+- 收录项目：147
+- 累计 Stars：54,255
 - 排名信号：24h/7d 增星、项目新鲜度，以及首次运行时的 stars 兜底排序
 - 增星数字后面的 `+` 表示 GitHub 至少返回了这么多近期 stars。
 
 ## 今日精选
 
-1. [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) - 大语言模型与聊天; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 大语言模型与聊天 方向。
-2. [**Graphify-Labs/graphify**](https://github.com/Graphify-Labs/graphify) - RAG 与知识库; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 RAG 与知识库 方向。
-3. [**nexu-io/open-design**](https://github.com/nexu-io/open-design) - 生成式 AI; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 生成式 AI 方向。
-4. [**ZhuLinsen/daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) - 智能体; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +200+，24 小时增星 +200+，属于 智能体 方向。
-5. [**BerriAI/litellm**](https://github.com/BerriAI/litellm) - AI 基础设施; 增长快, 近期活跃, 有文档, 偏生产可用; 近期关注度很高：7 日增星 +200+，24 小时增星 +109，属于 AI 基础设施 方向。
+1. [**AgriciDaniel/claude-ads**](https://github.com/AgriciDaniel/claude-ads) - 电商智能体与运营技能; 近期活跃, 电商技能, 开源许可, 有文档; 总 stars 和近期活跃度较高，适合作为 电商智能体与运营技能 方向的基准项目观察。
+2. [**cvat-ai/cvat**](https://github.com/cvat-ai/cvat) - 电商生成式内容; 近期活跃, 开源许可, 有文档, 偏生产可用; 总 stars 和近期活跃度较高，适合作为 电商生成式内容 方向的基准项目观察。
+3. [**vynect/venom**](https://github.com/vynect/venom) - 电商 LLM 与导购客服; 近期活跃, 开源许可, 有文档, 偏生产可用; 总 stars 和近期活跃度较高，适合作为 电商 LLM 与导购客服 方向的基准项目观察。
+4. [**apify/apify-mcp-server**](https://github.com/apify/apify-mcp-server) - 电商 AI 基础设施; 近期活跃, 电商技能, 开源许可, 有文档; 总 stars 和近期活跃度较高，适合作为 电商 AI 基础设施 方向的基准项目观察。
+5. [**aws-samples/service-screener-v2**](https://github.com/aws-samples/service-screener-v2) - 电商评测与增长分析; 近期活跃, 开源许可, 有文档, 研究/评测; 总 stars 和近期活跃度较高，适合作为 电商评测与增长分析 方向的基准项目观察。
 
 ## 当前热门
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 210,535 | +200+ | +200+ | Python | The agent that grows with you |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 226,746 | +200+ | +200+ | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 3 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 146,593 | +200+ | +200+ | TypeScript | The API to search, scrape, and interact with the web at scale. 🔥 |
-| 4 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 103,199 | +200+ | +200+ | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,695 | +200+ | +200+ | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
-| 6 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 78,916 | +200+ | +200+ | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
-| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 76,154 | +200+ | +200+ | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 91,452 | +200+ | +200+ | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| 9 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 69,051 | +200+ | +200+ | Rust | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 57,235 | +200+ | +200+ | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
-| 11 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 大语言模型与聊天 | 增长快, 近期活跃, 有文档, 适合入门 | 64,485 | +200+ | +200+ | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 12 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 51,975 | +200+ | +200+ | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
-| 13 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 55,245 | +200+ | +200+ | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| 14 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 85,856 | +200+ | +200+ | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
-| 15 | [usestrix/strix](https://github.com/usestrix/strix) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 38,128 | +200+ | +200+ | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
-| 16 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 37,291 | +200+ | +200+ | Python | AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He |
-| 17 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 智能体 | 增长快, 近期活跃, 开源许可, 偏生产可用 | 52,226 | +200+ | +200+ | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 18 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 18,238 | +200+ | +200+ | Python | "Vibe-Trading: Your Personal Trading Agent" |
-| 19 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 16,436 | +200+ | +200+ | TypeScript | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
-| 20 | [alibaba/zvec](https://github.com/alibaba/zvec) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 13,644 | +200+ | +200+ | C++ | A lightweight, lightning-fast, in-process vector database |
-| 21 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 86,209 | +194 | +200+ | JavaScript | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
-| 22 | [santifer/career-ops](https://github.com/santifer/career-ops) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 58,900 | +186 | +200+ | JavaScript | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…) |
-| 23 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 70,138 | +183 | +200+ | Python | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1 |
-| 24 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 26,253 | +180 | +200+ | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 25 | [f/prompts.chat](https://github.com/f/prompts.chat) | 大语言模型与聊天 | 增长快, 近期活跃, 有文档, 适合入门 | 164,961 | +161 | +200+ | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
-| 26 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 智能体 | 增长快, 近期活跃, 开源许可, 偏生产可用 | 40,048 | +161 | +200+ | Unknown | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. |
-| 27 | [langgenius/dify](https://github.com/langgenius/dify) | 大语言模型与聊天 | 增长快, 近期活跃, 有文档, 偏生产可用 | 147,973 | +159 | +200+ | TypeScript | Production-ready platform for agentic workflow development. |
-| 28 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 6,491 | +158 | +200+ | Python | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. |
-| 29 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 63,338 | +149 | +200+ | TypeScript | 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
-| 30 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 智能体 | 增长快, 近期活跃, 开源许可, 偏生产可用 | 44,900 | +146 | +200+ | Unknown | LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐 |
+| 1 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 6,767 | +0 | +0 | Python | Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. |
+| 2 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 电商智能体与运营技能 | 近期活跃, 开源许可, 有文档, 有演示/应用 | 918 | +0 | +0 | TypeScript | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. |
+| 3 | [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 电商生成式内容 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 16,239 | +0 | +0 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. |
+| 4 | [tinyhumansai/tiny.place](https://github.com/tinyhumansai/tiny.place) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 186 | +0 | +0 | TypeScript | The social economy for autonomous AI agents. |
+| 5 | [vynect/venom](https://github.com/vynect/venom) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 6,565 | +0 | +0 | TypeScript | Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp. |
+| 6 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 1,686 | +0 | +0 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 7 | [Shopify/Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 435 | +0 | +0 | JavaScript | Agent plugins/extensions for CLIs and IDEs |
+| 8 | [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) | 电商 LLM 与导购客服 | 近期活跃, 有文档, 有演示/应用 | 3,357 | +0 | +0 | TypeScript | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination |
+| 9 | [yuqie6/ProductFlow](https://github.com/yuqie6/ProductFlow) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 284 | +0 | +0 | Python | gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows |
+| 10 | [beikeshop/beikeshop](https://github.com/beikeshop/beikeshop) | 电商智能体与运营技能 | 近期活跃, 电商技能, 有文档 | 1,929 | +0 | +0 | PHP | Free and Open-Source, Easy-to-Use Laravel eCommerce Platform, Base on the Laravel . It supports multiple languages and currencies, Integrates AI agents. The platform features customizable visual design and a rich plugins on marketplace. |
+| 11 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | 电商智能体与运营技能 | 近期活跃, 电商技能, 有文档, 有演示/应用 | 2,347 | +0 | +0 | Python | Linkedin Automation Tool: Describe your product. Define your target market. The AI finds the leads for you. |
+| 12 | [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) | 电商生成式内容 | 开源许可 | 458 | +0 | +0 | Python | AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg) |
+| 13 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 385 | +0 | +0 | Python | 电商视觉文案设计SOP Skill - 6步工作流+合规规则库+自审评分机制 |
+| 14 | [rush86999/atom](https://github.com/rush86999/atom) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 偏生产可用 | 781 | +0 | +0 | Python | Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation |
+| 15 | [tryonlabs/opentryon](https://github.com/tryonlabs/opentryon) | 电商生成式内容 | 近期活跃, 有文档, 有演示/应用 | 510 | +0 | +0 | Jupyter Notebook | Open-source APIs, SDKs, and models for building virtual try-on and fashion AI applications. Generate models, edit garments, create photoshoots, and build personalized fashion experiences. |
+| 16 | [Bytedesk/bytedesk](https://github.com/Bytedesk/bytedesk) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 有演示/应用 | 446 | +0 | +0 | Java | Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra |
+| 17 | [degausai/wonda](https://github.com/degausai/wonda) | 电商智能体与运营技能 | 近期活跃, 有文档 | 133 | +0 | +0 | TypeScript | Wonda CLI — AI-powered content creation from your terminal |
+| 18 | [CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 241 | +0 | +0 | Unknown | Email marketing skill for Claude Code. 55K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert. |
+| 19 | [aws-samples/service-screener-v2](https://github.com/aws-samples/service-screener-v2) | 电商评测与增长分析 | 近期活跃, 开源许可, 有文档, 研究/评测 | 562 | +0 | +0 | Python | A tool for customers to evaluate their AWS service configurations based on AWS and community best practices and receive recommendations on potential improvements. |
+| 20 | [bcefghj/multi-agent-ecommerce-system](https://github.com/bcefghj/multi-agent-ecommerce-system) | 电商智能体与运营技能 | 电商技能 | 387 | +0 | +0 | Python | 多Agent电商推荐与营销系统 (Python/Java/Go) |
+| 21 | [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 361 | +0 | +0 | Python | Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format. |
+| 22 | [Gingiris-1031/gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 54 | +0 | +0 | Python | Reusable Claude Code skills for AI startup operators. Open source, MIT licensed. |
+| 23 | [40RTY-ai/shopify-admin-skills](https://github.com/40RTY-ai/shopify-admin-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 164 | +0 | +0 | Astro | Community-maintained AI agent skills for operating Shopify stores — workflows, optimization, reports and more |
+| 24 | [wendashi/Cool-GenAI-Fashion-Papers](https://github.com/wendashi/Cool-GenAI-Fashion-Papers) | 电商生成式内容 | 近期活跃, 有文档, 适合入门, 研究/评测 | 242 | +0 | +0 | Unknown | [ACM TIST 2025] GenAI in Fashion: Overview, also includes 🔥latest papers, ⚙️metrics, 👀workshops, 🚀companies & products, ...) |
+| 25 | [joomcode/joompulse-skills](https://github.com/joomcode/joompulse-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 48 | +0 | +0 | Shell | Public Claude agent skills that turn JoomPulse data into Mercado Livre seller workflows: market research, competitor tracking, product discovery. Requires JoomPulse MCP. |
+| 26 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 27 | [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) | 电商智能体与运营技能 | 开源许可, 偏生产可用 | 565 | +0 | +0 | Python | Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills |
+| 28 | [Anil-matcha/Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 262 | +0 | +0 | JavaScript | Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted. |
+| 29 | [MADEVAL/MindFluence](https://github.com/MADEVAL/MindFluence) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 48 | +0 | +0 | Unknown | An AI prompt-skill that turns 20 cognitive biases into high-converting marketing copy. Includes playbooks for ads, landing pages, email sequences, social posts, webinars, and product launches. Language-agnostic. Works with any LLM. |
+| 30 | [hookdeck/webhook-skills](https://github.com/hookdeck/webhook-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 77 | +0 | +0 | TypeScript | Webhook integration skills for AI coding agents (Claude Code, Cursor, Copilot). Step-by-step guidance for setting up webhook receivers, signature verification, and event handling for Stripe, Shopify, GitHub, and more. Built on the Agent Skills specification. |
 
 ## 新锐项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 226,746 | +200+ | +200+ | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| 2 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,695 | +200+ | +200+ | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
-| 3 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | RAG 与知识库 | 增长快, 近期活跃, 开源许可, 有文档 | 78,916 | +200+ | +200+ | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 76,154 | +200+ | +200+ | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 5 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 69,051 | +200+ | +200+ | Rust | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 55,245 | +200+ | +200+ | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 大语言模型与聊天 | 增长快, 近期活跃, 开源许可, 有文档 | 85,856 | +200+ | +200+ | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
-| 8 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 智能体 | 增长快, 近期活跃, 开源许可, 偏生产可用 | 52,226 | +200+ | +200+ | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 9 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 18,238 | +200+ | +200+ | Python | "Vibe-Trading: Your Personal Trading Agent" |
-| 10 | [santifer/career-ops](https://github.com/santifer/career-ops) | 智能体 | 增长快, 近期活跃, 开源许可, 有文档 | 58,900 | +186 | +200+ | JavaScript | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…) |
+| 1 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 6,767 | +0 | +0 | Python | Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. |
+| 2 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | 电商智能体与运营技能 | 近期活跃, 开源许可, 有文档, 有演示/应用 | 918 | +0 | +0 | TypeScript | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. |
+| 3 | [tinyhumansai/tiny.place](https://github.com/tinyhumansai/tiny.place) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 186 | +0 | +0 | TypeScript | The social economy for autonomous AI agents. |
+| 4 | [Shopify/Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 435 | +0 | +0 | JavaScript | Agent plugins/extensions for CLIs and IDEs |
+| 5 | [yuqie6/ProductFlow](https://github.com/yuqie6/ProductFlow) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 284 | +0 | +0 | Python | gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows |
+| 6 | [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) | 电商生成式内容 | 开源许可 | 458 | +0 | +0 | Python | AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg) |
+| 7 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 385 | +0 | +0 | Python | 电商视觉文案设计SOP Skill - 6步工作流+合规规则库+自审评分机制 |
+| 8 | [degausai/wonda](https://github.com/degausai/wonda) | 电商智能体与运营技能 | 近期活跃, 有文档 | 133 | +0 | +0 | TypeScript | Wonda CLI — AI-powered content creation from your terminal |
+| 9 | [CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 241 | +0 | +0 | Unknown | Email marketing skill for Claude Code. 55K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert. |
+| 10 | [bcefghj/multi-agent-ecommerce-system](https://github.com/bcefghj/multi-agent-ecommerce-system) | 电商智能体与运营技能 | 电商技能 | 387 | +0 | +0 | Python | 多Agent电商推荐与营销系统 (Python/Java/Go) |
 
 ## 分类
 
-- [**大语言模型与聊天**](https://dingminghbut.github.io/Awesome-AI-GitHub/llm.html) (39) - 大语言模型、聊天应用、提示词工具与模型编排。
-- [**智能体**](https://dingminghbut.github.io/Awesome-AI-GitHub/agents.html) (63) - 智能体框架、自主工作流、工具调用与多智能体系统。
-- [**RAG 与知识库**](https://dingminghbut.github.io/Awesome-AI-GitHub/rag.html) (27) - 检索增强生成、向量检索、索引与知识库系统。
-- [**生成式 AI**](https://dingminghbut.github.io/Awesome-AI-GitHub/generative-ai.html) (16) - 图像、视频、音频、3D、扩散模型与创意 AI 项目。
-- [**AI 基础设施**](https://dingminghbut.github.io/Awesome-AI-GitHub/ai-infra.html) (3) - 推理、服务化、MLOps、部署、优化与开发者基础设施。
-- [**评测与基准**](https://dingminghbut.github.io/Awesome-AI-GitHub/evaluation.html) (6) - 评测套件、基准测试、可观测性与模型质量工具。
-- [**机器人与具身智能**](https://dingminghbut.github.io/Awesome-AI-GitHub/robotics.html) (6) - 机器人、具身智能、仿真器、规划与自主系统。
+- [**电商 LLM 与导购客服**](https://dingminghbut.github.io/Awesome-AI-GitHub/llm.html) (11) - 导购助手、客服对话、商品问答、评价总结、销售话术与电商提示词工作流。
+- [**电商智能体与运营技能**](https://dingminghbut.github.io/Awesome-AI-GitHub/agents.html) (84) - 面向店铺运营、上架、定价、投放、CRM、订单处理、SOP 和多步骤电商流程的智能体与技能方法库。
+- [**商品 RAG 与知识检索**](https://dingminghbut.github.io/Awesome-AI-GitHub/rag.html) (6) - 商品目录检索、语义搜索、FAQ 知识库、向量索引与面向消费者的搜索体验。
+- [**电商生成式内容**](https://dingminghbut.github.io/Awesome-AI-GitHub/generative-ai.html) (18) - 商品图、广告素材、详情文案、短视频、虚拟试穿、背景图、营销活动素材与运营内容工作流。
+- [**电商 AI 基础设施**](https://dingminghbut.github.io/Awesome-AI-GitHub/ai-infra.html) (9) - 服务化、MLOps、数据管线、搜索/推荐基础设施、特征平台与电商 AI 工程工具。
+- [**电商评测与增长分析**](https://dingminghbut.github.io/Awesome-AI-GitHub/evaluation.html) (11) - 推荐评测、A/B 测试、归因、转化分析、增长运营指标、LLM 质量检查与电商可观测性。
+- [**零售机器人与履约自动化**](https://dingminghbut.github.io/Awesome-AI-GitHub/robotics.html) (8) - 仓储机器人、库存自动化、货架识别、履约配送与零售运营中的具身智能。
 
 ## 自动化
 

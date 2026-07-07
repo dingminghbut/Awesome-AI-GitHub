@@ -13,11 +13,11 @@ import type { Project, ProjectsFile } from "./types.js";
 export function renderEnglishReadme(data: ProjectsFile): string {
   const picks = todaysPicks(data.projects);
   const topProjects = data.projects.slice(0, 30);
-  const topNew = newestProjects(data.projects).slice(0, 10);
+  const topNew = newestProjects(data.projects, data.date).slice(0, 10);
 
   return `# Awesome AI GitHub
 
-Daily AI open-source radar: discover fast-growing LLM, Agent, RAG, Generative AI, and AI infrastructure projects before they go mainstream.
+Daily commerce AI open-source radar: discover fast-growing shopping assistants, merchant agents, operations skills, product RAG, creative generation, and retail AI infrastructure before they go mainstream.
 
 [中文](README.zh-CN.md) | [Start Here](START_HERE.md) | [Live dashboard](${REPOSITORY.pagesUrl}) | [Weekly digest](reports/weekly-digest.md) | [Methodology](METHODOLOGY.md) | [Suggest a project](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml) | [Data](data/projects.json)
 
@@ -25,13 +25,13 @@ Daily AI open-source radar: discover fast-growing LLM, Agent, RAG, Generative AI
 
 ## Why This Exists
 
-AI open source moves too fast for a static bookmark list. This repo refreshes every day, keeps lightweight historical snapshots, and highlights projects that are gaining attention now so builders, researchers, and founders can find useful work earlier.
+AI commerce moves too fast for a static bookmark list. This repo refreshes every day, keeps lightweight historical snapshots, and highlights projects that help merchants, operators, and builders spot useful open-source work earlier.
 
 ## Start Here
 
 - Want a quick scan? Open the [live dashboard](${REPOSITORY.pagesUrl}) and sort by the default hot ranking.
 - Looking for what changed this week? Read the [weekly digest](reports/weekly-digest.md).
-- Exploring a specific area? Use the category pages on GitHub Pages or jump to the category list below.
+- Exploring a commerce workflow? Use the category pages on GitHub Pages or jump to the category list below.
 - Evaluating whether a repo is useful? Check the signals column for activity, docs, licensing, production readiness, and self-hosting hints.
 
 ## Snapshot
@@ -79,11 +79,11 @@ Know a useful AI project that should be tracked? [Suggest it here](https://githu
 export function renderChineseReadme(data: ProjectsFile): string {
   const picks = todaysPicks(data.projects);
   const topProjects = data.projects.slice(0, 30);
-  const topNew = newestProjects(data.projects).slice(0, 10);
+  const topNew = newestProjects(data.projects, data.date).slice(0, 10);
 
   return `# Awesome AI GitHub
 
-每日 AI 开源雷达：更早发现正在快速增长的 LLM、Agent、RAG、生成式 AI 与 AI 基础设施项目。
+每日 AI + 电商开源雷达：更早发现正在快速增长的导购客服、店铺智能体、运营技能、商品 RAG、营销素材生成与零售 AI 基础设施项目。
 
 [English](README.md) | [从这里开始](START_HERE.zh-CN.md) | [在线榜单](${REPOSITORY.pagesUrl}) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md) | [推荐项目](https://github.com/${REPOSITORY.owner}/${REPOSITORY.name}/issues/new?template=suggest-project.yml) | [数据文件](data/projects.json)
 
@@ -91,13 +91,13 @@ export function renderChineseReadme(data: ProjectsFile): string {
 
 ## 为什么做这个
 
-AI 开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助开发者、研究者和创业者更早发现有价值的开源工作。
+AI + 电商开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助商家、运营者、开发者和创业者更早发现有价值的开源工作。
 
 ## 从这里开始
 
 - 想快速浏览：打开[在线榜单](${REPOSITORY.pagesUrl})，默认就是综合热度排序。
 - 想看本周变化：阅读[每周摘要](reports/weekly-digest.zh-CN.md)。
-- 想按方向探索：使用 GitHub Pages 里的分类专题页，或直接看下面的分类列表。
+- 想按电商场景探索：使用 GitHub Pages 里的分类专题页，或直接看下面的分类列表。
 - 想判断项目是否值得投入时间：看“标签”列里的活跃度、文档、许可、生产可用、自托管等信号。
 
 ## 今日快照
@@ -150,22 +150,23 @@ export function renderEnglishStartHere(data: ProjectsFile): string {
 
 [Back to README](${REPOSITORY.url}#readme) | [Live dashboard](${REPOSITORY.pagesUrl}) | [Weekly digest](reports/weekly-digest.md) | [Methodology](METHODOLOGY.md)
 
-Awesome AI GitHub is designed for people who want to find useful AI open-source projects quickly, without manually refreshing dozens of trending pages.
+Awesome AI GitHub is designed for people building AI-powered commerce products, merchant tools, growth workflows, and retail operations without manually refreshing dozens of trending pages.
 
 ## Choose Your Path
 
-- Building with LLMs or chat interfaces: start with [LLM & Chatbots](${REPOSITORY.pagesUrl}llm.html).
-- Building agents or automated workflows: start with [Agents](${REPOSITORY.pagesUrl}agents.html).
-- Building knowledge-base apps: start with [RAG & Knowledge](${REPOSITORY.pagesUrl}rag.html).
-- Building image, video, audio, or creative tools: start with [Generative AI](${REPOSITORY.pagesUrl}generative-ai.html).
-- Deploying or operating models: start with [AI Infrastructure](${REPOSITORY.pagesUrl}ai-infra.html).
-- Comparing model quality: start with [Evaluation & Benchmarks](${REPOSITORY.pagesUrl}evaluation.html).
-- Exploring embodied systems: start with [Robotics & Embodied AI](${REPOSITORY.pagesUrl}robotics.html).
+- Building shopping assistants, customer-service chat, or product Q&A: start with [Commerce LLM & Shopping Chat](${REPOSITORY.pagesUrl}llm.html).
+- Automating merchant operations, skills, listings, pricing, ads, SOPs, or CRM: start with [Commerce Agents & Ops Skills](${REPOSITORY.pagesUrl}agents.html).
+- Building catalog search, FAQ, or product knowledge retrieval: start with [Product RAG & Knowledge Search](${REPOSITORY.pagesUrl}rag.html).
+- Generating product images, ads, short videos, or listing copy: start with [Generative Commerce Content](${REPOSITORY.pagesUrl}generative-ai.html).
+- Deploying commerce AI systems, recommendation/search infra, or data pipelines: start with [Commerce AI Infrastructure](${REPOSITORY.pagesUrl}ai-infra.html).
+- Measuring recommendation quality, conversion, attribution, or LLM behavior: start with [Commerce Evaluation & Growth Analytics](${REPOSITORY.pagesUrl}evaluation.html).
+- Exploring warehouse, inventory, shelf, delivery, or retail robotics: start with [Retail Robotics & Fulfillment](${REPOSITORY.pagesUrl}robotics.html).
 
 ## How To Read The Signals
 
 - Fast growing: recent 24h or 7d star movement is unusually strong.
 - Recently active: the repository was pushed recently.
+- Commerce skill: the project includes ecommerce operations skills, platform playbooks, SOPs, or merchant workflow hints.
 - Docs available: homepage, docs topics, or documentation language exists.
 - Good starting point: examples, tutorials, templates, or beginner-friendly wording appears.
 - Production oriented: deploy, serving, workflow, scale, or strong active traction signals are present.
@@ -198,22 +199,23 @@ export function renderChineseStartHere(data: ProjectsFile): string {
 
 [返回 README](${REPOSITORY.url}/blob/main/README.zh-CN.md) | [在线榜单](${REPOSITORY.pagesUrl}) | [每周摘要](reports/weekly-digest.zh-CN.md) | [排名方法](METHODOLOGY.zh-CN.md)
 
-Awesome AI GitHub 面向想快速发现 AI 开源项目的人：不用每天手动刷多个榜单，也能看到正在增长、值得进一步了解的项目。
+Awesome AI GitHub 面向做 AI + 电商的人：不用每天手动刷多个榜单，也能看到正在增长、值得进一步了解的开源项目。
 
 ## 按你的目标进入
 
-- 做 LLM 或聊天应用：先看[大语言模型与聊天](${REPOSITORY.pagesUrl}llm.html)。
-- 做智能体或自动化工作流：先看[智能体](${REPOSITORY.pagesUrl}agents.html)。
-- 做知识库应用：先看[RAG 与知识库](${REPOSITORY.pagesUrl}rag.html)。
-- 做图像、视频、音频或创意工具：先看[生成式 AI](${REPOSITORY.pagesUrl}generative-ai.html)。
-- 做模型部署、推理或工程化：先看[AI 基础设施](${REPOSITORY.pagesUrl}ai-infra.html)。
-- 关注模型质量对比：先看[评测与基准](${REPOSITORY.pagesUrl}evaluation.html)。
-- 探索具身智能：先看[机器人与具身智能](${REPOSITORY.pagesUrl}robotics.html)。
+- 做导购助手、客服对话或商品问答：先看[电商 LLM 与导购客服](${REPOSITORY.pagesUrl}llm.html)。
+- 做店铺运营、运营技能、上架、定价、投放、SOP 或 CRM 自动化：先看[电商智能体与运营技能](${REPOSITORY.pagesUrl}agents.html)。
+- 做商品目录搜索、FAQ 或知识库检索：先看[商品 RAG 与知识检索](${REPOSITORY.pagesUrl}rag.html)。
+- 做商品图、广告素材、短视频或详情文案：先看[电商生成式内容](${REPOSITORY.pagesUrl}generative-ai.html)。
+- 做推荐/搜索基础设施、模型服务或数据管线：先看[电商 AI 基础设施](${REPOSITORY.pagesUrl}ai-infra.html)。
+- 关注推荐质量、转化、归因或 LLM 表现：先看[电商评测与增长分析](${REPOSITORY.pagesUrl}evaluation.html)。
+- 探索仓储、库存、货架识别、配送或零售机器人：先看[零售机器人与履约自动化](${REPOSITORY.pagesUrl}robotics.html)。
 
 ## 怎么看标签
 
 - 增长快：24 小时或 7 天增星明显。
 - 近期活跃：仓库最近有 push。
+- 电商技能：项目包含电商运营技能、平台打法、SOP 或商家工作流线索。
 - 有文档：存在 homepage、docs topic 或文档相关描述。
 - 适合入门：出现 examples、tutorial、template、beginner 等信号。
 - 偏生产可用：出现 deploy、serving、workflow、scale 等工程化信号，或项目活跃且基础热度较高。
@@ -1260,9 +1262,9 @@ ${projectTable(digestProjects, "en")}
 
 ## How To Use This Digest
 
-- Developers: scan for libraries, frameworks, and examples worth trying this week.
-- Researchers: watch emerging implementation patterns and evaluation tooling.
-- Founders: look for fast-growing pain points, categories, and developer workflows.
+- Commerce builders: scan for libraries, frameworks, and examples worth trying this week.
+- Operators: watch automation, operations skills, catalog, content, search, and growth tooling.
+- Founders: look for fast-growing merchant pain points, categories, and workflows.
 
 Growth values with a trailing \`+\` are lower bounds from GitHub stargazer pagination.
 `;
@@ -1290,9 +1292,9 @@ ${projectTable(digestProjects, "zh")}
 
 ## 如何使用这份摘要
 
-- 开发者：快速发现本周值得尝试的库、框架和示例。
-- 研究者：观察新兴实现范式和评测工具。
-- 创业者：发现正在变热的痛点、类别和开发者工作流。
+- 电商开发者：快速发现本周值得尝试的库、框架和示例。
+- 运营者：观察自动化、运营技能、商品库、内容、搜索和增长工具。
+- 创业者：发现正在变热的商家痛点、类别和工作流。
 
 带 \`+\` 的增星值代表受 GitHub stargazer 分页限制影响，是下限值。
 `;
@@ -1454,30 +1456,30 @@ function picksList(projects: Project[], language: "en" | "zh"): string {
 function categoryAudience(slug: string, language: "en" | "zh"): string {
   const text = {
     en: {
-      llm: "Useful for developers building chat products, prompt tooling, model wrappers, local LLM workflows, and orchestration layers.",
-      agents: "Useful for teams exploring autonomous workflows, tool calling, coding agents, browser agents, and multi-agent collaboration.",
-      rag: "Useful for builders creating knowledge-base products, document search, vector retrieval, indexing pipelines, and enterprise assistants.",
-      "generative-ai": "Useful for creators and engineers working on image, video, audio, 3D, diffusion, and multimodal generation workflows.",
-      "ai-infra": "Useful for people deploying, serving, observing, optimizing, and operating AI systems in real products.",
-      evaluation: "Useful for researchers and engineering teams comparing model behavior, quality, benchmarks, observability, and regression testing.",
-      robotics: "Useful for builders following embodied AI, robotics simulation, planning, autonomy, and real-world agent systems."
+      llm: "Useful for teams building shopping assistants, customer-service copilots, product Q&A, review summarization, and prompt workflows for merchants.",
+      agents: "Useful for teams automating merchant operations, reusable operations skills, product listings, pricing, ads, SOPs, CRM, order handling, and cross-tool commerce workflows.",
+      rag: "Useful for builders creating product catalog search, FAQ assistants, semantic retrieval, vector indexes, and knowledge systems for shoppers or operators.",
+      "generative-ai": "Useful for creators and engineers generating product photos, backgrounds, ad creatives, listing copy, short videos, and campaign assets.",
+      "ai-infra": "Useful for people deploying commerce AI, recommendation/search infrastructure, model serving, MLOps, feature stores, and data pipelines.",
+      evaluation: "Useful for growth, data, and engineering teams measuring recommendation quality, ranking, conversion, attribution, LLM behavior, and observability.",
+      robotics: "Useful for builders following warehouse automation, shelf scanning, inventory systems, fulfillment, delivery, and embodied AI in retail operations."
     },
     zh: {
-      llm: "适合正在做聊天产品、提示词工具、模型封装、本地 LLM 工作流和模型编排的开发者。",
-      agents: "适合探索自主工作流、工具调用、编程智能体、浏览器智能体和多智能体协作的团队。",
-      rag: "适合构建知识库产品、文档搜索、向量检索、索引管线和企业助手的开发者。",
-      "generative-ai": "适合关注图像、视频、音频、3D、扩散模型和多模态生成工作流的创作者与工程师。",
-      "ai-infra": "适合负责部署、服务化、观测、优化和运行 AI 系统的人。",
-      evaluation: "适合比较模型行为、质量、基准测试、可观测性和回归测试的研究者与工程团队。",
-      robotics: "适合关注具身智能、机器人仿真、规划、自主系统和真实世界智能体的开发者。"
+      llm: "适合做导购助手、客服副驾、商品问答、评价总结和商家提示词工作流的团队。",
+      agents: "适合自动化店铺运营、可复用运营技能、商品上架、定价、广告投放、SOP、CRM、订单处理和跨工具电商流程的团队。",
+      rag: "适合构建商品目录搜索、FAQ 助手、语义检索、向量索引和面向消费者或运营人员的知识系统。",
+      "generative-ai": "适合生成商品图、背景图、广告素材、详情文案、短视频和营销活动资产的创作者与工程师。",
+      "ai-infra": "适合负责电商 AI 部署、推荐/搜索基础设施、模型服务、MLOps、特征平台和数据管线的人。",
+      evaluation: "适合增长、数据和工程团队衡量推荐质量、排序、转化、归因、LLM 表现和可观测性。",
+      robotics: "适合关注仓储自动化、货架识别、库存系统、履约配送和零售运营具身智能的开发者。"
     }
   } as const;
 
   return text[language][slug as keyof (typeof text)["en"]] ?? (language === "zh" ? "适合想快速了解该方向开源生态的人。" : "Useful for people who want a quick view of this open-source area.");
 }
 
-function newestProjects(projects: Project[]): Project[] {
-  const cutoff = new Date();
+function newestProjects(projects: Project[], referenceDate: string): Project[] {
+  const cutoff = new Date(`${referenceDate}T00:00:00.000Z`);
   cutoff.setUTCDate(cutoff.getUTCDate() - SETTINGS.newcomerDays);
 
   return projects

@@ -1,38 +1,42 @@
-# Robotics & Embodied AI
+# Retail Robotics & Fulfillment
 
 [Back to dashboard](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [Start Here](https://dingminghbut.github.io/Awesome-AI-GitHub/start-here.html) | [Suggest a project](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)
 
-Robotics, embodied AI, simulators, planning, and autonomous systems.
+Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.
 
 ## Category Snapshot
 
-- Projects tracked: 6
+- Projects tracked: 8
 - Recently active projects: 5
 - Docs or homepage signal: 5
-- Updated: Jul 7, 2026, 6:26 AM UTC
+- Updated: Jul 7, 2026, 9:22 AM UTC
 
 ## Who This Helps
 
-Useful for builders following embodied AI, robotics simulation, planning, autonomy, and real-world agent systems.
+Useful for builders following warehouse automation, shelf scanning, inventory systems, fulfillment, delivery, and embodied AI in retail operations.
 
 ## Trending Now
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Robotics & Embodied AI | Fast growing, Recently active, Open license, Docs available | 7,738 | +106 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
-| 2 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | Robotics & Embodied AI | Fast growing, Recently active, Docs available, Good starting point | 1,930 | +39 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Robotics & Embodied AI | Fast growing, Recently active, Open license, Docs available | 63,017 | +26 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 4 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | Robotics & Embodied AI | Fast growing, Recently active, Good starting point, Production oriented | 82,316 | +18 | +200+ | Unknown | List of Computer Science courses with video lectures. |
-| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | Robotics & Embodied AI | Fast growing, Docs available, Good starting point, Demo or app | 14,637 | +19 | +138 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
-| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | Robotics & Embodied AI | Recently active, Open license, Docs available, Production oriented | 44,203 | +7 | +51 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Recently active, Open license, Demo or app | 33 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 2 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
+| 4 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 67 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
+| 5 | [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Good starting point | 36 | +0 | +0 | Python | Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs. |
+| 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | Retail Robotics & Fulfillment | Commerce skill, Docs available, Demo or app | 31 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
+| 7 | [GreenHacker420/Tally_sync](https://github.com/GreenHacker420/Tally_sync) | Retail Robotics & Fulfillment | Commerce skill, Open license, Good starting point, Demo or app | 14 | +0 | +0 | JavaScript | FinSync360 is a full-stack, cloud-based ERP system with seamless Tally integration. It features comprehensive accounting, advanced inventory, digital payments, GST compliance, AI-powered analytics, and cross-platform support (Web, Mobile, Desktop). Built with Node.js, React, Electron, and Python FastAPI. |
+| 8 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Demo or app | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Robotics & Embodied AI | Fast growing, Recently active, Open license, Docs available | 7,738 | +106 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
-| 2 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | Robotics & Embodied AI | Fast growing, Recently active, Docs available, Good starting point | 1,930 | +39 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Robotics & Embodied AI | Fast growing, Recently active, Open license, Docs available | 63,017 | +26 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 4 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | Robotics & Embodied AI | Fast growing, Recently active, Good starting point, Production oriented | 82,316 | +18 | +200+ | Unknown | List of Computer Science courses with video lectures. |
-| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | Robotics & Embodied AI | Fast growing, Docs available, Good starting point, Demo or app | 14,637 | +19 | +138 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
-| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | Robotics & Embodied AI | Recently active, Open license, Docs available, Production oriented | 44,203 | +7 | +51 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Recently active, Open license, Demo or app | 33 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 2 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
+| 4 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 67 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
+| 5 | [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Good starting point | 36 | +0 | +0 | Python | Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs. |
+| 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | Retail Robotics & Fulfillment | Commerce skill, Docs available, Demo or app | 31 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
+| 7 | [GreenHacker420/Tally_sync](https://github.com/GreenHacker420/Tally_sync) | Retail Robotics & Fulfillment | Commerce skill, Open license, Good starting point, Demo or app | 14 | +0 | +0 | JavaScript | FinSync360 is a full-stack, cloud-based ERP system with seamless Tally integration. It features comprehensive accounting, advanced inventory, digital payments, GST compliance, AI-powered analytics, and cross-platform support (Web, Mobile, Desktop). Built with Node.js, React, Electron, and Python FastAPI. |
+| 8 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Demo or app | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |

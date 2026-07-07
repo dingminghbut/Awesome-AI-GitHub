@@ -1,4 +1,4 @@
-import { CATEGORIES } from "./config.js";
+import { CATEGORIES, COMMERCE_PLATFORM_KEYWORDS, COMMERCE_SKILL_KEYWORDS } from "./config.js";
 import { daysBetweenUtc } from "./date.js";
 import type { Project, ProjectsFile } from "./types.js";
 
@@ -97,6 +97,10 @@ export function projectSignals(project: Project): ProjectSignal[] {
     signals.push({ slug: "active", en: "Recently active", zh: "近期活跃" });
   }
 
+  if (containsAny(text, [...COMMERCE_SKILL_KEYWORDS, ...COMMERCE_PLATFORM_KEYWORDS, "seller", "merchant", "commerce", "retail"])) {
+    signals.push({ slug: "commerce-skill", en: "Commerce skill", zh: "电商技能" });
+  }
+
   if (project.license !== "Unknown" && project.license !== "NOASSERTION") {
     signals.push({ slug: "open-license", en: "Open license", zh: "开源许可" });
   }
@@ -153,7 +157,7 @@ function searchableProjectText(project: Project): string {
     .toLowerCase();
 }
 
-function containsAny(value: string, needles: string[]): boolean {
+function containsAny(value: string, needles: readonly string[]): boolean {
   return needles.some((needle) => value.includes(needle));
 }
 

@@ -16,16 +16,22 @@ body:
     attributes:
       label: Best category
       options:
-        - LLM & Chatbots
-        - Agents
-        - RAG & Knowledge
-        - Generative AI
-        - AI Infrastructure
-        - Evaluation & Benchmarks
-        - Robotics & Embodied AI
+        - Commerce LLM & Shopping Chat
+        - Commerce Agents & Ops Skills
+        - Product RAG & Knowledge Search
+        - Generative Commerce Content
+        - Commerce AI Infrastructure
+        - Commerce Evaluation & Growth Analytics
+        - Retail Robotics & Fulfillment
         - Other
     validations:
       required: true
+  - type: textarea
+    id: commerce_skill
+    attributes:
+      label: Commerce skill or workflow
+      description: Name the ecommerce skill, platform playbook, SOP, or operator workflow this project helps with.
+      placeholder: Product selection, listing optimization, ad campaigns, customer support, review management, private traffic, data recap...
   - type: textarea
     id: value
     attributes:

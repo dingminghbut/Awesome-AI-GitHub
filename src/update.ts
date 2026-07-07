@@ -36,17 +36,21 @@ async function main(): Promise<void> {
 
   const snapshots = await readSnapshots();
   let projects = applyDeltas(toProjects(candidates.values(), generatedAt), snapshots, today).slice(0, SETTINGS.maxProjects);
-  try {
-    console.log(`Fetching recent stargazers for ${projects.length} repositories.`);
-    const recentStars = await client.recentStarCounts(
-      projects.map((project) => project.fullName),
-      sinceDaily,
-      sinceWeekly
-    );
-    projects = applyRecentStarCounts(projects, recentStars).slice(0, SETTINGS.maxProjects);
-  } catch (error) {
-    console.warn("Recent stargazer lookup failed; falling back to snapshot deltas.");
-    console.warn(error);
+  if (token) {
+    try {
+      console.log(`Fetching recent stargazers for ${projects.length} repositories.`);
+      const recentStars = await client.recentStarCounts(
+        projects.map((project) => project.fullName),
+        sinceDaily,
+        sinceWeekly
+      );
+      projects = applyRecentStarCounts(projects, recentStars).slice(0, SETTINGS.maxProjects);
+    } catch (error) {
+      console.warn("Recent stargazer lookup failed; falling back to snapshot deltas.");
+      console.warn(error);
+    }
+  } else {
+    console.log("No token found; skipping recent stargazer lookup and using snapshot deltas.");
   }
   const data = buildProjectsFile(projects);
   const snapshot = toSnapshot(projects, today, generatedAt);

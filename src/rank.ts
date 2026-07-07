@@ -1,4 +1,4 @@
-import { CATEGORIES } from "./config.js";
+import { CATEGORIES, COMMERCE_PLATFORM_KEYWORDS } from "./config.js";
 import { daysBetweenUtc } from "./date.js";
 import type { GitHubSearchItem, Project, RecentStarCount, Snapshot } from "./types.js";
 
@@ -9,6 +9,10 @@ type Candidate = {
 
 export function addCandidate(candidates: Map<number, Candidate>, item: GitHubSearchItem, categorySlug: string): void {
   if (item.archived || item.disabled || item.fork) {
+    return;
+  }
+
+  if (!isCommerceRelevant(item)) {
     return;
   }
 
@@ -154,6 +158,69 @@ function classify(item: GitHubSearchItem, matchedCategories: Set<string>): strin
   }
 
   return slugs.length > 0 ? slugs.slice(0, 3) : ["llm"];
+}
+
+function isCommerceRelevant(item: GitHubSearchItem): boolean {
+  const text = [
+    item.name,
+    item.full_name,
+    item.description ?? "",
+    item.homepage ?? "",
+    item.language ?? "",
+    ...(item.topics ?? [])
+  ]
+    .join(" ")
+    .toLowerCase();
+
+  const relevanceKeywords = [
+    ...COMMERCE_PLATFORM_KEYWORDS,
+    "ecommerce",
+    "e-commerce",
+    "commerce",
+    "shopping",
+    "shop",
+    "store",
+    "seller",
+    "merchant",
+    "retail",
+    "customer service",
+    "customer support",
+    "product",
+    "catalog",
+    "sku",
+    "listing",
+    "pricing",
+    "order",
+    "inventory",
+    "fulfillment",
+    "warehouse",
+    "delivery",
+    "fashion",
+    "try-on",
+    "ad creative",
+    "marketing",
+    "campaign",
+    "conversion",
+    "attribution",
+    "sales",
+    "商品",
+    "电商",
+    "店铺",
+    "商家",
+    "零售",
+    "导购",
+    "客服",
+    "选品",
+    "上架",
+    "投放",
+    "订单",
+    "库存",
+    "履约",
+    "营销",
+    "转化"
+  ] as const;
+
+  return relevanceKeywords.some((keyword) => text.includes(keyword.toLowerCase()));
 }
 
 function findBaseline(snapshots: Snapshot[], today: string, days: number): Snapshot | null {

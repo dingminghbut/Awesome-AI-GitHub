@@ -1,38 +1,42 @@
-# 机器人与具身智能
+# 零售机器人与履约自动化
 
 [返回在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [从这里开始](https://dingminghbut.github.io/Awesome-AI-GitHub/start-here.html) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)
 
-机器人、具身智能、仿真器、规划与自主系统。
+仓储机器人、库存自动化、货架识别、履约配送与零售运营中的具身智能。
 
 ## 分类快照
 
-- 收录项目：6
+- 收录项目：8
 - 近期活跃项目：5
 - 有文档或主页信号：5
-- 更新时间：Jul 7, 2026, 6:26 AM UTC
+- 更新时间：Jul 7, 2026, 9:22 AM UTC
 
 ## 适合谁看
 
-适合关注具身智能、机器人仿真、规划、自主系统和真实世界智能体的开发者。
+适合关注仓储自动化、货架识别、库存系统、履约配送和零售运营具身智能的开发者。
 
 ## 当前热门
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 7,738 | +106 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
-| 2 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 机器人与具身智能 | 增长快, 近期活跃, 有文档, 适合入门 | 1,930 | +39 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 63,017 | +26 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 4 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 机器人与具身智能 | 增长快, 近期活跃, 适合入门, 偏生产可用 | 82,316 | +18 | +200+ | Unknown | List of Computer Science courses with video lectures. |
-| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 机器人与具身智能 | 增长快, 有文档, 适合入门, 有演示/应用 | 14,637 | +19 | +138 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
-| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 机器人与具身智能 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 44,203 | +7 | +51 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 近期活跃, 开源许可, 有演示/应用 | 33 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 2 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
+| 4 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 67 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
+| 5 | [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合入门 | 36 | +0 | +0 | Python | Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs. |
+| 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 31 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
+| 7 | [GreenHacker420/Tally_sync](https://github.com/GreenHacker420/Tally_sync) | 零售机器人与履约自动化 | 电商技能, 开源许可, 适合入门, 有演示/应用 | 14 | +0 | +0 | JavaScript | FinSync360 is a full-stack, cloud-based ERP system with seamless Tally integration. It features comprehensive accounting, advanced inventory, digital payments, GST compliance, AI-powered analytics, and cross-platform support (Web, Mobile, Desktop). Built with Node.js, React, Electron, and Python FastAPI. |
+| 8 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 有演示/应用 | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 7,738 | +106 | +200+ | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
-| 2 | [Octoday-Hub/Embodied-AI](https://github.com/Octoday-Hub/Embodied-AI) | 机器人与具身智能 | 增长快, 近期活跃, 有文档, 适合入门 | 1,930 | +39 | +200+ | Unknown | 星期八 Octoday 「具身智能知识索引与产业地图」 |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | 机器人与具身智能 | 增长快, 近期活跃, 开源许可, 有文档 | 63,017 | +26 | +200+ | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
-| 4 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 机器人与具身智能 | 增长快, 近期活跃, 适合入门, 偏生产可用 | 82,316 | +18 | +200+ | Unknown | List of Computer Science courses with video lectures. |
-| 5 | [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | 机器人与具身智能 | 增长快, 有文档, 适合入门, 有演示/应用 | 14,637 | +19 | +138 | Unknown | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide |
-| 6 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 机器人与具身智能 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 44,203 | +7 | +51 | JavaScript | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 近期活跃, 开源许可, 有演示/应用 | 33 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 2 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
+| 4 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 67 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
+| 5 | [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合入门 | 36 | +0 | +0 | Python | Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs. |
+| 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 31 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
+| 7 | [GreenHacker420/Tally_sync](https://github.com/GreenHacker420/Tally_sync) | 零售机器人与履约自动化 | 电商技能, 开源许可, 适合入门, 有演示/应用 | 14 | +0 | +0 | JavaScript | FinSync360 is a full-stack, cloud-based ERP system with seamless Tally integration. It features comprehensive accounting, advanced inventory, digital payments, GST compliance, AI-powered analytics, and cross-platform support (Web, Mobile, Desktop). Built with Node.js, React, Electron, and Python FastAPI. |
+| 8 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 有演示/应用 | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |

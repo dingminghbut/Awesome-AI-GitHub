@@ -25,13 +25,13 @@ Awesome AI GitHub is a daily AI open-source radar. It is designed to help people
 
 ## Categories
 
-- **LLM & Chatbots** - Large language models, chat apps, prompt tooling, and model orchestration.
-- **Agents** - Agent frameworks, autonomous workflows, tool use, and multi-agent systems.
-- **RAG & Knowledge** - Retrieval augmented generation, vector search, indexing, and knowledge systems.
-- **Generative AI** - Image, video, audio, 3D, diffusion, and creative AI projects.
-- **AI Infrastructure** - Inference, serving, MLOps, deployment, optimization, and developer infrastructure.
-- **Evaluation & Benchmarks** - Evaluation suites, benchmarks, observability, and model quality tooling.
-- **Robotics & Embodied AI** - Robotics, embodied AI, simulators, planning, and autonomous systems.
+- **Commerce LLM & Shopping Chat** - Shopping assistants, customer-service chatbots, product Q&A, review summarization, sales scripts, and commerce prompt workflows.
+- **Commerce Agents & Ops Skills** - Agents and skill playbooks for merchant operations, listings, pricing, ads, CRM, order handling, SOPs, and multi-step commerce workflows.
+- **Product RAG & Knowledge Search** - Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing, and shopper-facing search experiences.
+- **Generative Commerce Content** - Product images, ad creatives, listing copy, short videos, virtual try-on, backgrounds, campaign assets, and operator-ready content workflows.
+- **Commerce AI Infrastructure** - Serving, MLOps, data pipelines, search/recommendation infrastructure, feature stores, and platform tooling for commerce AI.
+- **Commerce Evaluation & Growth Analytics** - Recommendation evaluation, A/B testing, attribution, conversion analytics, growth operations metrics, LLM quality checks, and commerce observability.
+- **Retail Robotics & Fulfillment** - Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.
 
 ## No Database
 

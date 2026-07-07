@@ -1,52 +1,54 @@
-# 生成式 AI
+# 电商生成式内容
 
 [返回在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [从这里开始](https://dingminghbut.github.io/Awesome-AI-GitHub/start-here.html) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)
 
-图像、视频、音频、3D、扩散模型与创意 AI 项目。
+商品图、广告素材、详情文案、短视频、虚拟试穿、背景图、营销活动素材与运营内容工作流。
 
 ## 分类快照
 
-- 收录项目：16
-- 近期活跃项目：14
-- 有文档或主页信号：13
-- 更新时间：Jul 7, 2026, 6:26 AM UTC
+- 收录项目：18
+- 近期活跃项目：9
+- 有文档或主页信号：10
+- 更新时间：Jul 7, 2026, 9:22 AM UTC
 
 ## 适合谁看
 
-适合关注图像、视频、音频、3D、扩散模型和多模态生成工作流的创作者与工程师。
+适合生成商品图、背景图、广告素材、详情文案、短视频和营销活动资产的创作者与工程师。
 
 ## 当前热门
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,695 | +200+ | +200+ | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
-| 2 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 22,624 | +100 | +200+ | JavaScript | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
-| 3 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 68,749 | +84 | +200+ | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
-| 4 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 22,217 | +33 | +200+ | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
-| 5 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 生成式 AI | 增长快, 开源许可, 有演示/应用 | 164,015 | +25 | +200+ | Python | Stable Diffusion web UI |
-| 6 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 28,146 | +26 | +159 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
-| 7 | [vercel/ai](https://github.com/vercel/ai) | 生成式 AI | 增长快, 近期活跃, 有文档, 偏生产可用 | 25,389 | +23 | +161 | TypeScript | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
-| 8 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 24,662 | +24 | +133 | Shell | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
-| 9 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 5,466 | +16 | +112 | Python | A framework for efficient model inference with omni-modality models |
-| 10 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 生成式 AI | 近期活跃, 有文档, 偏生产可用, 适合自托管 | 20,840 | +18 | +75 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
-| 11 | [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | 生成式 AI | 开源许可, 偏生产可用 | 21,120 | +12 | +68 | TypeScript | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. |
-| 12 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 34,000 | +13 | +62 | Python | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch. |
-| 13 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 15,122 | +11 | +55 | TypeScript | Open-source AI coworker, with memory |
-| 14 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 17,197 | +6 | +40 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform |
-| 15 | [huggingface/peft](https://github.com/huggingface/peft) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 21,369 | +4 | +33 | Python | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
-| 16 | [wandb/openui](https://github.com/wandb/openui) | 生成式 AI | 近期活跃, 开源许可, 有文档, 偏生产可用 | 22,453 | +4 | +24 | TypeScript | OpenUI let's you describe UI using your imagination, then see it rendered live. |
+| 1 | [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 电商生成式内容 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 16,239 | +0 | +0 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. |
+| 2 | [yuqie6/ProductFlow](https://github.com/yuqie6/ProductFlow) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 284 | +0 | +0 | Python | gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows |
+| 3 | [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) | 电商生成式内容 | 开源许可 | 458 | +0 | +0 | Python | AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg) |
+| 4 | [tryonlabs/opentryon](https://github.com/tryonlabs/opentryon) | 电商生成式内容 | 近期活跃, 有文档, 有演示/应用 | 510 | +0 | +0 | Jupyter Notebook | Open-source APIs, SDKs, and models for building virtual try-on and fashion AI applications. Generate models, edit garments, create photoshoots, and build personalized fashion experiences. |
+| 5 | [wendashi/Cool-GenAI-Fashion-Papers](https://github.com/wendashi/Cool-GenAI-Fashion-Papers) | 电商生成式内容 | 近期活跃, 有文档, 适合入门, 研究/评测 | 242 | +0 | +0 | Unknown | [ACM TIST 2025] GenAI in Fashion: Overview, also includes 🔥latest papers, ⚙️metrics, 👀workshops, 🚀companies & products, ...) |
+| 6 | [Anil-matcha/Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 262 | +0 | +0 | JavaScript | Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted. |
+| 7 | [JollyToday/AI_Image_Translator_Translate_Images](https://github.com/JollyToday/AI_Image_Translator_Translate_Images) | 电商生成式内容 | 近期活跃, 有文档 | 100 | +0 | +0 | Unknown | AI Image Translation Tool-An excellent translator for photos, pictures, posters, covers, banners and product images.AI图片翻译-很棒的批量跨境电商\|海报\|商品图片翻译，擦除干净，排版整齐。 |
+| 8 | [NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment](https://github.com/NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可 | 30 | +0 | +0 | Python | A GenAI-powered catalog enrichment system that transforms basic product images into comprehensive, rich catalog |
+| 9 | [GoogleCloudPlatform/genai-product-catalog](https://github.com/GoogleCloudPlatform/genai-product-catalog) | 电商生成式内容 | 近期活跃, 电商技能, 有文档 | 69 | +0 | +0 | Jupyter Notebook | Google Cloud Product Cataloging Solution using Generative AI |
+| 10 | [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) | 电商生成式内容 | 有文档, 适合入门, 有演示/应用 | 219 | +0 | +0 | Unknown | 1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design & more. |
+| 11 | [Genaker/AgentoAI](https://github.com/Genaker/AgentoAI) | 电商生成式内容 | 电商技能, 开源许可 | 90 | +0 | +0 | PHP | AgentoAI: Magento MCP AI Agent and AI features for Magento: - product content creation, report generation, grid filters, product promotion image creation, product video creation. AI analytics. |
+| 12 | [mkhsu2002/EC-Designer](https://github.com/mkhsu2002/EC-Designer) | 电商生成式内容 | 电商技能, 开源许可, 有文档 | 54 | +0 | +0 | TypeScript | AI 電商商品圖文生成工具，從產品圖自動生成完整行銷素材包，同時生成三條行銷策略路線，一批次產出產品海報、商品主圖及介紹長條圖 。AI-powered product marketing design tool that automatically generates complete social media marketing asset packages (8 images) from product photos, including ad visuals and sales story graphics. |
+| 13 | [mageprince/magento2-mage-ai](https://github.com/mageprince/magento2-mage-ai) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可 | 27 | +0 | +0 | PHP | Magento 2 extension to generate product short/long descriptions and product images with OpenAI (ChatGPT), Anthropic (Claude) & Google Gemini. Customizable prompts, multiple models, and clean HTML output. Save time and enhance your catalog with AI. |
+| 14 | [cliprise/awesome-ai-ugc-video-prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) | 电商生成式内容 | 电商技能, 有文档, 适合入门, 偏生产可用 | 26 | +0 | +0 | Unknown | AI UGC video prompts, creator-style ad workflows, TikTok/Reels UGC templates, product demo prompts and Cliprise creative resources. |
+| 15 | [creatify-ai/ad-creative-evaluator](https://github.com/creatify-ai/ad-creative-evaluator) | 电商生成式内容 | 开源许可, 研究/评测 | 25 | +0 | +0 | Python | Claude agent skill: Score any video ad with an AI expert panel. 8-dimension rubric + 3 specialist personas. |
+| 16 | [venkat-2608/ai-virtual-fitting-suite](https://github.com/venkat-2608/ai-virtual-fitting-suite) | 电商生成式内容 | 开源许可, 有演示/应用 | 21 | +0 | +0 | Python | AI-powered virtual try-on system that detects body measurements from images and overlays clothing using computer vision and deep learning to recommend accurate clothing sizes. |
+| 17 | [ellickhou/AIAproject-FittingRoom](https://github.com/ellickhou/AIAproject-FittingRoom) | 电商生成式内容 | 值得观察 | 28 | +0 | +0 | Python | Virtual Try-On scheme base on cycleGAN |
+| 18 | [parsakhaz/fashn-tryon-extension](https://github.com/parsakhaz/fashn-tryon-extension) | 电商生成式内容 | 偏生产可用 | 22 | +0 | +0 | TypeScript | A Chrome extension that enables virtual fashion try-on and model swap using FASHN AI. Hover over fashion images on any website to: (1) try garments on your uploaded model images, or (2) swap the model’s identity while preserving the outfit. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 75,695 | +200+ | +200+ | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. |
-| 2 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 22,624 | +100 | +200+ | JavaScript | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
-| 3 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 68,749 | +84 | +200+ | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
-| 4 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 生成式 AI | 增长快, 近期活跃, 开源许可, 偏生产可用 | 22,217 | +33 | +200+ | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
-| 5 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 生成式 AI | 增长快, 开源许可, 有演示/应用 | 164,015 | +25 | +200+ | Python | Stable Diffusion web UI |
-| 6 | [vercel/ai](https://github.com/vercel/ai) | 生成式 AI | 增长快, 近期活跃, 有文档, 偏生产可用 | 25,389 | +23 | +161 | TypeScript | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
-| 7 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 28,146 | +26 | +159 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
-| 8 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 24,662 | +24 | +133 | Shell | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
-| 9 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 生成式 AI | 增长快, 近期活跃, 开源许可, 有文档 | 5,466 | +16 | +112 | Python | A framework for efficient model inference with omni-modality models |
-| 10 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 生成式 AI | 近期活跃, 有文档, 偏生产可用, 适合自托管 | 20,840 | +18 | +75 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
+| 1 | [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 电商生成式内容 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 16,239 | +0 | +0 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. |
+| 2 | [yuqie6/ProductFlow](https://github.com/yuqie6/ProductFlow) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 284 | +0 | +0 | Python | gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows |
+| 3 | [poseljacob/agentic-video-editor](https://github.com/poseljacob/agentic-video-editor) | 电商生成式内容 | 开源许可 | 458 | +0 | +0 | Python | AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg) |
+| 4 | [tryonlabs/opentryon](https://github.com/tryonlabs/opentryon) | 电商生成式内容 | 近期活跃, 有文档, 有演示/应用 | 510 | +0 | +0 | Jupyter Notebook | Open-source APIs, SDKs, and models for building virtual try-on and fashion AI applications. Generate models, edit garments, create photoshoots, and build personalized fashion experiences. |
+| 5 | [wendashi/Cool-GenAI-Fashion-Papers](https://github.com/wendashi/Cool-GenAI-Fashion-Papers) | 电商生成式内容 | 近期活跃, 有文档, 适合入门, 研究/评测 | 242 | +0 | +0 | Unknown | [ACM TIST 2025] GenAI in Fashion: Overview, also includes 🔥latest papers, ⚙️metrics, 👀workshops, 🚀companies & products, ...) |
+| 6 | [Anil-matcha/Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 262 | +0 | +0 | JavaScript | Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted. |
+| 7 | [JollyToday/AI_Image_Translator_Translate_Images](https://github.com/JollyToday/AI_Image_Translator_Translate_Images) | 电商生成式内容 | 近期活跃, 有文档 | 100 | +0 | +0 | Unknown | AI Image Translation Tool-An excellent translator for photos, pictures, posters, covers, banners and product images.AI图片翻译-很棒的批量跨境电商\|海报\|商品图片翻译，擦除干净，排版整齐。 |
+| 8 | [NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment](https://github.com/NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可 | 30 | +0 | +0 | Python | A GenAI-powered catalog enrichment system that transforms basic product images into comprehensive, rich catalog |
+| 9 | [GoogleCloudPlatform/genai-product-catalog](https://github.com/GoogleCloudPlatform/genai-product-catalog) | 电商生成式内容 | 近期活跃, 电商技能, 有文档 | 69 | +0 | +0 | Jupyter Notebook | Google Cloud Product Cataloging Solution using Generative AI |
+| 10 | [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) | 电商生成式内容 | 有文档, 适合入门, 有演示/应用 | 219 | +0 | +0 | Unknown | 1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design & more. |

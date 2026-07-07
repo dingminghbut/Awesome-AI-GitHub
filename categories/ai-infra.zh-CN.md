@@ -1,32 +1,44 @@
-# AI 基础设施
+# 电商 AI 基础设施
 
 [返回在线榜单](https://dingminghbut.github.io/Awesome-AI-GitHub/) | [从这里开始](https://dingminghbut.github.io/Awesome-AI-GitHub/start-here.html) | [推荐项目](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)
 
-推理、服务化、MLOps、部署、优化与开发者基础设施。
+服务化、MLOps、数据管线、搜索/推荐基础设施、特征平台与电商 AI 工程工具。
 
 ## 分类快照
 
-- 收录项目：3
-- 近期活跃项目：3
+- 收录项目：9
+- 近期活跃项目：4
 - 有文档或主页信号：3
-- 更新时间：Jul 7, 2026, 6:26 AM UTC
+- 更新时间：Jul 7, 2026, 9:22 AM UTC
 
 ## 适合谁看
 
-适合负责部署、服务化、观测、优化和运行 AI 系统的人。
+适合负责电商 AI 部署、推荐/搜索基础设施、模型服务、MLOps、特征平台和数据管线的人。
 
 ## 当前热门
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI 基础设施 | 增长快, 近期活跃, 有文档, 偏生产可用 | 52,807 | +109 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
-| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,758 | +11 | +130 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,665 | +13 | +58 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 1,686 | +0 | +0 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [FgForrest/evitaDB](https://github.com/FgForrest/evitaDB) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档 | 69 | +0 | +0 | Java | evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores. |
+| 3 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 21 | +0 | +0 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
+| 4 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
+| 5 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 97 | +0 | +0 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
+| 6 | [Noopur17/retail-ai-intelligence-platform](https://github.com/Noopur17/retail-ai-intelligence-platform) | 电商 AI 基础设施 | 电商技能, 偏生产可用, 研究/评测 | 45 | +0 | +0 | Python | A modular AI platform for Enterprise-inspired Retail AI platform with RAG, semantic search, recommendation systems, OpenAI workflows, and vector retrieval architecture.tail intelligence, combining recommendation systems, fraud detection, customer analytics, and operational intelligence into one production-inspired architecture. |
+| 7 | [nguyenthai-duong/Ecommerce-Recommender-System-On-AWS-With-MLOps](https://github.com/nguyenthai-duong/Ecommerce-Recommender-System-On-AWS-With-MLOps) | 电商 AI 基础设施 | 电商技能, 开源许可, 偏生产可用, 研究/评测 | 62 | +0 | +0 | Jupyter Notebook | Scalable, cloud-native recommender system with end-to-end MLOps for building, training, and deploying models in research and production |
+| 8 | [patcha-ranat/Ecommerce-Invoice-End-to-end](https://github.com/patcha-ranat/Ecommerce-Invoice-End-to-end) | 电商 AI 基础设施 | 电商技能 | 22 | +0 | +0 | Jupyter Notebook | End-to-end Data Project (DA/DS/DE/MLOps) - retail/e-commerce - interpretable dynamic clustering |
+| 9 | [Geta/geta-optimizely-sitemaps](https://github.com/Geta/geta-optimizely-sitemaps) | 电商 AI 基础设施 | 电商技能, 开源许可 | 12 | +0 | +0 | C# | Search engine sitemaps.xml for Optimizely CMS 12 and Commerce 14 |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | AI 基础设施 | 增长快, 近期活跃, 有文档, 偏生产可用 | 52,807 | +109 | +200+ | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
-| 2 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | AI 基础设施 | 增长快, 近期活跃, 开源许可, 有文档 | 1,758 | +11 | +130 | Rust | OpenLake is a high performance storage engine for efficient LLM inference and GPU Training |
-| 3 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | AI 基础设施 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 24,665 | +13 | +58 | HTML | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 1,686 | +0 | +0 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [FgForrest/evitaDB](https://github.com/FgForrest/evitaDB) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档 | 69 | +0 | +0 | Java | evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores. |
+| 3 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 21 | +0 | +0 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
+| 4 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
+| 5 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 97 | +0 | +0 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
+| 6 | [Noopur17/retail-ai-intelligence-platform](https://github.com/Noopur17/retail-ai-intelligence-platform) | 电商 AI 基础设施 | 电商技能, 偏生产可用, 研究/评测 | 45 | +0 | +0 | Python | A modular AI platform for Enterprise-inspired Retail AI platform with RAG, semantic search, recommendation systems, OpenAI workflows, and vector retrieval architecture.tail intelligence, combining recommendation systems, fraud detection, customer analytics, and operational intelligence into one production-inspired architecture. |
+| 7 | [nguyenthai-duong/Ecommerce-Recommender-System-On-AWS-With-MLOps](https://github.com/nguyenthai-duong/Ecommerce-Recommender-System-On-AWS-With-MLOps) | 电商 AI 基础设施 | 电商技能, 开源许可, 偏生产可用, 研究/评测 | 62 | +0 | +0 | Jupyter Notebook | Scalable, cloud-native recommender system with end-to-end MLOps for building, training, and deploying models in research and production |
+| 8 | [patcha-ranat/Ecommerce-Invoice-End-to-end](https://github.com/patcha-ranat/Ecommerce-Invoice-End-to-end) | 电商 AI 基础设施 | 电商技能 | 22 | +0 | +0 | Jupyter Notebook | End-to-end Data Project (DA/DS/DE/MLOps) - retail/e-commerce - interpretable dynamic clustering |
+| 9 | [Geta/geta-optimizely-sitemaps](https://github.com/Geta/geta-optimizely-sitemaps) | 电商 AI 基础设施 | 电商技能, 开源许可 | 12 | +0 | +0 | C# | Search engine sitemaps.xml for Optimizely CMS 12 and Commerce 14 |
