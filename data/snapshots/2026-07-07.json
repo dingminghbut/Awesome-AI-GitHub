@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generatedAt": "2026-07-07T10:06:13.027Z",
+  "generatedAt": "2026-07-07T10:37:01.766Z",
   "projects": [
     {
       "id": 911256711,
@@ -15,16 +15,8 @@
       "fullName": "AgriciDaniel/claude-ads",
       "stars": 6768,
       "forks": 1010,
-      "category": "agents",
-      "pushedAt": "2026-06-26T21:03:50Z"
-    },
-    {
-      "id": 139156354,
-      "fullName": "cvat-ai/cvat",
-      "stars": 16240,
-      "forks": 3738,
       "category": "generative-ai",
-      "pushedAt": "2026-07-07T09:15:18Z"
+      "pushedAt": "2026-06-26T21:03:50Z"
     },
     {
       "id": 70271182,
@@ -53,7 +45,7 @@
     {
       "id": 1177556025,
       "fullName": "nexscope-ai/Amazon-Skills",
-      "stars": 361,
+      "stars": 362,
       "forks": 60,
       "category": "agents",
       "pushedAt": "2026-06-16T06:34:17Z"
@@ -63,7 +55,7 @@
       "fullName": "wzj177/ecommerce-image-suite",
       "stars": 245,
       "forks": 68,
-      "category": "agents",
+      "category": "secondary-images",
       "pushedAt": "2026-04-24T05:04:52Z"
     },
     {
@@ -87,7 +79,7 @@
       "fullName": "AJbeckliy/detail-flow",
       "stars": 52,
       "forks": 10,
-      "category": "agents",
+      "category": "a-plus",
       "pushedAt": "2026-06-11T11:25:23Z"
     },
     {
@@ -363,14 +355,6 @@
       "pushedAt": "2026-06-25T04:12:46Z"
     },
     {
-      "id": 1174726144,
-      "fullName": "takechanman1228/claude-ecom",
-      "stars": 39,
-      "forks": 6,
-      "category": "agents",
-      "pushedAt": "2026-06-11T18:50:46Z"
-    },
-    {
       "id": 990832792,
       "fullName": "CupOfOwls/kroger-mcp",
       "stars": 62,
@@ -407,7 +391,7 @@
       "fullName": "MerlinStacks/overseek",
       "stars": 26,
       "forks": 4,
-      "category": "agents",
+      "category": "robotics",
       "pushedAt": "2026-07-06T23:52:39Z"
     },
     {
@@ -531,6 +515,14 @@
       "pushedAt": "2026-06-26T14:15:27Z"
     },
     {
+      "id": 1069952948,
+      "fullName": "semihbugrasezer/etsy-seo-mcp",
+      "stars": 22,
+      "forks": 6,
+      "category": "title-generation",
+      "pushedAt": "2026-06-29T22:56:37Z"
+    },
+    {
       "id": 1199167796,
       "fullName": "jtrackingai/analytics-tracking-automation",
       "stars": 132,
@@ -579,11 +571,19 @@
       "pushedAt": "2026-07-06T16:15:22Z"
     },
     {
+      "id": 1174726144,
+      "fullName": "takechanman1228/claude-ecom",
+      "stars": 39,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-06-11T18:50:46Z"
+    },
+    {
       "id": 1168265693,
       "fullName": "AndyLinGo/AutoForceAI",
       "stars": 16,
       "forks": 0,
-      "category": "agents",
+      "category": "rag",
       "pushedAt": "2026-06-13T06:01:31Z"
     },
     {
@@ -681,6 +681,14 @@
       "forks": 4,
       "category": "agents",
       "pushedAt": "2026-06-29T22:34:54Z"
+    },
+    {
+      "id": 1168173438,
+      "fullName": "ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant",
+      "stars": 9,
+      "forks": 0,
+      "category": "main-image",
+      "pushedAt": "2026-07-04T18:47:13Z"
     },
     {
       "id": 709930230,
@@ -899,6 +907,14 @@
       "pushedAt": "2026-04-28T18:34:04Z"
     },
     {
+      "id": 1005429601,
+      "fullName": "aws-samples/sample-ai-powered-product-catalog",
+      "stars": 10,
+      "forks": 2,
+      "category": "bullet-points",
+      "pushedAt": "2026-06-17T07:49:47Z"
+    },
+    {
       "id": 612867611,
       "fullName": "coralsio/laraship",
       "stars": 74,
@@ -947,6 +963,14 @@
       "pushedAt": "2026-05-07T14:44:09Z"
     },
     {
+      "id": 1222812664,
+      "fullName": "angeo-dev/module-aeo-audit",
+      "stars": 10,
+      "forks": 1,
+      "category": "faq-generation",
+      "pushedAt": "2026-06-14T18:51:01Z"
+    },
+    {
       "id": 961740656,
       "fullName": "mageprince/magento2-mage-ai",
       "stars": 27,
@@ -979,14 +1003,6 @@
       "pushedAt": "2026-05-08T01:01:06Z"
     },
     {
-      "id": 1119697875,
-      "fullName": "SriPrarabdha/vector_db_from_scratch",
-      "stars": 22,
-      "forks": 2,
-      "category": "rag",
-      "pushedAt": "2026-01-06T17:43:31Z"
-    },
-    {
       "id": 1001326888,
       "fullName": "tomlin7/ecommerce-chatbot",
       "stars": 22,
@@ -1015,7 +1031,7 @@
       "fullName": "enginterzi/amazon-seller-mcp",
       "stars": 18,
       "forks": 7,
-      "category": "agents",
+      "category": "robotics",
       "pushedAt": "2025-08-26T15:51:19Z"
     },
     {
@@ -1033,6 +1049,14 @@
       "forks": 11,
       "category": "agents",
       "pushedAt": "2026-05-07T06:37:04Z"
+    },
+    {
+      "id": 396317240,
+      "fullName": "nomomon/Amazon-Product-Description",
+      "stars": 14,
+      "forks": 5,
+      "category": "bullet-points",
+      "pushedAt": "2026-02-15T13:40:28Z"
     },
     {
       "id": 1132071203,
@@ -1073,6 +1097,14 @@
       "forks": 0,
       "category": "robotics",
       "pushedAt": "2025-07-13T16:03:57Z"
+    },
+    {
+      "id": 1099039346,
+      "fullName": "sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
+      "stars": 6,
+      "forks": 2,
+      "category": "faq-generation",
+      "pushedAt": "2025-11-18T13:53:16Z"
     }
   ]
 }

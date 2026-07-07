@@ -9,7 +9,7 @@ Shopping assistants, customer-service chatbots, product Q&A, review summarizatio
 - Projects tracked: 11
 - Recently active projects: 7
 - Docs or homepage signal: 6
-- Updated: Jul 7, 2026, 10:06 AM UTC
+- Updated: Jul 7, 2026, 10:37 AM UTC
 
 ## Who This Helps
 

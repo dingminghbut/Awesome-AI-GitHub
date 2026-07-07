@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T10:06:13.027Z",
+  "generatedAt": "2026-07-07T10:37:01.766Z",
   "date": "2026-07-07",
   "source": {
     "name": "GitHub REST Search API",
@@ -7,11 +7,11 @@
     "ranking": "Hot score based on 24h/7d star deltas, repository freshness, and a first-run stars fallback."
   },
   "summary": {
-    "totalProjects": 134,
-    "totalStars": 51351,
-    "totalForks": 9880,
-    "categories": 7,
-    "topDailyGrowth": 32,
+    "totalProjects": 138,
+    "totalStars": 35161,
+    "totalForks": 6156,
+    "categories": 13,
+    "topDailyGrowth": 31,
     "topWeeklyGrowth": 200
   },
   "categories": [
@@ -29,7 +29,7 @@
       "nameZh": "电商智能体与运营技能",
       "descriptionEn": "Agents and skill playbooks for merchant operations, listings, pricing, ads, CRM, order handling, SOPs, and multi-step commerce workflows.",
       "descriptionZh": "面向店铺运营、上架、定价、投放、CRM、订单处理、SOP 和多步骤电商流程的智能体与技能方法库。",
-      "count": 83
+      "count": 77
     },
     {
       "slug": "rag",
@@ -46,6 +46,54 @@
       "descriptionEn": "Product images, ad creatives, listing copy, short videos, virtual try-on, backgrounds, campaign assets, and operator-ready content workflows.",
       "descriptionZh": "商品图、广告素材、详情文案、短视频、虚拟试穿、背景图、营销活动素材与运营内容工作流。",
       "count": 16
+    },
+    {
+      "slug": "title-generation",
+      "nameEn": "Listing Title Generation",
+      "nameZh": "标题生成",
+      "descriptionEn": "AI tools and skills for ecommerce product titles, keyword-rich listing titles, SEO titles, and platform-specific title optimization.",
+      "descriptionZh": "面向商品标题、关键词标题、SEO 标题与平台规则标题优化的 AI 工具和技能。",
+      "count": 1
+    },
+    {
+      "slug": "bullet-points",
+      "nameEn": "Five-Bullet Copy Generation",
+      "nameZh": "五点描述生成",
+      "descriptionEn": "AI tools and skills for Amazon five bullets, product selling points, feature-benefit copy, and concise listing bullet generation.",
+      "descriptionZh": "面向 Amazon 五点、商品卖点、功能利益点和精炼列表文案的 AI 工具和技能。",
+      "count": 2
+    },
+    {
+      "slug": "main-image",
+      "nameEn": "Main Image Generation",
+      "nameZh": "主图生成",
+      "descriptionEn": "AI tools and skills for product hero images, marketplace main images, background cleanup, white-background shots, and conversion-focused primary visuals.",
+      "descriptionZh": "面向商品主图、平台首图、背景清理、白底图和转化导向首图的 AI 工具和技能。",
+      "count": 1
+    },
+    {
+      "slug": "secondary-images",
+      "nameEn": "Secondary Image & Gallery Generation",
+      "nameZh": "附图与场景图生成",
+      "descriptionEn": "AI tools and skills for product gallery images, lifestyle scenes, infographics, comparison images, detail images, and carousel assets.",
+      "descriptionZh": "面向商品附图、场景图、信息图、对比图、详情图和轮播素材的 AI 工具和技能。",
+      "count": 1
+    },
+    {
+      "slug": "a-plus",
+      "nameEn": "A+ Content Generation",
+      "nameZh": "A+ 页面生成",
+      "descriptionEn": "AI tools and skills for Amazon A+ content, enhanced brand content, product detail modules, brand story pages, and rich listing pages.",
+      "descriptionZh": "面向 Amazon A+、品牌增强内容、详情模块、品牌故事页和富内容详情页的 AI 工具和技能。",
+      "count": 1
+    },
+    {
+      "slug": "faq-generation",
+      "nameEn": "FAQ Generation",
+      "nameZh": "FAQ 生成",
+      "descriptionEn": "AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales answers, support macros, and listing question generation.",
+      "descriptionZh": "面向商品 FAQ、买家问答、异议处理、售前回答、客服话术和详情页问答生成的 AI 工具和技能。",
+      "count": 2
     },
     {
       "slug": "ai-infra",
@@ -69,7 +117,7 @@
       "nameZh": "零售机器人与履约自动化",
       "descriptionEn": "Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.",
       "descriptionZh": "仓储机器人、库存自动化、货架识别、履约配送与零售运营中的具身智能。",
-      "count": 8
+      "count": 10
     }
   ],
   "projects": [
@@ -84,7 +132,7 @@
       "stars": 1688,
       "forks": 185,
       "watchers": 1688,
-      "openIssues": 116,
+      "openIssues": 117,
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -103,13 +151,13 @@
         "agents",
         "llm"
       ],
-      "dailyStars": 32,
+      "dailyStars": 31,
       "weeklyStars": 200,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": true,
       "starGrowthSource": "stargazers",
-      "hotScore": 2263.8,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 2243.8,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1155383451,
@@ -137,72 +185,19 @@
       "createdAt": "2026-02-11T13:01:49Z",
       "updatedAt": "2026-07-07T09:59:00Z",
       "pushedAt": "2026-06-26T21:03:50Z",
-      "category": "agents",
+      "category": "generative-ai",
       "categories": [
-        "agents",
         "generative-ai",
+        "agents",
         "ai-infra"
       ],
-      "dailyStars": 23,
+      "dailyStars": 22,
       "weeklyStars": 191,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 2084.68,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
-    },
-    {
-      "id": 139156354,
-      "name": "cvat",
-      "fullName": "cvat-ai/cvat",
-      "owner": "cvat-ai",
-      "url": "https://github.com/cvat-ai/cvat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105363648?v=4",
-      "description": "Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
-      "stars": 16240,
-      "forks": 3738,
-      "watchers": 16240,
-      "openIssues": 606,
-      "language": "Python",
-      "topics": [
-        "annotation",
-        "annotation-tool",
-        "annotations",
-        "boundingbox",
-        "computer-vision",
-        "computer-vision-annotation",
-        "dataset",
-        "deep-learning",
-        "image-annotation",
-        "image-classification",
-        "image-labeling",
-        "image-labelling-tool",
-        "imagenet",
-        "labeling",
-        "labeling-tool",
-        "object-detection",
-        "pytorch",
-        "semantic-segmentation",
-        "tensorflow",
-        "video-annotation"
-      ],
-      "license": "MIT",
-      "homepage": "https://www.cvat.ai",
-      "createdAt": "2018-06-29T14:02:45Z",
-      "updatedAt": "2026-07-07T09:39:45Z",
-      "pushedAt": "2026-07-07T09:15:18Z",
-      "category": "generative-ai",
-      "categories": [
-        "generative-ai",
-        "evaluation"
-      ],
-      "dailyStars": 10,
-      "weeklyStars": 62,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 727.71,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 2064.67,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 70271182,
@@ -255,7 +250,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 595.35,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1290241977,
@@ -301,7 +296,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 496.86,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1211089620,
@@ -333,8 +328,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 434.61,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 434.6,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1177556025,
@@ -344,9 +339,9 @@
       "url": "https://github.com/nexscope-ai/Amazon-Skills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/265748764?v=4",
       "description": "Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format.",
-      "stars": 361,
+      "stars": 362,
       "forks": 60,
-      "watchers": 361,
+      "watchers": 362,
       "openIssues": 3,
       "language": "Python",
       "topics": [
@@ -364,7 +359,7 @@
       "license": "MIT",
       "homepage": "",
       "createdAt": "2026-03-10T06:17:05Z",
-      "updatedAt": "2026-07-07T06:30:12Z",
+      "updatedAt": "2026-07-07T10:11:16Z",
       "pushedAt": "2026-06-16T06:34:17Z",
       "category": "agents",
       "categories": [
@@ -372,13 +367,13 @@
         "evaluation",
         "ai-infra"
       ],
-      "dailyStars": 5,
-      "weeklyStars": 32,
+      "dailyStars": 6,
+      "weeklyStars": 33,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 372.1,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 400.11,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1219590575,
@@ -399,11 +394,11 @@
       "createdAt": "2026-04-24T03:01:37Z",
       "updatedAt": "2026-07-07T08:47:36Z",
       "pushedAt": "2026-04-24T05:04:52Z",
-      "category": "agents",
+      "category": "secondary-images",
       "categories": [
-        "agents",
-        "generative-ai",
-        "evaluation"
+        "secondary-images",
+        "bullet-points",
+        "agents"
       ],
       "dailyStars": 6,
       "weeklyStars": 16,
@@ -411,7 +406,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 261.77,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1185016972,
@@ -455,8 +450,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 234.1,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 234.09,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1199101685,
@@ -488,7 +483,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 211.16,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1265706480,
@@ -509,10 +504,10 @@
       "createdAt": "2026-06-11T02:35:45Z",
       "updatedAt": "2026-07-07T04:43:21Z",
       "pushedAt": "2026-06-11T11:25:23Z",
-      "category": "agents",
+      "category": "a-plus",
       "categories": [
+        "a-plus",
         "agents",
-        "ai-infra",
         "evaluation"
       ],
       "dailyStars": 4,
@@ -520,8 +515,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 169.72,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 169.71,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1156131995,
@@ -560,7 +555,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 164.94,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1198690790,
@@ -594,8 +589,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 163.1,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 163.09,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 641440545,
@@ -648,8 +643,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 162.7,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 162.69,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1202194964,
@@ -682,7 +677,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 156.12,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1222372573,
@@ -726,7 +721,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 148.51,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1141100288,
@@ -758,7 +753,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 143.15,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 591995344,
@@ -807,8 +802,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 133.83,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 133.82,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1098866858,
@@ -849,7 +844,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 132.66,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1204321239,
@@ -873,16 +868,16 @@
       "category": "agents",
       "categories": [
         "agents",
-        "ai-infra",
-        "evaluation"
+        "bullet-points",
+        "ai-infra"
       ],
       "dailyStars": 0,
       "weeklyStars": 14,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 124.41,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 124.4,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 483894024,
@@ -926,13 +921,13 @@
         "llm",
         "evaluation"
       ],
-      "dailyStars": 2,
+      "dailyStars": 1,
       "weeklyStars": 8,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 124.03,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 104.02,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1274797292,
@@ -977,7 +972,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 100.81,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1127855842,
@@ -1013,7 +1008,8 @@
       "category": "generative-ai",
       "categories": [
         "generative-ai",
-        "llm"
+        "llm",
+        "main-image"
       ],
       "dailyStars": 1,
       "weeklyStars": 8,
@@ -1021,7 +1017,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 93.41,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1261690469,
@@ -1057,8 +1053,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 87.02,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 87,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1242060029,
@@ -1107,7 +1103,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 86.57,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 703802567,
@@ -1158,8 +1154,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 76.83,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 76.82,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1042844902,
@@ -1199,7 +1195,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 68.54,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1218018309,
@@ -1239,8 +1235,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 68.3,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 68.29,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1153111797,
@@ -1282,8 +1278,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 64.65,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 64.64,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1134942413,
@@ -1323,7 +1319,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 61.15,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1186562824,
@@ -1356,7 +1352,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 57.67,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 904893333,
@@ -1394,8 +1390,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 55.45,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 55.44,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 332585863,
@@ -1446,8 +1442,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 53.92,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 53.91,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1259423904,
@@ -1495,8 +1491,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 53.32,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 53.31,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1236911090,
@@ -1543,8 +1539,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 51.17,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 51.16,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1146166995,
@@ -1589,7 +1585,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 50.4,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1012726162,
@@ -1629,7 +1625,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 45.91,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1248874749,
@@ -1673,7 +1669,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 43.68,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1062541386,
@@ -1706,7 +1702,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 43.26,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1222589733,
@@ -1755,7 +1751,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 41.03,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 693072990,
@@ -1791,7 +1787,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.86,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1187572212,
@@ -1844,7 +1840,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.68,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1172212596,
@@ -1877,7 +1873,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.36,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1187460717,
@@ -1910,7 +1906,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 37.31,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1259457554,
@@ -1948,47 +1944,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 35.63,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
-    },
-    {
-      "id": 1174726144,
-      "name": "claude-ecom",
-      "fullName": "takechanman1228/claude-ecom",
-      "owner": "takechanman1228",
-      "url": "https://github.com/takechanman1228/claude-ecom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8223210?v=4",
-      "description": "Claude Code skill that turns order or sales CSV data into business reviews, with KPI decomposition, prioritized findings, and next actions powered by a Python backend.",
-      "stars": 39,
-      "forks": 6,
-      "watchers": 39,
-      "openIssues": 0,
-      "language": "Python",
-      "topics": [
-        "claude-code",
-        "claude-code-skill",
-        "ecommerce",
-        "marketing",
-        "marketing-analytics"
-      ],
-      "license": "MIT",
-      "homepage": "",
-      "createdAt": "2026-03-06T19:14:44Z",
-      "updatedAt": "2026-07-06T10:11:26Z",
-      "pushedAt": "2026-06-11T18:50:46Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "evaluation",
-        "generative-ai"
-      ],
-      "dailyStars": 1,
-      "weeklyStars": 1,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 34.61,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 35.62,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 990832792,
@@ -2019,7 +1976,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 33.7,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1175588425,
@@ -2065,7 +2022,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 33.03,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1163891582,
@@ -2100,7 +2057,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 31.41,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1273501514,
@@ -2152,8 +2109,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 30.45,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 30.44,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1124100628,
@@ -2195,11 +2152,11 @@
       "createdAt": "2025-12-28T10:36:18Z",
       "updatedAt": "2026-07-06T23:52:43Z",
       "pushedAt": "2026-07-06T23:52:39Z",
-      "category": "agents",
+      "category": "robotics",
       "categories": [
+        "robotics",
         "agents",
-        "evaluation",
-        "ai-infra"
+        "evaluation"
       ],
       "dailyStars": 0,
       "weeklyStars": 2,
@@ -2207,7 +2164,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 28.45,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1226613826,
@@ -2250,7 +2207,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 27.57,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1074444345,
@@ -2297,8 +2254,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 24.49,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 24.48,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 270530850,
@@ -2348,7 +2305,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.83,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1207605833,
@@ -2381,7 +2338,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.59,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 721481892,
@@ -2433,7 +2390,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.36,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1271437886,
@@ -2476,8 +2433,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 23.23,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 23.22,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1153563416,
@@ -2530,7 +2487,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 22.44,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1227331963,
@@ -2584,7 +2541,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 22.05,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1180497619,
@@ -2617,7 +2574,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.67,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1178450120,
@@ -2650,7 +2607,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.61,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 605189726,
@@ -2697,7 +2654,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.6,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1180426897,
@@ -2744,8 +2701,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 21.17,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 21.16,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 998036124,
@@ -2799,7 +2756,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 19.6,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1088997315,
@@ -2839,8 +2796,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 19.47,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 19.46,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1089901498,
@@ -2877,8 +2834,41 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 19.16,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 19.15,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 1069952948,
+      "name": "etsy-seo-mcp",
+      "fullName": "semihbugrasezer/etsy-seo-mcp",
+      "owner": "semihbugrasezer",
+      "url": "https://github.com/semihbugrasezer/etsy-seo-mcp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17555579?v=4",
+      "description": "AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds",
+      "stars": 22,
+      "forks": 6,
+      "watchers": 22,
+      "openIssues": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "license": "MIT",
+      "homepage": "https://seerxo.com",
+      "createdAt": "2025-10-05T00:27:17Z",
+      "updatedAt": "2026-07-07T03:32:18Z",
+      "pushedAt": "2026-06-29T22:56:37Z",
+      "category": "title-generation",
+      "categories": [
+        "title-generation",
+        "bullet-points",
+        "agents"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 1,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 18.25,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1199167796,
@@ -2932,7 +2922,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 17.12,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1183226075,
@@ -2971,7 +2961,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 16.51,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1253861590,
@@ -3020,7 +3010,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.67,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 897297668,
@@ -3066,7 +3056,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.33,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1114441622,
@@ -3099,7 +3089,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.22,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 969187519,
@@ -3148,8 +3138,47 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 15.21,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 15.2,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 1174726144,
+      "name": "claude-ecom",
+      "fullName": "takechanman1228/claude-ecom",
+      "owner": "takechanman1228",
+      "url": "https://github.com/takechanman1228/claude-ecom",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8223210?v=4",
+      "description": "Claude Code skill that turns order or sales CSV data into business reviews, with KPI decomposition, prioritized findings, and next actions powered by a Python backend.",
+      "stars": 39,
+      "forks": 6,
+      "watchers": 39,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "claude-code-skill",
+        "ecommerce",
+        "marketing",
+        "marketing-analytics"
+      ],
+      "license": "MIT",
+      "homepage": "",
+      "createdAt": "2026-03-06T19:14:44Z",
+      "updatedAt": "2026-07-06T10:11:26Z",
+      "pushedAt": "2026-06-11T18:50:46Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 1,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 14.6,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1168265693,
@@ -3183,10 +3212,10 @@
       "createdAt": "2026-02-27T07:29:54Z",
       "updatedAt": "2026-07-03T14:45:07Z",
       "pushedAt": "2026-06-13T06:01:31Z",
-      "category": "agents",
+      "category": "rag",
       "categories": [
-        "agents",
         "rag",
+        "agents",
         "evaluation"
       ],
       "dailyStars": 0,
@@ -3195,7 +3224,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 13.49,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 144914978,
@@ -3249,7 +3278,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 13.43,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1193376462,
@@ -3282,7 +3311,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.87,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1147121400,
@@ -3329,8 +3358,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 12.63,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 12.62,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 681630259,
@@ -3361,15 +3390,16 @@
       "pushedAt": "2026-07-01T11:27:36Z",
       "category": "generative-ai",
       "categories": [
-        "generative-ai"
+        "generative-ai",
+        "main-image"
       ],
       "dailyStars": 0,
       "weeklyStars": 0,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 12.62,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 12.61,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1207844328,
@@ -3422,8 +3452,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 12.34,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 12.33,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 952146584,
@@ -3456,7 +3486,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.31,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1192500555,
@@ -3502,7 +3532,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.19,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 644281555,
@@ -3544,7 +3574,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.12,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 828463793,
@@ -3592,8 +3622,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 12.09,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 12.08,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1216782078,
@@ -3626,7 +3656,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 11.89,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 892830182,
@@ -3669,7 +3699,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 11.71,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 819471307,
@@ -3713,8 +3743,46 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 10.81,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 10.8,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 1168173438,
+      "name": "ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant",
+      "fullName": "ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant",
+      "owner": "ash-iiiiish",
+      "url": "https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/152004226?v=4",
+      "description": "A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search",
+      "stars": 9,
+      "forks": 0,
+      "watchers": 9,
+      "openIssues": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "e-commerce-assistant",
+        "langchain-python",
+        "multimodal-large-language-models",
+        "rag-chatbot"
+      ],
+      "license": "Apache-2.0",
+      "homepage": "",
+      "createdAt": "2026-02-27T04:54:54Z",
+      "updatedAt": "2026-07-04T18:47:17Z",
+      "pushedAt": "2026-07-04T18:47:13Z",
+      "category": "main-image",
+      "categories": [
+        "main-image",
+        "llm",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 10.43,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 709930230,
@@ -3751,7 +3819,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 9.77,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 725109880,
@@ -3781,8 +3849,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 9.6,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 9.59,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 912766924,
@@ -3821,7 +3889,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 9.32,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 231864103,
@@ -3869,7 +3937,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 7.35,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223830230,
@@ -3902,7 +3970,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.61,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223828208,
@@ -3935,7 +4003,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.61,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223829528,
@@ -3968,7 +4036,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.61,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223827297,
@@ -4001,7 +4069,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.56,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223827137,
@@ -4034,7 +4102,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.56,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223827473,
@@ -4067,7 +4135,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.56,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223828353,
@@ -4100,7 +4168,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.5,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223827646,
@@ -4133,7 +4201,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.5,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223826858,
@@ -4166,7 +4234,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.45,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223829807,
@@ -4199,7 +4267,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.45,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223843284,
@@ -4232,7 +4300,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.45,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223828926,
@@ -4265,7 +4333,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.39,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223830078,
@@ -4298,7 +4366,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.34,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1226775065,
@@ -4331,7 +4399,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.34,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223828072,
@@ -4364,7 +4432,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.28,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 961764179,
@@ -4397,7 +4465,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.27,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223829652,
@@ -4430,7 +4498,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.22,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223828628,
@@ -4463,7 +4531,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.22,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223828763,
@@ -4496,7 +4564,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.22,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1169276096,
@@ -4550,7 +4618,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.17,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223829374,
@@ -4583,7 +4651,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.16,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 994108708,
@@ -4632,7 +4700,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.15,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1223829094,
@@ -4665,7 +4733,45 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.86,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 1005429601,
+      "name": "sample-ai-powered-product-catalog",
+      "fullName": "aws-samples/sample-ai-powered-product-catalog",
+      "owner": "aws-samples",
+      "url": "https://github.com/aws-samples/sample-ai-powered-product-catalog",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8931462?v=4",
+      "description": "This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution.",
+      "stars": 10,
+      "forks": 2,
+      "watchers": 10,
+      "openIssues": 4,
+      "language": "Python",
+      "topics": [
+        "amazon-nova-canvas",
+        "amazon-nova-pro",
+        "aws-bedrock",
+        "vitual-tryon"
+      ],
+      "license": "MIT-0",
+      "homepage": "",
+      "createdAt": "2025-06-20T08:06:13Z",
+      "updatedAt": "2026-06-24T17:13:08Z",
+      "pushedAt": "2026-06-17T07:49:47Z",
+      "category": "bullet-points",
+      "categories": [
+        "bullet-points",
+        "main-image",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 5.81,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 612867611,
@@ -4712,7 +4818,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.75,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1004298552,
@@ -4745,7 +4851,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.72,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1144901049,
@@ -4778,7 +4884,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.71,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1100799185,
@@ -4819,7 +4925,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.69,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1262108086,
@@ -4851,8 +4957,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 5.49,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "hotScore": 5.48,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1144263691,
@@ -4885,7 +4991,59 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.38,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 1222812664,
+      "name": "module-aeo-audit",
+      "fullName": "angeo-dev/module-aeo-audit",
+      "owner": "angeo-dev",
+      "url": "https://github.com/angeo-dev/module-aeo-audit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/276032563?v=4",
+      "description": "Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT.",
+      "stars": 10,
+      "forks": 1,
+      "watchers": 10,
+      "openIssues": 0,
+      "language": "PHP",
+      "topics": [
+        "adobe-commerce",
+        "aeo",
+        "aeo-audit",
+        "ai-engine-optimization",
+        "ai-search",
+        "ai-visibility",
+        "audit",
+        "chatgpt",
+        "ecommerce",
+        "generative-engine-optimization",
+        "json-ld",
+        "llms-txt",
+        "magento",
+        "magento2",
+        "php",
+        "robots-txt",
+        "sitemap",
+        "structured-data"
+      ],
+      "license": "MIT",
+      "homepage": "https://angeo.dev/",
+      "createdAt": "2026-04-27T18:24:35Z",
+      "updatedAt": "2026-06-15T11:43:53Z",
+      "pushedAt": "2026-06-14T18:51:01Z",
+      "category": "faq-generation",
+      "categories": [
+        "faq-generation",
+        "llm",
+        "agents"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 5.36,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 961740656,
@@ -4933,7 +5091,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.22,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1180542442,
@@ -4977,7 +5135,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.81,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1193862636,
@@ -5008,7 +5166,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.44,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 251668683,
@@ -5039,39 +5197,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.41,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
-    },
-    {
-      "id": 1119697875,
-      "name": "vector_db_from_scratch",
-      "fullName": "SriPrarabdha/vector_db_from_scratch",
-      "owner": "SriPrarabdha",
-      "url": "https://github.com/SriPrarabdha/vector_db_from_scratch",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/89463301?v=4",
-      "description": "A high-performance vector database implemented in modern C++ from scratch. Supports ANN search using HNSW, IVF, and Product Quantization (PQ). Designed as a Faiss-like vector search engine for learning and experimentation.",
-      "stars": 22,
-      "forks": 2,
-      "watchers": 22,
-      "openIssues": 0,
-      "language": "C++",
-      "topics": [],
-      "license": "Unknown",
-      "homepage": "",
-      "createdAt": "2025-12-19T17:37:23Z",
-      "updatedAt": "2026-06-18T21:30:06Z",
-      "pushedAt": "2026-01-06T17:43:31Z",
-      "category": "rag",
-      "categories": [
-        "rag",
-        "ai-infra"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 4.31,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1001326888,
@@ -5116,7 +5242,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.2,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 994579736,
@@ -5157,7 +5283,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.2,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1055454119,
@@ -5196,7 +5322,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.17,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1027435259,
@@ -5217,10 +5343,10 @@
       "createdAt": "2025-07-28T02:24:35Z",
       "updatedAt": "2026-06-12T20:45:04Z",
       "pushedAt": "2025-08-26T15:51:19Z",
-      "category": "agents",
+      "category": "robotics",
       "categories": [
-        "agents",
         "robotics",
+        "agents",
         "ai-infra"
       ],
       "dailyStars": 0,
@@ -5229,7 +5355,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.94,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 903061472,
@@ -5266,7 +5392,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.66,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 963067807,
@@ -5311,7 +5437,47 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.59,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 396317240,
+      "name": "Amazon-Product-Description",
+      "fullName": "nomomon/Amazon-Product-Description",
+      "owner": "nomomon",
+      "url": "https://github.com/nomomon/Amazon-Product-Description",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56600275?v=4",
+      "description": "Amazon product description generator using fine-tuned GPT-Neo — proof of concept for Texta.ai",
+      "stars": 14,
+      "forks": 5,
+      "watchers": 14,
+      "openIssues": 0,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "amazon",
+        "amazon-product-advertising",
+        "amazon-product-data",
+        "amazon-product-reviews",
+        "gpt-neo",
+        "gpt-neo-fine-tuning"
+      ],
+      "license": "MIT",
+      "homepage": "https://nomomon.github.io/projects/amazon-product-description",
+      "createdAt": "2021-08-15T10:45:50Z",
+      "updatedAt": "2026-03-11T06:46:24Z",
+      "pushedAt": "2026-02-15T13:40:28Z",
+      "category": "bullet-points",
+      "categories": [
+        "bullet-points",
+        "agents",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 3.54,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1132071203,
@@ -5335,8 +5501,8 @@
       "category": "rag",
       "categories": [
         "rag",
-        "llm",
-        "agents"
+        "agents",
+        "llm"
       ],
       "dailyStars": 0,
       "weeklyStars": 0,
@@ -5344,7 +5510,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.48,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 907060026,
@@ -5377,7 +5543,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.38,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 1152434343,
@@ -5410,7 +5576,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.38,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 349410634,
@@ -5446,7 +5612,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.35,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     },
     {
       "id": 811965963,
@@ -5484,7 +5650,60 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.27,
-      "fetchedAt": "2026-07-07T10:06:13.027Z"
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
+    },
+    {
+      "id": 1099039346,
+      "name": "AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
+      "fullName": "sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
+      "owner": "sanikasalunke",
+      "url": "https://github.com/sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57823740?v=4",
+      "description": "AI Customer Support Agent with RAG + Voice A fully local, privacy-focused AI customer support system powered by open-source models. It supports multi-turn conversations, PDF/manual search (RAG), product recommendations, FAQ reasoning, and voice input/output using local STT + TTS. Built with Mistral 7B GGUF, FAISS, Whisper Tiny, Coqui TTS, FastAPI.",
+      "stars": 6,
+      "forks": 2,
+      "watchers": 6,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "conversational-ai",
+        "coqui-tts",
+        "customer-support",
+        "faiss",
+        "fastapi",
+        "llms",
+        "local-llm",
+        "mistral-7b",
+        "nlp",
+        "qna-system",
+        "rag",
+        "speech-to-text",
+        "streamlit",
+        "text-to-speech",
+        "vector-search",
+        "voice-ai",
+        "voice-ai-agents",
+        "whisper"
+      ],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2025-11-18T13:30:47Z",
+      "updatedAt": "2026-06-21T19:44:24Z",
+      "pushedAt": "2025-11-18T13:53:16Z",
+      "category": "faq-generation",
+      "categories": [
+        "faq-generation",
+        "rag",
+        "agents"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 2.59,
+      "fetchedAt": "2026-07-07T10:37:01.766Z"
     }
   ]
 }

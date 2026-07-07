@@ -141,10 +141,11 @@ function classify(item: GitHubSearchItem, matchedCategories: Set<string>): strin
   const scored = CATEGORIES.map((category) => {
     const keywordScore = category.keywords.reduce((score, keyword) => score + (haystack.includes(keyword.toLowerCase()) ? 2 : 0), 0);
     const topicScore = (item.topics ?? []).some((topic) => category.keywords.includes(topic.toLowerCase())) ? 4 : 0;
-    const matchedScore = matchedCategories.has(category.slug) ? 8 : 0;
+    const matchedScore = matchedCategories.has(category.slug) ? 20 : 0;
+    const specificBoost = categorySpecificBoost(category.slug, haystack);
     return {
       slug: category.slug,
-      score: keywordScore + topicScore + matchedScore
+      score: keywordScore + topicScore + matchedScore + specificBoost
     };
   })
     .filter((category) => category.score > 0)
@@ -158,6 +159,19 @@ function classify(item: GitHubSearchItem, matchedCategories: Set<string>): strin
   }
 
   return slugs.length > 0 ? slugs.slice(0, 3) : ["llm"];
+}
+
+function categorySpecificBoost(slug: string, text: string): number {
+  const strongSignals: Record<string, readonly string[]> = {
+    "title-generation": ["product title", "listing title", "title generator", "title optimization", "标题生成", "标题优化"],
+    "bullet-points": ["bullet points", "five bullets", "5 bullets", "selling points", "product description", "五点", "五点描述", "卖点"],
+    "main-image": ["main image", "hero image", "primary image", "white background", "background removal", "主图", "首图", "白底图"],
+    "secondary-images": ["secondary image", "gallery image", "lifestyle image", "infographic", "image suite", "detail image", "附图", "场景图", "图片套图", "详情图"],
+    "a-plus": ["a+ content", "a plus content", "enhanced brand content", "brand story", "product detail page", "detail pages", "a+页面", "品牌故事", "详情页"],
+    "faq-generation": ["product faq", "buyer questions", "question answering", "objection handling", "support macro", "faq生成", "买家问答", "异议处理", "客服话术"]
+  };
+
+  return strongSignals[slug]?.some((signal) => text.includes(signal)) ? 40 : 0;
 }
 
 function isCommerceRelevant(item: GitHubSearchItem): boolean {
@@ -185,10 +199,26 @@ function isCommerceRelevant(item: GitHubSearchItem): boolean {
     "retail",
     "customer service",
     "customer support",
-    "product",
+    "product title",
+    "product image",
+    "product photo",
+    "product copy",
+    "product description",
+    "product faq",
     "catalog",
     "sku",
     "listing",
+    "bullet points",
+    "five bullets",
+    "main image",
+    "secondary image",
+    "gallery image",
+    "lifestyle image",
+    "a+ content",
+    "a plus content",
+    "enhanced brand content",
+    "product detail page",
+    "product faq",
     "pricing",
     "order",
     "inventory",
@@ -211,6 +241,15 @@ function isCommerceRelevant(item: GitHubSearchItem): boolean {
     "导购",
     "客服",
     "选品",
+    "标题",
+    "五点",
+    "主图",
+    "附图",
+    "场景图",
+    "a+",
+    "详情页",
+    "faq",
+    "问答",
     "上架",
     "投放",
     "订单",

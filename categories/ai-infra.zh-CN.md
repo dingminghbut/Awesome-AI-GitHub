@@ -9,7 +9,7 @@
 - 收录项目：9
 - 近期活跃项目：4
 - 有文档或主页信号：2
-- 更新时间：Jul 7, 2026, 10:06 AM UTC
+- 更新时间：Jul 7, 2026, 10:37 AM UTC
 
 ## 适合谁看
 
@@ -19,7 +19,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 1,688 | +32 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 1,688 | +31 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
 | 2 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 21 | +1 | +3 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
 | 3 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 97 | +0 | +3 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
 | 4 | [FgForrest/evitaDB](https://github.com/FgForrest/evitaDB) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档 | 69 | +0 | +1 | Java | evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores. |
@@ -33,7 +33,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 1,688 | +32 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 1,688 | +31 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
 | 2 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 21 | +1 | +3 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
 | 3 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 97 | +0 | +3 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
 | 4 | [FgForrest/evitaDB](https://github.com/FgForrest/evitaDB) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档 | 69 | +0 | +1 | Java | evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores. |

@@ -8,8 +8,8 @@
 
 - 收录项目：16
 - 近期活跃项目：9
-- 有文档或主页信号：10
-- 更新时间：Jul 7, 2026, 10:06 AM UTC
+- 有文档或主页信号：9
+- 更新时间：Jul 7, 2026, 10:37 AM UTC
 
 ## 适合谁看
 
@@ -19,7 +19,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 电商生成式内容 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 16,240 | +10 | +62 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. |
+| 1 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 电商生成式内容 | 增长快, 近期活跃, 电商技能, 开源许可 | 6,768 | +22 | +191 | Python | Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. |
 | 2 | [Anil-matcha/Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 262 | +3 | +11 | JavaScript | Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted. |
 | 3 | [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) | 电商生成式内容 | 有文档, 适合入门, 有演示/应用 | 219 | +1 | +8 | Unknown | 1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design & more. |
 | 4 | [yuqie6/ProductFlow](https://github.com/yuqie6/ProductFlow) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 284 | +0 | +6 | Python | gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows |
@@ -40,7 +40,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 电商生成式内容 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 16,240 | +10 | +62 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. |
+| 1 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 电商生成式内容 | 增长快, 近期活跃, 电商技能, 开源许可 | 6,768 | +22 | +191 | Python | Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. |
 | 2 | [Anil-matcha/Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 262 | +3 | +11 | JavaScript | Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted. |
 | 3 | [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) | 电商生成式内容 | 有文档, 适合入门, 有演示/应用 | 219 | +1 | +8 | Unknown | 1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design & more. |
 | 4 | [yuqie6/ProductFlow](https://github.com/yuqie6/ProductFlow) | 电商生成式内容 | 近期活跃, 电商技能, 开源许可, 有文档 | 284 | +0 | +6 | Python | gpt-image-2 画图工作台 / Self-hosted workbench for AI copy, posters, image sessions, and visual product workflows |

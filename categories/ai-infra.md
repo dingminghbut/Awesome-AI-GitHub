@@ -9,7 +9,7 @@ Serving, MLOps, data pipelines, search/recommendation infrastructure, feature st
 - Projects tracked: 9
 - Recently active projects: 4
 - Docs or homepage signal: 2
-- Updated: Jul 7, 2026, 10:06 AM UTC
+- Updated: Jul 7, 2026, 10:37 AM UTC
 
 ## Who This Helps
 
@@ -19,7 +19,7 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 1,688 | +32 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 1,688 | +31 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
 | 2 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | Commerce AI Infrastructure | Recently active, Commerce skill | 21 | +1 | +3 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
 | 3 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | Commerce AI Infrastructure | Commerce skill, Open license, Docs available, Demo or app | 97 | +0 | +3 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
 | 4 | [FgForrest/evitaDB](https://github.com/FgForrest/evitaDB) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available | 69 | +0 | +1 | Java | evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores. |
@@ -33,7 +33,7 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 1,688 | +32 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 1,688 | +31 | +200+ | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
 | 2 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | Commerce AI Infrastructure | Recently active, Commerce skill | 21 | +1 | +3 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
 | 3 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | Commerce AI Infrastructure | Commerce skill, Open license, Docs available, Demo or app | 97 | +0 | +3 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
 | 4 | [FgForrest/evitaDB](https://github.com/FgForrest/evitaDB) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available | 69 | +0 | +1 | Java | evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores. |

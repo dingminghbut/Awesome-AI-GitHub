@@ -20,6 +20,12 @@ body:
         - Commerce Agents & Ops Skills
         - Product RAG & Knowledge Search
         - Generative Commerce Content
+        - Listing Title Generation
+        - Five-Bullet Copy Generation
+        - Main Image Generation
+        - Secondary Image & Gallery Generation
+        - A+ Content Generation
+        - FAQ Generation
         - Commerce AI Infrastructure
         - Commerce Evaluation & Growth Analytics
         - Retail Robotics & Fulfillment
@@ -31,7 +37,7 @@ body:
     attributes:
       label: Commerce skill or workflow
       description: Name the ecommerce skill, platform playbook, SOP, or operator workflow this project helps with.
-      placeholder: Product selection, listing optimization, ad campaigns, customer support, review management, private traffic, data recap...
+      placeholder: Product selection, title generation, five bullets, main image, secondary images, A+ content, FAQ, ad campaigns, customer support, data recap...
   - type: textarea
     id: value
     attributes:
@@ -53,7 +59,7 @@ body:
       options:
         - label: The repository is public.
           required: true
-        - label: The project is related to AI, LLMs, agents, RAG, AI infrastructure, evaluation, robotics, or generative AI.
+        - label: The project is related to AI, ecommerce skills, content generation, LLMs, agents, RAG, AI infrastructure, evaluation, robotics, or generative AI.
           required: true
         - label: I am not submitting spam, a private repo, or a purely commercial landing page.
           required: true
