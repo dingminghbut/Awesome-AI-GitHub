@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：3
+- 收录项目：1
 - 近期活跃项目：1
-- 有文档或主页信号：2
-- 更新时间：Jul 8, 2026, 1:12 AM UTC
+- 有文档或主页信号：1
+- 更新时间：Jul 8, 2026, 1:48 AM UTC
 
 ## 适合谁看
 
@@ -19,14 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) | FAQ 生成 | 电商技能, 开源许可, 有文档, 偏生产可用 | 19,304 | +14 | +85 | CSS | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. |
-| 2 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 10 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
-| 3 | [sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-](https://github.com/sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-) | FAQ 生成 | 电商技能, 适合自托管, 有演示/应用 | 6 | +0 | +0 | Python | AI Customer Support Agent with RAG + Voice A fully local, privacy-focused AI customer support system powered by open-source models. It supports multi-turn conversations, PDF/manual search (RAG), product recommendations, FAQ reasoning, and voice input/output using local STT + TTS. Built with Mistral 7B GGUF, FAISS, Whisper Tiny, Coqui TTS, FastAPI. |
+| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 10 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) | FAQ 生成 | 电商技能, 开源许可, 有文档, 偏生产可用 | 19,304 | +14 | +85 | CSS | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. |
-| 2 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 10 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
-| 3 | [sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-](https://github.com/sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-) | FAQ 生成 | 电商技能, 适合自托管, 有演示/应用 | 6 | +0 | +0 | Python | AI Customer Support Agent with RAG + Voice A fully local, privacy-focused AI customer support system powered by open-source models. It supports multi-turn conversations, PDF/manual search (RAG), product recommendations, FAQ reasoning, and voice input/output using local STT + TTS. Built with Mistral 7B GGUF, FAISS, Whisper Tiny, Coqui TTS, FastAPI. |
+| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 10 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |

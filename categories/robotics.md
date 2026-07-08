@@ -6,10 +6,10 @@ Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, a
 
 ## Category Snapshot
 
-- Projects tracked: 10
+- Projects tracked: 8
 - Recently active projects: 6
-- Docs or homepage signal: 5
-- Updated: Jul 8, 2026, 1:12 AM UTC
+- Docs or homepage signal: 4
+- Updated: Jul 8, 2026, 1:48 AM UTC
 
 ## Who This Helps
 
@@ -27,8 +27,6 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 | 6 | [GreenHacker420/Tally_sync](https://github.com/GreenHacker420/Tally_sync) | Retail Robotics & Fulfillment | Commerce skill, Open license, Good starting point, Demo or app | 14 | +0 | +2 | JavaScript | FinSync360 is a full-stack, cloud-based ERP system with seamless Tally integration. It features comprehensive accounting, advanced inventory, digital payments, GST compliance, AI-powered analytics, and cross-platform support (Web, Mobile, Desktop). Built with Node.js, React, Electron, and Python FastAPI. |
 | 7 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 67 | +0 | +1 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 | 8 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
-| 9 | [enginterzi/amazon-seller-mcp](https://github.com/enginterzi/amazon-seller-mcp) | Retail Robotics & Fulfillment | Commerce skill, Production oriented | 18 | +0 | +0 | HTML | Transform Your Amazon Business with AI - The first Model Context Protocol (MCP) client that seamlessly connects Claude and other AI agents to Amazon's Selling Partner API, enabling intelligent automation of your entire seller workflow from inventory management to listing optimization. |
-| 10 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Demo or app | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |
 
 ## Fast Movers In This Category
 
@@ -42,5 +40,3 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 | 6 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 26 | +0 | +1 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 7 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 67 | +0 | +1 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 | 8 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
-| 9 | [enginterzi/amazon-seller-mcp](https://github.com/enginterzi/amazon-seller-mcp) | Retail Robotics & Fulfillment | Commerce skill, Production oriented | 18 | +0 | +0 | HTML | Transform Your Amazon Business with AI - The first Model Context Protocol (MCP) client that seamlessly connects Claude and other AI agents to Amazon's Selling Partner API, enabling intelligent automation of your entire seller workflow from inventory management to listing optimization. |
-| 10 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Demo or app | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |

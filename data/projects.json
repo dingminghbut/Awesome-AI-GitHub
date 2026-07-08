@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T01:12:10.382Z",
+  "generatedAt": "2026-07-08T01:48:42.412Z",
   "date": "2026-07-08",
   "source": {
     "name": "GitHub REST Search API + official GitHub discovery pages",
@@ -7,9 +7,9 @@
     "ranking": "Hot score based on 24h/7d star deltas, repository freshness, Search/API discovery, and official Trending/Topics/Explore seeds."
   },
   "summary": {
-    "totalProjects": 145,
-    "totalStars": 130285,
-    "totalForks": 19429,
+    "totalProjects": 160,
+    "totalStars": 78775,
+    "totalForks": 13161,
     "categories": 13,
     "topDailyGrowth": 200,
     "topWeeklyGrowth": 200
@@ -21,7 +21,7 @@
       "nameZh": "电商 LLM 与导购客服",
       "descriptionEn": "Shopping assistants, customer-service chatbots, product Q&A, review summarization, sales scripts, and commerce prompt workflows.",
       "descriptionZh": "导购助手、客服对话、商品问答、评价总结、销售话术与电商提示词工作流。",
-      "count": 11
+      "count": 14
     },
     {
       "slug": "agents",
@@ -29,7 +29,7 @@
       "nameZh": "电商智能体与运营技能",
       "descriptionEn": "Agents and skill playbooks for merchant operations, listings, pricing, ads, CRM, order handling, SOPs, and multi-step commerce workflows.",
       "descriptionZh": "面向店铺运营、上架、定价、投放、CRM、订单处理、SOP 和多步骤电商流程的智能体与技能方法库。",
-      "count": 83
+      "count": 94
     },
     {
       "slug": "rag",
@@ -37,7 +37,7 @@
       "nameZh": "商品 RAG 与知识检索",
       "descriptionEn": "Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing, and shopper-facing search experiences.",
       "descriptionZh": "商品目录检索、语义搜索、FAQ 知识库、向量索引与面向消费者的搜索体验。",
-      "count": 6
+      "count": 5
     },
     {
       "slug": "generative-ai",
@@ -45,7 +45,7 @@
       "nameZh": "电商生成式内容",
       "descriptionEn": "Product images, ad creatives, listing copy, short videos, virtual try-on, backgrounds, campaign assets, and operator-ready content workflows.",
       "descriptionZh": "商品图、广告素材、详情文案、短视频、虚拟试穿、背景图、营销活动素材与运营内容工作流。",
-      "count": 15
+      "count": 17
     },
     {
       "slug": "title-generation",
@@ -61,7 +61,7 @@
       "nameZh": "五点描述生成",
       "descriptionEn": "AI tools and skills for Amazon five bullets, product selling points, feature-benefit copy, and concise listing bullet generation.",
       "descriptionZh": "面向 Amazon 五点、商品卖点、功能利益点和精炼列表文案的 AI 工具和技能。",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "main-image",
@@ -93,7 +93,7 @@
       "nameZh": "FAQ 生成",
       "descriptionEn": "AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales answers, support macros, and listing question generation.",
       "descriptionZh": "面向商品 FAQ、买家问答、异议处理、售前回答、客服话术和详情页问答生成的 AI 工具和技能。",
-      "count": 3
+      "count": 1
     },
     {
       "slug": "ai-infra",
@@ -101,7 +101,7 @@
       "nameZh": "电商 AI 基础设施",
       "descriptionEn": "Serving, MLOps, data pipelines, search/recommendation infrastructure, feature stores, and platform tooling for commerce AI.",
       "descriptionZh": "服务化、MLOps、数据管线、搜索/推荐基础设施、特征平台与电商 AI 工程工具。",
-      "count": 10
+      "count": 12
     },
     {
       "slug": "evaluation",
@@ -109,7 +109,7 @@
       "nameZh": "电商评测与增长分析",
       "descriptionEn": "Recommendation evaluation, A/B testing, attribution, conversion analytics, growth operations metrics, LLM quality checks, and commerce observability.",
       "descriptionZh": "推荐评测、A/B 测试、归因、转化分析、增长运营指标、LLM 质量检查与电商可观测性。",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "robotics",
@@ -117,7 +117,7 @@
       "nameZh": "零售机器人与履约自动化",
       "descriptionEn": "Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.",
       "descriptionZh": "仓储机器人、库存自动化、货架识别、履约配送与零售运营中的具身智能。",
-      "count": 10
+      "count": 8
     }
   ],
   "projects": [
@@ -129,9 +129,9 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34802794?v=4",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": 37111,
-      "forks": 5974,
-      "watchers": 37111,
+      "stars": 37118,
+      "forks": 5975,
+      "watchers": 37118,
       "openIssues": 47,
       "language": "JavaScript",
       "topics": [
@@ -142,7 +142,7 @@
       "license": "MIT",
       "homepage": "https://marketing-skills.com",
       "createdAt": "2026-01-15T19:45:23Z",
-      "updatedAt": "2026-07-08T01:13:43Z",
+      "updatedAt": "2026-07-08T01:53:41Z",
       "pushedAt": "2026-07-06T22:49:02Z",
       "category": "agents",
       "categories": [
@@ -156,48 +156,7 @@
       "weeklyStarsCapped": true,
       "starGrowthSource": "stargazers",
       "hotScore": 5701.41,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1152014594,
-      "name": "claude-seo",
-      "fullName": "AgriciDaniel/claude-seo",
-      "owner": "AgriciDaniel",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/223140489?v=4",
-      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
-      "stars": 10755,
-      "forks": 1567,
-      "watchers": 10755,
-      "openIssues": 22,
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-seo",
-        "claude-code",
-        "claude-code-skill",
-        "marketing-automation",
-        "open-source",
-        "seo"
-      ],
-      "license": "MIT",
-      "homepage": "https://claude-seo.md",
-      "createdAt": "2026-02-07T08:17:38Z",
-      "updatedAt": "2026-07-08T00:54:05Z",
-      "pushedAt": "2026-07-06T20:48:21Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "evaluation",
-        "ai-infra"
-      ],
-      "dailyStars": 103,
-      "weeklyStars": 200,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": true,
-      "starGrowthSource": "stargazers",
-      "hotScore": 3759.78,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 911256711,
@@ -207,9 +166,9 @@
       "url": "https://github.com/apify/apify-mcp-server",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24586296?v=4",
       "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
-      "stars": 1711,
+      "stars": 1712,
       "forks": 185,
-      "watchers": 1711,
+      "watchers": 1712,
       "openIssues": 116,
       "language": "TypeScript",
       "topics": [
@@ -221,7 +180,7 @@
       "license": "MIT",
       "homepage": "https://mcp.apify.com",
       "createdAt": "2025-01-02T15:43:09Z",
-      "updatedAt": "2026-07-08T00:55:31Z",
+      "updatedAt": "2026-07-08T01:40:19Z",
       "pushedAt": "2026-07-07T14:19:21Z",
       "category": "ai-infra",
       "categories": [
@@ -229,13 +188,13 @@
         "agents",
         "llm"
       ],
-      "dailyStars": 30,
+      "dailyStars": 31,
       "weeklyStars": 200,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": true,
       "starGrowthSource": "stargazers",
-      "hotScore": 2223.78,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 2243.78,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1155383451,
@@ -263,10 +222,10 @@
       "createdAt": "2026-02-11T13:01:49Z",
       "updatedAt": "2026-07-08T00:00:44Z",
       "pushedAt": "2026-06-26T21:03:50Z",
-      "category": "agents",
+      "category": "generative-ai",
       "categories": [
-        "agents",
         "generative-ai",
+        "agents",
         "ai-infra"
       ],
       "dailyStars": 17,
@@ -275,104 +234,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 1940.51,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 155852027,
-      "name": "community-skeleton",
-      "fullName": "uvdesk/community-skeleton",
-      "owner": "uvdesk",
-      "url": "https://github.com/uvdesk/community-skeleton",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24730296?v=4",
-      "description": "UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",
-      "stars": 19304,
-      "forks": 566,
-      "watchers": 19304,
-      "openIssues": 78,
-      "language": "CSS",
-      "topics": [
-        "agent-privilege",
-        "backbonejs",
-        "customer-support",
-        "docker-runtime",
-        "ecommerce-apps",
-        "ecommerce-apps-integration",
-        "freshdesk-alternative",
-        "knowledgebase",
-        "mailboxes",
-        "opensource",
-        "osticket-alternative",
-        "support-tickets",
-        "symfony4",
-        "ticketing-system",
-        "uvdesk",
-        "uvdesk-community",
-        "workflows",
-        "zendesk-alternative"
-      ],
-      "license": "OSL-3.0",
-      "homepage": "https://www.uvdesk.com",
-      "createdAt": "2018-11-02T10:40:36Z",
-      "updatedAt": "2026-07-08T00:14:36Z",
-      "pushedAt": "2025-10-01T07:16:24Z",
-      "category": "faq-generation",
-      "categories": [
-        "faq-generation",
-        "agents",
-        "rag"
-      ],
-      "dailyStars": 14,
-      "weeklyStars": 85,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 986.62,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 12204147,
-      "name": "mautic",
-      "fullName": "mautic/mautic",
-      "owner": "mautic",
-      "url": "https://github.com/mautic/mautic",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5257677?v=4",
-      "description": "Mautic: Open Source Marketing Automation Software.",
-      "stars": 10066,
-      "forks": 3364,
-      "watchers": 10066,
-      "openIssues": 195,
-      "language": "PHP",
-      "topics": [
-        "digital-experience-platform",
-        "digitalexperienceplatform",
-        "dxp",
-        "email-marketing",
-        "email-marketing-automation",
-        "email-marketing-software",
-        "hacktoberfest",
-        "marketing-automation",
-        "marketing-tools",
-        "mautic",
-        "open-source",
-        "php"
-      ],
-      "license": "NOASSERTION",
-      "homepage": "https://www.mautic.org",
-      "createdAt": "2013-08-19T00:36:28Z",
-      "updatedAt": "2026-07-07T22:03:47Z",
-      "pushedAt": "2026-07-07T17:32:08Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "generative-ai"
-      ],
-      "dailyStars": 17,
-      "weeklyStars": 70,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 924.2,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 70271182,
@@ -420,12 +282,153 @@
         "llm"
       ],
       "dailyStars": 7,
-      "weeklyStars": 66,
+      "weeklyStars": 65,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 687.39,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 679.39,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1189419041,
+      "name": "clipforge",
+      "fullName": "xixihhhh/clipforge",
+      "owner": "xixihhhh",
+      "url": "https://github.com/xixihhhh/clipforge",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60566571?v=4",
+      "description": "ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerce/UGC short-video generator.",
+      "stars": 224,
+      "forks": 52,
+      "watchers": 224,
+      "openIssues": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai-ugc",
+        "ai-video-creator",
+        "ai-video-generator",
+        "ai-voiceover",
+        "aigc",
+        "douyin",
+        "ecommerce",
+        "faceless-video",
+        "ffmpeg",
+        "kuaishou",
+        "mcp",
+        "mcp-server",
+        "nextjs",
+        "reels",
+        "self-hosted",
+        "short-video",
+        "text-to-video",
+        "tiktok",
+        "xiaohongshu",
+        "youtube-shorts"
+      ],
+      "license": "AGPL-3.0",
+      "homepage": "",
+      "createdAt": "2026-03-23T09:55:39Z",
+      "updatedAt": "2026-07-07T20:48:26Z",
+      "pushedAt": "2026-07-06T01:39:02Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "bullet-points",
+        "generative-ai"
+      ],
+      "dailyStars": 10,
+      "weeklyStars": 42,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 554.72,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1261422007,
+      "name": "guard-skills",
+      "fullName": "amElnagdy/guard-skills",
+      "owner": "amElnagdy",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7650147?v=4",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "stars": 972,
+      "forks": 111,
+      "watchers": 972,
+      "openIssues": 4,
+      "language": "Unknown",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "code-review",
+        "codex",
+        "skills-sh",
+        "woocommerce",
+        "wordpress"
+      ],
+      "license": "MIT",
+      "homepage": "https://skills.sh/amElnagdy/guard-skills",
+      "createdAt": "2026-06-06T16:59:27Z",
+      "updatedAt": "2026-07-08T00:50:10Z",
+      "pushedAt": "2026-07-04T15:26:29Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "ai-infra",
+        "evaluation"
+      ],
+      "dailyStars": 4,
+      "weeklyStars": 42,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 494.01,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1177556025,
+      "name": "Amazon-Skills",
+      "fullName": "nexscope-ai/Amazon-Skills",
+      "owner": "nexscope-ai",
+      "url": "https://github.com/nexscope-ai/Amazon-Skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/265748764?v=4",
+      "description": "Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format.",
+      "stars": 365,
+      "forks": 60,
+      "watchers": 365,
+      "openIssues": 3,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "amazon",
+        "amazon-seller-automation",
+        "amazon-seller-tools",
+        "claude-code",
+        "claude-skills",
+        "ecommerce",
+        "openclaw",
+        "openclaw-skills",
+        "skills"
+      ],
+      "license": "MIT",
+      "homepage": "",
+      "createdAt": "2026-03-10T06:17:05Z",
+      "updatedAt": "2026-07-08T01:44:27Z",
+      "pushedAt": "2026-06-16T06:34:17Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "generative-ai",
+        "evaluation"
+      ],
+      "dailyStars": 6,
+      "weeklyStars": 34,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 407.97,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1290241977,
@@ -470,8 +473,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 405.72,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 405.71,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1211089620,
@@ -503,52 +506,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 398.4,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1177556025,
-      "name": "Amazon-Skills",
-      "fullName": "nexscope-ai/Amazon-Skills",
-      "owner": "nexscope-ai",
-      "url": "https://github.com/nexscope-ai/Amazon-Skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/265748764?v=4",
-      "description": "Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format.",
-      "stars": 364,
-      "forks": 60,
-      "watchers": 364,
-      "openIssues": 3,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "amazon",
-        "amazon-seller-automation",
-        "amazon-seller-tools",
-        "claude-code",
-        "claude-skills",
-        "ecommerce",
-        "openclaw",
-        "openclaw-skills",
-        "skills"
-      ],
-      "license": "MIT",
-      "homepage": "",
-      "createdAt": "2026-03-10T06:17:05Z",
-      "updatedAt": "2026-07-07T20:57:42Z",
-      "pushedAt": "2026-06-16T06:34:17Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "evaluation",
-        "ai-infra"
-      ],
-      "dailyStars": 5,
-      "weeklyStars": 33,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 379.96,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 398.39,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1185016972,
@@ -592,8 +551,58 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 366.01,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 366,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1073337396,
+      "name": "claude-code-plugins-plus-skills",
+      "fullName": "jeremylongshore/claude-code-plugins-plus-skills",
+      "owner": "jeremylongshore",
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/213859472?v=4",
+      "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+      "stars": 2484,
+      "forks": 354,
+      "watchers": 2484,
+      "openIssues": 17,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "automation",
+        "claude-code",
+        "claude-code-plugins",
+        "developer-tools",
+        "devops",
+        "llm",
+        "marketplace",
+        "mcp",
+        "plugin-marketplace",
+        "plugin-system",
+        "saas",
+        "skills"
+      ],
+      "license": "MIT",
+      "homepage": "https://tonsofskills.com",
+      "createdAt": "2025-10-10T01:01:00Z",
+      "updatedAt": "2026-07-08T01:19:46Z",
+      "pushedAt": "2026-07-08T01:27:52Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "llm",
+        "ai-infra"
+      ],
+      "dailyStars": 4,
+      "weeklyStars": 28,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 340.51,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1222372573,
@@ -636,8 +645,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 252.6,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 252.59,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1219590575,
@@ -647,16 +656,16 @@
       "url": "https://github.com/wzj177/ecommerce-image-suite",
       "avatarUrl": "https://avatars.githubusercontent.com/u/189321723?v=4",
       "description": "面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。",
-      "stars": 245,
+      "stars": 246,
       "forks": 68,
-      "watchers": 245,
+      "watchers": 246,
       "openIssues": 0,
       "language": "Python",
       "topics": [],
       "license": "Apache-2.0",
       "homepage": "",
       "createdAt": "2026-04-24T03:01:37Z",
-      "updatedAt": "2026-07-07T08:47:36Z",
+      "updatedAt": "2026-07-08T01:49:04Z",
       "pushedAt": "2026-04-24T05:04:52Z",
       "category": "secondary-images",
       "categories": [
@@ -664,13 +673,13 @@
         "bullet-points",
         "agents"
       ],
-      "dailyStars": 5,
-      "weeklyStars": 12,
+      "dailyStars": 6,
+      "weeklyStars": 13,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 209.71,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 237.74,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1156131995,
@@ -709,7 +718,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 164.94,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1202194964,
@@ -742,7 +751,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 164.09,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1198690790,
@@ -776,8 +785,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 162.9,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 162.89,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1204321239,
@@ -809,8 +818,59 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 152.3,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 152.29,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1188421161,
+      "name": "openilink-hub",
+      "fullName": "openilink/openilink-hub",
+      "owner": "openilink",
+      "url": "https://github.com/openilink/openilink-hub",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270050004?v=4",
+      "description": "开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs",
+      "stars": 1380,
+      "forks": 106,
+      "watchers": 1380,
+      "openIssues": 13,
+      "language": "Go",
+      "topics": [
+        "ai-chatbot",
+        "ai-tools",
+        "app-marketplace",
+        "bot-management",
+        "chatbot",
+        "dingtalk",
+        "discord",
+        "golang",
+        "ilink",
+        "lark",
+        "notion",
+        "react",
+        "self-hosted",
+        "slack",
+        "webhook",
+        "wechat",
+        "wechat-bot"
+      ],
+      "license": "MIT",
+      "homepage": "https://openilink.com",
+      "createdAt": "2026-03-22T03:39:57Z",
+      "updatedAt": "2026-07-07T21:44:56Z",
+      "pushedAt": "2026-06-18T17:22:25Z",
+      "category": "llm",
+      "categories": [
+        "llm",
+        "agents",
+        "ai-infra"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 10,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 137.83,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1265706480,
@@ -843,7 +903,143 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 137.64,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1242060029,
+      "name": "awesome-amazon-ec-skills",
+      "fullName": "hikari0511/awesome-amazon-ec-skills",
+      "owner": "hikari0511",
+      "url": "https://github.com/hikari0511/awesome-amazon-ec-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83998395?v=4",
+      "description": "亚马逊跨境电商场景下的 Claude / AI Agent Skills 合集（中文优先，聚焦 Amazon 出海 + 1688 供货上游）",
+      "stars": 44,
+      "forks": 5,
+      "watchers": 44,
+      "openIssues": 0,
+      "language": "Unknown",
+      "topics": [
+        "ai-agent",
+        "alibaba-1688",
+        "amazon",
+        "amazon-mcp",
+        "amazon-seller",
+        "awesome",
+        "awesome-list",
+        "chinese",
+        "claude-code",
+        "claude-skill",
+        "claude-skills",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "mcp-server",
+        "sp-api"
+      ],
+      "license": "CC0-1.0",
+      "homepage": "",
+      "createdAt": "2026-05-18T05:09:46Z",
+      "updatedAt": "2026-07-08T01:27:32Z",
+      "pushedAt": "2026-05-19T02:39:54Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "generative-ai"
+      ],
+      "dailyStars": 2,
+      "weeklyStars": 11,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 134.69,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1238353357,
+      "name": "vibe-seller",
+      "fullName": "zpoint/vibe-seller",
+      "owner": "zpoint",
+      "url": "https://github.com/zpoint/vibe-seller",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18083296?v=4",
+      "description": "跨境卖家的 AI 自动化框架（支持亚马逊、Noon、美客多、千牛等平台，紫鸟、Chrome 等浏览器），自由接入任意大模型(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)",
+      "stars": 17,
+      "forks": 4,
+      "watchers": 17,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [],
+      "license": "Apache-2.0",
+      "homepage": "https://github.com/zpoint/vibe-seller",
+      "createdAt": "2026-05-14T03:36:15Z",
+      "updatedAt": "2026-07-07T14:56:41Z",
+      "pushedAt": "2026-07-07T14:56:02Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "ai-infra",
+        "llm"
+      ],
+      "dailyStars": 3,
+      "weeklyStars": 7,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 128.26,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 641440545,
+      "name": "Open-AI-Design-Agent",
+      "fullName": "Anil-matcha/Open-AI-Design-Agent",
+      "owner": "Anil-matcha",
+      "url": "https://github.com/Anil-matcha/Open-AI-Design-Agent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4326215?v=4",
+      "description": "Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted.",
+      "stars": 263,
+      "forks": 43,
+      "watchers": 263,
+      "openIssues": 1,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-creative-agent",
+        "ai-design-agent",
+        "ai-logo",
+        "ai-poster",
+        "ai-video-agent",
+        "brand-kit",
+        "design-agent",
+        "galileo-ai",
+        "krea-agent",
+        "lovart",
+        "lovart-alternative",
+        "luma-agent",
+        "luma-labs",
+        "magic-patterns",
+        "open-source",
+        "pika-agent",
+        "runway-agent",
+        "runway-alternative",
+        "self-hosted"
+      ],
+      "license": "MIT",
+      "homepage": "https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent",
+      "createdAt": "2023-05-16T13:25:24Z",
+      "updatedAt": "2026-07-08T01:17:30Z",
+      "pushedAt": "2026-07-03T14:44:56Z",
+      "category": "generative-ai",
+      "categories": [
+        "generative-ai",
+        "agents",
+        "robotics"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 11,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 122.53,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1261690469,
@@ -879,62 +1075,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 114.9,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 641440545,
-      "name": "Open-AI-Design-Agent",
-      "fullName": "Anil-matcha/Open-AI-Design-Agent",
-      "owner": "Anil-matcha",
-      "url": "https://github.com/Anil-matcha/Open-AI-Design-Agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4326215?v=4",
-      "description": "Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted.",
-      "stars": 262,
-      "forks": 43,
-      "watchers": 262,
-      "openIssues": 1,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agent",
-        "ai-creative-agent",
-        "ai-design-agent",
-        "ai-logo",
-        "ai-poster",
-        "ai-video-agent",
-        "brand-kit",
-        "design-agent",
-        "galileo-ai",
-        "krea-agent",
-        "lovart",
-        "lovart-alternative",
-        "luma-agent",
-        "luma-labs",
-        "magic-patterns",
-        "open-source",
-        "pika-agent",
-        "runway-agent",
-        "runway-alternative",
-        "self-hosted"
-      ],
-      "license": "MIT",
-      "homepage": "https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent",
-      "createdAt": "2023-05-16T13:25:24Z",
-      "updatedAt": "2026-07-07T01:39:38Z",
-      "pushedAt": "2026-07-03T14:44:56Z",
-      "category": "generative-ai",
-      "categories": [
-        "generative-ai",
-        "agents",
-        "robotics"
-      ],
-      "dailyStars": 1,
-      "weeklyStars": 10,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 114.53,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 114.89,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 591995344,
@@ -984,56 +1126,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 113.66,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1242060029,
-      "name": "awesome-amazon-ec-skills",
-      "fullName": "hikari0511/awesome-amazon-ec-skills",
-      "owner": "hikari0511",
-      "url": "https://github.com/hikari0511/awesome-amazon-ec-skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/83998395?v=4",
-      "description": "亚马逊跨境电商场景下的 Claude / AI Agent Skills 合集（中文优先，聚焦 Amazon 出海 + 1688 供货上游）",
-      "stars": 43,
-      "forks": 5,
-      "watchers": 43,
-      "openIssues": 0,
-      "language": "Unknown",
-      "topics": [
-        "ai-agent",
-        "alibaba-1688",
-        "amazon",
-        "amazon-mcp",
-        "amazon-seller",
-        "awesome",
-        "awesome-list",
-        "chinese",
-        "claude-code",
-        "claude-skill",
-        "claude-skills",
-        "cross-border-ecommerce",
-        "ecommerce",
-        "mcp-server",
-        "sp-api"
-      ],
-      "license": "CC0-1.0",
-      "homepage": "",
-      "createdAt": "2026-05-18T05:09:46Z",
-      "updatedAt": "2026-07-07T17:09:19Z",
-      "pushedAt": "2026-05-19T02:39:54Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "ai-infra",
-        "evaluation"
-      ],
-      "dailyStars": 1,
-      "weeklyStars": 10,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 106.62,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 703802567,
@@ -1085,7 +1178,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 104.66,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1199101685,
@@ -1117,7 +1210,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 95.15,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1098866858,
@@ -1158,7 +1251,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 92.65,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1141100288,
@@ -1190,7 +1283,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 87.12,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1274797292,
@@ -1234,8 +1327,41 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 81.23,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 81.22,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1205663202,
+      "name": "amazon-skills",
+      "fullName": "zach22-1999/amazon-skills",
+      "owner": "zach22-1999",
+      "url": "https://github.com/zach22-1999/amazon-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/251541124?v=4",
+      "description": "Public AI skills for Amazon sellers, including product research, feature validation, and listing health checks. 亚马逊卖家实战 Skills 仓库。",
+      "stars": 106,
+      "forks": 28,
+      "watchers": 106,
+      "openIssues": 1,
+      "language": "Python",
+      "topics": [],
+      "license": "MIT",
+      "homepage": "",
+      "createdAt": "2026-04-09T07:02:15Z",
+      "updatedAt": "2026-07-07T03:21:01Z",
+      "pushedAt": "2026-05-27T12:24:36Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "generative-ai",
+        "ai-infra"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 6,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 76.45,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 483894024,
@@ -1284,8 +1410,95 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 75.86,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 75.85,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1260120971,
+      "name": "tiktok-creator-sop-tool",
+      "fullName": "hazelhu644-collab/tiktok-creator-sop-tool",
+      "owner": "hazelhu644-collab",
+      "url": "https://github.com/hazelhu644-collab/tiktok-creator-sop-tool",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280885013?v=4",
+      "description": "AI-powered creator outreach and collaboration platform for TikTok Shop sellers.",
+      "stars": 7,
+      "forks": 3,
+      "watchers": 7,
+      "openIssues": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "automation",
+        "chatgpt",
+        "codex",
+        "creator-crm",
+        "creator-management",
+        "creator-marketing",
+        "creator-outreach",
+        "cross-border-ecommerce",
+        "cross-border-ecommerce-friendly",
+        "influencer-marketing",
+        "influencer-marketing-tools",
+        "tiktok",
+        "tiktok-shop",
+        "tiktok-shop-affiliate",
+        "typescript",
+        "vercel",
+        "vercel-deployment",
+        "vite",
+        "workflow"
+      ],
+      "license": "MIT",
+      "homepage": "https://tiktok-creator-sop-tool.vercel.app",
+      "createdAt": "2026-06-05T07:13:27Z",
+      "updatedAt": "2026-07-08T01:04:24Z",
+      "pushedAt": "2026-07-01T09:55:37Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "llm"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 5,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 69.36,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1195195021,
+      "name": "tiktok-ecommerce-suite",
+      "fullName": "fengziliang43-cmyk/tiktok-ecommerce-suite",
+      "owner": "fengziliang43-cmyk",
+      "url": "https://github.com/fengziliang43-cmyk/tiktok-ecommerce-suite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254597482?v=4",
+      "description": "TikTok Shop跨境电商自动化套件 - 7个AI智能体帮你从选品到上架全自动",
+      "stars": 25,
+      "forks": 9,
+      "watchers": 25,
+      "openIssues": 1,
+      "language": "PowerShell",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-03-29T11:06:43Z",
+      "updatedAt": "2026-07-07T10:40:28Z",
+      "pushedAt": "2026-03-29T11:10:23Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "ai-infra"
+      ],
+      "dailyStars": 2,
+      "weeklyStars": 3,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 68.74,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1218018309,
@@ -1325,97 +1538,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 68.07,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 224444129,
-      "name": "flowy",
-      "fullName": "alyssaxuu/flowy",
-      "owner": "alyssaxuu",
-      "url": "https://github.com/alyssaxuu/flowy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7581348?v=4",
-      "description": "The minimal javascript library to create flowcharts ✨",
-      "stars": 12059,
-      "forks": 1044,
-      "watchers": 12059,
-      "openIssues": 59,
-      "language": "JavaScript",
-      "topics": [
-        "diagrams",
-        "drag-and-drop",
-        "engine",
-        "flowchart",
-        "javascript",
-        "javascript-library",
-        "marketing",
-        "marketing-automation",
-        "minimal",
-        "zapier"
-      ],
-      "license": "MIT",
-      "homepage": "",
-      "createdAt": "2019-11-27T14:03:51Z",
-      "updatedAt": "2026-07-07T21:56:41Z",
-      "pushedAt": "2024-07-13T17:01:28Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "generative-ai",
-        "rag"
-      ],
-      "dailyStars": 1,
-      "weeklyStars": 3,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 66.23,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1127855842,
-      "name": "Awesome-AI-Image-Prompts",
-      "fullName": "devanshug2307/Awesome-AI-Image-Prompts",
-      "owner": "devanshug2307",
-      "url": "https://github.com/devanshug2307/Awesome-AI-Image-Prompts",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82210351?v=4",
-      "description": "1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design & more.",
-      "stars": 219,
-      "forks": 29,
-      "watchers": 219,
-      "openIssues": 0,
-      "language": "Unknown",
-      "topics": [
-        "ai-image-generation",
-        "ai-image-prompts",
-        "dalle",
-        "flux",
-        "gemini",
-        "image-generation",
-        "midjourney",
-        "prompt-engineering",
-        "prompt-guide",
-        "prompts",
-        "stable-diffusion"
-      ],
-      "license": "Unknown",
-      "homepage": "https://agentpedia.codes/image-prompts",
-      "createdAt": "2026-01-04T18:14:28Z",
-      "updatedAt": "2026-07-07T00:52:16Z",
-      "pushedAt": "2026-05-25T09:24:23Z",
-      "category": "generative-ai",
-      "categories": [
-        "generative-ai",
-        "llm",
-        "main-image"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 7,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 65.4,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 68.06,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1273501514,
@@ -1468,7 +1592,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 58.37,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1186562824,
@@ -1501,7 +1625,52 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 57.66,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1127855842,
+      "name": "Awesome-AI-Image-Prompts",
+      "fullName": "devanshug2307/Awesome-AI-Image-Prompts",
+      "owner": "devanshug2307",
+      "url": "https://github.com/devanshug2307/Awesome-AI-Image-Prompts",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82210351?v=4",
+      "description": "1000+ curated AI image generation prompts for DALL-E, Midjourney, Google Nano Banana (Imagen), Flux, ChatGPT Image, and Stable Diffusion. Copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design & more.",
+      "stars": 219,
+      "forks": 29,
+      "watchers": 219,
+      "openIssues": 0,
+      "language": "Unknown",
+      "topics": [
+        "ai-image-generation",
+        "ai-image-prompts",
+        "dalle",
+        "flux",
+        "gemini",
+        "image-generation",
+        "midjourney",
+        "prompt-engineering",
+        "prompt-guide",
+        "prompts",
+        "stable-diffusion"
+      ],
+      "license": "Unknown",
+      "homepage": "https://agentpedia.codes/image-prompts",
+      "createdAt": "2026-01-04T18:14:28Z",
+      "updatedAt": "2026-07-07T00:52:16Z",
+      "pushedAt": "2026-05-25T09:24:23Z",
+      "category": "generative-ai",
+      "categories": [
+        "generative-ai",
+        "llm",
+        "main-image"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 6,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 57.4,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1153111797,
@@ -1544,7 +1713,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 56.46,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 332585863,
@@ -1595,8 +1764,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 53.91,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 53.9,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1259423904,
@@ -1644,8 +1813,57 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 53.13,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 53.12,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1279940806,
+      "name": "nexscope-ecommerce-skills",
+      "fullName": "nexscope-ai/nexscope-ecommerce-skills",
+      "owner": "nexscope-ai",
+      "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/265748764?v=4",
+      "description": "Ready-to-use AI agent skills for e-commerce intelligence. Product research, keyword optimization, competitor analysis, pricing monitoring, patent risk assessment, market trends, and platform-specific tools for Amazon, TikTok Shop, Shopify, Temu and more.",
+      "stars": 10,
+      "forks": 1,
+      "watchers": 10,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agent-skills",
+        "amazon",
+        "competitor-analysis",
+        "ecommerce",
+        "keyword-research",
+        "market-intelligence",
+        "patent-analysis",
+        "pricing-monitoring",
+        "product-research",
+        "shopify",
+        "skills",
+        "temu",
+        "tiktok-shop-automation"
+      ],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-06-25T06:17:16Z",
+      "updatedAt": "2026-07-07T06:56:41Z",
+      "pushedAt": "2026-06-25T10:37:03Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "ai-infra",
+        "evaluation"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 3,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 52.42,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1074444345,
@@ -1693,7 +1911,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 52.36,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1236911090,
@@ -1740,8 +1958,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 50.99,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 50.98,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1180497619,
@@ -1774,7 +1992,53 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 49.71,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1152044434,
+      "name": "awesome-agentic-advertising",
+      "fullName": "jshorwitz/awesome-agentic-advertising",
+      "owner": "jshorwitz",
+      "url": "https://github.com/jshorwitz/awesome-agentic-advertising",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2186017?v=4",
+      "description": "A curated list of MCP servers, tools, protocols, and resources for AI-powered advertising campaign management. Covers Google Ads, Meta, LinkedIn, Reddit, TikTok, Amazon, and more.",
+      "stars": 29,
+      "forks": 8,
+      "watchers": 29,
+      "openIssues": 9,
+      "language": "Unknown",
+      "topics": [
+        "adtech",
+        "advertising",
+        "agentic-advertising",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "google-ads",
+        "mcp",
+        "mcp-servers",
+        "meta-ads",
+        "model-context-protocol",
+        "ppc"
+      ],
+      "license": "Unknown",
+      "homepage": "https://syntermedia.ai",
+      "createdAt": "2026-02-07T09:21:56Z",
+      "updatedAt": "2026-07-07T22:04:46Z",
+      "pushedAt": "2026-03-24T14:28:37Z",
+      "category": "generative-ai",
+      "categories": [
+        "generative-ai",
+        "agents",
+        "evaluation"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 3,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 48.82,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1042844902,
@@ -1813,8 +2077,41 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 48.38,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 48.37,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1258837516,
+      "name": "focus_app",
+      "fullName": "FocusSearch/focus_app",
+      "owner": "FocusSearch",
+      "url": "https://github.com/FocusSearch/focus_app",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139853140?v=4",
+      "description": "little ai tools for GEO, tiktok shop etc.",
+      "stars": 10,
+      "forks": 0,
+      "watchers": 10,
+      "openIssues": 0,
+      "language": "Unknown",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-06-04T01:04:09Z",
+      "updatedAt": "2026-07-07T02:25:23Z",
+      "pushedAt": "2026-06-09T08:17:15Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "ai-infra",
+        "evaluation"
+      ],
+      "dailyStars": 1,
+      "weeklyStars": 3,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 48.05,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 904893333,
@@ -1852,8 +2149,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 47.28,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 47.27,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1248874749,
@@ -1896,8 +2193,41 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 43.56,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 43.55,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1270985920,
+      "name": "Shopro-AI",
+      "fullName": "wyxpro/Shopro-AI",
+      "owner": "wyxpro",
+      "url": "https://github.com/wyxpro/Shopro-AI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/113280456?v=4",
+      "description": "一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。",
+      "stars": 6,
+      "forks": 3,
+      "watchers": 6,
+      "openIssues": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "https://f.playe.top",
+      "createdAt": "2026-06-16T08:20:35Z",
+      "updatedAt": "2026-07-07T01:35:47Z",
+      "pushedAt": "2026-07-06T00:36:22Z",
+      "category": "bullet-points",
+      "categories": [
+        "bullet-points",
+        "agents",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 4,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 42.39,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1134942413,
@@ -1937,7 +2267,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 41.14,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 693072990,
@@ -1973,7 +2303,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.69,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1187572212,
@@ -2025,8 +2355,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 40.5,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 40.49,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1172212596,
@@ -2059,7 +2389,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 40.36,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1012726162,
@@ -2098,8 +2428,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 37.75,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 37.74,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1259457554,
@@ -2137,8 +2467,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 35.42,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 35.41,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1114441622,
@@ -2171,7 +2501,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 35.23,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1004298552,
@@ -2204,7 +2534,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 33.75,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1175588425,
@@ -2250,43 +2580,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 33.02,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 55407965,
-      "name": "mailtrain",
-      "fullName": "Mailtrain-org/mailtrain",
-      "owner": "Mailtrain-org",
-      "url": "https://github.com/Mailtrain-org/mailtrain",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26621321?v=4",
-      "description": "Self hosted newsletter app",
-      "stars": 5731,
-      "forks": 706,
-      "watchers": 5731,
-      "openIssues": 114,
-      "language": "JavaScript",
-      "topics": [
-        "email-marketing",
-        "mailtrain",
-        "marketing-automation"
-      ],
-      "license": "GPL-3.0",
-      "homepage": "",
-      "createdAt": "2016-04-04T12:04:33Z",
-      "updatedAt": "2026-07-06T14:47:46Z",
-      "pushedAt": "2025-10-05T17:53:53Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "generative-ai"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 2,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 30.33,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1146166995,
@@ -2330,8 +2624,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 30.23,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 30.22,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1187460717,
@@ -2364,7 +2658,57 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 29.31,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1123671153,
+      "name": "plugin.delivery",
+      "fullName": "nirholas/plugin.delivery",
+      "owner": "nirholas",
+      "url": "https://github.com/nirholas/plugin.delivery",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22895867?v=4",
+      "description": "AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics.",
+      "stars": 25,
+      "forks": 3,
+      "watchers": 25,
+      "openIssues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-assistant",
+        "ai-plugins",
+        "ai-tools",
+        "bun",
+        "chat-plugins",
+        "developer-tools",
+        "edge-functions",
+        "function-calling",
+        "llm-tools",
+        "mcp",
+        "openapi",
+        "plugin-marketplace",
+        "plugin-sdk",
+        "react",
+        "typescript",
+        "vercel"
+      ],
+      "license": "MIT",
+      "homepage": "https://plugin.delivery",
+      "createdAt": "2025-12-27T11:19:02Z",
+      "updatedAt": "2026-07-06T04:25:34Z",
+      "pushedAt": "2026-07-06T04:25:29Z",
+      "category": "evaluation",
+      "categories": [
+        "evaluation",
+        "ai-infra",
+        "llm"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 2,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 28,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1226613826,
@@ -2398,8 +2742,8 @@
       "category": "agents",
       "categories": [
         "agents",
-        "llm",
-        "ai-infra"
+        "generative-ai",
+        "llm"
       ],
       "dailyStars": 0,
       "weeklyStars": 3,
@@ -2407,7 +2751,56 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 27.56,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1180882242,
+      "name": "OmniTradeERP",
+      "fullName": "nplszfl/OmniTradeERP",
+      "owner": "nplszfl",
+      "url": "https://github.com/nplszfl/OmniTradeERP",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108574576?v=4",
+      "description": "🔥 跨境电商智能ERP系统 | Java 21 + Spring Cloud + Vue 3 | AI智能定价/库存预测/AI客服 | 支持Amazon/eBay/Shopee等10+平台",
+      "stars": 26,
+      "forks": 11,
+      "watchers": 26,
+      "openIssues": 4,
+      "language": "Java",
+      "topics": [
+        "ai",
+        "amazon",
+        "cross-border-e-commerce",
+        "docker",
+        "e-commerce",
+        "ebay",
+        "erp",
+        "java",
+        "kubernetes",
+        "marketplace",
+        "microservices",
+        "shopee",
+        "spring-boot",
+        "spring-cloud",
+        "vue3"
+      ],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-03-13T14:10:34Z",
+      "updatedAt": "2026-07-05T16:46:23Z",
+      "pushedAt": "2026-06-25T10:22:29Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "ai-infra"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 2,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 25.37,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 270530850,
@@ -2456,8 +2849,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 23.66,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 23.65,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1163891582,
@@ -2492,7 +2885,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.4,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1207605833,
@@ -2524,8 +2917,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 23.4,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 23.39,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1062541386,
@@ -2558,59 +2951,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 23.26,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 721481892,
-      "name": "Cool-GenAI-Fashion-Papers",
-      "fullName": "wendashi/Cool-GenAI-Fashion-Papers",
-      "owner": "wendashi",
-      "url": "https://github.com/wendashi/Cool-GenAI-Fashion-Papers",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/141135497?v=4",
-      "description": "[ACM TIST 2025] GenAI in Fashion: Overview, also includes 🔥latest papers, ⚙️metrics, 👀workshops, 🚀companies & products, ...)",
-      "stars": 242,
-      "forks": 14,
-      "watchers": 242,
-      "openIssues": 0,
-      "language": "Unknown",
-      "topics": [
-        "3d",
-        "awesome-lists",
-        "clothing",
-        "collection",
-        "cool",
-        "curated",
-        "curated-list",
-        "cvpr",
-        "eccv",
-        "fashion",
-        "fashion-tech",
-        "fashionai",
-        "garment",
-        "genai",
-        "iccv",
-        "image",
-        "multimedia",
-        "siggraph",
-        "video",
-        "virtual-try-on"
-      ],
-      "license": "Unknown",
-      "homepage": "https://dl.acm.org/doi/10.1145/3718098",
-      "createdAt": "2023-11-21T06:39:07Z",
-      "updatedAt": "2026-07-06T07:18:47Z",
-      "pushedAt": "2026-07-06T07:18:43Z",
-      "category": "generative-ai",
-      "categories": [
-        "generative-ai"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 1,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 23.19,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1153563416,
@@ -2663,7 +3004,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 22.43,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1227331963,
@@ -2717,7 +3058,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 22.04,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1178450120,
@@ -2750,54 +3091,94 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.61,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
-      "id": 605189726,
-      "name": "evitaDB",
-      "fullName": "FgForrest/evitaDB",
-      "owner": "FgForrest",
-      "url": "https://github.com/FgForrest/evitaDB",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/797401?v=4",
-      "description": "evitaDB is a specialized database with an easy-to-use API for e-commerce systems. It is a low-latency NoSQL in-memory engine that handles all the complex tasks that e-commerce systems have to deal with on a daily basis. evitaDB is expected to act as a fast secondary lookup/search index used by front stores.",
-      "stars": 69,
-      "forks": 7,
-      "watchers": 69,
-      "openIssues": 77,
-      "language": "Java",
+      "id": 1158976460,
+      "name": "coworker",
+      "fullName": "Array-Ventures/coworker",
+      "owner": "Array-Ventures",
+      "url": "https://github.com/Array-Ventures/coworker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/214902923?v=4",
+      "description": "Open-source AI agent with MCP UI, app builder, A2A protocol, skills marketplace, and multi-provider chat. Built with Mastra. Alternative to OpenClaw.",
+      "stars": 40,
+      "forks": 16,
+      "watchers": 40,
+      "openIssues": 4,
+      "language": "TypeScript",
       "topics": [
-        "catalog",
-        "database",
-        "e-commerce",
-        "faceted-search",
-        "graphql-api",
-        "grpc-api",
-        "hierarchy-structure",
-        "histogram",
-        "in-memory-database",
-        "nosql-database",
-        "oltp",
-        "price-search",
-        "rest-api"
+        "a2a-protocol",
+        "ai-agent",
+        "ai-assistant",
+        "anthropic",
+        "app-builder",
+        "chatbot",
+        "electron",
+        "google-workspace",
+        "inngest",
+        "mastra",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "openai",
+        "openclaw-alternative",
+        "railway",
+        "self-hosted",
+        "skills-marketplace",
+        "typescript",
+        "whatsapp-bot"
       ],
-      "license": "NOASSERTION",
-      "homepage": "https://evitadb.io",
-      "createdAt": "2023-02-22T16:29:30Z",
-      "updatedAt": "2026-07-06T18:11:08Z",
-      "pushedAt": "2026-07-07T16:26:18Z",
-      "category": "ai-infra",
+      "license": "Apache-2.0",
+      "homepage": "https://railway.com/deploy/coworker",
+      "createdAt": "2026-02-16T06:41:23Z",
+      "updatedAt": "2026-07-06T07:16:16Z",
+      "pushedAt": "2026-02-25T06:10:46Z",
+      "category": "llm",
       "categories": [
-        "ai-infra",
         "llm",
-        "rag"
+        "agents",
+        "ai-infra"
       ],
       "dailyStars": 0,
-      "weeklyStars": 1,
+      "weeklyStars": 2,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 21.55,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 21.4,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1248334419,
+      "name": "claudesdk-amazon-skills-chat",
+      "fullName": "liangdabiao/claudesdk-amazon-skills-chat",
+      "owner": "liangdabiao",
+      "url": "https://github.com/liangdabiao/claudesdk-amazon-skills-chat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1232260?v=4",
+      "description": "基于 **Claude Agent SDK** 的亚马逊卖家全链路 AI 助手。集成 **54 个专业技能**，通过自然语言对话即可完成选品调研、关键词挖掘、Listing 优化、FBA 费用计算、PPC 广告等全链路工作。  ## 架构  ``` 用户浏览器 ←WebSocket→ Express Server ←→ Claude Agent SDK ←→ 54 个 Amazon Skills",
+      "stars": 23,
+      "forks": 4,
+      "watchers": 23,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-05-24T14:05:02Z",
+      "updatedAt": "2026-07-03T10:26:42Z",
+      "pushedAt": "2026-05-29T05:40:34Z",
+      "category": "generative-ai",
+      "categories": [
+        "generative-ai",
+        "agents",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 2,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 21.17,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1222589733,
@@ -2846,7 +3227,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 21.02,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1180426897,
@@ -2885,8 +3266,8 @@
       "category": "agents",
       "categories": [
         "agents",
-        "ai-infra",
-        "evaluation"
+        "evaluation",
+        "generative-ai"
       ],
       "dailyStars": 0,
       "weeklyStars": 1,
@@ -2894,7 +3275,50 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 20.99,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1223626282,
+      "name": "amazon-automation-skills",
+      "fullName": "zhuoxinsi/amazon-automation-skills",
+      "owner": "zhuoxinsi",
+      "url": "https://github.com/zhuoxinsi/amazon-automation-skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63589790?v=4",
+      "description": "Amazon Automation Skills | 亚马逊运营全流程工具集，含Listing生成、选品调研、广告策略、店铺管理，可接入AI Agent使用，Python开发",
+      "stars": 19,
+      "forks": 2,
+      "watchers": 19,
+      "openIssues": 1,
+      "language": "Python",
+      "topics": [
+        "a10",
+        "a9",
+        "amazon",
+        "amazon-advertising",
+        "amazon-api",
+        "amazon-listing",
+        "cosmo",
+        "listing-generator",
+        "rufus"
+      ],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-04-28T13:56:32Z",
+      "updatedAt": "2026-07-07T07:04:33Z",
+      "pushedAt": "2026-04-29T14:39:39Z",
+      "category": "generative-ai",
+      "categories": [
+        "generative-ai",
+        "agents",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 2,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 20.44,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1124100628,
@@ -2948,7 +3372,38 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 20.28,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1150425119,
+      "name": "AI_NPU_System_Design_v1",
+      "fullName": "estlit/AI_NPU_System_Design_v1",
+      "owner": "estlit",
+      "url": "https://github.com/estlit/AI_NPU_System_Design_v1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173750539?v=4",
+      "description": "🏆 Amazon Best Seller | Full-stack AI NPU Design (Python, Verilog, ISA, FPGA)  Vol.2 Coming Soon!",
+      "stars": 20,
+      "forks": 2,
+      "watchers": 20,
+      "openIssues": 0,
+      "language": "Unknown",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-02-05T09:07:21Z",
+      "updatedAt": "2026-07-07T01:37:40Z",
+      "pushedAt": "2026-03-03T05:04:47Z",
+      "category": "agents",
+      "categories": [
+        "agents"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 2,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 20.23,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1069952948,
@@ -2981,7 +3436,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 20.15,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 998036124,
@@ -3035,7 +3490,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 19.6,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1088997315,
@@ -3075,8 +3530,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 19.3,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 19.29,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1089901498,
@@ -3113,8 +3568,52 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 18.99,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 18.98,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 29405754,
+      "name": "datatables",
+      "fullName": "n1crack/datatables",
+      "owner": "n1crack",
+      "url": "https://github.com/n1crack/datatables",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/712404?v=4",
+      "description": "Simplify your Datatables server-side processing effortlessly using our lightning-fast PHP library, streamlining your workflow seamlessly.",
+      "stars": 274,
+      "forks": 84,
+      "watchers": 274,
+      "openIssues": 0,
+      "language": "PHP",
+      "topics": [
+        "codeigniter",
+        "datatables",
+        "datatables-library",
+        "datatables-serverside",
+        "laravel",
+        "mysql",
+        "php",
+        "php-library",
+        "prestashop",
+        "sqlite"
+      ],
+      "license": "MIT",
+      "homepage": "https://datatables.ozdemir.be/",
+      "createdAt": "2015-01-17T21:09:10Z",
+      "updatedAt": "2026-07-02T04:23:14Z",
+      "pushedAt": "2026-06-17T07:16:55Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "ai-infra",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 1,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 17.91,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1199167796,
@@ -3168,7 +3667,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 17.1,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1183226075,
@@ -3207,7 +3706,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 16.5,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1253861590,
@@ -3255,8 +3754,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 15.48,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 15.47,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 897297668,
@@ -3302,7 +3801,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 15.33,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1271437886,
@@ -3345,8 +3844,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 15.06,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 15.05,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 969187519,
@@ -3395,8 +3894,62 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 15.04,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 15.03,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 237993579,
+      "name": "apps",
+      "fullName": "contentful/apps",
+      "owner": "contentful",
+      "url": "https://github.com/contentful/apps",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/472182?v=4",
+      "description": "Apps on the Contentful Marketplace and resources to build them",
+      "stars": 163,
+      "forks": 170,
+      "watchers": 163,
+      "openIssues": 311,
+      "language": "TypeScript",
+      "topics": [
+        "ai-image-tagging",
+        "app",
+        "apps",
+        "bynder",
+        "cloudinary",
+        "commercelayer",
+        "commercetools",
+        "dropbox",
+        "frontify",
+        "gatsby",
+        "google-analytics",
+        "image-focal-point",
+        "jira",
+        "marketplace",
+        "monorepo",
+        "netlify",
+        "optimizely",
+        "shopify",
+        "smartling",
+        "tutorial"
+      ],
+      "license": "Unknown",
+      "homepage": "https://contentful.com/marketplace",
+      "createdAt": "2020-02-03T15:10:14Z",
+      "updatedAt": "2026-07-07T20:06:38Z",
+      "pushedAt": "2026-07-07T20:06:31Z",
+      "category": "ai-infra",
+      "categories": [
+        "ai-infra",
+        "evaluation",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 14.72,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1174726144,
@@ -3435,7 +3988,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 14.43,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 990832792,
@@ -3466,7 +4019,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 13.7,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 144914978,
@@ -3519,8 +4072,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 13.39,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 13.38,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1168265693,
@@ -3565,8 +4118,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 13.32,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 13.31,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1193376462,
@@ -3599,7 +4152,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.87,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1147121400,
@@ -3646,8 +4199,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 12.46,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 12.45,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 681630259,
@@ -3679,43 +4232,7 @@
       "category": "generative-ai",
       "categories": [
         "generative-ai",
-        "main-image"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 12.45,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 6026966,
-      "name": "SEO.Sitemaps",
-      "fullName": "Geta/SEO.Sitemaps",
-      "owner": "Geta",
-      "url": "https://github.com/Geta/SEO.Sitemaps",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1165667?v=4",
-      "description": "Search engine sitemaps.xml for EPiServer CMS",
-      "stars": 29,
-      "forks": 44,
-      "watchers": 29,
-      "openIssues": 47,
-      "language": "C#",
-      "topics": [
-        "cms",
-        "commerce",
-        "marketing"
-      ],
-      "license": "Apache-2.0",
-      "homepage": "",
-      "createdAt": "2012-10-01T08:06:15Z",
-      "updatedAt": "2026-07-07T14:24:51Z",
-      "pushedAt": "2026-07-07T14:19:05Z",
-      "category": "ai-infra",
-      "categories": [
-        "ai-infra",
-        "generative-ai",
+        "main-image",
         "agents"
       ],
       "dailyStars": 0,
@@ -3723,8 +4240,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 12.32,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 12.44,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1192500555,
@@ -3770,7 +4287,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.18,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1207844328,
@@ -3824,7 +4341,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.16,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 952146584,
@@ -3857,7 +4374,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.14,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 644281555,
@@ -3899,7 +4416,40 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 12.12,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1248930600,
+      "name": "clawec-agents",
+      "fullName": "uni-infiniteai/clawec-agents",
+      "owner": "uni-infiniteai",
+      "url": "https://github.com/uni-infiniteai/clawec-agents",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/287623410?v=4",
+      "description": "clawEC 跨境电商 AI Agent 开源仓库：多平台选品/搜品 Agent（亚马逊、TikTok、Shopee、Temu、Ozon 等）与 Clawec API Skills，支持安装到 Cursor、Claude Code、Codex 等工具。官网 https://www.clawec.com/?source=q-github-agent",
+      "stars": 13,
+      "forks": 0,
+      "watchers": 13,
+      "openIssues": 0,
+      "language": "Shell",
+      "topics": [],
+      "license": "MIT",
+      "homepage": "",
+      "createdAt": "2026-05-25T07:24:05Z",
+      "updatedAt": "2026-07-01T03:21:48Z",
+      "pushedAt": "2026-05-25T08:44:17Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "ai-infra"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 1,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 12.03,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 828463793,
@@ -3939,16 +4489,15 @@
       "category": "llm",
       "categories": [
         "llm",
-        "generative-ai",
-        "agents"
+        "generative-ai"
       ],
       "dailyStars": 0,
       "weeklyStars": 0,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 11.92,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 11.91,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1216782078,
@@ -3981,7 +4530,40 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 11.89,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1193412757,
+      "name": "AgentHub",
+      "fullName": "0xCaptain888/AgentHub",
+      "owner": "0xCaptain888",
+      "url": "https://github.com/0xCaptain888/AgentHub",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/173746068?v=4",
+      "description": "跨境电商AI智能平台 — 5个AI Agent协同运营Amazon+TikTok Shop",
+      "stars": 13,
+      "forks": 2,
+      "watchers": 13,
+      "openIssues": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-03-27T07:37:31Z",
+      "updatedAt": "2026-07-02T16:11:13Z",
+      "pushedAt": "2026-03-28T00:50:58Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 1,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 11.69,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 892830182,
@@ -4023,8 +4605,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 11.55,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 11.54,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 912766924,
@@ -4062,8 +4644,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 11.37,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 11.36,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 819471307,
@@ -4107,8 +4689,46 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 10.64,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 10.63,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 744234337,
+      "name": "storecraft",
+      "fullName": "store-craft/storecraft",
+      "owner": "store-craft",
+      "url": "https://github.com/store-craft/storecraft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/155567353?v=4",
+      "description": "⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript",
+      "stars": 817,
+      "forks": 62,
+      "watchers": 817,
+      "openIssues": 2,
+      "language": "JavaScript",
+      "topics": [
+        "ecommerce",
+        "ecommerce-platform",
+        "javascript",
+        "serverless"
+      ],
+      "license": "NOASSERTION",
+      "homepage": "https://storecraft.app",
+      "createdAt": "2024-01-16T22:04:57Z",
+      "updatedAt": "2026-07-04T08:41:05Z",
+      "pushedAt": "2026-05-02T17:42:01Z",
+      "category": "ai-infra",
+      "categories": [
+        "ai-infra",
+        "llm",
+        "agents"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 10.55,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1168173438,
@@ -4145,8 +4765,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 10.27,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 10.26,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 709930230,
@@ -4183,7 +4803,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 9.6,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 725109880,
@@ -4213,8 +4833,138 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 9.43,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 9.42,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1177245056,
+      "name": "GitStore",
+      "fullName": "gitstore-dev/GitStore",
+      "owner": "gitstore-dev",
+      "url": "https://github.com/gitstore-dev/GitStore",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/211663711?v=4",
+      "description": "Agent-safe headless e-commerce engine",
+      "stars": 17,
+      "forks": 0,
+      "watchers": 17,
+      "openIssues": 137,
+      "language": "Go",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "artificial-intelligence",
+        "commerce",
+        "e-commerce",
+        "ecommerce",
+        "git",
+        "go",
+        "golang",
+        "headless",
+        "rust",
+        "typescript"
+      ],
+      "license": "AGPL-3.0",
+      "homepage": "https://gitstore.dev",
+      "createdAt": "2026-03-09T20:56:34Z",
+      "updatedAt": "2026-06-27T18:33:30Z",
+      "pushedAt": "2026-06-27T18:33:28Z",
+      "category": "ai-infra",
+      "categories": [
+        "ai-infra",
+        "agents",
+        "llm"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 9.3,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 62699408,
+      "name": "doofinder-magento2",
+      "fullName": "doofinder/doofinder-magento2",
+      "owner": "doofinder",
+      "url": "https://github.com/doofinder/doofinder-magento2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1788302?v=4",
+      "description": "🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search.",
+      "stars": 12,
+      "forks": 9,
+      "watchers": 12,
+      "openIssues": 7,
+      "language": "PHP",
+      "topics": [
+        "ai",
+        "ai-search",
+        "catalog",
+        "doofinder",
+        "indexing",
+        "magento2-extension",
+        "magento2-module",
+        "recommendations",
+        "search"
+      ],
+      "license": "MIT",
+      "homepage": "https://www.doofinder.com/en/solutions/magento",
+      "createdAt": "2016-07-06T07:11:49Z",
+      "updatedAt": "2026-06-29T08:41:48Z",
+      "pushedAt": "2026-06-29T10:59:17Z",
+      "category": "rag",
+      "categories": [
+        "rag",
+        "agents",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 9.05,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 867633826,
+      "name": "deenruv",
+      "fullName": "aexol-studio/deenruv",
+      "owner": "aexol-studio",
+      "url": "https://github.com/aexol-studio/deenruv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54020604?v=4",
+      "description": "Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS.",
+      "stars": 11,
+      "forks": 1,
+      "watchers": 11,
+      "openIssues": 1,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-first",
+        "e-commerce",
+        "graphql",
+        "headless-commerce",
+        "shop",
+        "store",
+        "typescript"
+      ],
+      "license": "NOASSERTION",
+      "homepage": "https://deenruv.com",
+      "createdAt": "2024-10-04T12:36:13Z",
+      "updatedAt": "2026-05-19T06:55:37Z",
+      "pushedAt": "2026-06-29T06:38:57Z",
+      "category": "ai-infra",
+      "categories": [
+        "ai-infra",
+        "llm"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 8.92,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 231864103,
@@ -4262,7 +5012,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 7.35,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223830230,
@@ -4295,7 +5045,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.6,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223828208,
@@ -4328,7 +5078,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.6,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223829528,
@@ -4361,7 +5111,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.6,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223827297,
@@ -4394,7 +5144,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.54,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223827137,
@@ -4427,7 +5177,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.54,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223827473,
@@ -4460,7 +5210,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.54,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223828353,
@@ -4493,7 +5243,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.49,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223827646,
@@ -4526,7 +5276,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.49,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223826858,
@@ -4559,7 +5309,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.44,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223829807,
@@ -4592,7 +5342,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.44,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223843284,
@@ -4625,7 +5375,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.44,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223828926,
@@ -4658,7 +5408,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.38,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1226775065,
@@ -4691,7 +5441,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.33,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223830078,
@@ -4724,7 +5474,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.32,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 961764179,
@@ -4757,7 +5507,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.27,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223828072,
@@ -4790,7 +5540,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.27,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223829652,
@@ -4823,7 +5573,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.21,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223828628,
@@ -4856,7 +5606,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.21,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223828763,
@@ -4889,7 +5639,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.21,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1169276096,
@@ -4943,7 +5693,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.17,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223829374,
@@ -4976,7 +5726,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.15,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 994108708,
@@ -5025,7 +5775,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 6.14,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1223829094,
@@ -5058,7 +5808,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.85,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 612867611,
@@ -5096,8 +5846,8 @@
       "category": "agents",
       "categories": [
         "agents",
-        "evaluation",
-        "generative-ai"
+        "ai-infra",
+        "evaluation"
       ],
       "dailyStars": 0,
       "weeklyStars": 0,
@@ -5105,7 +5855,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.75,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1144901049,
@@ -5138,7 +5888,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.71,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1100799185,
@@ -5179,7 +5929,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.69,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1005429601,
@@ -5216,8 +5966,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 5.65,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 5.64,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1262108086,
@@ -5250,7 +6000,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.41,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1144263691,
@@ -5283,7 +6033,40 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 5.38,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1225821344,
+      "name": "NexusTik",
+      "fullName": "keven798/NexusTik",
+      "owner": "keven798",
+      "url": "https://github.com/keven798/NexusTik",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/211142522?v=4",
+      "description": "NexusTik is an AI-powered analytics platform built for TikTok Shop operators, creators and brands. It turns raw data into actionable insights to help you create viral videos, pick winning products and outperform competitors.",
+      "stars": 29,
+      "forks": 0,
+      "watchers": 29,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [],
+      "license": "Unknown",
+      "homepage": "",
+      "createdAt": "2026-04-30T17:15:41Z",
+      "updatedAt": "2026-06-30T20:13:31Z",
+      "pushedAt": "2026-05-01T16:35:16Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "evaluation",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 5.28,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1222812664,
@@ -5334,8 +6117,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 5.2,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 5.19,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 961740656,
@@ -5382,8 +6165,8 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 5.06,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 5.05,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1180542442,
@@ -5418,7 +6201,7 @@
       "category": "agents",
       "categories": [
         "agents",
-        "ai-infra",
+        "generative-ai",
         "evaluation"
       ],
       "dailyStars": 0,
@@ -5427,7 +6210,44 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.8,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 557102226,
+      "name": "B2B-Commerce",
+      "fullName": "nnthanh101/B2B-Commerce",
+      "owner": "nnthanh101",
+      "url": "https://github.com/nnthanh101/B2B-Commerce",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40840164?v=4",
+      "description": "💰The Shopify-like AI-first Digital Commerce engine provides 🆓 and Headless Architecture ⚡",
+      "stars": 24,
+      "forks": 23,
+      "watchers": 24,
+      "openIssues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ecommerce",
+        "headless-ecommerce",
+        "shopify-clone"
+      ],
+      "license": "MIT",
+      "homepage": "https://nnthanh101.github.io/B2B-Commerce/",
+      "createdAt": "2022-10-25T04:35:44Z",
+      "updatedAt": "2026-06-09T21:35:21Z",
+      "pushedAt": "2026-06-09T21:39:46Z",
+      "category": "ai-infra",
+      "categories": [
+        "ai-infra",
+        "agents",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 4.72,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1193862636,
@@ -5458,38 +6278,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.44,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 251668683,
-      "name": "AIAproject-FittingRoom",
-      "fullName": "ellickhou/AIAproject-FittingRoom",
-      "owner": "ellickhou",
-      "url": "https://github.com/ellickhou/AIAproject-FittingRoom",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46342010?v=4",
-      "description": "Virtual Try-On scheme base on cycleGAN",
-      "stars": 28,
-      "forks": 13,
-      "watchers": 28,
-      "openIssues": 1,
-      "language": "Python",
-      "topics": [],
-      "license": "Unknown",
-      "homepage": "",
-      "createdAt": "2020-03-31T16:46:52Z",
-      "updatedAt": "2026-05-08T01:01:10Z",
-      "pushedAt": "2026-05-08T01:01:06Z",
-      "category": "generative-ai",
-      "categories": [
-        "generative-ai"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 4.41,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1001326888,
@@ -5534,7 +6323,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.2,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 994579736,
@@ -5575,7 +6364,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.19,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1055454119,
@@ -5614,7 +6403,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 4.17,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 1027435259,
@@ -5635,9 +6424,111 @@
       "createdAt": "2025-07-28T02:24:35Z",
       "updatedAt": "2026-06-12T20:45:04Z",
       "pushedAt": "2025-08-26T15:51:19Z",
-      "category": "robotics",
+      "category": "agents",
       "categories": [
+        "agents",
         "robotics",
+        "generative-ai"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 3.94,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1159186374,
+      "name": "king",
+      "fullName": "KenKaiii/king",
+      "owner": "KenKaiii",
+      "url": "https://github.com/KenKaiii/king",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/180539199?v=4",
+      "description": "Your whole e-commerce creative stack in one desktop app. Generate scroll-stopping product shots, run Shopify, Amazon, Shopee, and crush ads on Meta, Google, TikTok. 160+ prompts. Zero browser tabs. Built for sellers who ship.",
+      "stars": 14,
+      "forks": 7,
+      "watchers": 14,
+      "openIssues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "amazon",
+        "desktop-app",
+        "ecommerce",
+        "electron",
+        "facebook-ads",
+        "fal-ai",
+        "google-ads",
+        "image-generation",
+        "product-photography",
+        "react",
+        "shopee",
+        "shopify",
+        "tiktok-shop",
+        "typescript"
+      ],
+      "license": "AGPL-3.0",
+      "homepage": "https://youtube.com/@kenkaidoesai",
+      "createdAt": "2026-02-16T12:28:10Z",
+      "updatedAt": "2026-06-09T10:58:40Z",
+      "pushedAt": "2026-05-18T22:06:18Z",
+      "category": "agents",
+      "categories": [
+        "agents",
+        "llm",
+        "evaluation"
+      ],
+      "dailyStars": 0,
+      "weeklyStars": 0,
+      "dailyStarsCapped": false,
+      "weeklyStarsCapped": false,
+      "starGrowthSource": "stargazers",
+      "hotScore": 3.73,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
+    },
+    {
+      "id": 1023587445,
+      "name": "maybind-sdk",
+      "fullName": "MayBind/maybind-sdk",
+      "owner": "MayBind",
+      "url": "https://github.com/MayBind/maybind-sdk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192628643?v=4",
+      "description": "Official SDK for the Maybind Digital Twin Platform — interact with AI twins via a powerful API.",
+      "stars": 15,
+      "forks": 1,
+      "watchers": 15,
+      "openIssues": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-platform",
+        "api",
+        "artificial-intelligence",
+        "chatbot",
+        "conversational-ai",
+        "developer-tools",
+        "digital-twins",
+        "enterprise",
+        "machine-learning",
+        "marketplace",
+        "open-source",
+        "openapi",
+        "python",
+        "rest-api",
+        "sdk",
+        "sdk-python",
+        "startup",
+        "twin-simulation"
+      ],
+      "license": "MIT",
+      "homepage": "https://maybind.com/",
+      "createdAt": "2025-07-21T11:41:05Z",
+      "updatedAt": "2025-10-04T15:51:05Z",
+      "pushedAt": "2025-09-10T12:51:09Z",
+      "category": "llm",
+      "categories": [
+        "llm",
         "agents",
         "ai-infra"
       ],
@@ -5646,45 +6537,46 @@
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 3.94,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 3.7,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
-      "id": 903061472,
-      "name": "conversation-with-your-architecture",
-      "fullName": "build-on-aws/conversation-with-your-architecture",
-      "owner": "build-on-aws",
-      "url": "https://github.com/build-on-aws/conversation-with-your-architecture",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/85496091?v=4",
-      "description": "Demonstrates how to chat with your architecture using Amazon Bedrock's Converse API, tool use, and a knowledge base. Implemented in Python, the demo allows users to analyze architecture diagrams, evaluate effectiveness, get recommendations, and make informed decisions about their system architecture.",
+      "id": 694804213,
+      "name": "TensorForce",
+      "fullName": "manascb1344/TensorForce",
+      "owner": "manascb1344",
+      "url": "https://github.com/manascb1344/TensorForce",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/122693801?v=4",
+      "description": "📈 Unlock the future of trading with TensorForce! Our AI-powered platform automates stock trading and hosts a marketplace for diverse trading models, providing advanced portfolio management tools and analytics for a streamlined investing journey. 🤖💼  ML-based-automated-stock-trading-platform",
       "stars": 15,
-      "forks": 5,
+      "forks": 8,
       "watchers": 15,
-      "openIssues": 7,
-      "language": "Python",
+      "openIssues": 17,
+      "language": "Jupyter Notebook",
       "topics": [
-        "amazon-bedrock",
-        "aws",
-        "python"
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktoberfest-approved",
+        "hacktoberfest2024"
       ],
-      "license": "MIT-0",
-      "homepage": "https://community.aws/content/2qM2qCmPCaAByW0bDVR7OdBo1dF/a-conversation-with-your-architecture",
-      "createdAt": "2024-12-13T21:10:59Z",
-      "updatedAt": "2025-11-13T16:17:06Z",
-      "pushedAt": "2026-02-11T16:22:10Z",
+      "license": "MIT",
+      "homepage": "https://tensorforce.zephop.com",
+      "createdAt": "2023-09-21T18:17:27Z",
+      "updatedAt": "2026-06-15T09:11:23Z",
+      "pushedAt": "2025-08-10T21:08:23Z",
       "category": "evaluation",
       "categories": [
         "evaluation",
-        "rag",
-        "agents"
+        "agents",
+        "ai-infra"
       ],
       "dailyStars": 0,
       "weeklyStars": 0,
       "dailyStarsCapped": false,
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
-      "hotScore": 3.66,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "hotScore": 3.64,
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 963067807,
@@ -5729,7 +6621,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.59,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     },
     {
       "id": 396317240,
@@ -5769,233 +6661,7 @@
       "weeklyStarsCapped": false,
       "starGrowthSource": "stargazers",
       "hotScore": 3.54,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1132071203,
-      "name": "eCommerce-Customer-Support-Agent",
-      "fullName": "Aakash109-hub/eCommerce-Customer-Support-Agent",
-      "owner": "Aakash109-hub",
-      "url": "https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132472466?v=4",
-      "description": "A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit.",
-      "stars": 12,
-      "forks": 1,
-      "watchers": 12,
-      "openIssues": 0,
-      "language": "Python",
-      "topics": [],
-      "license": "Unknown",
-      "homepage": "",
-      "createdAt": "2026-01-11T09:08:30Z",
-      "updatedAt": "2026-05-11T03:21:44Z",
-      "pushedAt": "2026-01-16T05:30:32Z",
-      "category": "rag",
-      "categories": [
-        "rag",
-        "agents",
-        "llm"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 3.48,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 907060026,
-      "name": "Ecommerce-RAG-Chatbot",
-      "fullName": "Annkkitaaa/Ecommerce-RAG-Chatbot",
-      "owner": "Annkkitaaa",
-      "url": "https://github.com/Annkkitaaa/Ecommerce-RAG-Chatbot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/100662026?v=4",
-      "description": "A Retrieval-Augmented Generation (RAG) based chatbot system for e-commerce product search and order management. The system provides semantic search capabilities for products and handles order queries through a conversational interface.",
-      "stars": 12,
-      "forks": 3,
-      "watchers": 12,
-      "openIssues": 0,
-      "language": "Python",
-      "topics": [],
-      "license": "Unknown",
-      "homepage": "",
-      "createdAt": "2024-12-22T17:41:09Z",
-      "updatedAt": "2026-05-28T19:15:22Z",
-      "pushedAt": "2025-11-25T18:53:17Z",
-      "category": "rag",
-      "categories": [
-        "rag",
-        "llm",
-        "agents"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 3.38,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1152434343,
-      "name": "shopify-rules",
-      "fullName": "TeamDijon/shopify-rules",
-      "owner": "TeamDijon",
-      "url": "https://github.com/TeamDijon/shopify-rules",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/97976645?v=4",
-      "description": "AI-consumable rules for Shopify Liquid theme development — with Claude Code skills to create more",
-      "stars": 11,
-      "forks": 0,
-      "watchers": 11,
-      "openIssues": 0,
-      "language": "Unknown",
-      "topics": [],
-      "license": "MIT",
-      "homepage": "",
-      "createdAt": "2026-02-07T21:43:34Z",
-      "updatedAt": "2026-05-13T22:00:47Z",
-      "pushedAt": "2026-02-07T21:43:51Z",
-      "category": "agents",
-      "categories": [
-        "agents",
-        "ai-infra",
-        "evaluation"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 3.38,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 349410634,
-      "name": "geta-optimizely-sitemaps",
-      "fullName": "Geta/geta-optimizely-sitemaps",
-      "owner": "Geta",
-      "url": "https://github.com/Geta/geta-optimizely-sitemaps",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1165667?v=4",
-      "description": "Search engine sitemaps.xml for Optimizely CMS 12 and Commerce 14",
-      "stars": 12,
-      "forks": 17,
-      "watchers": 12,
-      "openIssues": 27,
-      "language": "C#",
-      "topics": [
-        "cms",
-        "commerce",
-        "optimizely",
-        "sitemaps"
-      ],
-      "license": "Apache-2.0",
-      "homepage": "",
-      "createdAt": "2021-03-19T12:10:00Z",
-      "updatedAt": "2026-06-03T09:31:58Z",
-      "pushedAt": "2026-06-03T09:36:13Z",
-      "category": "ai-infra",
-      "categories": [
-        "ai-infra"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 3.35,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 811965963,
-      "name": "Human-Following-Robot",
-      "fullName": "Awais-Asghar/Human-Following-Robot",
-      "owner": "Awais-Asghar",
-      "url": "https://github.com/Awais-Asghar/Human-Following-Robot",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/136043829?v=4",
-      "description": "I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics",
-      "stars": 11,
-      "forks": 0,
-      "watchers": 11,
-      "openIssues": 0,
-      "language": "C++",
-      "topics": [
-        "arduino",
-        "autonomous-vehicles",
-        "ide",
-        "microcontroller"
-      ],
-      "license": "MIT",
-      "homepage": "https://github.com/Awais-Asghar/Human-Following-Robot",
-      "createdAt": "2024-06-07T17:00:31Z",
-      "updatedAt": "2026-06-23T19:39:23Z",
-      "pushedAt": "2025-07-13T16:03:57Z",
-      "category": "robotics",
-      "categories": [
-        "robotics",
-        "agents",
-        "ai-infra"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 3.27,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
-    },
-    {
-      "id": 1099039346,
-      "name": "AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
-      "fullName": "sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
-      "owner": "sanikasalunke",
-      "url": "https://github.com/sanikasalunke/AI-Customer-Support-Agent-with-RAG---Voice--Local-LLM---Local-TTS---Local-STT-",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57823740?v=4",
-      "description": "AI Customer Support Agent with RAG + Voice A fully local, privacy-focused AI customer support system powered by open-source models. It supports multi-turn conversations, PDF/manual search (RAG), product recommendations, FAQ reasoning, and voice input/output using local STT + TTS. Built with Mistral 7B GGUF, FAISS, Whisper Tiny, Coqui TTS, FastAPI.",
-      "stars": 6,
-      "forks": 2,
-      "watchers": 6,
-      "openIssues": 0,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "conversational-ai",
-        "coqui-tts",
-        "customer-support",
-        "faiss",
-        "fastapi",
-        "llms",
-        "local-llm",
-        "mistral-7b",
-        "nlp",
-        "qna-system",
-        "rag",
-        "speech-to-text",
-        "streamlit",
-        "text-to-speech",
-        "vector-search",
-        "voice-ai",
-        "voice-ai-agents",
-        "whisper"
-      ],
-      "license": "Unknown",
-      "homepage": "",
-      "createdAt": "2025-11-18T13:30:47Z",
-      "updatedAt": "2026-06-21T19:44:24Z",
-      "pushedAt": "2025-11-18T13:53:16Z",
-      "category": "faq-generation",
-      "categories": [
-        "faq-generation",
-        "rag",
-        "agents"
-      ],
-      "dailyStars": 0,
-      "weeklyStars": 0,
-      "dailyStarsCapped": false,
-      "weeklyStarsCapped": false,
-      "starGrowthSource": "stargazers",
-      "hotScore": 2.59,
-      "fetchedAt": "2026-07-08T01:12:10.382Z"
+      "fetchedAt": "2026-07-08T01:48:42.412Z"
     }
   ]
 }

@@ -6,10 +6,10 @@ Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing
 
 ## Category Snapshot
 
-- Projects tracked: 6
-- Recently active projects: 3
-- Docs or homepage signal: 3
-- Updated: Jul 8, 2026, 1:12 AM UTC
+- Projects tracked: 5
+- Recently active projects: 4
+- Docs or homepage signal: 4
+- Updated: Jul 8, 2026, 1:48 AM UTC
 
 ## Who This Helps
 
@@ -23,8 +23,7 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 16 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
 | 4 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | Product RAG & Knowledge Search | Commerce skill | 14 | +0 | +1 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
-| 5 | [Aakash109-hub/eCommerce-Customer-Support-Agent](https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent) | Product RAG & Knowledge Search | Commerce skill, Production oriented, Self-host friendly, Demo or app | 12 | +0 | +0 | Python | A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit. |
-| 6 | [Annkkitaaa/Ecommerce-RAG-Chatbot](https://github.com/Annkkitaaa/Ecommerce-RAG-Chatbot) | Product RAG & Knowledge Search | Commerce skill, Research signal | 12 | +0 | +0 | Python | A Retrieval-Augmented Generation (RAG) based chatbot system for e-commerce product search and order management. The system provides semantic search capabilities for products and handles order queries through a conversational interface. |
+| 5 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 
 ## Fast Movers In This Category
 
@@ -34,5 +33,4 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 | 2 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 16 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
 | 3 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | Product RAG & Knowledge Search | Commerce skill | 14 | +0 | +1 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
 | 4 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
-| 5 | [Aakash109-hub/eCommerce-Customer-Support-Agent](https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent) | Product RAG & Knowledge Search | Commerce skill, Production oriented, Self-host friendly, Demo or app | 12 | +0 | +0 | Python | A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit. |
-| 6 | [Annkkitaaa/Ecommerce-RAG-Chatbot](https://github.com/Annkkitaaa/Ecommerce-RAG-Chatbot) | Product RAG & Knowledge Search | Commerce skill, Research signal | 12 | +0 | +0 | Python | A Retrieval-Augmented Generation (RAG) based chatbot system for e-commerce product search and order management. The system provides semantic search capabilities for products and handles order queries through a conversational interface. |
+| 5 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |

@@ -16,6 +16,10 @@ export function addCandidate(candidates: Map<number, Candidate>, item: GitHubSea
     return;
   }
 
+  if (!isAiOrSkillRelevant(item)) {
+    return;
+  }
+
   const existing = candidates.get(item.id);
   if (existing) {
     if (categorySlug) {
@@ -262,6 +266,84 @@ function isCommerceRelevant(item: GitHubSearchItem): boolean {
   ] as const;
 
   return relevanceKeywords.some((keyword) => text.includes(keyword.toLowerCase()));
+}
+
+function isAiOrSkillRelevant(item: GitHubSearchItem): boolean {
+  const text = [
+    item.name,
+    item.full_name,
+    item.description ?? "",
+    item.homepage ?? "",
+    item.language ?? "",
+    ...(item.topics ?? [])
+  ]
+    .join(" ")
+    .toLowerCase();
+
+  const aiOrSkillKeywords = [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "ml",
+    "llm",
+    "gpt",
+    "chatgpt",
+    "openai",
+    "claude",
+    "claude-code",
+    "codex",
+    "mcp",
+    "agent",
+    "agents",
+    "copilot",
+    "rag",
+    "retrieval",
+    "embedding",
+    "vector",
+    "semantic",
+    "generative",
+    "diffusion",
+    "computer vision",
+    "vision ai",
+    "recommendation",
+    "recommender",
+    "automation",
+    "workflow",
+    "skill",
+    "skills",
+    "playbook",
+    "sop",
+    "prompt",
+    "chatbot",
+    "bot",
+    "assistant",
+    "analytics",
+    "attribution",
+    "ab testing",
+    "robot",
+    "robotics",
+    "智能",
+    "智能体",
+    "大模型",
+    "自动化",
+    "生成",
+    "技能",
+    "运营"
+  ] as const;
+
+  return aiOrSkillKeywords.some((keyword) => includesScopedKeyword(text, keyword));
+}
+
+function includesScopedKeyword(text: string, keyword: string): boolean {
+  const normalizedKeyword = keyword.toLowerCase();
+  if (/^[a-z0-9+#.-]+$/.test(normalizedKeyword)) {
+    return new RegExp(`(^|[^a-z0-9])${escapeRegExp(normalizedKeyword)}(?=$|[^a-z0-9])`).test(text);
+  }
+  return text.includes(normalizedKeyword);
+}
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 function findBaseline(snapshots: Snapshot[], today: string, days: number): Snapshot | null {

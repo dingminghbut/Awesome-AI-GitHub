@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：1
-- 近期活跃项目：0
-- 有文档或主页信号：1
-- 更新时间：Jul 8, 2026, 1:12 AM UTC
+- 收录项目：2
+- 近期活跃项目：1
+- 有文档或主页信号：2
+- 更新时间：Jul 8, 2026, 1:48 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [build-on-aws/conversation-with-your-architecture](https://github.com/build-on-aws/conversation-with-your-architecture) | 电商评测与增长分析 | 电商技能, 开源许可, 有文档, 研究/评测 | 15 | +0 | +0 | Python | Demonstrates how to chat with your architecture using Amazon Bedrock's Converse API, tool use, and a knowledge base. Implemented in Python, the demo allows users to analyze architecture diagrams, evaluate effectiveness, get recommendations, and make informed decisions about their system architecture. |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 开源许可, 有文档 | 25 | +0 | +2 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 2 | [manascb1344/TensorForce](https://github.com/manascb1344/TensorForce) | 电商评测与增长分析 | 电商技能, 开源许可, 有文档, 有演示/应用 | 15 | +0 | +0 | Jupyter Notebook | 📈 Unlock the future of trading with TensorForce! Our AI-powered platform automates stock trading and hosts a marketplace for diverse trading models, providing advanced portfolio management tools and analytics for a streamlined investing journey. 🤖💼  ML-based-automated-stock-trading-platform |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [build-on-aws/conversation-with-your-architecture](https://github.com/build-on-aws/conversation-with-your-architecture) | 电商评测与增长分析 | 电商技能, 开源许可, 有文档, 研究/评测 | 15 | +0 | +0 | Python | Demonstrates how to chat with your architecture using Amazon Bedrock's Converse API, tool use, and a knowledge base. Implemented in Python, the demo allows users to analyze architecture diagrams, evaluate effectiveness, get recommendations, and make informed decisions about their system architecture. |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 开源许可, 有文档 | 25 | +0 | +2 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 2 | [manascb1344/TensorForce](https://github.com/manascb1344/TensorForce) | 电商评测与增长分析 | 电商技能, 开源许可, 有文档, 有演示/应用 | 15 | +0 | +0 | Jupyter Notebook | 📈 Unlock the future of trading with TensorForce! Our AI-powered platform automates stock trading and hosts a marketplace for diverse trading models, providing advanced portfolio management tools and analytics for a streamlined investing journey. 🤖💼  ML-based-automated-stock-trading-platform |

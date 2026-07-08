@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：10
+- 收录项目：8
 - 近期活跃项目：6
-- 有文档或主页信号：5
-- 更新时间：Jul 8, 2026, 1:12 AM UTC
+- 有文档或主页信号：4
+- 更新时间：Jul 8, 2026, 1:48 AM UTC
 
 ## 适合谁看
 
@@ -27,8 +27,6 @@
 | 6 | [GreenHacker420/Tally_sync](https://github.com/GreenHacker420/Tally_sync) | 零售机器人与履约自动化 | 电商技能, 开源许可, 适合入门, 有演示/应用 | 14 | +0 | +2 | JavaScript | FinSync360 is a full-stack, cloud-based ERP system with seamless Tally integration. It features comprehensive accounting, advanced inventory, digital payments, GST compliance, AI-powered analytics, and cross-platform support (Web, Mobile, Desktop). Built with Node.js, React, Electron, and Python FastAPI. |
 | 7 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 67 | +0 | +1 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 | 8 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
-| 9 | [enginterzi/amazon-seller-mcp](https://github.com/enginterzi/amazon-seller-mcp) | 零售机器人与履约自动化 | 电商技能, 偏生产可用 | 18 | +0 | +0 | HTML | Transform Your Amazon Business with AI - The first Model Context Protocol (MCP) client that seamlessly connects Claude and other AI agents to Amazon's Selling Partner API, enabling intelligent automation of your entire seller workflow from inventory management to listing optimization. |
-| 10 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 有演示/应用 | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |
 
 ## 本分类增长项目
 
@@ -42,5 +40,3 @@
 | 6 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 26 | +0 | +1 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 7 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 67 | +0 | +1 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 | 8 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 18 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
-| 9 | [enginterzi/amazon-seller-mcp](https://github.com/enginterzi/amazon-seller-mcp) | 零售机器人与履约自动化 | 电商技能, 偏生产可用 | 18 | +0 | +0 | HTML | Transform Your Amazon Business with AI - The first Model Context Protocol (MCP) client that seamlessly connects Claude and other AI agents to Amazon's Selling Partner API, enabling intelligent automation of your entire seller workflow from inventory management to listing optimization. |
-| 10 | [Awais-Asghar/Human-Following-Robot](https://github.com/Awais-Asghar/Human-Following-Robot) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 有演示/应用 | 11 | +0 | +0 | C++ | I developed a compact, autonomous robot that follows a human using Arduino and IR sensors. This innovative solution has applications in personal assistance, security, , Warehousing and Logistics, Retail and Hospitality and interactive robotics |

@@ -242,7 +242,7 @@ function officialDiscoveryMatchesScope(item: GitHubSearchItem): boolean {
 
 function includesKeyword(text: string, keyword: string): boolean {
   const normalizedKeyword = keyword.toLowerCase();
-  if (/^[a-z0-9+#.-]{1,3}$/.test(normalizedKeyword)) {
+  if (/^[a-z0-9+#.-]+$/.test(normalizedKeyword)) {
     return new RegExp(`(^|[^a-z0-9])${escapeRegExp(normalizedKeyword)}(?=$|[^a-z0-9])`).test(text);
   }
   return text.includes(normalizedKeyword);

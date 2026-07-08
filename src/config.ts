@@ -16,7 +16,7 @@ export const SETTINGS = {
   activeDays: 365,
   newcomerDays: 180,
   officialDiscoverySeedLimit: 300,
-  officialDiscoveryRepoLimit: 80
+  officialDiscoveryRepoLimit: 120
 } as const;
 
 export const OFFICIAL_DISCOVERY_SOURCES: readonly OfficialDiscoverySource[] = [
@@ -60,6 +60,162 @@ export const OFFICIAL_DISCOVERY_SOURCES: readonly OfficialDiscoverySource[] = [
     kind: "topic",
     label: "GitHub Topic: shopify",
     url: "https://github.com/topics/shopify",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: amazon",
+    url: "https://github.com/topics/amazon",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: marketplace",
+    url: "https://github.com/topics/marketplace",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: woocommerce",
+    url: "https://github.com/topics/woocommerce",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: magento",
+    url: "https://github.com/topics/magento",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: bigcommerce",
+    url: "https://github.com/topics/bigcommerce",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: prestashop",
+    url: "https://github.com/topics/prestashop",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: opencart",
+    url: "https://github.com/topics/opencart",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: shopware",
+    url: "https://github.com/topics/shopware",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: commercetools",
+    url: "https://github.com/topics/commercetools",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: headless-commerce",
+    url: "https://github.com/topics/headless-commerce",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: saleor",
+    url: "https://github.com/topics/saleor",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: medusa",
+    url: "https://github.com/topics/medusa",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: vendure",
+    url: "https://github.com/topics/vendure",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: sylius",
+    url: "https://github.com/topics/sylius",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: ebay",
+    url: "https://github.com/topics/ebay",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: etsy",
+    url: "https://github.com/topics/etsy",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: walmart",
+    url: "https://github.com/topics/walmart",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: tiktok",
+    url: "https://github.com/topics/tiktok",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: shopee",
+    url: "https://github.com/topics/shopee",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: lazada",
+    url: "https://github.com/topics/lazada",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: aliexpress",
+    url: "https://github.com/topics/aliexpress",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: mercado-libre",
+    url: "https://github.com/topics/mercado-libre",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: taobao",
+    url: "https://github.com/topics/taobao",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: pinduoduo",
+    url: "https://github.com/topics/pinduoduo",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: douyin",
+    url: "https://github.com/topics/douyin",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: xiaohongshu",
+    url: "https://github.com/topics/xiaohongshu",
     categorySlug: "agents"
   },
   {
@@ -119,30 +275,81 @@ export const OFFICIAL_DISCOVERY_SOURCES: readonly OfficialDiscoverySource[] = [
 ] as const;
 
 export const COMMERCE_PLATFORM_KEYWORDS = [
-  "amazon",
   "amazon seller",
+  "amazon seller central",
+  "amazon marketplace",
+  "amazon listing",
+  "amazon product",
+  "amazon fba",
+  "amazon seo",
+  "amazon skills",
+  "amazon ads",
   "shopify",
+  "shopify plus",
   "woocommerce",
   "magento",
+  "adobe commerce",
+  "bigcommerce",
+  "prestashop",
+  "opencart",
+  "shopware",
+  "commercetools",
+  "salesforce commerce cloud",
+  "headless commerce",
+  "saleor",
+  "medusa",
+  "vendure",
+  "sylius",
+  "marketplace",
+  "online marketplace",
+  "cross-border ecommerce",
+  "cross border ecommerce",
+  "ebay",
+  "walmart marketplace",
   "taobao",
   "tmall",
   "jd",
+  "pinduoduo",
   "douyin",
   "kuaishou",
   "xiaohongshu",
+  "temu",
+  "shein",
   "tiktok shop",
   "shopee",
   "lazada",
   "aliexpress",
   "etsy",
   "mercado libre",
+  "rakuten",
+  "coupang",
+  "tokopedia",
+  "bukalapak",
+  "flipkart",
+  "meesho",
+  "myntra",
+  "poshmark",
+  "mercari",
+  "depop",
+  "vinted",
   "淘宝",
   "天猫",
   "京东",
+  "拼多多",
   "抖音",
   "快手",
   "小红书",
-  "拼多多"
+  "得物",
+  "唯品会",
+  "跨境电商",
+  "独立站",
+  "平台电商",
+  "内容电商",
+  "兴趣电商",
+  "社交电商",
+  "直播电商",
+  "货架电商",
+  "二手电商"
 ] as const;
 
 export const COMMERCE_SKILL_KEYWORDS = [
@@ -266,7 +473,9 @@ export const CATEGORIES: CategoryConfig[] = [
       "ecommerce llm stars:>20 archived:false pushed:>={activeSince}",
       "shopping assistant ai stars:>20 archived:false pushed:>={activeSince}",
       "customer service chatbot ai stars:>20 archived:false pushed:>={activeSince}",
-      "product qa chatbot stars:>10 archived:false pushed:>={activeSince}"
+      "product qa chatbot stars:>10 archived:false pushed:>={activeSince}",
+      "marketplace chatbot ai stars:>10 archived:false pushed:>={activeSince}",
+      "seller assistant ai stars:>10 archived:false pushed:>={activeSince}"
     ],
     keywords: [
       "llm",
@@ -300,6 +509,12 @@ export const CATEGORIES: CategoryConfig[] = [
     queries: [
       "ecommerce agent stars:>20 archived:false pushed:>={activeSince}",
       "shopify ai agent stars:>20 archived:false pushed:>={activeSince}",
+      "amazon seller ai stars:>10 archived:false pushed:>={activeSince}",
+      "marketplace seller ai stars:>10 archived:false pushed:>={activeSince}",
+      "cross border ecommerce ai stars:>10 archived:false pushed:>={activeSince}",
+      "tiktok shop ai stars:>5 archived:false pushed:>={activeSince}",
+      "etsy seller ai stars:>5 archived:false pushed:>={activeSince}",
+      "shopee ai stars:>5 archived:false pushed:>={activeSince}",
       "marketing automation ai agent stars:>20 archived:false pushed:>={activeSince}",
       "retail automation ai stars:>20 archived:false pushed:>={activeSince}",
       "ecommerce operations ai stars:>10 archived:false pushed:>={activeSince}",
@@ -349,7 +564,9 @@ export const CATEGORIES: CategoryConfig[] = [
       "ecommerce rag stars:>10 archived:false pushed:>={activeSince}",
       "product search vector database stars:>10 archived:false pushed:>={activeSince}",
       "semantic search ecommerce stars:>10 archived:false pushed:>={activeSince}",
-      "shopify search ai stars:>10 archived:false pushed:>={activeSince}"
+      "shopify search ai stars:>10 archived:false pushed:>={activeSince}",
+      "marketplace product search ai stars:>10 archived:false pushed:>={activeSince}",
+      "product catalog ai search stars:>10 archived:false pushed:>={activeSince}"
     ],
     keywords: [
       "rag",
@@ -381,7 +598,10 @@ export const CATEGORIES: CategoryConfig[] = [
       "product image ai stars:>20 archived:false pushed:>={activeSince}",
       "ecommerce generative ai stars:>20 archived:false pushed:>={activeSince}",
       "virtual try-on ai stars:>20 archived:false pushed:>={activeSince}",
-      "ad creative ai stars:>20 archived:false pushed:>={activeSince}"
+      "ad creative ai stars:>20 archived:false pushed:>={activeSince}",
+      "marketplace listing ai stars:>10 archived:false pushed:>={activeSince}",
+      "amazon listing ai stars:>10 archived:false pushed:>={activeSince}",
+      "ecommerce product content ai stars:>10 archived:false pushed:>={activeSince}"
     ],
     keywords: [
       "generative",
@@ -599,7 +819,9 @@ export const CATEGORIES: CategoryConfig[] = [
       "ecommerce mlops stars:>10 archived:false pushed:>={activeSince}",
       "recommendation system serving stars:>20 archived:false pushed:>={activeSince}",
       "retail ai platform stars:>10 archived:false pushed:>={activeSince}",
-      "commerce search engine stars:>10 archived:false pushed:>={activeSince}"
+      "commerce search engine stars:>10 archived:false pushed:>={activeSince}",
+      "marketplace recommendation system stars:>10 archived:false pushed:>={activeSince}",
+      "headless commerce ai stars:>10 archived:false pushed:>={activeSince}"
     ],
     keywords: [
       "inference",
@@ -630,7 +852,9 @@ export const CATEGORIES: CategoryConfig[] = [
       "recommendation evaluation stars:>10 archived:false pushed:>={activeSince}",
       "ab testing ecommerce stars:>10 archived:false pushed:>={activeSince}",
       "llm evaluation ecommerce stars:>10 archived:false pushed:>={activeSince}",
-      "marketing attribution ai stars:>10 archived:false pushed:>={activeSince}"
+      "marketing attribution ai stars:>10 archived:false pushed:>={activeSince}",
+      "marketplace analytics ai stars:>10 archived:false pushed:>={activeSince}",
+      "ecommerce growth analytics stars:>10 archived:false pushed:>={activeSince}"
     ],
     keywords: [
       "eval",
