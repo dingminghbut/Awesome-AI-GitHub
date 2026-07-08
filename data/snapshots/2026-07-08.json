@@ -1,11 +1,11 @@
 {
   "date": "2026-07-08",
-  "generatedAt": "2026-07-08T01:04:23.581Z",
+  "generatedAt": "2026-07-08T01:12:10.382Z",
   "projects": [
     {
       "id": 1135212071,
       "fullName": "coreyhaines31/marketingskills",
-      "stars": 37110,
+      "stars": 37111,
       "forks": 5974,
       "category": "agents",
       "pushedAt": "2026-07-06T22:49:02Z"
@@ -85,7 +85,7 @@
     {
       "id": 1185016972,
       "fullName": "nexscope-ai/eCommerce-Skills",
-      "stars": 326,
+      "stars": 327,
       "forks": 54,
       "category": "agents",
       "pushedAt": "2026-06-10T07:57:04Z"
@@ -147,14 +147,6 @@
       "pushedAt": "2026-06-11T11:25:23Z"
     },
     {
-      "id": 591995344,
-      "fullName": "rush86999/atom",
-      "stars": 783,
-      "forks": 81,
-      "category": "agents",
-      "pushedAt": "2026-07-07T01:56:46Z"
-    },
-    {
       "id": 1261690469,
       "fullName": "tinyhumansai/tiny.place",
       "stars": 188,
@@ -169,6 +161,14 @@
       "forks": 43,
       "category": "generative-ai",
       "pushedAt": "2026-07-03T14:44:56Z"
+    },
+    {
+      "id": 591995344,
+      "fullName": "rush86999/atom",
+      "stars": 783,
+      "forks": 81,
+      "category": "agents",
+      "pushedAt": "2026-07-07T01:56:46Z"
     },
     {
       "id": 1242060029,
@@ -389,7 +389,7 @@
     {
       "id": 1114441622,
       "fullName": "sonnysangha/ecommerce-ai-nextjs-16-sanity-clerk-agentkit-stripe-checkout-vercel-ai-agents",
-      "stars": 111,
+      "stars": 112,
       "forks": 83,
       "category": "agents",
       "pushedAt": "2025-12-11T11:46:38Z"

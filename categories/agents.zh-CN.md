@@ -9,7 +9,7 @@
 - 收录项目：83
 - 近期活跃项目：30
 - 有文档或主页信号：25
-- 更新时间：Jul 8, 2026, 1:04 AM UTC
+- 更新时间：Jul 8, 2026, 1:12 AM UTC
 
 ## 适合谁看
 
@@ -19,7 +19,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 37,110 | +200+ | +200+ | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 1 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 37,111 | +200+ | +200+ | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 | 2 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 10,755 | +103 | +200+ | Python | Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. |
 | 3 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 6,778 | +17 | +188 | Python | Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. |
 | 4 | [mautic/mautic](https://github.com/mautic/mautic) | 电商智能体与运营技能 | 近期活跃, 有文档, 偏生产可用 | 10,066 | +17 | +70 | PHP | Mautic: Open Source Marketing Automation Software. |
@@ -27,15 +27,15 @@
 | 6 | [kgelster/awesome-ecom-skills](https://github.com/kgelster/awesome-ecom-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 适合入门 | 24 | +10 | +24 | Unknown | Shopify agency playbooks as Claude agent skills: catalog cleanup, SEO metadata, structured data, redirects, landing pages. Markdown-only. The playbook companion to Shopify's official AI toolkit. |
 | 7 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 386 | +7 | +30 | Python | 电商视觉文案设计SOP Skill - 6步工作流+合规规则库+自审评分机制 |
 | 8 | [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 364 | +5 | +33 | Python | Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format. |
-| 9 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 326 | +8 | +24 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
+| 9 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 327 | +8 | +24 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
 | 10 | [buluslan/gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce) | 电商智能体与运营技能 | 电商技能, 开源许可, 适合入门, 有演示/应用 | 203 | +6 | +15 | Shell | GPT-Image-2 驱动的电商素材一键生成 Claude Code Skill \| E-commerce image generation skill powered by GPT-Image-2 via Codex CLI, with 25 built-in scene templates |
 | 11 | [bcefghj/multi-agent-ecommerce-system](https://github.com/bcefghj/multi-agent-ecommerce-system) | 电商智能体与运营技能 | 电商技能 | 388 | +1 | +16 | Python | 多Agent电商推荐与营销系统 (Python/Java/Go) |
 | 12 | [Shopify/Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 436 | +1 | +15 | JavaScript | Agent plugins/extensions for CLIs and IDEs |
 | 13 | [noique/cross-border-ecommerce-skills](https://github.com/noique/cross-border-ecommerce-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 适合入门, 研究/评测 | 31 | +1 | +15 | Python | AI-powered skill templates for cross-border e-commerce: product selection, market research, IP risk, keywords, listing copy. Compatible with Claude Code & Antigravity. |
-| 14 | [rush86999/atom](https://github.com/rush86999/atom) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 偏生产可用 | 783 | +2 | +8 | Python | Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation |
-| 15 | [tinyhumansai/tiny.place](https://github.com/tinyhumansai/tiny.place) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 188 | +2 | +6 | TypeScript | The social economy for autonomous AI agents. |
+| 14 | [tinyhumansai/tiny.place](https://github.com/tinyhumansai/tiny.place) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 188 | +2 | +6 | TypeScript | The social economy for autonomous AI agents. |
+| 15 | [rush86999/atom](https://github.com/rush86999/atom) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 偏生产可用 | 783 | +2 | +7 | Python | Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation |
 | 16 | [hikari0511/awesome-amazon-ec-skills](https://github.com/hikari0511/awesome-amazon-ec-skills) | 电商智能体与运营技能 | 电商技能, 开源许可, 适合入门 | 43 | +1 | +10 | Unknown | 亚马逊跨境电商场景下的 Claude / AI Agent Skills 合集（中文优先，聚焦 Amazon 出海 + 1688 供货上游） |
-| 17 | [pawbytes/skill-suites](https://github.com/pawbytes/skill-suites) | 电商智能体与运营技能 | 有文档, 有演示/应用 | 74 | +0 | +12 | Python | 50+ AI agent skills for Claude, Codex, OpenClaw etc — agentic marketing automation, AI creative agency, and developer productivity tools |
+| 17 | [pawbytes/skill-suites](https://github.com/pawbytes/skill-suites) | 电商智能体与运营技能 | 有文档, 有演示/应用 | 74 | +0 | +11 | Python | 50+ AI agent skills for Claude, Codex, OpenClaw etc — agentic marketing automation, AI creative agency, and developer productivity tools |
 | 18 | [aitytech/agentkits-marketing](https://github.com/aitytech/agentkits-marketing) | 电商智能体与运营技能 | 开源许可, 偏生产可用 | 565 | +0 | +9 | Python | Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills |
 | 19 | [beikeshop/beikeshop](https://github.com/beikeshop/beikeshop) | 电商智能体与运营技能 | 近期活跃, 电商技能, 有文档 | 1,928 | +0 | +7 | PHP | Free and Open-Source, Easy-to-Use Laravel eCommerce Platform, Base on the Laravel . It supports multiple languages and currencies, Integrates AI agents. The platform features customizable visual design and a rich plugins on marketplace. |
 | 20 | [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) | 电商智能体与运营技能 | 开源许可 | 12,059 | +1 | +3 | JavaScript | The minimal javascript library to create flowcharts ✨ |
@@ -49,7 +49,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 37,110 | +200+ | +200+ | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 1 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 37,111 | +200+ | +200+ | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 | 2 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 10,755 | +103 | +200+ | Python | Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. |
 | 3 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 6,778 | +17 | +188 | Python | Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. |
 | 4 | [mautic/mautic](https://github.com/mautic/mautic) | 电商智能体与运营技能 | 近期活跃, 有文档, 偏生产可用 | 10,066 | +17 | +70 | PHP | Mautic: Open Source Marketing Automation Software. |
@@ -57,5 +57,5 @@
 | 6 | [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 364 | +5 | +33 | Python | Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills format. |
 | 7 | [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可 | 386 | +7 | +30 | Python | 电商视觉文案设计SOP Skill - 6步工作流+合规规则库+自审评分机制 |
 | 8 | [kgelster/awesome-ecom-skills](https://github.com/kgelster/awesome-ecom-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 适合入门 | 24 | +10 | +24 | Unknown | Shopify agency playbooks as Claude agent skills: catalog cleanup, SEO metadata, structured data, redirects, landing pages. Markdown-only. The playbook companion to Shopify's official AI toolkit. |
-| 9 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 326 | +8 | +24 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
+| 9 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 327 | +8 | +24 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
 | 10 | [bcefghj/multi-agent-ecommerce-system](https://github.com/bcefghj/multi-agent-ecommerce-system) | 电商智能体与运营技能 | 电商技能 | 388 | +1 | +16 | Python | 多Agent电商推荐与营销系统 (Python/Java/Go) |
