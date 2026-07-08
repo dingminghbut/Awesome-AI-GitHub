@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：0
 - 有文档或主页信号：0
-- 更新时间：Jul 8, 2026, 1:48 AM UTC
+- 更新时间：Jul 8, 2026, 5:32 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 246 | +6 | +13 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
+| 1 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 245 | +4 | +11 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 246 | +6 | +13 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
+| 1 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 245 | +4 | +11 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
