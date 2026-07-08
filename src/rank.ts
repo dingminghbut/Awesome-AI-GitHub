@@ -7,7 +7,7 @@ type Candidate = {
   matchedCategories: Set<string>;
 };
 
-export function addCandidate(candidates: Map<number, Candidate>, item: GitHubSearchItem, categorySlug: string): void {
+export function addCandidate(candidates: Map<number, Candidate>, item: GitHubSearchItem, categorySlug?: string): void {
   if (item.archived || item.disabled || item.fork) {
     return;
   }
@@ -18,7 +18,9 @@ export function addCandidate(candidates: Map<number, Candidate>, item: GitHubSea
 
   const existing = candidates.get(item.id);
   if (existing) {
-    existing.matchedCategories.add(categorySlug);
+    if (categorySlug) {
+      existing.matchedCategories.add(categorySlug);
+    }
     if (new Date(item.pushed_at ?? item.updated_at) > new Date(existing.item.pushed_at ?? existing.item.updated_at)) {
       existing.item = item;
     }
@@ -27,7 +29,7 @@ export function addCandidate(candidates: Map<number, Candidate>, item: GitHubSea
 
   candidates.set(item.id, {
     item,
-    matchedCategories: new Set([categorySlug])
+    matchedCategories: new Set(categorySlug ? [categorySlug] : [])
   });
 }
 

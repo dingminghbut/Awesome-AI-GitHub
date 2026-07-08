@@ -103,6 +103,7 @@
 <h2>Data Sources</h2>
 <ul>
 <li>GitHub REST Search API is used to discover public repositories by AI-related topics and activity.</li>
+<li>GitHub Trending, Topics, and Explore provide official discovery seeds. Those seeds are resolved through the repository API and passed through the same commerce relevance filters.</li>
 <li>GitHub GraphQL stargazer data is used to estimate recent 24h and 7d star growth.</li>
 <li>Daily JSON snapshots are stored in <code>data/snapshots/</code> so the repository can improve its trend calculations over time.</li>
 </ul>
@@ -145,6 +146,7 @@
 <h2>数据来源</h2>
 <ul>
 <li>使用 GitHub REST Search API 按 AI 相关 topic 和活跃度发现公开仓库。</li>
+<li>使用 GitHub Trending、Topics、Explore 作为官方发现种子，再通过仓库 API 拉取标准仓库数据，并经过同一套电商相关性过滤。</li>
 <li>使用 GitHub GraphQL stargazer 数据估算最近 24 小时和 7 天增星。</li>
 <li>每日 JSON 快照保存在 <code>data/snapshots/</code>，后续运行会逐步提升趋势计算的稳定性。</li>
 </ul>

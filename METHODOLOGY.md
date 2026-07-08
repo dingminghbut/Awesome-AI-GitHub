@@ -7,6 +7,7 @@ Awesome AI GitHub is a daily AI open-source radar. It is designed to help people
 ## Data Sources
 
 - GitHub REST Search API is used to discover public repositories by AI-related topics and activity.
+- GitHub Trending, Topics, and Explore provide official discovery seeds. Those seeds are resolved through the repository API and passed through the same commerce relevance filters.
 - GitHub GraphQL stargazer data is used to estimate recent 24h and 7d star growth.
 - Daily JSON snapshots are stored in `data/snapshots/` so the repository can improve its trend calculations over time.
 

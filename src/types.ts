@@ -16,6 +16,23 @@ export type SearchJob = {
   sort: SearchSort;
 };
 
+export type OfficialDiscoveryKind = "explore" | "topic" | "trending";
+
+export type OfficialDiscoverySource = {
+  kind: OfficialDiscoveryKind;
+  label: string;
+  url: string;
+  categorySlug?: string;
+};
+
+export type OfficialDiscoverySeed = {
+  fullName: string;
+  source: OfficialDiscoveryKind;
+  label: string;
+  url: string;
+  categorySlug?: string;
+};
+
 export type GitHubSearchOwner = {
   login: string;
   avatar_url: string;

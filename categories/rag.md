@@ -9,7 +9,7 @@ Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing
 - Projects tracked: 6
 - Recently active projects: 3
 - Docs or homepage signal: 3
-- Updated: Jul 7, 2026, 10:43 AM UTC
+- Updated: Jul 8, 2026, 1:04 AM UTC
 
 ## Who This Helps
 
@@ -19,7 +19,7 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 20 | +2 | +6 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
+| 1 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 20 | +1 | +6 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 16 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
 | 4 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | Product RAG & Knowledge Search | Commerce skill | 14 | +0 | +1 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
@@ -30,7 +30,7 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 20 | +2 | +6 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
+| 1 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 20 | +1 | +6 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
 | 2 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 16 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
 | 3 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | Product RAG & Knowledge Search | Commerce skill | 14 | +0 | +1 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
 | 4 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |

@@ -1,4 +1,4 @@
-import type { CategoryConfig, SearchJob, SearchSort } from "./types.js";
+import type { CategoryConfig, OfficialDiscoverySource, SearchJob, SearchSort } from "./types.js";
 
 export const REPOSITORY = {
   owner: "dingminghbut",
@@ -14,8 +14,109 @@ export const SETTINGS = {
   recentStarPages: 2,
   recentStarPerPage: 100,
   activeDays: 365,
-  newcomerDays: 180
+  newcomerDays: 180,
+  officialDiscoverySeedLimit: 300,
+  officialDiscoveryRepoLimit: 80
 } as const;
+
+export const OFFICIAL_DISCOVERY_SOURCES: readonly OfficialDiscoverySource[] = [
+  {
+    kind: "explore",
+    label: "GitHub Explore",
+    url: "https://github.com/explore"
+  },
+  {
+    kind: "trending",
+    label: "GitHub Trending daily",
+    url: "https://github.com/trending?since=daily"
+  },
+  {
+    kind: "trending",
+    label: "GitHub Trending weekly",
+    url: "https://github.com/trending?since=weekly"
+  },
+  {
+    kind: "trending",
+    label: "GitHub Trending Python daily",
+    url: "https://github.com/trending/python?since=daily"
+  },
+  {
+    kind: "trending",
+    label: "GitHub Trending TypeScript daily",
+    url: "https://github.com/trending/typescript?since=daily"
+  },
+  {
+    kind: "trending",
+    label: "GitHub Trending JavaScript daily",
+    url: "https://github.com/trending/javascript?since=daily"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: ecommerce",
+    url: "https://github.com/topics/ecommerce",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: shopify",
+    url: "https://github.com/topics/shopify",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: ai-agents",
+    url: "https://github.com/topics/ai-agents",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: llm",
+    url: "https://github.com/topics/llm",
+    categorySlug: "llm"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: rag",
+    url: "https://github.com/topics/rag",
+    categorySlug: "rag"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: generative-ai",
+    url: "https://github.com/topics/generative-ai",
+    categorySlug: "generative-ai"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: image-generation",
+    url: "https://github.com/topics/image-generation",
+    categorySlug: "generative-ai"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: recommendation-system",
+    url: "https://github.com/topics/recommendation-system",
+    categorySlug: "ai-infra"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: marketing-automation",
+    url: "https://github.com/topics/marketing-automation",
+    categorySlug: "agents"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: customer-support",
+    url: "https://github.com/topics/customer-support",
+    categorySlug: "faq-generation"
+  },
+  {
+    kind: "topic",
+    label: "GitHub Topic: robotics",
+    url: "https://github.com/topics/robotics",
+    categorySlug: "robotics"
+  }
+] as const;
 
 export const COMMERCE_PLATFORM_KEYWORDS = [
   "amazon",

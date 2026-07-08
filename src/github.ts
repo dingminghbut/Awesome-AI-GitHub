@@ -18,6 +18,10 @@ export class GitHubClient {
     return this.searchRepositoriesWithRetry(query, sort, perPage, 0);
   }
 
+  async getRepository(fullName: string): Promise<GitHubSearchResponse["items"][number]> {
+    return this.getRepositoryWithRetry(fullName, 0);
+  }
+
   async recentStarCounts(fullNames: string[], sinceDaily: string, sinceWeekly: string): Promise<Map<string, RecentStarCount>> {
     const states = fullNames.map((fullName, index) => {
       const [owner, ...nameParts] = fullName.split("/");
@@ -136,6 +140,43 @@ export class GitHubClient {
     }
 
     return (await response.json()) as GitHubSearchResponse;
+  }
+
+  private async getRepositoryWithRetry(fullName: string, attempt: number): Promise<GitHubSearchResponse["items"][number]> {
+    const [owner, repo] = fullName.split("/");
+    if (!owner || !repo) {
+      throw new Error(`Invalid repository full name: ${fullName}`);
+    }
+
+    const url = new URL(`/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}`, API_ROOT);
+    const response = await fetch(url, {
+      headers: this.headers()
+    });
+
+    const reset = response.headers.get("x-ratelimit-reset");
+    const remaining = response.headers.get("x-ratelimit-remaining");
+
+    if (!response.ok && response.status === 403 && remaining === "0" && reset && attempt < 1) {
+      const waitMs = Math.max(0, Number(reset) * 1000 - Date.now() + 2000);
+      console.warn(`GitHub core rate limit reached. Waiting ${Math.ceil(waitMs / 1000)}s before retrying.`);
+      await sleep(waitMs);
+      return this.getRepositoryWithRetry(fullName, attempt + 1);
+    }
+
+    if (!response.ok && [502, 503, 504].includes(response.status) && attempt < 3) {
+      const waitMs = 1500 * 2 ** attempt;
+      console.warn(`GitHub repository API returned ${response.status}; retrying in ${waitMs}ms.`);
+      await sleep(waitMs);
+      return this.getRepositoryWithRetry(fullName, attempt + 1);
+    }
+
+    if (!response.ok) {
+      const resetText = reset ? ` Rate limit resets at ${new Date(Number(reset) * 1000).toISOString()}.` : "";
+      const body = await response.text();
+      throw new Error(`GitHub repository lookup failed (${response.status}) for "${fullName}".${resetText} ${body}`);
+    }
+
+    return (await response.json()) as GitHubSearchResponse["items"][number];
   }
 
   private async fetchRecentStarBatch(
