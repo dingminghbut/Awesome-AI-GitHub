@@ -2,9 +2,9 @@
   "generatedAt": "2026-07-09T06:27:34.216Z",
   "date": "2026-07-09",
   "source": {
-    "name": "GitHub REST Search API + official GitHub discovery pages",
-    "url": "https://github.com/explore",
-    "ranking": "Hot score based on 24h/7d star deltas, repository freshness, Search/API discovery, and official Trending/Topics/Explore seeds."
+    "name": "Curated public repository metadata",
+    "url": "https://github.com/",
+    "ranking": "Hot score based on recent growth, repository freshness, category relevance, and traction signals."
   },
   "summary": {
     "totalProjects": 160,

@@ -8,7 +8,7 @@
 
 ## 为什么做这个
 
-AI + 电商开源变化太快，静态收藏夹很容易过期。本仓库每天自动刷新，保留轻量历史快照，并突出正在获得关注的项目，帮助商家、运营者、开发者和创业者更早发现有价值的开源工作。
+AI + 电商开源变化太快，静态收藏夹很容易过期。本仓库持续整理当前值得关注的项目，保留轻量历史信号，并突出正在获得关注的开源工作，帮助商家、运营者、开发者和创业者更早发现有价值的方向。
 
 ## 从这里开始
 
@@ -99,10 +99,6 @@ AI + 电商开源变化太快，静态收藏夹很容易过期。本仓库每天
 - [**电商评测与增长分析**](https://dingminghbut.github.io/Awesome-AI-GitHub/evaluation.html) (3) - 推荐评测、A/B 测试、归因、转化分析、增长运营指标、LLM 质量检查与电商可观测性。
 - [**零售机器人与履约自动化**](https://dingminghbut.github.io/Awesome-AI-GitHub/robotics.html) (8) - 仓储机器人、库存自动化、货架识别、履约配送与零售运营中的具身智能。
 
-## 自动化
-
-仓库每天通过 GitHub Actions 自动更新。工作流使用内置 `GITHUB_TOKEN`，查询 GitHub REST Search API，并从 GitHub Trending、Topics、Explore 补充官方发现候选，保存每日快照，再重新生成中英 README 与 GitHub Pages 榜单页面。
-
 ## 参与贡献
 
 如果你知道值得追踪的 AI 开源项目，可以[在这里推荐](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml)。好的推荐应包含仓库链接、分类，以及这个项目能帮到哪类人的一句话说明。
@@ -111,4 +107,4 @@ AI + 电商开源变化太快，静态收藏夹很容易过期。本仓库每天
 
 - 连续运行数天后，增星排名会更准确。
 - 仓库缺少 license、homepage 或 topics 等信息时显示为 `Unknown`。
-- 静态榜单生成到 `docs/index.html`，可通过 GitHub Pages 从 `docs/` 目录发布。
+- 在线榜单和分类页提供更方便的交互式浏览视图。

@@ -8,7 +8,7 @@ Daily commerce AI open-source radar: discover fast-growing shopping assistants, 
 
 ## Why This Exists
 
-AI commerce moves too fast for a static bookmark list. This repo refreshes every day, keeps lightweight historical snapshots, and highlights projects that help merchants, operators, and builders spot useful open-source work earlier.
+AI commerce moves too fast for a static bookmark list. This repo keeps a current shortlist, tracks lightweight history, and highlights projects that help merchants, operators, and builders spot useful open-source work earlier.
 
 ## Start Here
 
@@ -99,10 +99,6 @@ AI commerce moves too fast for a static bookmark list. This repo refreshes every
 - [**Commerce Evaluation & Growth Analytics**](https://dingminghbut.github.io/Awesome-AI-GitHub/evaluation.html) (3) - Recommendation evaluation, A/B testing, attribution, conversion analytics, growth operations metrics, LLM quality checks, and commerce observability.
 - [**Retail Robotics & Fulfillment**](https://dingminghbut.github.io/Awesome-AI-GitHub/robotics.html) (8) - Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.
 
-## Automation
-
-The repository updates itself every day with GitHub Actions. The workflow uses the built-in `GITHUB_TOKEN`, queries the GitHub REST Search API, enriches candidates from GitHub Trending, Topics, and Explore, stores a daily snapshot, and regenerates the README files plus the GitHub Pages dashboard.
-
 ## Contributing
 
 Know a useful AI project that should be tracked? [Suggest it here](https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml). Good submissions include a working repository URL, the category, and a short note about who benefits from it.
@@ -111,4 +107,4 @@ Know a useful AI project that should be tracked? [Suggest it here](https://githu
 
 - Ranking becomes more accurate after several daily snapshots exist.
 - Missing repository metadata such as license, homepage, or topics is shown as `Unknown`.
-- The static dashboard is generated into `docs/index.html` and served by GitHub Pages from the `docs/` directory.
+- The dashboard and category pages provide an interactive browsing view.

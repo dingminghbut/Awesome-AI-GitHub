@@ -78,7 +78,7 @@ async function main(): Promise<void> {
 
   if (existsSync(methodology)) {
     const text = await readFile(methodology, "utf8");
-    if (!text.includes("Ranking Signals") || !text.includes("No Database")) {
+    if (!text.includes("Ranking Signals") || !text.includes("Data Files")) {
       errors.push("METHODOLOGY.md does not look generated.");
     }
   }

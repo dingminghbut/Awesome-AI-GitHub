@@ -100,12 +100,11 @@
     <article id="contentEn"><h1>Methodology</h1>
 <p><a href="https://github.com/dingminghbut/Awesome-AI-GitHub#readme">Back to README</a> | <a href="https://dingminghbut.github.io/Awesome-AI-GitHub/">Live dashboard</a> | <a href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/data/projects.json">Open data</a></p>
 <p>Awesome AI GitHub is a daily AI open-source radar. It is designed to help people discover useful projects that are gaining attention now, not only the biggest repositories of all time.</p>
-<h2>Data Sources</h2>
+<h2>Data Basis</h2>
 <ul>
-<li>GitHub REST Search API is used to discover public repositories by AI-related topics and activity.</li>
-<li>GitHub Trending, Topics, and Explore provide official discovery seeds. Those seeds are resolved through the repository API and passed through the same commerce relevance filters.</li>
-<li>GitHub GraphQL stargazer data is used to estimate recent 24h and 7d star growth.</li>
-<li>Daily JSON snapshots are stored in <code>data/snapshots/</code> so the repository can improve its trend calculations over time.</li>
+<li>Public repository metadata, activity signals, and category keywords are used to build the list.</li>
+<li>Recent growth, freshness, and traction are used as discovery signals.</li>
+<li>Lightweight snapshots help compare trend changes over time.</li>
 </ul>
 <h2>Ranking Signals</h2>
 <ul>
@@ -136,19 +135,18 @@
 <li><strong>Commerce Evaluation &amp; Growth Analytics</strong> - Recommendation evaluation, A/B testing, attribution, conversion analytics, growth operations metrics, LLM quality checks, and commerce observability.</li>
 <li><strong>Retail Robotics &amp; Fulfillment</strong> - Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.</li>
 </ul>
-<h2>No Database</h2>
-<p>This project intentionally uses static JSON files instead of a database. GitHub Actions regenerates the data daily, Git stores the history, and GitHub Pages serves the dashboard for free.</p>
+<h2>Data Files</h2>
+<p>This project publishes Markdown, JSON, and HTML artifacts so the list remains easy to browse, fork, and audit.</p>
 <h2>Suggest a Project</h2>
 <p>Open a <a href="https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml">project suggestion issue</a> with the repository URL, category, and why it helps builders, researchers, or founders.</p></article>
     <article id="contentZh" class="hidden"><h1>排名方法</h1>
 <p><a href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/README.zh-CN.md">返回 README</a> | <a href="https://dingminghbut.github.io/Awesome-AI-GitHub/">在线榜单</a> | <a href="https://github.com/dingminghbut/Awesome-AI-GitHub/blob/main/data/projects.json">开放数据</a></p>
 <p>Awesome AI GitHub 是一个每日 AI 开源雷达。目标不是只展示历史总星数最高的仓库，而是帮助大家更早发现正在获得关注、可能值得投入时间的项目。</p>
-<h2>数据来源</h2>
+<h2>数据依据</h2>
 <ul>
-<li>使用 GitHub REST Search API 按 AI 相关 topic 和活跃度发现公开仓库。</li>
-<li>使用 GitHub Trending、Topics、Explore 作为官方发现种子，再通过仓库 API 拉取标准仓库数据，并经过同一套电商相关性过滤。</li>
-<li>使用 GitHub GraphQL stargazer 数据估算最近 24 小时和 7 天增星。</li>
-<li>每日 JSON 快照保存在 <code>data/snapshots/</code>，后续运行会逐步提升趋势计算的稳定性。</li>
+<li>使用公开仓库元数据、活跃度信号和分类关键词构建榜单。</li>
+<li>近期增长、新鲜度和基础热度作为发现信号。</li>
+<li>轻量快照用于对比趋势变化。</li>
 </ul>
 <h2>排名信号</h2>
 <ul>
@@ -179,8 +177,8 @@
 <li><strong>电商评测与增长分析</strong> - 推荐评测、A/B 测试、归因、转化分析、增长运营指标、LLM 质量检查与电商可观测性。</li>
 <li><strong>零售机器人与履约自动化</strong> - 仓储机器人、库存自动化、货架识别、履约配送与零售运营中的具身智能。</li>
 </ul>
-<h2>为什么不用数据库</h2>
-<p>当前项目刻意使用静态 JSON，而不是数据库。GitHub Actions 每天重新生成数据，Git 保存历史，GitHub Pages 免费发布页面，别人 fork 后也能直接运行。</p>
+<h2>数据文件</h2>
+<p>项目发布 Markdown、JSON 和 HTML 产物，方便浏览、fork 和检查。</p>
 <h2>推荐项目</h2>
 <p>可以通过<a href="https://github.com/dingminghbut/Awesome-AI-GitHub/issues/new?template=suggest-project.yml">项目推荐 issue</a> 提交仓库链接、分类，以及它能帮到开发者、研究者或创业者的原因。</p></article>
   </main>

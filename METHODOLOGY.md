@@ -4,12 +4,11 @@
 
 Awesome AI GitHub is a daily AI open-source radar. It is designed to help people discover useful projects that are gaining attention now, not only the biggest repositories of all time.
 
-## Data Sources
+## Data Basis
 
-- GitHub REST Search API is used to discover public repositories by AI-related topics and activity.
-- GitHub Trending, Topics, and Explore provide official discovery seeds. Those seeds are resolved through the repository API and passed through the same commerce relevance filters.
-- GitHub GraphQL stargazer data is used to estimate recent 24h and 7d star growth.
-- Daily JSON snapshots are stored in `data/snapshots/` so the repository can improve its trend calculations over time.
+- Public repository metadata, activity signals, and category keywords are used to build the list.
+- Recent growth, freshness, and traction are used as discovery signals.
+- Lightweight snapshots help compare trend changes over time.
 
 ## Ranking Signals
 
@@ -40,9 +39,9 @@ Awesome AI GitHub is a daily AI open-source radar. It is designed to help people
 - **Commerce Evaluation & Growth Analytics** - Recommendation evaluation, A/B testing, attribution, conversion analytics, growth operations metrics, LLM quality checks, and commerce observability.
 - **Retail Robotics & Fulfillment** - Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, and embodied AI for retail operations.
 
-## No Database
+## Data Files
 
-This project intentionally uses static JSON files instead of a database. GitHub Actions regenerates the data daily, Git stores the history, and GitHub Pages serves the dashboard for free.
+This project publishes Markdown, JSON, and HTML artifacts so the list remains easy to browse, fork, and audit.
 
 ## Suggest a Project
 
