@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：3
+- 收录项目：2
 - 近期活跃项目：2
-- 有文档或主页信号：2
-- 更新时间：Jul 9, 2026, 6:27 AM UTC
+- 有文档或主页信号：1
+- 更新时间：Jul 10, 2026, 6:16 AM UTC
 
 ## 适合谁看
 
@@ -19,14 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 6 | +0 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 6 | +0 | +2 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 | 2 | [aws-samples/sample-ai-powered-product-catalog](https://github.com/aws-samples/sample-ai-powered-product-catalog) | 五点描述生成 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 10 | +0 | +0 | Python | This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. |
-| 3 | [nomomon/Amazon-Product-Description](https://github.com/nomomon/Amazon-Product-Description) | 五点描述生成 | 电商技能, 开源许可, 有文档 | 14 | +0 | +0 | Jupyter Notebook | Amazon product description generator using fine-tuned GPT-Neo — proof of concept for Texta.ai |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 6 | +0 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 6 | +0 | +2 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 | 2 | [aws-samples/sample-ai-powered-product-catalog](https://github.com/aws-samples/sample-ai-powered-product-catalog) | 五点描述生成 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 10 | +0 | +0 | Python | This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. |
-| 3 | [nomomon/Amazon-Product-Description](https://github.com/nomomon/Amazon-Product-Description) | 五点描述生成 | 电商技能, 开源许可, 有文档 | 14 | +0 | +0 | Jupyter Notebook | Amazon product description generator using fine-tuned GPT-Neo — proof of concept for Texta.ai |
