@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：1
 - 有文档或主页信号：1
-- 更新时间：Jul 11, 2026, 5:23 AM UTC
+- 更新时间：Jul 12, 2026, 5:40 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [semihbugrasezer/etsy-seo-mcp](https://github.com/semihbugrasezer/etsy-seo-mcp) | 标题生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 22 | +0 | +1 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
+| 1 | [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | 标题生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 23 | +1 | +2 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [semihbugrasezer/etsy-seo-mcp](https://github.com/semihbugrasezer/etsy-seo-mcp) | 标题生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 22 | +0 | +1 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
+| 1 | [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | 标题生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 23 | +1 | +2 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
