@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：0
 - 有文档或主页信号：0
-- 更新时间：Jul 12, 2026, 5:40 AM UTC
+- 更新时间：Jul 13, 2026, 5:49 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 54 | +0 | +7 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 57 | +3 | +9 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 54 | +0 | +7 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 57 | +3 | +9 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
