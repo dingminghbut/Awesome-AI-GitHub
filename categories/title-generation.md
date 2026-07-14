@@ -9,7 +9,7 @@ AI tools and skills for ecommerce product titles, keyword-rich listing titles, S
 - Projects tracked: 1
 - Recently active projects: 1
 - Docs or homepage signal: 1
-- Updated: Jul 13, 2026, 5:49 AM UTC
+- Updated: Jul 14, 2026, 5:11 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,10 @@ Useful for operators and builders generating keyword-rich marketplace titles, SE
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | Listing Title Generation | Recently active, Commerce skill, Open license, Docs available | 23 | +0 | +1 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
+| 1 | [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | Listing Title Generation | Recently active, Commerce skill, Open license, Docs available | 24 | +1 | +2 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | Listing Title Generation | Recently active, Commerce skill, Open license, Docs available | 23 | +0 | +1 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |
+| 1 | [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | Listing Title Generation | Recently active, Commerce skill, Open license, Docs available | 24 | +1 | +2 | JavaScript | AI-powered Etsy product listing generator for Claude Desktop  Generate perfect SEO titles, descriptions, and tags in seconds |

@@ -6,10 +6,10 @@ AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales a
 
 ## Category Snapshot
 
-- Projects tracked: 1
-- Recently active projects: 1
-- Docs or homepage signal: 1
-- Updated: Jul 13, 2026, 5:49 AM UTC
+- Projects tracked: 0
+- Recently active projects: 0
+- Docs or homepage signal: 0
+- Updated: Jul 14, 2026, 5:11 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,8 @@ Useful for teams generating product FAQs, buyer Q&A, objection handling, pre-sal
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 10 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 10 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |

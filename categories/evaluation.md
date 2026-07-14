@@ -6,10 +6,10 @@ Recommendation evaluation, A/B testing, attribution, conversion analytics, growt
 
 ## Category Snapshot
 
-- Projects tracked: 2
+- Projects tracked: 1
 - Recently active projects: 1
-- Docs or homepage signal: 2
-- Updated: Jul 13, 2026, 5:49 AM UTC
+- Docs or homepage signal: 1
+- Updated: Jul 14, 2026, 5:11 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,10 @@ Useful for growth, data, and engineering teams measuring recommendation quality,
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Open license, Docs available | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
-| 2 | [manascb1344/TensorForce](https://github.com/manascb1344/TensorForce) | Commerce Evaluation & Growth Analytics | Commerce skill, Open license, Docs available, Demo or app | 15 | +0 | +0 | Jupyter Notebook | 📈 Unlock the future of trading with TensorForce! Our AI-powered platform automates stock trading and hosts a marketplace for diverse trading models, providing advanced portfolio management tools and analytics for a streamlined investing journey. 🤖💼  ML-based-automated-stock-trading-platform |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Open license, Docs available | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
-| 2 | [manascb1344/TensorForce](https://github.com/manascb1344/TensorForce) | Commerce Evaluation & Growth Analytics | Commerce skill, Open license, Docs available, Demo or app | 15 | +0 | +0 | Jupyter Notebook | 📈 Unlock the future of trading with TensorForce! Our AI-powered platform automates stock trading and hosts a marketplace for diverse trading models, providing advanced portfolio management tools and analytics for a streamlined investing journey. 🤖💼  ML-based-automated-stock-trading-platform |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
