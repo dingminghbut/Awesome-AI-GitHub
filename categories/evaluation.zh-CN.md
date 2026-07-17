@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：1
-- 近期活跃项目：1
-- 有文档或主页信号：1
-- 更新时间：Jul 16, 2026, 5:21 AM UTC
+- 收录项目：2
+- 近期活跃项目：2
+- 有文档或主页信号：2
+- 更新时间：Jul 17, 2026, 5:24 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 1 | [PostHog/posthog](https://github.com/PostHog/posthog) | 电商评测与增长分析 | 增长快, 近期活跃, 有文档, 偏生产可用 | 35,930 | +200+ | +200+ | Python | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 1 | [PostHog/posthog](https://github.com/PostHog/posthog) | 电商评测与增长分析 | 增长快, 近期活跃, 有文档, 偏生产可用 | 35,930 | +200+ | +200+ | Python | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
