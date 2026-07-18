@@ -9,7 +9,7 @@ AI tools and skills for product hero images, marketplace main images, background
 - Projects tracked: 2
 - Recently active projects: 2
 - Docs or homepage signal: 1
-- Updated: Jul 17, 2026, 5:24 AM UTC
+- Updated: Jul 18, 2026, 5:06 AM UTC
 
 ## Who This Helps
 
