@@ -6,10 +6,10 @@ Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing
 
 ## Category Snapshot
 
-- Projects tracked: 5
+- Projects tracked: 4
 - Recently active projects: 3
 - Docs or homepage signal: 4
-- Updated: Jul 22, 2026, 5:30 AM UTC
+- Updated: Jul 23, 2026, 5:36 AM UTC
 
 ## Who This Helps
 
@@ -23,7 +23,6 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 | 4 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | Product RAG & Knowledge Search | Commerce skill, Open license, Docs available, Production oriented | 16 | +0 | +0 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
-| 5 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | Product RAG & Knowledge Search | Commerce skill | 14 | +0 | +0 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
 
 ## Fast Movers In This Category
 
@@ -33,4 +32,3 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 | 4 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | Product RAG & Knowledge Search | Commerce skill, Open license, Docs available, Production oriented | 16 | +0 | +0 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
-| 5 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | Product RAG & Knowledge Search | Commerce skill | 14 | +0 | +0 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |

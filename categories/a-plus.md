@@ -9,7 +9,7 @@ AI tools and skills for Amazon A+ content, enhanced brand content, product detai
 - Projects tracked: 1
 - Recently active projects: 0
 - Docs or homepage signal: 0
-- Updated: Jul 22, 2026, 5:30 AM UTC
+- Updated: Jul 23, 2026, 5:36 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,10 @@ Useful for Amazon and marketplace teams building A+ content, enhanced brand cont
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 77 | +1 | +16 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 78 | +1 | +14 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 77 | +1 | +16 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 78 | +1 | +14 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |

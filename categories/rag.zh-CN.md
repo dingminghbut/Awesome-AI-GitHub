@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：5
+- 收录项目：4
 - 近期活跃项目：3
 - 有文档或主页信号：4
-- 更新时间：Jul 22, 2026, 5:30 AM UTC
+- 更新时间：Jul 23, 2026, 5:36 AM UTC
 
 ## 适合谁看
 
@@ -23,7 +23,6 @@
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 | 4 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 偏生产可用 | 16 | +0 | +0 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
-| 5 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | 商品 RAG 与知识检索 | 电商技能 | 14 | +0 | +0 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |
 
 ## 本分类增长项目
 
@@ -33,4 +32,3 @@
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 | 4 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 偏生产可用 | 16 | +0 | +0 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
-| 5 | [syoungshu030501/vlm-posttraining-ecommerce](https://github.com/syoungshu030501/vlm-posttraining-ecommerce) | 商品 RAG 与知识检索 | 电商技能 | 14 | +0 | +0 | Python | 基于Qwen3-VL-8B模型的数据构建/微调/强化学习/Agentic RAG项目 |

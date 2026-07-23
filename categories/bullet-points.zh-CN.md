@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：1
-- 近期活跃项目：1
+- 收录项目：2
+- 近期活跃项目：2
 - 有文档或主页信号：1
-- 更新时间：Jul 22, 2026, 5:30 AM UTC
+- 更新时间：Jul 23, 2026, 5:36 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 13 | +0 | +5 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 13 | +0 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 2 | [noique/cross-border-ecommerce-skills](https://github.com/noique/cross-border-ecommerce-skills) | 五点描述生成 | 近期活跃, 电商技能, 适合入门, 研究/评测 | 6 | +0 | +0 | Python | AI-powered skill templates for cross-border e-commerce: product selection, market research, IP risk, keywords, listing copy. Compatible with Claude Code & Antigravity. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 13 | +0 | +5 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 13 | +0 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 2 | [noique/cross-border-ecommerce-skills](https://github.com/noique/cross-border-ecommerce-skills) | 五点描述生成 | 近期活跃, 电商技能, 适合入门, 研究/评测 | 6 | +0 | +0 | Python | AI-powered skill templates for cross-border e-commerce: product selection, market research, IP risk, keywords, listing copy. Compatible with Claude Code & Antigravity. |
