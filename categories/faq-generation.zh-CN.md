@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：1
 - 有文档或主页信号：1
-- 更新时间：Jul 23, 2026, 5:36 AM UTC
+- 更新时间：Jul 24, 2026, 5:31 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 11 | +1 | +1 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
+| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 11 | +0 | +1 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 11 | +1 | +1 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
+| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 11 | +0 | +1 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
