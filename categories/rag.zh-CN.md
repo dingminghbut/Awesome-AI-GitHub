@@ -9,7 +9,7 @@
 - 收录项目：3
 - 近期活跃项目：3
 - 有文档或主页信号：3
-- 更新时间：Jul 24, 2026, 5:31 AM UTC
+- 更新时间：Jul 25, 2026, 5:25 AM UTC
 
 ## 适合谁看
 
@@ -19,14 +19,14 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +1 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
-| 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 166 | +1 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 2 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +1 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
 | 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +1 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
-| 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 165 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 166 | +1 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 2 | [rob0pup/r2-commerce](https://github.com/rob0pup/r2-commerce) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +1 | TypeScript | Semantic product search for commerce: find products by meaning, not keywords. A Medusa v2 module backed by pgvector + Gemini embeddings, with a Next.js storefront. |
 | 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
