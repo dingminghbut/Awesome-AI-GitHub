@@ -9,7 +9,7 @@
 - 收录项目：7
 - 近期活跃项目：5
 - 有文档或主页信号：4
-- 更新时间：Jul 25, 2026, 5:25 AM UTC
+- 更新时间：Jul 26, 2026, 5:43 AM UTC
 
 ## 适合谁看
 
@@ -19,7 +19,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 39 | +2 | +2 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
+| 1 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 41 | +2 | +4 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
 | 2 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 近期活跃, 开源许可, 有演示/应用 | 35 | +0 | +1 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 3 | [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) | 零售机器人与履约自动化 | 电商技能, 开源许可, 适合入门, 偏生产可用 | 38 | +0 | +1 | Python | Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 26 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
@@ -31,7 +31,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 39 | +2 | +2 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
+| 1 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 41 | +2 | +4 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
 | 2 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 近期活跃, 开源许可, 有演示/应用 | 35 | +0 | +1 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 3 | [bjeans/homelab-mcp](https://github.com/bjeans/homelab-mcp) | 零售机器人与履约自动化 | 电商技能, 开源许可, 适合入门, 偏生产可用 | 38 | +0 | +1 | Python | Model Context Protocol (MCP) servers for managing homelab infrastructure through Claude Desktop. Monitor Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, and Ansible inventory. Includes security checks, templates, and automated pre-push validation. Production-ready for homelabs. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 26 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
