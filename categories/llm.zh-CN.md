@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：13
+- 收录项目：12
 - 近期活跃项目：6
-- 有文档或主页信号：9
-- 更新时间：Jul 27, 2026, 6:02 AM UTC
+- 有文档或主页信号：8
+- 更新时间：Jul 28, 2026, 5:26 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openilink/openilink-hub](https://github.com/openilink/openilink-hub) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档, 适合自托管 | 1,519 | +3 | +29 | Go | 开源微信 Bot 管理平台 + App 应用市场 \| Self-hosted WeChat Bot Platform with App Marketplace \| Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps \| AI Tools \| 7 Language SDKs |
-| 2 | [tgoai/tgo](https://github.com/tgoai/tgo) | 电商 LLM 与导购客服 | 有文档, 有演示/应用 | 552 | +1 | +11 | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration. |
-| 3 | [vynect/venom](https://github.com/vynect/venom) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 6,567 | +2 | +7 | TypeScript | Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp. |
-| 4 | [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) | 电商 LLM 与导购客服 | 近期活跃, 有文档, 有演示/应用 | 3,367 | +1 | +4 | TypeScript | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination |
+| 1 | [openilink/openilink-hub](https://github.com/openilink/openilink-hub) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档, 适合自托管 | 1,521 | +2 | +24 | Go | 开源微信 Bot 管理平台 + App 应用市场 \| Self-hosted WeChat Bot Platform with App Marketplace \| Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps \| AI Tools \| 7 Language SDKs |
+| 2 | [tgoai/tgo](https://github.com/tgoai/tgo) | 电商 LLM 与导购客服 | 有文档, 有演示/应用 | 555 | +3 | +12 | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration. |
+| 3 | [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) | 电商 LLM 与导购客服 | 近期活跃, 有文档, 有演示/应用 | 3,368 | +1 | +5 | TypeScript | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination |
+| 4 | [vynect/venom](https://github.com/vynect/venom) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 6,567 | +0 | +5 | TypeScript | Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp. |
 | 5 | [Bytedesk/bytedesk](https://github.com/Bytedesk/bytedesk) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 有演示/应用 | 458 | +0 | +4 | Java | Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra |
 | 6 | [NVIDIA-AI-Blueprints/retail-shopping-assistant](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) | 电商 LLM 与导购客服 | 近期活跃, 电商技能, 有演示/应用 | 84 | +0 | +1 | Python | The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for an intelligent retail shopping advisor. Built with LangGraph for agent orchestration, it features multi-agent architecture, real-time streaming responses, image-based search, and intelligent shopping cart management. |
 | 7 | [upsidelab/enthusiast](https://github.com/upsidelab/enthusiast) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档 | 161 | +0 | +1 | Python | Open source AI agent for e-commerce |
@@ -31,16 +31,15 @@
 | 10 | [spring-ai-alibaba/spring-ai-alibaba-multi-agent-demo](https://github.com/spring-ai-alibaba/spring-ai-alibaba-multi-agent-demo) | 电商 LLM 与导购客服 | 开源许可, 有演示/应用 | 131 | +0 | +0 | Java | Cloud-Side Beverage Shop Smart Order Assistant - A distributed multi-agent system built using Spring AI Alibaba Agentic API |
 | 11 | [herobot-id/herobot](https://github.com/herobot-id/herobot) | 电商 LLM 与导购客服 | 开源许可, 有文档, 适合自托管, 有演示/应用 | 81 | +0 | +0 | PHP | Herobot is your 24/7 customer service assistant that helps you manage multi-channel customer conversations effortlessly. |
 | 12 | [Array-Ventures/coworker](https://github.com/Array-Ventures/coworker) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档, 偏生产可用 | 41 | +0 | +0 | TypeScript | Open-source AI agent with MCP UI, app builder, A2A protocol, skills marketplace, and multi-provider chat. Built with Mastra. Alternative to OpenClaw. |
-| 13 | [tomlin7/ecommerce-chatbot](https://github.com/tomlin7/ecommerce-chatbot) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档, 有演示/应用 | 22 | +0 | +0 | TypeScript | E-commerce platform powered by agents with vector search, recommendations, order/cart management capabilities. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [openilink/openilink-hub](https://github.com/openilink/openilink-hub) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档, 适合自托管 | 1,519 | +3 | +29 | Go | 开源微信 Bot 管理平台 + App 应用市场 \| Self-hosted WeChat Bot Platform with App Marketplace \| Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps \| AI Tools \| 7 Language SDKs |
-| 2 | [tgoai/tgo](https://github.com/tgoai/tgo) | 电商 LLM 与导购客服 | 有文档, 有演示/应用 | 552 | +1 | +11 | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration. |
-| 3 | [vynect/venom](https://github.com/vynect/venom) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 6,567 | +2 | +7 | TypeScript | Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp. |
-| 4 | [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) | 电商 LLM 与导购客服 | 近期活跃, 有文档, 有演示/应用 | 3,367 | +1 | +4 | TypeScript | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination |
+| 1 | [openilink/openilink-hub](https://github.com/openilink/openilink-hub) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档, 适合自托管 | 1,521 | +2 | +24 | Go | 开源微信 Bot 管理平台 + App 应用市场 \| Self-hosted WeChat Bot Platform with App Marketplace \| Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps \| AI Tools \| 7 Language SDKs |
+| 2 | [tgoai/tgo](https://github.com/tgoai/tgo) | 电商 LLM 与导购客服 | 有文档, 有演示/应用 | 555 | +3 | +12 | TypeScript | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration. |
+| 3 | [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) | 电商 LLM 与导购客服 | 近期活跃, 有文档, 有演示/应用 | 3,368 | +1 | +5 | TypeScript | WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination |
+| 4 | [vynect/venom](https://github.com/vynect/venom) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 6,567 | +0 | +5 | TypeScript | Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp. |
 | 5 | [Bytedesk/bytedesk](https://github.com/Bytedesk/bytedesk) | 电商 LLM 与导购客服 | 近期活跃, 开源许可, 有文档, 有演示/应用 | 458 | +0 | +4 | Java | Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra |
 | 6 | [NVIDIA-AI-Blueprints/retail-shopping-assistant](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) | 电商 LLM 与导购客服 | 近期活跃, 电商技能, 有演示/应用 | 84 | +0 | +1 | Python | The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for an intelligent retail shopping advisor. Built with LangGraph for agent orchestration, it features multi-agent architecture, real-time streaming responses, image-based search, and intelligent shopping cart management. |
 | 7 | [upsidelab/enthusiast](https://github.com/upsidelab/enthusiast) | 电商 LLM 与导购客服 | 电商技能, 开源许可, 有文档 | 161 | +0 | +1 | Python | Open source AI agent for e-commerce |
