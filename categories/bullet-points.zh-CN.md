@@ -9,7 +9,7 @@
 - 收录项目：4
 - 近期活跃项目：4
 - 有文档或主页信号：2
-- 更新时间：Jul 31, 2026, 5:46 AM UTC
+- 更新时间：Aug 1, 2026, 5:37 AM UTC
 
 ## 适合谁看
 
@@ -19,7 +19,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 17 | +1 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 17 | +0 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 | 2 | [noique/cross-border-ecommerce-skills](https://github.com/noique/cross-border-ecommerce-skills) | 五点描述生成 | 近期活跃, 电商技能, 适合入门, 研究/评测 | 9 | +0 | +2 | Python | AI-powered skill templates for cross-border e-commerce: product selection, market research, IP risk, keywords, listing copy. Compatible with Claude Code & Antigravity. |
 | 3 | [aws-samples/sample-ai-powered-product-catalog](https://github.com/aws-samples/sample-ai-powered-product-catalog) | 五点描述生成 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 11 | +0 | +1 | Python | This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. |
 | 4 | [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill) | 五点描述生成 | 近期活跃, 电商技能, 有文档, 研究/评测 | 9 | +0 | +0 | Python | E-commerce listing research, bullet points & conversion rate optimizer |
@@ -28,7 +28,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 17 | +1 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 17 | +0 | +4 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
 | 2 | [noique/cross-border-ecommerce-skills](https://github.com/noique/cross-border-ecommerce-skills) | 五点描述生成 | 近期活跃, 电商技能, 适合入门, 研究/评测 | 9 | +0 | +2 | Python | AI-powered skill templates for cross-border e-commerce: product selection, market research, IP risk, keywords, listing copy. Compatible with Claude Code & Antigravity. |
 | 3 | [aws-samples/sample-ai-powered-product-catalog](https://github.com/aws-samples/sample-ai-powered-product-catalog) | 五点描述生成 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 11 | +0 | +1 | Python | This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. |
 | 4 | [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill) | 五点描述生成 | 近期活跃, 电商技能, 有文档, 研究/评测 | 9 | +0 | +0 | Python | E-commerce listing research, bullet points & conversion rate optimizer |
