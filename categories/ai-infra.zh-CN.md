@@ -9,7 +9,7 @@
 - 收录项目：11
 - 近期活跃项目：5
 - 有文档或主页信号：6
-- 更新时间：Aug 2, 2026, 5:38 AM UTC
+- 更新时间：Aug 3, 2026, 5:53 AM UTC
 
 ## 适合谁看
 
@@ -19,11 +19,11 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 2,431 | +25 | +192 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 109 | +2 | +6 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
-| 3 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 823 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 4 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +1 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
-| 5 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 电商技能 | 25 | +0 | +2 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 2,450 | +19 | +181 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 电商技能 | 27 | +2 | +4 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
+| 3 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 109 | +0 | +5 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
+| 4 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 823 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 5 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +1 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 6 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Go | Agent-safe headless e-commerce engine |
 | 7 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 8 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 有演示/应用 | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
@@ -35,10 +35,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 2,431 | +25 | +192 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 109 | +2 | +6 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
-| 3 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 823 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 4 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 电商技能 | 25 | +0 | +2 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 2,450 | +19 | +181 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档, 有演示/应用 | 109 | +0 | +5 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
+| 3 | [bhavyakeerthi3/-purplle_hackathon](https://github.com/bhavyakeerthi3/-purplle_hackathon) | 电商 AI 基础设施 | 电商技能 | 27 | +2 | +4 | HTML | AI-powered retail intelligence platform that converts CCTV footage into footfall analytics, heatmaps, queue intelligence, conversion funnels, anomaly detection, and sales insights using YOLOv8, ByteTrack, FastAPI, and Docker. |
+| 4 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 823 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 5 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +1 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 6 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Go | Agent-safe headless e-commerce engine |
 | 7 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
