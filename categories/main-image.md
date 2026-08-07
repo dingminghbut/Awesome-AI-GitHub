@@ -9,7 +9,7 @@ AI tools and skills for product hero images, marketplace main images, background
 - Projects tracked: 1
 - Recently active projects: 1
 - Docs or homepage signal: 1
-- Updated: Aug 6, 2026, 5:28 AM UTC
+- Updated: Aug 7, 2026, 4:33 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,10 @@ Useful for teams producing marketplace main images, product hero visuals, white-
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Main Image Generation | Recently active, Commerce skill, Docs available, Good starting point | 9 | +0 | +0 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
+| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Main Image Generation | Recently active, Commerce skill, Docs available, Good starting point | 10 | +1 | +1 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Main Image Generation | Recently active, Commerce skill, Docs available, Good starting point | 9 | +0 | +0 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
+| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | Main Image Generation | Recently active, Commerce skill, Docs available, Good starting point | 10 | +1 | +1 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
