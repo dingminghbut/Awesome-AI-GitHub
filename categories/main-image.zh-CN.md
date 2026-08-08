@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：1
 - 有文档或主页信号：1
-- 更新时间：Aug 7, 2026, 4:33 AM UTC
+- 更新时间：Aug 8, 2026, 3:46 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | 主图生成 | 近期活跃, 电商技能, 有文档, 适合入门 | 10 | +1 | +1 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
+| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | 主图生成 | 近期活跃, 电商技能, 有文档, 适合入门 | 10 | +0 | +1 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | 主图生成 | 近期活跃, 电商技能, 有文档, 适合入门 | 10 | +1 | +1 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
+| 1 | [SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio) | 主图生成 | 近期活跃, 电商技能, 有文档, 适合入门 | 10 | +0 | +1 | JavaScript | Open-source AI product photography studio for Amazon sellers — production-ready Next.js SaaS with multi-image reference upload, preset templates, and webhook-backed scene generation. Free Flair AI & Booth AI alternative with Stripe billing, credits, NextAuth, and Prisma. |
