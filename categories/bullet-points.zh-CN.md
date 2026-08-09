@@ -9,7 +9,7 @@
 - 收录项目：4
 - 近期活跃项目：4
 - 有文档或主页信号：2
-- 更新时间：Aug 8, 2026, 3:46 AM UTC
+- 更新时间：Aug 9, 2026, 3:54 AM UTC
 
 ## 适合谁看
 
@@ -19,8 +19,8 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 增长快, 近期活跃, 电商技能 | 93 | +65 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
-| 2 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 20 | +1 | +3 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 21 | +1 | +3 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 93 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
 | 3 | [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill) | 五点描述生成 | 近期活跃, 电商技能, 有文档, 研究/评测 | 9 | +0 | +0 | Python | E-commerce listing research, bullet points & conversion rate optimizer |
 | 4 | [aws-samples/sample-ai-powered-product-catalog](https://github.com/aws-samples/sample-ai-powered-product-catalog) | 五点描述生成 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 11 | +0 | +0 | Python | This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. |
 
@@ -28,7 +28,7 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 20 | +1 | +3 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
-| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 增长快, 近期活跃, 电商技能 | 93 | +65 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 21 | +1 | +3 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 93 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
 | 3 | [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill) | 五点描述生成 | 近期活跃, 电商技能, 有文档, 研究/评测 | 9 | +0 | +0 | Python | E-commerce listing research, bullet points & conversion rate optimizer |
 | 4 | [aws-samples/sample-ai-powered-product-catalog](https://github.com/aws-samples/sample-ai-powered-product-catalog) | 五点描述生成 | 近期活跃, 电商技能, 开源许可, 有演示/应用 | 11 | +0 | +0 | Python | This sample project demonstrates an AI-powered solution that transforms simple product photos into rich, detailed product listings using Amazon Bedrock's foundation models. The system automatically generates product descriptions, creates virtual try-on images, and provides comprehensive product attribution. |
