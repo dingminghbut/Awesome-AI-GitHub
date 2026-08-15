@@ -7,9 +7,9 @@
 ## 分类快照
 
 - 收录项目：7
-- 近期活跃项目：4
+- 近期活跃项目：3
 - 有文档或主页信号：4
-- 更新时间：Aug 14, 2026, 4:19 AM UTC
+- 更新时间：Aug 15, 2026, 3:08 AM UTC
 
 ## 适合谁看
 
@@ -25,7 +25,7 @@
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 28 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 5 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
 | 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 40 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
-| 7 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 近期活跃, 开源许可, 有演示/应用 | 38 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 7 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 开源许可, 有演示/应用 | 38 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 
 ## 本分类增长项目
 
@@ -37,4 +37,4 @@
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 28 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 5 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
 | 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 40 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
-| 7 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 近期活跃, 开源许可, 有演示/应用 | 38 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 7 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 开源许可, 有演示/应用 | 38 | +0 | +0 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
