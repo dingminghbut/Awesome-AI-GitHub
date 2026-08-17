@@ -6,10 +6,10 @@ Recommendation evaluation, A/B testing, attribution, conversion analytics, growt
 
 ## Category Snapshot
 
-- Projects tracked: 2
-- Recently active projects: 2
-- Docs or homepage signal: 2
-- Updated: Aug 16, 2026, 3:15 AM UTC
+- Projects tracked: 1
+- Recently active projects: 1
+- Docs or homepage signal: 1
+- Updated: Aug 17, 2026, 3:15 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,10 @@ Useful for growth, data, and engineering teams measuring recommendation quality,
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [dubinc/dub](https://github.com/dubinc/dub) | Commerce Evaluation & Growth Analytics | Recently active, Docs available, Production oriented | 24,417 | +0 | +0 | TypeScript | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more. |
-| 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [dubinc/dub](https://github.com/dubinc/dub) | Commerce Evaluation & Growth Analytics | Recently active, Docs available, Production oriented | 24,417 | +0 | +0 | TypeScript | The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more. |
-| 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
