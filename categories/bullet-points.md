@@ -9,7 +9,7 @@ AI tools and skills for Amazon five bullets, product selling points, feature-ben
 - Projects tracked: 3
 - Recently active projects: 3
 - Docs or homepage signal: 2
-- Updated: Aug 17, 2026, 3:15 AM UTC
+- Updated: Aug 18, 2026, 3:11 AM UTC
 
 ## Who This Helps
 
@@ -19,14 +19,14 @@ Useful for Amazon sellers and listing teams writing five bullets, selling points
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | Five-Bullet Copy Generation | Recently active, Commerce skill, Docs available | 31 | +2 | +10 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
-| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | Five-Bullet Copy Generation | Recently active, Commerce skill | 35 | +1 | +4 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | Five-Bullet Copy Generation | Recently active, Commerce skill, Docs available | 32 | +1 | +9 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | Five-Bullet Copy Generation | Recently active, Commerce skill | 34 | +0 | +2 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
 | 3 | [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill) | Five-Bullet Copy Generation | Recently active, Commerce skill, Docs available, Research signal | 9 | +0 | +0 | Python | E-commerce listing research, bullet points & conversion rate optimizer |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | Five-Bullet Copy Generation | Recently active, Commerce skill, Docs available | 31 | +2 | +10 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
-| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | Five-Bullet Copy Generation | Recently active, Commerce skill | 35 | +1 | +4 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | Five-Bullet Copy Generation | Recently active, Commerce skill, Docs available | 32 | +1 | +9 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
+| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | Five-Bullet Copy Generation | Recently active, Commerce skill | 34 | +0 | +2 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
 | 3 | [alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill](https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill) | Five-Bullet Copy Generation | Recently active, Commerce skill, Docs available, Research signal | 9 | +0 | +0 | Python | E-commerce listing research, bullet points & conversion rate optimizer |
