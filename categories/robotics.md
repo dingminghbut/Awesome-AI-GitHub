@@ -9,7 +9,7 @@ Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, a
 - Projects tracked: 5
 - Recently active projects: 3
 - Docs or homepage signal: 3
-- Updated: Aug 19, 2026, 3:13 AM UTC
+- Updated: Aug 20, 2026, 3:12 AM UTC
 
 ## Who This Helps
 
@@ -19,7 +19,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Open license, Demo or app | 39 | +0 | +1 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Open license, Demo or app | 40 | +1 | +2 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 2 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 28 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
 | 4 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
@@ -29,7 +29,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Open license, Demo or app | 39 | +0 | +1 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Open license, Demo or app | 40 | +1 | +2 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 2 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 28 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
 | 4 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |

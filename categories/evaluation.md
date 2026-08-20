@@ -8,8 +8,8 @@ Recommendation evaluation, A/B testing, attribution, conversion analytics, growt
 
 - Projects tracked: 2
 - Recently active projects: 2
-- Docs or homepage signal: 1
-- Updated: Aug 19, 2026, 3:13 AM UTC
+- Docs or homepage signal: 2
+- Updated: Aug 20, 2026, 3:12 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,12 @@ Useful for growth, data, and engineering teams measuring recommendation quality,
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Commerce Evaluation & Growth Analytics | Recently active, Open license, Production oriented, Research signal | 37,582 | +0 | +0 | Python | Easily train a good VC model with voice data <= 10 mins! |
+| 1 | [PostHog/posthog](https://github.com/PostHog/posthog) | Commerce Evaluation & Growth Analytics | Recently active, Docs available, Production oriented, Demo or app | 37,789 | +0 | +0 | Python | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 | 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Commerce Evaluation & Growth Analytics | Recently active, Open license, Production oriented, Research signal | 37,582 | +0 | +0 | Python | Easily train a good VC model with voice data <= 10 mins! |
+| 1 | [PostHog/posthog](https://github.com/PostHog/posthog) | Commerce Evaluation & Growth Analytics | Recently active, Docs available, Production oriented, Demo or app | 37,789 | +0 | +0 | Python | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 | 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 24 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
