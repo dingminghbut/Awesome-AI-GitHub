@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：5
+- 收录项目：6
 - 近期活跃项目：3
-- 有文档或主页信号：3
-- 更新时间：Aug 20, 2026, 3:12 AM UTC
+- 有文档或主页信号：4
+- 更新时间：Aug 21, 2026, 3:25 AM UTC
 
 ## 适合谁看
 
@@ -19,18 +19,20 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 开源许可, 有演示/应用 | 40 | +1 | +2 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 开源许可, 有演示/应用 | 40 | +0 | +2 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 2 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 28 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
-| 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
-| 4 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 3 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 4 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
 | 5 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 研究/评测 | 74 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
+| 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 40 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 开源许可, 有演示/应用 | 40 | +1 | +2 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
+| 1 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | 零售机器人与履约自动化 | 开源许可, 有演示/应用 | 40 | +0 | +2 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 2 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 28 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
-| 3 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
-| 4 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 3 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
+| 4 | [mdemou/ninjassets](https://github.com/mdemou/ninjassets) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 36 | +0 | +0 | TypeScript | Self-hosted IT asset management (ITAM): inventory lifecycle, sites and maps, custody via magic-link handovers and printable signed receipts, bulk assign and import/export, data-quality alerts (with dismissals), audit history, automation via API keys and webhooks / integrations, and an admin-only AI assistant (RAG over specs, docs, and OpenAPI). |
 | 5 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 研究/评测 | 74 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
+| 6 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | 零售机器人与履约自动化 | 电商技能, 有文档, 有演示/应用 | 40 | +0 | +0 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
