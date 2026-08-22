@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：2
+- 收录项目：1
 - 近期活跃项目：0
-- 有文档或主页信号：1
-- 更新时间：Aug 21, 2026, 3:25 AM UTC
+- 有文档或主页信号：0
+- 更新时间：Aug 22, 2026, 3:10 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 139 | +4 | +16 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ 页面生成 | 电商技能, 开源许可, 有文档 | 29 | +1 | +6 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 140 | +1 | +15 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 139 | +4 | +16 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ 页面生成 | 电商技能, 开源许可, 有文档 | 29 | +1 | +6 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 140 | +1 | +15 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |

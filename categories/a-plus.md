@@ -6,10 +6,10 @@ AI tools and skills for Amazon A+ content, enhanced brand content, product detai
 
 ## Category Snapshot
 
-- Projects tracked: 2
+- Projects tracked: 1
 - Recently active projects: 0
-- Docs or homepage signal: 1
-- Updated: Aug 21, 2026, 3:25 AM UTC
+- Docs or homepage signal: 0
+- Updated: Aug 22, 2026, 3:10 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,10 @@ Useful for Amazon and marketplace teams building A+ content, enhanced brand cont
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 139 | +4 | +16 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 29 | +1 | +6 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 140 | +1 | +15 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 139 | +4 | +16 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 29 | +1 | +6 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 140 | +1 | +15 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
