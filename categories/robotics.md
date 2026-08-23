@@ -9,7 +9,7 @@ Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, a
 - Projects tracked: 6
 - Recently active projects: 3
 - Docs or homepage signal: 4
-- Updated: Aug 22, 2026, 3:10 AM UTC
+- Updated: Aug 23, 2026, 3:19 AM UTC
 
 ## Who This Helps
 
