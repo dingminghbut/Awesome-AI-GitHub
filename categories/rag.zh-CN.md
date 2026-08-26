@@ -9,7 +9,7 @@
 - 收录项目：4
 - 近期活跃项目：2
 - 有文档或主页信号：3
-- 更新时间：Aug 25, 2026, 3:14 AM UTC
+- 更新时间：Aug 26, 2026, 3:28 AM UTC
 
 ## 适合谁看
 
@@ -19,16 +19,16 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SR88888888/zhiwei-ecommerce-cs-agent](https://github.com/SR88888888/zhiwei-ecommerce-cs-agent) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 12 | +0 | +1 | Python | 项目描述：为解决电商客服在物流、售后等高频咨询场景下，人工重复查询、知识定位慢及信息需反复核对等痛点，搭建 Agent 智能客服系统。通过意图分流、业务工具调用与 RAG 知识库检索，完成订单物流查询、售后信息收集和商品问答，提升响应效率与回答准确性。 |
-| 2 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 偏生产可用 | 22 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
-| 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
-| 4 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 适合入门 | 168 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 偏生产可用 | 22 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
+| 2 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
+| 3 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 适合入门 | 168 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 4 | [SR88888888/zhiwei-ecommerce-cs-agent](https://github.com/SR88888888/zhiwei-ecommerce-cs-agent) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 12 | +0 | +0 | Python | 项目描述：为解决电商客服在物流、售后等高频咨询场景下，人工重复查询、知识定位慢及信息需反复核对等痛点，搭建 Agent 智能客服系统。通过意图分流、业务工具调用与 RAG 知识库检索，完成订单物流查询、售后信息收集和商品问答，提升响应效率与回答准确性。 |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [SR88888888/zhiwei-ecommerce-cs-agent](https://github.com/SR88888888/zhiwei-ecommerce-cs-agent) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 12 | +0 | +1 | Python | 项目描述：为解决电商客服在物流、售后等高频咨询场景下，人工重复查询、知识定位慢及信息需反复核对等痛点，搭建 Agent 智能客服系统。通过意图分流、业务工具调用与 RAG 知识库检索，完成订单物流查询、售后信息收集和商品问答，提升响应效率与回答准确性。 |
-| 2 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 偏生产可用 | 22 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
-| 3 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
-| 4 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 适合入门 | 168 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [AndyLinGo/AutoForceAI](https://github.com/AndyLinGo/AutoForceAI) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 偏生产可用 | 22 | +0 | +1 | TypeScript | AutoForceAI (思渡AI) is an open source digital employees platform (数字员工平台) that deeply integrates LLM, RPA, GEO, Knowledge Base (RAG), and Business Systems (BI, ERP, CRM, eCommerce). It helps enterprises achieve an AI-driven closed loop of automated business processes. |
+| 2 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
+| 3 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 适合入门 | 168 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 4 | [SR88888888/zhiwei-ecommerce-cs-agent](https://github.com/SR88888888/zhiwei-ecommerce-cs-agent) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 12 | +0 | +0 | Python | 项目描述：为解决电商客服在物流、售后等高频咨询场景下，人工重复查询、知识定位慢及信息需反复核对等痛点，搭建 Agent 智能客服系统。通过意图分流、业务工具调用与 RAG 知识库检索，完成订单物流查询、售后信息收集和商品问答，提升响应效率与回答准确性。 |

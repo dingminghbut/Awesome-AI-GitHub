@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：1
 - 有文档或主页信号：0
-- 更新时间：Aug 25, 2026, 3:14 AM UTC
+- 更新时间：Aug 26, 2026, 3:28 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 35 | +0 | +1 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 1 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 29 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 35 | +0 | +1 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 1 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 29 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
