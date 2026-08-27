@@ -9,7 +9,7 @@ Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing
 - Projects tracked: 4
 - Recently active projects: 2
 - Docs or homepage signal: 3
-- Updated: Aug 26, 2026, 3:28 AM UTC
+- Updated: Aug 27, 2026, 12:53 PM UTC
 
 ## Who This Helps
 
