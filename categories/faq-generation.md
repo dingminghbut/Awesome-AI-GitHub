@@ -9,7 +9,7 @@ AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales a
 - Projects tracked: 0
 - Recently active projects: 0
 - Docs or homepage signal: 0
-- Updated: Aug 30, 2026, 8:22 AM UTC
+- Updated: Aug 31, 2026, 8:42 AM UTC
 
 ## Who This Helps
 
