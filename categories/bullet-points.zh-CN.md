@@ -7,9 +7,9 @@
 ## 分类快照
 
 - 收录项目：2
-- 近期活跃项目：2
+- 近期活跃项目：1
 - 有文档或主页信号：1
-- 更新时间：Sep 3, 2026, 7:14 AM UTC
+- 更新时间：Sep 4, 2026, 7:18 AM UTC
 
 ## 适合谁看
 
@@ -20,11 +20,11 @@
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 7 | +0 | +0 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
-| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 29 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 电商技能 | 29 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [wyxpro/Shopro-AI](https://github.com/wyxpro/Shopro-AI) | 五点描述生成 | 近期活跃, 电商技能, 有文档 | 7 | +0 | +0 | TypeScript | 一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。 |
-| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 近期活跃, 电商技能 | 29 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
+| 2 | [TOPDEV99999/ai-ShopMind](https://github.com/TOPDEV99999/ai-ShopMind) | 五点描述生成 | 电商技能 | 29 | +0 | +0 | Python | It works by converting product descriptions into vector embeddings stored in Endee, a high-performance vector database. When a customer asks a question, the system finds the most semantically similar products using vector search, then generates a helpful answer grounded in the actual product catalog. |
