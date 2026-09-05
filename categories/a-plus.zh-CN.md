@@ -9,7 +9,7 @@
 - 收录项目：2
 - 近期活跃项目：1
 - 有文档或主页信号：0
-- 更新时间：Sep 4, 2026, 7:18 AM UTC
+- 更新时间：Sep 5, 2026, 6:58 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 167 | +2 | +11 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 14 | +3 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 169 | +2 | +13 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 15 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 167 | +2 | +11 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 14 | +3 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 169 | +2 | +13 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 15 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |

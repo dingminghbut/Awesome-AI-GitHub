@@ -9,7 +9,7 @@ AI tools and skills for Amazon A+ content, enhanced brand content, product detai
 - Projects tracked: 2
 - Recently active projects: 1
 - Docs or homepage signal: 0
-- Updated: Sep 4, 2026, 7:18 AM UTC
+- Updated: Sep 5, 2026, 6:58 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,12 @@ Useful for Amazon and marketplace teams building A+ content, enhanced brand cont
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 167 | +2 | +11 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 14 | +3 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 169 | +2 | +13 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 15 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 167 | +2 | +11 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 14 | +3 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 169 | +2 | +13 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 15 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
