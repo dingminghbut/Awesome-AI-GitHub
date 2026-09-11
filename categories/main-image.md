@@ -6,10 +6,10 @@ AI tools and skills for product hero images, marketplace main images, background
 
 ## Category Snapshot
 
-- Projects tracked: 2
-- Recently active projects: 2
+- Projects tracked: 1
+- Recently active projects: 1
 - Docs or homepage signal: 0
-- Updated: Sep 10, 2026, 7:22 AM UTC
+- Updated: Sep 11, 2026, 7:20 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,10 @@ Useful for teams producing marketplace main images, product hero visuals, white-
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | Main Image Generation | Recently active, Commerce skill, Open license | 13 | +0 | +2 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
-| 2 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | Main Image Generation | Recently active, Commerce skill, Open license | 13 | +0 | +2 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
-| 2 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
