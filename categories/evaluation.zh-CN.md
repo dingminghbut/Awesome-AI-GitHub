@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：1
 - 有文档或主页信号：1
-- 更新时间：Sep 13, 2026, 7:30 AM UTC
+- 更新时间：Sep 14, 2026, 7:57 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 25 | +1 | +1 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 25 | +0 | +1 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 25 | +1 | +1 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
+| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | 电商评测与增长分析 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 25 | +0 | +1 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |

@@ -9,7 +9,7 @@ AI tools and skills for Amazon A+ content, enhanced brand content, product detai
 - Projects tracked: 3
 - Recently active projects: 1
 - Docs or homepage signal: 1
-- Updated: Sep 13, 2026, 7:30 AM UTC
+- Updated: Sep 14, 2026, 7:57 AM UTC
 
 ## Who This Helps
 
@@ -19,14 +19,14 @@ Useful for Amazon and marketplace teams building A+ content, enhanced brand cont
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 180 | +2 | +10 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 17 | +0 | +1 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
-| 3 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 52 | +0 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 59 | +7 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 2 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 180 | +0 | +10 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 18 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 180 | +2 | +10 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 17 | +0 | +1 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
-| 3 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 52 | +0 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 180 | +0 | +10 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 59 | +7 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 18 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
