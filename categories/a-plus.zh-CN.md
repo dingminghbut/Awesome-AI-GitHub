@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：3
-- 近期活跃项目：1
+- 收录项目：4
+- 近期活跃项目：2
 - 有文档或主页信号：1
-- 更新时间：Sep 14, 2026, 7:57 AM UTC
+- 更新时间：Sep 15, 2026, 7:51 AM UTC
 
 ## 适合谁看
 
@@ -19,14 +19,16 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ 页面生成 | 电商技能, 开源许可, 有文档 | 59 | +7 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
-| 2 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 180 | +0 | +10 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 18 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 180 | +0 | +9 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ 页面生成 | 电商技能, 开源许可, 有文档 | 62 | +3 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 20 | +2 | +2 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 4 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | A+ 页面生成 | 近期活跃, 电商技能, 开源许可 | 11 | +0 | +0 | HTML | 🍖 电商详情页策划 Skill：输入产品+卖点，输出竞品分析+每屏文案+画面描述+设计理由。基于8年零食电商设计经验。 |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 180 | +0 | +10 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ 页面生成 | 电商技能, 开源许可, 有文档 | 59 | +7 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
-| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 18 | +1 | +0 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ 页面生成 | 电商技能 | 180 | +0 | +9 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ 页面生成 | 近期活跃, 电商技能 | 20 | +2 | +2 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 3 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ 页面生成 | 电商技能, 开源许可, 有文档 | 62 | +3 | +0 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 4 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | A+ 页面生成 | 近期活跃, 电商技能, 开源许可 | 11 | +0 | +0 | HTML | 🍖 电商详情页策划 Skill：输入产品+卖点，输出竞品分析+每屏文案+画面描述+设计理由。基于8年零食电商设计经验。 |
