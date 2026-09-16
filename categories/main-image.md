@@ -6,10 +6,10 @@ AI tools and skills for product hero images, marketplace main images, background
 
 ## Category Snapshot
 
-- Projects tracked: 2
-- Recently active projects: 1
-- Docs or homepage signal: 0
-- Updated: Sep 15, 2026, 7:51 AM UTC
+- Projects tracked: 3
+- Recently active projects: 2
+- Docs or homepage signal: 1
+- Updated: Sep 16, 2026, 7:45 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,14 @@ Useful for teams producing marketplace main images, product hero visuals, white-
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | Main Image Generation | Commerce skill, Open license | 14 | +0 | +1 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
-| 2 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 1 | [nexscope-ai/ecommerce-ai-tools](https://github.com/nexscope-ai/ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Docs available, Production oriented | 18 | +0 | +0 | Unknown | AI video generator for product images, Amazon review analysis, keyword research, ecommerce SEO audits, and AI agent APIs. Official workflows and support. New users get 1,000 free credits. |
+| 2 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | Main Image Generation | Commerce skill, Open license | 14 | +0 | +1 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
+| 3 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | Main Image Generation | Commerce skill, Open license | 14 | +0 | +1 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
-| 2 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 2 | [nexscope-ai/ecommerce-ai-tools](https://github.com/nexscope-ai/ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Docs available, Production oriented | 18 | +0 | +0 | Unknown | AI video generator for product images, Amazon review analysis, keyword research, ecommerce SEO audits, and AI agent APIs. Official workflows and support. New users get 1,000 free credits. |
+| 3 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 14 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
