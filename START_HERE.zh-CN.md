@@ -41,25 +41,25 @@ Awesome AI GitHub 面向做 AI + 电商的人：不用每天手动刷多个榜�
 
 ## 今天最适合入手的项目
 
-1. [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) - 电商智能体与运营技能; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +2,183，24 小时增星 +109，属于 电商智能体与运营技能 方向。
-2. [**apify/apify-mcp-server**](https://github.com/apify/apify-mcp-server) - 电商 AI 基础设施; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +869，24 小时增星 +120，属于 电商 AI 基础设施 方向。
-3. [**Jakubantalik/Libraries.dev**](https://github.com/Jakubantalik/Libraries.dev) - 电商生成式内容; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +346，24 小时增星 +44，属于 电商生成式内容 方向。
-4. [**Eleven617/mall-ai-after-sales-platform**](https://github.com/Eleven617/mall-ai-after-sales-platform) - 电商 LLM 与导购客服; 近期活跃, 电商技能, 偏生产可用; 近期关注度很高：7 日增星 +54，24 小时增星 +0，属于 电商 LLM 与导购客服 方向。
-5. [**AJbeckliy/detail-flow**](https://github.com/AJbeckliy/detail-flow) - A+ 页面生成; 电商技能; 近期关注度很高：7 日增星 +9，24 小时增星 +3，属于 A+ 页面生成 方向。
-6. [**linbei0/EcomGen**](https://github.com/linbei0/EcomGen) - 附图与场景图生成; 近期活跃, 电商技能, 开源许可, 适合入门; 近期关注度很高：7 日增星 +8，24 小时增星 +2，属于 附图与场景图生成 方向。
-7. [**WayneChou-bot/WareTwin**](https://github.com/WayneChou-bot/WareTwin) - 零售机器人与履约自动化; 近期活跃, 开源许可, 有文档, 有演示/应用; 近期关注度很高：7 日增星 +8，24 小时增星 +2，属于 零售机器人与履约自动化 方向。
+1. [**melgarafael/DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) - 电商智能体与运营技能; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +2,078，24 小时增星 +25，属于 电商智能体与运营技能 方向。
+2. [**apify/apify-mcp-server**](https://github.com/apify/apify-mcp-server) - 电商 AI 基础设施; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +863，24 小时增星 +131，属于 电商 AI 基础设施 方向。
+3. [**Jakubantalik/Libraries.dev**](https://github.com/Jakubantalik/Libraries.dev) - 电商生成式内容; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +383，24 小时增星 +58，属于 电商生成式内容 方向。
+4. [**vulpy-io/vulpy-commerce-core**](https://github.com/vulpy-io/vulpy-commerce-core) - 电商 LLM 与导购客服; 近期活跃, 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +0，24 小时增星 +16，属于 电商 LLM 与导购客服 方向。
+5. [**linbei0/EcomGen**](https://github.com/linbei0/EcomGen) - 附图与场景图生成; 近期活跃, 电商技能, 开源许可, 适合入门; 近期关注度很高：7 日增星 +12，24 小时增星 +4，属于 附图与场景图生成 方向。
+6. [**AJbeckliy/detail-flow**](https://github.com/AJbeckliy/detail-flow) - A+ 页面生成; 电商技能; 近期关注度很高：7 日增星 +10，24 小时增星 +2，属于 A+ 页面生成 方向。
+7. [**WayneChou-bot/WareTwin**](https://github.com/WayneChou-bot/WareTwin) - 零售机器人与履约自动化; 近期活跃, 开源许可, 有文档, 有演示/应用; 近期关注度很高：7 日增星 +6，24 小时增星 +0，属于 零售机器人与履约自动化 方向。
 
 ## 值得快速扫一眼的增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 3,086 | +109 | +2,183 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
-| 2 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 7,450 | +120 | +869 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 3 | [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) | 电商生成式内容 | 增长快, 近期活跃, 开源许可, 有文档 | 3,407 | +44 | +346 | TypeScript | High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image |
-| 4 | [bighadj22/codflow](https://github.com/bighadj22/codflow) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 260 | +3 | +134 | TypeScript | The open-source, COD-first e-commerce + delivery platform for Algeria  built agentic-ready. |
-| 5 | [medusajs/medusa](https://github.com/medusajs/medusa) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 有文档 | 36,346 | +20 | +114 | TypeScript | The world's most flexible commerce platform for agents and developers |
-| 6 | [xixihhhh/clipforge](https://github.com/xixihhhh/clipforge) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 828 | +10 | +70 | TypeScript | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerce/UGC short-video generator. |
-| 7 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | 电商智能体与运营技能 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 3,016 | +11 | +63 | Python | Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install. |
-| 8 | [Eleven617/mall-ai-after-sales-platform](https://github.com/Eleven617/mall-ai-after-sales-platform) | 电商 LLM 与导购客服 | 近期活跃, 电商技能, 偏生产可用 | 114 | +0 | +54 | Java | Trusted e-commerce AI after-sales platform — RAG, controlled tools, human confirmation, Java-authoritative writes, and observable workflows. |
-| 9 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 948 | +4 | +44 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
-| 10 | [xjli360/sealeap-amazon-skills](https://github.com/xjli360/sealeap-amazon-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 129 | +4 | +40 | Python | Reusable Agent Skills for Amazon product research, listings, advertising, inventory, and operations. |
+| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 3,111 | +25 | +2,078 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 2 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 7,581 | +131 | +863 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 3 | [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) | 电商生成式内容 | 增长快, 近期活跃, 开源许可, 有文档 | 3,465 | +58 | +383 | TypeScript | High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image |
+| 4 | [medusajs/medusa](https://github.com/medusajs/medusa) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 有文档 | 36,364 | +18 | +115 | TypeScript | The world's most flexible commerce platform for agents and developers |
+| 5 | [bighadj22/codflow](https://github.com/bighadj22/codflow) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 263 | +3 | +84 | TypeScript | The open-source, COD-first e-commerce + delivery platform for Algeria  built agentic-ready. |
+| 6 | [xixihhhh/clipforge](https://github.com/xixihhhh/clipforge) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 836 | +8 | +69 | TypeScript | ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerce/UGC short-video generator. |
+| 7 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | 电商智能体与运营技能 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 3,028 | +12 | +64 | Python | Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install. |
+| 8 | [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 2,775 | +0 | +59 | Python | Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com. |
+| 9 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 研究/评测 | 957 | +9 | +48 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
+| 10 | [xjli360/sealeap-amazon-skills](https://github.com/xjli360/sealeap-amazon-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 138 | +9 | +41 | Python | Reusable Agent Skills for Amazon product research, listings, advertising, inventory, and operations. |
