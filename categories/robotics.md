@@ -9,7 +9,7 @@ Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, a
 - Projects tracked: 7
 - Recently active projects: 4
 - Docs or homepage signal: 5
-- Updated: Sep 19, 2026, 7:24 AM UTC
+- Updated: Sep 20, 2026, 7:47 AM UTC
 
 ## Who This Helps
 
@@ -19,7 +19,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [WayneChou-bot/WareTwin](https://github.com/WayneChou-bot/WareTwin) | Retail Robotics & Fulfillment | Recently active, Open license, Docs available, Demo or app | 112 | +2 | +7 | TypeScript | Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI. |
+| 1 | [WayneChou-bot/WareTwin](https://github.com/WayneChou-bot/WareTwin) | Retail Robotics & Fulfillment | Recently active, Open license, Docs available, Demo or app | 112 | +0 | +7 | TypeScript | Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI. |
 | 2 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Open license, Demo or app | 47 | +0 | +1 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 3 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | Retail Robotics & Fulfillment | Commerce skill, Docs available, Demo or app | 42 | +0 | +1 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 29 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
@@ -31,7 +31,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [WayneChou-bot/WareTwin](https://github.com/WayneChou-bot/WareTwin) | Retail Robotics & Fulfillment | Recently active, Open license, Docs available, Demo or app | 112 | +2 | +7 | TypeScript | Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI. |
+| 1 | [WayneChou-bot/WareTwin](https://github.com/WayneChou-bot/WareTwin) | Retail Robotics & Fulfillment | Recently active, Open license, Docs available, Demo or app | 112 | +0 | +7 | TypeScript | Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI. |
 | 2 | [RobotecAI/agentic-mobile-manipulator](https://github.com/RobotecAI/agentic-mobile-manipulator) | Retail Robotics & Fulfillment | Open license, Demo or app | 47 | +0 | +1 | Python | An end-to-end demo of an autonomous agentic mobile manipulator for warehouse robotics, showcasing fully on-device perception, reasoning, and natural language control in a ROS 2 simulation using AMD Ryzen™ AI hardware. |
 | 3 | [mirzayasirabdullahbaig07/SmartStore-AI](https://github.com/mirzayasirabdullahbaig07/SmartStore-AI) | Retail Robotics & Fulfillment | Commerce skill, Docs available, Demo or app | 42 | +0 | +1 | Python | Intelligent Retail Shelf Monitoring Simulation  SmartStore AI is an AI-powered retail shelf monitoring and automated restocking simulation system.   It simulates how smart retail stores can detect empty shelves, prioritize restocking based on traffic, and automate operational. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 29 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
