@@ -6,10 +6,10 @@ AI tools and skills for product hero images, marketplace main images, background
 
 ## Category Snapshot
 
-- Projects tracked: 1
-- Recently active projects: 1
-- Docs or homepage signal: 1
-- Updated: Sep 21, 2026, 8:01 AM UTC
+- Projects tracked: 0
+- Recently active projects: 0
+- Docs or homepage signal: 0
+- Updated: Sep 22, 2026, 7:46 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,8 @@ Useful for teams producing marketplace main images, product hero visuals, white-
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nexscope-ai/ecommerce-ai-tools](https://github.com/nexscope-ai/ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Docs available, Production oriented | 18 | +0 | +0 | Unknown | AI video generator for product images, Amazon review analysis, keyword research, ecommerce SEO audits, and AI agent APIs. Official workflows and support. New users get 1,000 free credits. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nexscope-ai/ecommerce-ai-tools](https://github.com/nexscope-ai/ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Docs available, Production oriented | 18 | +0 | +0 | Unknown | AI video generator for product images, Amazon review analysis, keyword research, ecommerce SEO audits, and AI agent APIs. Official workflows and support. New users get 1,000 free credits. |

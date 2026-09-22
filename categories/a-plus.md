@@ -9,7 +9,7 @@ AI tools and skills for Amazon A+ content, enhanced brand content, product detai
 - Projects tracked: 5
 - Recently active projects: 3
 - Docs or homepage signal: 1
-- Updated: Sep 21, 2026, 8:01 AM UTC
+- Updated: Sep 22, 2026, 7:46 AM UTC
 
 ## Who This Helps
 
@@ -19,18 +19,18 @@ Useful for Amazon and marketplace teams building A+ content, enhanced brand cont
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 193 | +3 | +13 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 76 | +0 | +17 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
-| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 30 | +1 | +12 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
-| 4 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 18 | +2 | +0 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
-| 5 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | A+ Content Generation | Recently active, Commerce skill, Open license | 13 | +0 | +0 | HTML | 🍖 电商详情页策划 Skill：输入产品+卖点，输出竞品分析+每屏文案+画面描述+设计理由。基于8年零食电商设计经验。 |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 195 | +2 | +15 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 77 | +1 | +15 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 31 | +1 | +11 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 4 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | A+ Content Generation | Recently active, Commerce skill, Open license | 13 | +0 | +2 | HTML | 🍖 电商详情页策划 Skill：输入产品+卖点，输出竞品分析+每屏文案+画面描述+设计理由。基于8年零食电商设计经验。 |
+| 5 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 18 | +0 | +0 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 76 | +0 | +17 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
-| 2 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 193 | +3 | +13 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 30 | +1 | +12 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
-| 4 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 18 | +2 | +0 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
-| 5 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | A+ Content Generation | Recently active, Commerce skill, Open license | 13 | +0 | +0 | HTML | 🍖 电商详情页策划 Skill：输入产品+卖点，输出竞品分析+每屏文案+画面描述+设计理由。基于8年零食电商设计经验。 |
+| 1 | [AJbeckliy/detail-flow](https://github.com/AJbeckliy/detail-flow) | A+ Content Generation | Commerce skill | 195 | +2 | +15 | Unknown | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 77 | +1 | +15 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 3 | [AlephAITech/moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt) | A+ Content Generation | Recently active, Commerce skill | 31 | +1 | +11 | Unknown | 电商主图与详情页视觉策划、参考反推和生产级生图提示词 Skill |
+| 4 | [Banye0517/ecommerce-detail-page-skill](https://github.com/Banye0517/ecommerce-detail-page-skill) | A+ Content Generation | Recently active, Commerce skill, Open license | 13 | +0 | +2 | HTML | 🍖 电商详情页策划 Skill：输入产品+卖点，输出竞品分析+每屏文案+画面描述+设计理由。基于8年零食电商设计经验。 |
+| 5 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 18 | +0 | +0 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
