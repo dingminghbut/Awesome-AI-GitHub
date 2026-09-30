@@ -9,7 +9,7 @@
 - 收录项目：2
 - 近期活跃项目：1
 - 有文档或主页信号：2
-- 更新时间：Sep 29, 2026, 8:40 AM UTC
+- 更新时间：Sep 30, 2026, 8:41 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
+| 1 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 13 | +1 | +1 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 适合入门 | 168 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 12 | +0 | +0 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
+| 1 | [doofinder/doofinder-magento2](https://github.com/doofinder/doofinder-magento2) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 13 | +1 | +1 | PHP | 🔍🛍 Official Doofinder search module for PrestaShop. Transform product discovery with AI-driven accuracy, conversational assistants, and visual search. |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 电商技能, 开源许可, 有文档, 适合入门 | 168 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |

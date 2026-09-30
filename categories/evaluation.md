@@ -9,7 +9,7 @@ Recommendation evaluation, A/B testing, attribution, conversion analytics, growt
 - Projects tracked: 2
 - Recently active projects: 2
 - Docs or homepage signal: 2
-- Updated: Sep 29, 2026, 8:40 AM UTC
+- Updated: Sep 30, 2026, 8:41 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,12 @@ Useful for growth, data, and engineering teams measuring recommendation quality,
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Commerce Evaluation & Growth Analytics | Recently active, Open license, Docs available, Production oriented | 6,337 | +0 | +0 | JavaScript | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
+| 1 | [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Commerce Evaluation & Growth Analytics | Recently active, Open license, Docs available, Production oriented | 6,350 | +13 | +0 | JavaScript | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
 | 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 25 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Commerce Evaluation & Growth Analytics | Recently active, Open license, Docs available, Production oriented | 6,337 | +0 | +0 | JavaScript | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
+| 1 | [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Commerce Evaluation & Growth Analytics | Recently active, Open license, Docs available, Production oriented | 6,350 | +13 | +0 | JavaScript | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
 | 2 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 25 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
