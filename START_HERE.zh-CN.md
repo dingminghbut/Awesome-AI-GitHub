@@ -41,25 +41,25 @@ Awesome AI GitHub 面向做 AI + 电商的人：不用每天手动刷多个榜�
 
 ## 今天最适合入手的项目
 
-1. [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) - 电商智能体与运营技能; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +0，24 小时增星 +1,009，属于 电商智能体与运营技能 方向。
-2. [**apify/apify-mcp-server**](https://github.com/apify/apify-mcp-server) - 电商 AI 基础设施; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +905，24 小时增星 +117，属于 电商 AI 基础设施 方向。
-3. [**Jakubantalik/Libraries.dev**](https://github.com/Jakubantalik/Libraries.dev) - 电商生成式内容; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +174，24 小时增星 +15，属于 电商生成式内容 方向。
-4. [**vulpy-io/vulpy-commerce-core**](https://github.com/vulpy-io/vulpy-commerce-core) - 电商 LLM 与导购客服; 近期活跃, 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +21，24 小时增星 +3，属于 电商 LLM 与导购客服 方向。
-5. [**wzj177/ecommerce-image-suite**](https://github.com/wzj177/ecommerce-image-suite) - 附图与场景图生成; 电商技能, 开源许可, 有演示/应用; 近期关注度很高：7 日增星 +19，24 小时增星 +3，属于 附图与场景图生成 方向。
-6. [**motiful/product-shots**](https://github.com/motiful/product-shots) - A+ 页面生成; 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +12，24 小时增星 +2，属于 A+ 页面生成 方向。
-7. [**wyxpro/Shopro-AI**](https://github.com/wyxpro/Shopro-AI) - 五点描述生成; 近期活跃, 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +8，24 小时增星 +0，属于 五点描述生成 方向。
+1. [**Panniantong/Agent-Reach**](https://github.com/Panniantong/Agent-Reach) - 电商智能体与运营技能; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +0，24 小时增星 +1,159，属于 电商智能体与运营技能 方向。
+2. [**apify/apify-mcp-server**](https://github.com/apify/apify-mcp-server) - 电商 AI 基础设施; 增长快, 近期活跃, 电商技能, 开源许可; 近期关注度很高：7 日增星 +867，24 小时增星 +103，属于 电商 AI 基础设施 方向。
+3. [**Jakubantalik/Libraries.dev**](https://github.com/Jakubantalik/Libraries.dev) - 电商生成式内容; 增长快, 近期活跃, 开源许可, 有文档; 近期关注度很高：7 日增星 +153，24 小时增星 +15，属于 电商生成式内容 方向。
+4. [**vulpy-io/vulpy-commerce-core**](https://github.com/vulpy-io/vulpy-commerce-core) - 电商 LLM 与导购客服; 近期活跃, 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +22，24 小时增星 +2，属于 电商 LLM 与导购客服 方向。
+5. [**linbei0/EcomGen**](https://github.com/linbei0/EcomGen) - 附图与场景图生成; 近期活跃, 电商技能, 开源许可, 适合入门; 近期关注度很高：7 日增星 +12，24 小时增星 +2，属于 附图与场景图生成 方向。
+6. [**motiful/product-shots**](https://github.com/motiful/product-shots) - A+ 页面生成; 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +9，24 小时增星 +1，属于 A+ 页面生成 方向。
+7. [**wyxpro/Shopro-AI**](https://github.com/wyxpro/Shopro-AI) - 五点描述生成; 近期活跃, 电商技能, 开源许可, 有文档; 近期关注度很高：7 日增星 +7，24 小时增星 +1，属于 五点描述生成 方向。
 
 ## 值得快速扫一眼的增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [filtalgo/Filtmall-Shopping-Skill](https://github.com/filtalgo/Filtmall-Shopping-Skill) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 2,666 | +138 | +1,363 | JavaScript | Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-sales. |
-| 2 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 9,551 | +117 | +905 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 3 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 4,400 | +17 | +335 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
-| 4 | [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) | 电商生成式内容 | 增长快, 近期活跃, 开源许可, 有文档 | 4,054 | +15 | +174 | TypeScript | High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots |
-| 5 | [medusajs/medusa](https://github.com/medusajs/medusa) | 电商智能体与运营技能 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 36,585 | +23 | +100 | TypeScript | The world's most flexible commerce platform for agents and developers |
-| 6 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 电商技能, 开源许可, 研究/评测 | 1,062 | +7 | +75 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
-| 7 | [bailinghub/bailinghub](https://github.com/bailinghub/bailinghub) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 171 | +8 | +57 | TypeScript | 让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for agents operating existing business systems safely. |
-| 8 | [xjli360/sealeap-amazon-skills](https://github.com/xjli360/sealeap-amazon-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 225 | +5 | +56 | Python | Reusable Agent Skills for Amazon product research, listings, advertising, inventory, and operations. |
-| 9 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | 电商智能体与运营技能 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 3,146 | +15 | +47 | Python | Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install. |
-| 10 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 868 | +2 | +41 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 1 | [filtalgo/Filtmall-Shopping-Skill](https://github.com/filtalgo/Filtmall-Shopping-Skill) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 2,776 | +110 | +1,339 | JavaScript | Agent-native shopping for extreme value: verifiable same-product price evidence, checkout, orders, delivery, and after-sales. |
+| 2 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 9,654 | +103 | +867 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 3 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 电商智能体与运营技能 | 增长快, 近期活跃, 电商技能, 开源许可 | 4,412 | +12 | +245 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 4 | [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) | 电商生成式内容 | 增长快, 近期活跃, 开源许可, 有文档 | 4,069 | +15 | +153 | TypeScript | High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots |
+| 5 | [medusajs/medusa](https://github.com/medusajs/medusa) | 电商智能体与运营技能 | 近期活跃, 电商技能, 有文档, 偏生产可用 | 36,597 | +12 | +98 | TypeScript | The world's most flexible commerce platform for agents and developers |
+| 6 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 电商智能体与运营技能 | 电商技能, 开源许可, 研究/评测 | 1,069 | +7 | +72 | Python | E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms. |
+| 7 | [eracle/OpenOutreach](https://github.com/eracle/OpenOutreach) | 电商智能体与运营技能 | 近期活跃, 开源许可, 有文档, 偏生产可用 | 3,163 | +17 | +59 | Python | Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install. |
+| 8 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 872 | +4 | +45 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 9 | [bailinghub/bailinghub](https://github.com/bailinghub/bailinghub) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 171 | +0 | +45 | TypeScript | 让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for agents operating existing business systems safely. |
+| 10 | [xjli360/sealeap-amazon-skills](https://github.com/xjli360/sealeap-amazon-skills) | 电商智能体与运营技能 | 近期活跃, 电商技能, 开源许可, 有文档 | 228 | +3 | +39 | Python | Reusable Agent Skills for Amazon product research, listings, advertising, inventory, and operations. |

@@ -9,7 +9,7 @@ Serving, MLOps, data pipelines, search/recommendation infrastructure, feature st
 - Projects tracked: 7
 - Recently active projects: 5
 - Docs or homepage signal: 4
-- Updated: Oct 4, 2026, 8:31 AM UTC
+- Updated: Oct 5, 2026, 9:13 AM UTC
 
 ## Who This Helps
 
@@ -19,9 +19,9 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 9,551 | +117 | +905 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 868 | +2 | +41 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 3 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 165 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 9,654 | +103 | +867 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 872 | +4 | +45 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 3 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 4 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Agent-safe headless e-commerce engine |
 | 5 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | Commerce AI Infrastructure | Recently active, Commerce skill | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 6 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Demo or app | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
@@ -31,9 +31,9 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 9,551 | +117 | +905 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 868 | +2 | +41 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 3 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 165 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 9,654 | +103 | +867 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 872 | +4 | +45 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 3 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 4 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Agent-safe headless e-commerce engine |
 | 5 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | Commerce AI Infrastructure | Recently active, Commerce skill | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 6 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Demo or app | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
