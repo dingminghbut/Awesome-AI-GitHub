@@ -9,7 +9,7 @@
 - 收录项目：8
 - 近期活跃项目：5
 - 有文档或主页信号：5
-- 更新时间：Oct 14, 2026, 7:46 AM UTC
+- 更新时间：Oct 15, 2026, 7:32 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 11,105 | +208 | +1,177 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 879 | +0 | +3 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 3 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
-| 4 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档 | 2,237 | +0 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 11,285 | +180 | +1,190 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档 | 2,239 | +2 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
+| 3 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 878 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 4 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Agent-safe headless e-commerce engine |
 | 6 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 7 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 有演示/应用 | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
@@ -32,10 +32,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 11,105 | +208 | +1,177 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 879 | +0 | +3 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 3 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
-| 4 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档 | 2,237 | +0 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 11,285 | +180 | +1,190 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 878 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 3 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | 电商 AI 基础设施 | 电商技能, 开源许可, 有文档 | 2,239 | +2 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
+| 4 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Agent-safe headless e-commerce engine |
 | 6 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 7 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 有演示/应用 | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
