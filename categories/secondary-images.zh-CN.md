@@ -9,7 +9,7 @@
 - 收录项目：2
 - 近期活跃项目：1
 - 有文档或主页信号：0
-- 更新时间：Oct 19, 2026, 7:54 AM UTC
+- 更新时间：Oct 20, 2026, 7:43 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [linbei0/EcomGen](https://github.com/linbei0/EcomGen) | 附图与场景图生成 | 近期活跃, 电商技能, 开源许可, 适合入门 | 157 | +1 | +13 | TypeScript | Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth pixel protection, OpenAI-compatible & Gemini image providers, AI layering (PNG/PSD), review, edit, and ZIP export. Self-hosted. |
-| 2 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 459 | +0 | +4 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
+| 1 | [linbei0/EcomGen](https://github.com/linbei0/EcomGen) | 附图与场景图生成 | 近期活跃, 电商技能, 开源许可, 适合入门 | 168 | +11 | +18 | TypeScript | Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth pixel protection, OpenAI-compatible & Gemini image providers, AI layering (PNG/PSD), review, edit, and ZIP export. Self-hosted. |
+| 2 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 461 | +2 | +6 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [linbei0/EcomGen](https://github.com/linbei0/EcomGen) | 附图与场景图生成 | 近期活跃, 电商技能, 开源许可, 适合入门 | 157 | +1 | +13 | TypeScript | Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth pixel protection, OpenAI-compatible & Gemini image providers, AI layering (PNG/PSD), review, edit, and ZIP export. Self-hosted. |
-| 2 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 459 | +0 | +4 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
+| 1 | [linbei0/EcomGen](https://github.com/linbei0/EcomGen) | 附图与场景图生成 | 近期活跃, 电商技能, 开源许可, 适合入门 | 168 | +11 | +18 | TypeScript | Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth pixel protection, OpenAI-compatible & Gemini image providers, AI layering (PNG/PSD), review, edit, and ZIP export. Self-hosted. |
+| 2 | [wzj177/ecommerce-image-suite](https://github.com/wzj177/ecommerce-image-suite) | 附图与场景图生成 | 电商技能, 开源许可, 有演示/应用 | 461 | +2 | +6 | Python | 面向电商商品图生产场景的图片套图 Skill。仓库提供一套从商品图分析、卖点提炼、Prompt 组织到成图输出的脚本与配置，适合用在淘宝、京东、拼多多、抖音等国内平台，以及独立站、Amazon 等跨境场景。 |
