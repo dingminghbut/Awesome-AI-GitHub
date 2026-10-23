@@ -6,10 +6,10 @@ Serving, MLOps, data pipelines, search/recommendation infrastructure, feature st
 
 ## Category Snapshot
 
-- Projects tracked: 7
-- Recently active projects: 4
-- Docs or homepage signal: 4
-- Updated: Oct 22, 2026, 7:43 AM UTC
+- Projects tracked: 8
+- Recently active projects: 5
+- Docs or homepage signal: 5
+- Updated: Oct 23, 2026, 7:40 AM UTC
 
 ## Who This Helps
 
@@ -19,22 +19,24 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 12,512 | +183 | +1,227 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | Commerce AI Infrastructure | Commerce skill, Open license, Docs available | 2,239 | +1 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
-| 3 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 12,722 | +210 | +1,246 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
+| 3 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | Commerce AI Infrastructure | Commerce skill, Open license, Docs available | 2,238 | +0 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
 | 4 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | Commerce AI Infrastructure | Recently active, Commerce skill | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
-| 5 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 877 | +0 | +0 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 6 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Demo or app | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
+| 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 6 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 877 | +0 | +0 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 7 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | Commerce AI Infrastructure | Commerce skill, Open license, Demo or app | 136 | +0 | +0 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
+| 8 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Demo or app | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 12,512 | +183 | +1,227 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | Commerce AI Infrastructure | Commerce skill, Open license, Docs available | 2,239 | +1 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
-| 3 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 12,722 | +210 | +1,246 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
+| 3 | [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) | Commerce AI Infrastructure | Commerce skill, Open license, Docs available | 2,238 | +0 | +0 | Python | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |
 | 4 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | Commerce AI Infrastructure | Recently active, Commerce skill | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
-| 5 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 877 | +0 | +0 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 6 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Demo or app | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
+| 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 6 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 877 | +0 | +0 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 7 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | Commerce AI Infrastructure | Commerce skill, Open license, Demo or app | 136 | +0 | +0 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
+| 8 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Demo or app | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
