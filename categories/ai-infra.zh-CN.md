@@ -9,7 +9,7 @@
 - 收录项目：7
 - 近期活跃项目：5
 - 有文档或主页信号：4
-- 更新时间：Oct 25, 2026, 7:39 AM UTC
+- 更新时间：Oct 26, 2026, 7:54 AM UTC
 
 ## 适合谁看
 
@@ -19,8 +19,8 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 13,032 | +170 | +1,269 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 879 | +1 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 13,199 | +167 | +1,268 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 879 | +0 | +1 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 3 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 4 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
@@ -31,8 +31,8 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 13,032 | +170 | +1,269 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 879 | +1 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 13,199 | +167 | +1,268 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 879 | +0 | +1 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 3 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 4 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 12 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
