@@ -9,7 +9,7 @@
 - 收录项目：1
 - 近期活跃项目：1
 - 有文档或主页信号：1
-- 更新时间：Oct 30, 2026, 8:45 AM UTC
+- 更新时间：Oct 31, 2026, 8:30 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +1 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +0 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +1 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +0 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
