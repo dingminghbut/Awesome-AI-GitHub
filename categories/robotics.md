@@ -9,7 +9,7 @@ Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, a
 - Projects tracked: 5
 - Recently active projects: 3
 - Docs or homepage signal: 4
-- Updated: Nov 2, 2026, 9:37 AM UTC
+- Updated: Nov 3, 2026, 9:41 AM UTC
 
 ## Who This Helps
 
@@ -19,7 +19,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 20 | +1 | +4 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
+| 1 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 20 | +0 | +4 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
 | 2 | [WayneChou-bot/WareTwin](https://github.com/WayneChou-bot/WareTwin) | Retail Robotics & Fulfillment | Open license, Docs available, Demo or app | 158 | +0 | +2 | TypeScript | Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI. |
 | 3 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Research signal | 83 | +0 | +2 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 | 4 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
@@ -29,7 +29,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 20 | +1 | +4 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
+| 1 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 20 | +0 | +4 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
 | 2 | [WayneChou-bot/WareTwin](https://github.com/WayneChou-bot/WareTwin) | Retail Robotics & Fulfillment | Open license, Docs available, Demo or app | 158 | +0 | +2 | TypeScript | Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI. |
 | 3 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Research signal | 83 | +0 | +2 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 | 4 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
