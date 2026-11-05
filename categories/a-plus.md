@@ -9,7 +9,7 @@ AI tools and skills for Amazon A+ content, enhanced brand content, product detai
 - Projects tracked: 4
 - Recently active projects: 3
 - Docs or homepage signal: 2
-- Updated: Nov 4, 2026, 9:27 AM UTC
+- Updated: Nov 5, 2026, 9:37 AM UTC
 
 ## Who This Helps
 
@@ -19,16 +19,16 @@ Useful for Amazon and marketplace teams building A+ content, enhanced brand cont
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow-V2-Ajie](https://github.com/AJbeckliy/detail-flow-V2-Ajie) | A+ Content Generation | Recently active, Commerce skill | 273 | +1 | +40 | Python | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | A+ Content Generation | Recently active, Commerce skill, Open license, Docs available | 143 | +3 | +17 | Python | 12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页 |
-| 3 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 60 | +1 | +9 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
-| 4 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 127 | +2 | +6 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow-V2-Ajie](https://github.com/AJbeckliy/detail-flow-V2-Ajie) | A+ Content Generation | Recently active, Commerce skill | 273 | +0 | +40 | Python | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | A+ Content Generation | Recently active, Commerce skill, Open license, Docs available | 149 | +6 | +23 | Python | 12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页 |
+| 3 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 60 | +0 | +9 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
+| 4 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 128 | +1 | +7 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [AJbeckliy/detail-flow-V2-Ajie](https://github.com/AJbeckliy/detail-flow-V2-Ajie) | A+ Content Generation | Recently active, Commerce skill | 273 | +1 | +40 | Python | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
-| 2 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | A+ Content Generation | Recently active, Commerce skill, Open license, Docs available | 143 | +3 | +17 | Python | 12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页 |
-| 3 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 60 | +1 | +9 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
-| 4 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 127 | +2 | +6 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |
+| 1 | [AJbeckliy/detail-flow-V2-Ajie](https://github.com/AJbeckliy/detail-flow-V2-Ajie) | A+ Content Generation | Recently active, Commerce skill | 273 | +0 | +40 | Python | A reusable Codex skill for planning, generating, auditing, and delivering ecommerce product detail pages. |
+| 2 | [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | A+ Content Generation | Recently active, Commerce skill, Open license, Docs available | 149 | +6 | +23 | Python | 12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页 |
+| 3 | [dlazy-ai/ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills) | A+ Content Generation | Recently active, Commerce skill, Open license | 60 | +0 | +9 | JavaScript | 面向电商视觉生产的 Agent 技能库：26 个可组合的 skill.md，覆盖平铺图 → 模特上身 → 裂变套图 → 详情页 → 主图视频 → 投前质检 → 平台合规校验。不锁后端，dLazy / OpenAI / Gemini / fal / Replicate / 火山方舟自带 key 即可，不用摄影棚、不约模特。 |
+| 4 | [motiful/product-shots](https://github.com/motiful/product-shots) | A+ Content Generation | Commerce skill, Open license, Docs available | 128 | +1 | +7 | Python | Open-source Claude Code skills that turn one product photo into a full set of e-commerce visuals — main images, A+ detail pages, multi-angle shoots, social posts, and ad creatives. For cross-border sellers on Amazon, Shopify, TikTok Shop. |

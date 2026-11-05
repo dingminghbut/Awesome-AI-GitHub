@@ -6,10 +6,10 @@ AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales a
 
 ## Category Snapshot
 
-- Projects tracked: 1
-- Recently active projects: 1
+- Projects tracked: 2
+- Recently active projects: 2
 - Docs or homepage signal: 1
-- Updated: Nov 4, 2026, 9:27 AM UTC
+- Updated: Nov 5, 2026, 9:37 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,12 @@ Useful for teams generating product FAQs, buyer Q&A, objection handling, pre-sal
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 11 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
+| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | FAQ Generation | Fast growing, Recently active, Commerce skill, Open license | 5,157 | +38 | +265 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 2 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 11 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 11 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
+| 1 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | FAQ Generation | Fast growing, Recently active, Commerce skill, Open license | 5,157 | +38 | +265 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| 2 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 11 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
