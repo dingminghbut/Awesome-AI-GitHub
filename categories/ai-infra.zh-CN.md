@@ -9,7 +9,7 @@
 - 收录项目：8
 - 近期活跃项目：6
 - 有文档或主页信号：5
-- 更新时间：Nov 5, 2026, 9:37 AM UTC
+- 更新时间：Nov 6, 2026, 9:30 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 14,840 | +186 | +1,293 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 43 | +1 | +0 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
-| 3 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 13 | +0 | +1 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
-| 4 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 881 | +0 | +1 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 5 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
-| 6 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 14,991 | +151 | +1,118 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 881 | +0 | +1 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 3 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
+| 4 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 43 | +0 | +0 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
+| 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 6 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 13 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 7 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 有演示/应用 | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
 | 8 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有演示/应用 | 137 | +0 | +0 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |
 
@@ -32,11 +32,11 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 14,840 | +186 | +1,293 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 13 | +0 | +1 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
-| 3 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 881 | +0 | +1 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
-| 4 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 43 | +1 | +0 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
-| 5 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
-| 6 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 14,991 | +151 | +1,118 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 881 | +0 | +1 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 3 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
+| 4 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 43 | +0 | +0 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
+| 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
+| 6 | [adobe-rnd/aem-commerce-prerender](https://github.com/adobe-rnd/aem-commerce-prerender) | 电商 AI 基础设施 | 近期活跃, 电商技能 | 13 | +0 | +0 | JavaScript | Flexible framework for automatic ahead-of-time data fetching, transformation, and embedding in Product Pages. It provides a robust and understandable source of truth for Generative AI and Search Engine crawlers. |
 | 7 | [aexol-studio/deenruv](https://github.com/aexol-studio/deenruv) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 有演示/应用 | 11 | +0 | +0 | TypeScript | Open-source, AI-first headless e-commerce framework. TypeScript-first, GraphQL-native, with 32+ plugins and a modern React admin panel. Built on NestJS. |
 | 8 | [ankush850/ShopIQ-AI-Retail-Intelligence-Platform](https://github.com/ankush850/ShopIQ-AI-Retail-Intelligence-Platform) | 电商 AI 基础设施 | 电商技能, 开源许可, 有演示/应用 | 137 | +0 | +0 | TypeScript | ShopIQ is an AI-powered retail intelligence platform built for  analyzes shopping data to predict trends, discover shopper behavior patterns, segment customers, and uncover product affinities using machine learning and an interactive AI analytics assistant. |

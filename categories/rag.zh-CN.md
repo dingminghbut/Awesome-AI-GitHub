@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：1
-- 近期活跃项目：1
-- 有文档或主页信号：1
-- 更新时间：Nov 5, 2026, 9:37 AM UTC
+- 收录项目：2
+- 近期活跃项目：2
+- 有文档或主页信号：2
+- 更新时间：Nov 6, 2026, 9:30 AM UTC
 
 ## 适合谁看
 
@@ -19,10 +19,12 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +0 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 70 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
+| 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +0 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
+| 1 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 70 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
+| 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 169 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
