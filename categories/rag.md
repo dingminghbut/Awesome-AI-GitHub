@@ -8,8 +8,8 @@ Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing
 
 - Projects tracked: 2
 - Recently active projects: 2
-- Docs or homepage signal: 2
-- Updated: Nov 6, 2026, 9:30 AM UTC
+- Docs or homepage signal: 1
+- Updated: Nov 7, 2026, 8:55 AM UTC
 
 ## Who This Helps
 
@@ -19,12 +19,12 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 70 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
+| 1 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | Product RAG & Knowledge Search | Fast growing, Recently active, Commerce skill, Open license | 118 | +48 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 169 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 70 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
+| 1 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | Product RAG & Knowledge Search | Fast growing, Recently active, Commerce skill, Open license | 118 | +48 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 169 | +0 | +0 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
