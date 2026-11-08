@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：2
-- 近期活跃项目：2
+- 收录项目：3
+- 近期活跃项目：3
 - 有文档或主页信号：0
-- 更新时间：Nov 7, 2026, 8:55 AM UTC
+- 更新时间：Nov 8, 2026, 9:09 AM UTC
 
 ## 适合谁看
 
@@ -19,12 +19,14 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [elangan1997-cmyk/ecommerce-main-image-skill](https://github.com/elangan1997-cmyk/ecommerce-main-image-skill) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 30 | +0 | +0 | Python | 电商主图研究与品牌化提示词生成 Skill — 竞品分析、主图策略、AI生图提示词、图生图产品一致性保护。支持淘宝/京东/拼多多/抖音/小红书/亚马逊。 |
-| 2 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 16 | +0 | +0 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
+| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | 主图生成 | 近期活跃, 电商技能, 适合入门 | 16 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 2 | [elangan1997-cmyk/ecommerce-main-image-skill](https://github.com/elangan1997-cmyk/ecommerce-main-image-skill) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 30 | +0 | +0 | Python | 电商主图研究与品牌化提示词生成 Skill — 竞品分析、主图策略、AI生图提示词、图生图产品一致性保护。支持淘宝/京东/拼多多/抖音/小红书/亚马逊。 |
+| 3 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 16 | +0 | +0 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [elangan1997-cmyk/ecommerce-main-image-skill](https://github.com/elangan1997-cmyk/ecommerce-main-image-skill) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 30 | +0 | +0 | Python | 电商主图研究与品牌化提示词生成 Skill — 竞品分析、主图策略、AI生图提示词、图生图产品一致性保护。支持淘宝/京东/拼多多/抖音/小红书/亚马逊。 |
-| 2 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 16 | +0 | +0 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
+| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | 主图生成 | 近期活跃, 电商技能, 适合入门 | 16 | +0 | +0 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 2 | [elangan1997-cmyk/ecommerce-main-image-skill](https://github.com/elangan1997-cmyk/ecommerce-main-image-skill) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 30 | +0 | +0 | Python | 电商主图研究与品牌化提示词生成 Skill — 竞品分析、主图策略、AI生图提示词、图生图产品一致性保护。支持淘宝/京东/拼多多/抖音/小红书/亚马逊。 |
+| 3 | [ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant](https://github.com/ash-iiiiish/ShopLens.AI-Multimodal-RAG-E-commerce-Product-Assistant) | 主图生成 | 近期活跃, 电商技能, 开源许可 | 16 | +0 | +0 | Jupyter Notebook | A modern, web-based AI assistant where users can : Upload a product image, Ask questions about its feature or alternatives, Gert answers with retrieved specs, links, and visual content. ChatGPT + Google Lens + Amazon Search |
