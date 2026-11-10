@@ -9,7 +9,7 @@
 - 收录项目：9
 - 近期活跃项目：6
 - 有文档或主页信号：6
-- 更新时间：Nov 9, 2026, 9:55 AM UTC
+- 更新时间：Nov 10, 2026, 9:59 AM UTC
 
 ## 适合谁看
 
@@ -19,8 +19,8 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 15,361 | +131 | +1,053 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 882 | +1 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 15,541 | +180 | +1,064 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 883 | +1 | +3 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 3 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 44 | +0 | +2 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
 | 4 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
@@ -33,8 +33,8 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 15,361 | +131 | +1,053 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 882 | +1 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 电商 AI 基础设施 | 增长快, 近期活跃, 电商技能, 开源许可 | 15,541 | +180 | +1,064 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | 电商 AI 基础设施 | 电商技能, 有文档, 有演示/应用 | 883 | +1 | +3 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 3 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 44 | +0 | +2 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
 | 4 | [contentful/apps](https://github.com/contentful/apps) | 电商 AI 基础设施 | 近期活跃, 电商技能, 有文档, 适合入门 | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | 电商 AI 基础设施 | 近期活跃, 电商技能, 开源许可, 有文档 | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
