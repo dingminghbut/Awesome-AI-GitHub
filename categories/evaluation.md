@@ -6,10 +6,10 @@ Recommendation evaluation, A/B testing, attribution, conversion analytics, growt
 
 ## Category Snapshot
 
-- Projects tracked: 1
-- Recently active projects: 1
-- Docs or homepage signal: 1
-- Updated: Nov 11, 2026, 9:33 AM UTC
+- Projects tracked: 0
+- Recently active projects: 0
+- Docs or homepage signal: 0
+- Updated: Nov 12, 2026, 9:56 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,8 @@ Useful for growth, data, and engineering teams measuring recommendation quality,
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 26 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [nirholas/plugin.delivery](https://github.com/nirholas/plugin.delivery) | Commerce Evaluation & Growth Analytics | Recently active, Commerce skill, Docs available, Production oriented | 26 | +0 | +0 | TypeScript | AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensions. Primary use in cryptocurrency, DeFI, crypto trading, and blockchain analytics. |

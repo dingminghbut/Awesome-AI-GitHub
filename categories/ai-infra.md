@@ -9,7 +9,7 @@ Serving, MLOps, data pipelines, search/recommendation infrastructure, feature st
 - Projects tracked: 9
 - Recently active projects: 6
 - Docs or homepage signal: 6
-- Updated: Nov 11, 2026, 9:33 AM UTC
+- Updated: Nov 12, 2026, 9:56 AM UTC
 
 ## Who This Helps
 
@@ -19,8 +19,8 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 15,685 | +144 | +1,031 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 44 | +0 | +2 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 15,864 | +179 | +1,024 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 45 | +1 | +2 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
 | 3 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 883 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 4 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
@@ -33,8 +33,8 @@ Useful for people deploying commerce AI, recommendation/search infrastructure, m
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 15,685 | +144 | +1,031 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
-| 2 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 44 | +0 | +2 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
+| 1 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | Commerce AI Infrastructure | Fast growing, Recently active, Commerce skill, Open license | 15,864 | +179 | +1,024 | TypeScript | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
+| 2 | [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 45 | +1 | +2 | Kotlin | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-as-code and policy-gated AI agents. Reference implementation, not a licensed bank. |
 | 3 | [store-craft/storecraft](https://github.com/store-craft/storecraft) | Commerce AI Infrastructure | Commerce skill, Docs available, Demo or app | 883 | +0 | +2 | JavaScript | ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript |
 | 4 | [contentful/apps](https://github.com/contentful/apps) | Commerce AI Infrastructure | Recently active, Commerce skill, Docs available, Good starting point | 164 | +0 | +0 | TypeScript | Apps on the Contentful Marketplace and resources to build them |
 | 5 | [gitstore-dev/GitStore](https://github.com/gitstore-dev/GitStore) | Commerce AI Infrastructure | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | Go | Headless e-commerce engine, designed for AI |
