@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：5
+- 收录项目：6
 - 近期活跃项目：4
-- 有文档或主页信号：3
-- 更新时间：Nov 12, 2026, 9:56 AM UTC
+- 有文档或主页信号：4
+- 更新时间：Nov 13, 2026, 9:42 AM UTC
 
 ## 适合谁看
 
@@ -24,6 +24,7 @@
 | 3 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 29 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 5 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +0 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
+| 6 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 研究/评测 | 85 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 
 ## 本分类增长项目
 
@@ -34,3 +35,4 @@
 | 3 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 适合自托管 | 29 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 5 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | 零售机器人与履约自动化 | 近期活跃, 电商技能, 开源许可, 有文档 | 20 | +0 | +0 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
+| 6 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | 零售机器人与履约自动化 | 电商技能, 开源许可, 有文档, 研究/评测 | 85 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |

@@ -6,10 +6,10 @@ Warehouse robots, inventory automation, shelf scanning, fulfillment, delivery, a
 
 ## Category Snapshot
 
-- Projects tracked: 5
+- Projects tracked: 6
 - Recently active projects: 4
-- Docs or homepage signal: 3
-- Updated: Nov 12, 2026, 9:56 AM UTC
+- Docs or homepage signal: 4
+- Updated: Nov 13, 2026, 9:42 AM UTC
 
 ## Who This Helps
 
@@ -24,6 +24,7 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 | 3 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 29 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 5 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 20 | +0 | +0 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
+| 6 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Research signal | 85 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
 
 ## Fast Movers In This Category
 
@@ -34,3 +35,4 @@ Useful for builders following warehouse automation, shelf scanning, inventory sy
 | 3 | [NatLabRockies/COMPASS](https://github.com/NatLabRockies/COMPASS) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 17 | +0 | +0 | Python | INFRA-COMPASS is a tool that leverages Large Language Models (LLMs) to create and maintain an inventory of state and local codes and ordinances applicable to energy infrastructure. |
 | 4 | [MerlinStacks/overseek](https://github.com/MerlinStacks/overseek) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Self-host friendly | 29 | +0 | +0 | TypeScript | OverSeek is your open-source command center—a self-hosted, privacy-first platform that unifies analytics, automation, inventory, and customer intelligence into one powerful dashboard for woocommerce |
 | 5 | [RizwanMunawar/sima-vision](https://github.com/RizwanMunawar/sima-vision) | Retail Robotics & Fulfillment | Recently active, Commerce skill, Open license, Docs available | 20 | +0 | +0 | Python | A practical computer vision workspace for building, testing, and deploying Vision AI applications on the SiMa.ai Modalix DevKit 3.0, with setup guides and reference applications including YOLO object detection, instance segmentation, and other enterprise focused. |
+| 6 | [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart) | Retail Robotics & Fulfillment | Commerce skill, Open license, Docs available, Research signal | 85 | +0 | +0 | Python | RoboBenchMart: Benchmarking Robots in Retail Environment |
