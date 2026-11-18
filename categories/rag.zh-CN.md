@@ -9,7 +9,7 @@
 - 收录项目：4
 - 近期活跃项目：4
 - 有文档或主页信号：3
-- 更新时间：Nov 17, 2026, 10:50 AM UTC
+- 更新时间：Nov 18, 2026, 10:19 AM UTC
 
 ## 适合谁看
 
@@ -20,8 +20,8 @@
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 173 | +0 | +4 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
-| 2 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 128 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
-| 3 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 26 | +0 | +0 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
+| 2 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 27 | +1 | +0 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
+| 3 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 128 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
 | 4 | [lydiayan/ecommerce-order-agent-platform](https://github.com/lydiayan/ecommerce-order-agent-platform) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可 | 13 | +0 | +0 | Java | 面向电商订单场景以及企业内部多角色知识问答的可观测 AI Agent 平台，集成 StateGraph、RAG、记忆、MCP 工具与人工审批 |
 
 ## 本分类增长项目
@@ -29,6 +29,6 @@
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 173 | +0 | +4 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
-| 2 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 128 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
-| 3 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 26 | +0 | +0 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
+| 2 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 27 | +1 | +0 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
+| 3 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可, 有文档 | 128 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
 | 4 | [lydiayan/ecommerce-order-agent-platform](https://github.com/lydiayan/ecommerce-order-agent-platform) | 商品 RAG 与知识检索 | 近期活跃, 电商技能, 开源许可 | 13 | +0 | +0 | Java | 面向电商订单场景以及企业内部多角色知识问答的可观测 AI Agent 平台，集成 StateGraph、RAG、记忆、MCP 工具与人工审批 |

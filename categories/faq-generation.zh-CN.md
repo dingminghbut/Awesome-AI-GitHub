@@ -6,10 +6,10 @@
 
 ## 分类快照
 
-- 收录项目：0
-- 近期活跃项目：0
-- 有文档或主页信号：0
-- 更新时间：Nov 17, 2026, 10:50 AM UTC
+- 收录项目：1
+- 近期活跃项目：1
+- 有文档或主页信号：1
+- 更新时间：Nov 18, 2026, 10:19 AM UTC
 
 ## 适合谁看
 
@@ -19,8 +19,10 @@
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 18 | +0 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
 
 ## 本分类增长项目
 
 | # | 项目 | 分类 | 标签 | Stars | +24h | +7d | 语言 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ 生成 | 近期活跃, 电商技能, 开源许可, 有文档 | 18 | +0 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
