@@ -9,7 +9,7 @@ AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales a
 - Projects tracked: 1
 - Recently active projects: 1
 - Docs or homepage signal: 1
-- Updated: Nov 19, 2026, 10:28 AM UTC
+- Updated: Nov 20, 2026, 10:09 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,10 @@ Useful for teams generating product FAQs, buyer Q&A, objection handling, pre-sal
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 18 | +0 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
+| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 19 | +1 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 18 | +0 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
+| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 19 | +1 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
