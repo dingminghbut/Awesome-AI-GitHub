@@ -1,0 +1,1286 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T09:56:47.120Z",
+  "projects": [
+    {
+      "id": 911256711,
+      "fullName": "apify/apify-mcp-server",
+      "stars": 17225,
+      "forks": 474,
+      "category": "ai-infra",
+      "pushedAt": "2026-11-20T17:08:54Z"
+    },
+    {
+      "id": 234739976,
+      "fullName": "medusajs/medusa",
+      "stars": 37347,
+      "forks": 5556,
+      "category": "agents",
+      "pushedAt": "2026-11-21T03:08:09Z"
+    },
+    {
+      "id": 1025856648,
+      "fullName": "wshobson/agents",
+      "stars": 42758,
+      "forks": 4518,
+      "category": "agents",
+      "pushedAt": "2026-11-18T13:13:28Z"
+    },
+    {
+      "id": 1211089620,
+      "fullName": "feichanggege/ecommerce-visual-copywriting-skill",
+      "stars": 1180,
+      "forks": 119,
+      "category": "agents",
+      "pushedAt": "2026-10-30T03:59:53Z"
+    },
+    {
+      "id": 1189419041,
+      "fullName": "xixihhhh/clipforge",
+      "stars": 1354,
+      "forks": 300,
+      "category": "agents",
+      "pushedAt": "2026-11-20T16:48:48Z"
+    },
+    {
+      "id": 572984571,
+      "fullName": "twentyhq/twenty",
+      "stars": 61275,
+      "forks": 10138,
+      "category": "agents",
+      "pushedAt": "2026-11-21T10:02:04Z"
+    },
+    {
+      "id": 1185016972,
+      "fullName": "nexscope-ai/eCommerce-Skills",
+      "stars": 1476,
+      "forks": 193,
+      "category": "agents",
+      "pushedAt": "2026-11-11T03:42:39Z"
+    },
+    {
+      "id": 1416828644,
+      "fullName": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "stars": 1240,
+      "forks": 1102,
+      "category": "agents",
+      "pushedAt": "2026-10-18T06:48:08Z"
+    },
+    {
+      "id": 1183997726,
+      "fullName": "Clipcat-ai/clipcat-skill",
+      "stars": 543,
+      "forks": 58,
+      "category": "agents",
+      "pushedAt": "2026-10-24T20:17:03Z"
+    },
+    {
+      "id": 1341876019,
+      "fullName": "xjli360/sealeap-amazon-skills",
+      "stars": 443,
+      "forks": 75,
+      "category": "agents",
+      "pushedAt": "2026-10-16T03:25:33Z"
+    },
+    {
+      "id": 1238353357,
+      "fullName": "zpoint/vibe-seller",
+      "stars": 144,
+      "forks": 42,
+      "category": "agents",
+      "pushedAt": "2026-11-21T06:24:11Z"
+    },
+    {
+      "id": 1336921056,
+      "fullName": "dlazy-ai/ecommerce-skills",
+      "stars": 86,
+      "forks": 11,
+      "category": "a-plus",
+      "pushedAt": "2026-11-16T04:01:34Z"
+    },
+    {
+      "id": 1073337396,
+      "fullName": "jeremylongshore/tons-of-skills-marketplace",
+      "stars": 2934,
+      "forks": 438,
+      "category": "agents",
+      "pushedAt": "2026-11-20T12:07:58Z"
+    },
+    {
+      "id": 1265706480,
+      "fullName": "AJbeckliy/detail-flow-V2-Ajie",
+      "stars": 307,
+      "forks": 44,
+      "category": "a-plus",
+      "pushedAt": "2026-11-14T05:44:03Z"
+    },
+    {
+      "id": 1340986558,
+      "fullName": "bighadj22/Wocart",
+      "stars": 427,
+      "forks": 74,
+      "category": "agents",
+      "pushedAt": "2026-11-16T19:06:48Z"
+    },
+    {
+      "id": 1457963740,
+      "fullName": "zarockfat/zgg-find-ecommerce-skills",
+      "stars": 147,
+      "forks": 42,
+      "category": "agents",
+      "pushedAt": "2026-11-20T18:47:45Z"
+    },
+    {
+      "id": 1403836744,
+      "fullName": "xianyu110/ecommerce-image-skills",
+      "stars": 190,
+      "forks": 28,
+      "category": "a-plus",
+      "pushedAt": "2026-10-08T11:38:20Z"
+    },
+    {
+      "id": 1198690790,
+      "fullName": "Shopify/Shopify-AI-Toolkit",
+      "stars": 652,
+      "forks": 88,
+      "category": "agents",
+      "pushedAt": "2026-11-17T19:17:39Z"
+    },
+    {
+      "id": 1177556025,
+      "fullName": "nexscope-ai/Amazon-Skills",
+      "stars": 882,
+      "forks": 149,
+      "category": "agents",
+      "pushedAt": "2026-11-11T03:42:47Z"
+    },
+    {
+      "id": 1404382224,
+      "fullName": "xianyu110/ecommerce-video-skills",
+      "stars": 151,
+      "forks": 21,
+      "category": "agents",
+      "pushedAt": "2026-10-05T14:13:51Z"
+    },
+    {
+      "id": 1384750550,
+      "fullName": "xjli360/sealeap-ecommerce-skills",
+      "stars": 172,
+      "forks": 43,
+      "category": "agents",
+      "pushedAt": "2026-10-16T14:27:08Z"
+    },
+    {
+      "id": 1279940806,
+      "fullName": "nexscope-ai/nexscope-ecommerce-skills",
+      "stars": 124,
+      "forks": 16,
+      "category": "agents",
+      "pushedAt": "2026-11-19T07:22:42Z"
+    },
+    {
+      "id": 1204321239,
+      "fullName": "noique/cross-border-ecommerce-skills",
+      "stars": 102,
+      "forks": 21,
+      "category": "agents",
+      "pushedAt": "2026-08-01T20:16:06Z"
+    },
+    {
+      "id": 1307105700,
+      "fullName": "ddyy/minshop",
+      "stars": 205,
+      "forks": 68,
+      "category": "agents",
+      "pushedAt": "2026-11-04T11:02:07Z"
+    },
+    {
+      "id": 1260548655,
+      "fullName": "motiful/product-shots",
+      "stars": 151,
+      "forks": 22,
+      "category": "a-plus",
+      "pushedAt": "2026-06-08T05:41:43Z"
+    },
+    {
+      "id": 1153111797,
+      "fullName": "CosmoBlk/email-marketing-bible",
+      "stars": 384,
+      "forks": 46,
+      "category": "agents",
+      "pushedAt": "2026-11-12T11:36:12Z"
+    },
+    {
+      "id": 1261422007,
+      "fullName": "amElnagdy/guard-skills",
+      "stars": 1319,
+      "forks": 140,
+      "category": "agents",
+      "pushedAt": "2026-07-04T15:26:29Z"
+    },
+    {
+      "id": 1340445101,
+      "fullName": "autoagc/linkpix-skills",
+      "stars": 43,
+      "forks": 3,
+      "category": "agents",
+      "pushedAt": "2026-11-19T02:18:35Z"
+    },
+    {
+      "id": 1236911090,
+      "fullName": "superjack2050/1688-cli",
+      "stars": 154,
+      "forks": 34,
+      "category": "agents",
+      "pushedAt": "2026-08-27T23:55:47Z"
+    },
+    {
+      "id": 1241401704,
+      "fullName": "moiz-za/etsy-seller-seo-system",
+      "stars": 54,
+      "forks": 8,
+      "category": "llm",
+      "pushedAt": "2026-10-23T05:01:53Z"
+    },
+    {
+      "id": 1296501385,
+      "fullName": "AhmadHassan-BTed/Ledgerify",
+      "stars": 4756,
+      "forks": 0,
+      "category": "agents",
+      "pushedAt": "2026-10-13T18:14:24Z"
+    },
+    {
+      "id": 1337486551,
+      "fullName": "linbei0/EcomGen",
+      "stars": 255,
+      "forks": 62,
+      "category": "secondary-images",
+      "pushedAt": "2026-11-05T03:30:42Z"
+    },
+    {
+      "id": 1153563416,
+      "fullName": "thatrebeccarae/claude-marketing",
+      "stars": 209,
+      "forks": 39,
+      "category": "agents",
+      "pushedAt": "2026-05-14T20:12:45Z"
+    },
+    {
+      "id": 1252237951,
+      "fullName": "rakei076/sycm-cli",
+      "stars": 91,
+      "forks": 26,
+      "category": "agents",
+      "pushedAt": "2026-11-19T15:00:14Z"
+    },
+    {
+      "id": 1222372573,
+      "fullName": "buluslan/gpt-image2-ecommerce",
+      "stars": 454,
+      "forks": 60,
+      "category": "agents",
+      "pushedAt": "2026-09-17T09:05:23Z"
+    },
+    {
+      "id": 1180882242,
+      "fullName": "nplszfl/OmniTradeERP",
+      "stars": 132,
+      "forks": 29,
+      "category": "agents",
+      "pushedAt": "2026-11-21T08:16:23Z"
+    },
+    {
+      "id": 1242060029,
+      "fullName": "hikari0511/awesome-amazon-ec-skills",
+      "stars": 264,
+      "forks": 33,
+      "category": "agents",
+      "pushedAt": "2026-11-19T13:27:47Z"
+    },
+    {
+      "id": 1420560321,
+      "fullName": "andredelgado/continente-mcp",
+      "stars": 58,
+      "forks": 9,
+      "category": "llm",
+      "pushedAt": "2026-11-20T14:20:11Z"
+    },
+    {
+      "id": 1412032836,
+      "fullName": "backtrue/thinkwithblack-skill",
+      "stars": 276,
+      "forks": 27,
+      "category": "agents",
+      "pushedAt": "2026-11-20T03:57:07Z"
+    },
+    {
+      "id": 1300886884,
+      "fullName": "bvdr/familywell",
+      "stars": 122,
+      "forks": 28,
+      "category": "llm",
+      "pushedAt": "2026-11-16T05:58:40Z"
+    },
+    {
+      "id": 1342709193,
+      "fullName": "WayneChou-bot/WareTwin",
+      "stars": 166,
+      "forks": 74,
+      "category": "robotics",
+      "pushedAt": "2026-09-11T02:02:50Z"
+    },
+    {
+      "id": 1202194964,
+      "fullName": "bcefghj/multi-agent-ecommerce-system",
+      "stars": 656,
+      "forks": 88,
+      "category": "agents",
+      "pushedAt": "2026-04-05T18:25:10Z"
+    },
+    {
+      "id": 1346803749,
+      "fullName": "YannisKiefer/grokbot-x",
+      "stars": 84,
+      "forks": 15,
+      "category": "agents",
+      "pushedAt": "2026-11-09T19:30:23Z"
+    },
+    {
+      "id": 1052758769,
+      "fullName": "kangise/ecommerce-ai-skills",
+      "stars": 119,
+      "forks": 23,
+      "category": "agents",
+      "pushedAt": "2026-11-16T10:38:59Z"
+    },
+    {
+      "id": 270530850,
+      "fullName": "vynect/venom",
+      "stars": 6603,
+      "forks": 1323,
+      "category": "llm",
+      "pushedAt": "2026-09-09T06:52:22Z"
+    },
+    {
+      "id": 1190725263,
+      "fullName": "JianFeiGan/agent_part",
+      "stars": 25,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-10-24T08:28:32Z"
+    },
+    {
+      "id": 957345363,
+      "fullName": "ErisPulse/ErisPulse",
+      "stars": 63,
+      "forks": 9,
+      "category": "llm",
+      "pushedAt": "2026-11-20T14:10:51Z"
+    },
+    {
+      "id": 1127855842,
+      "fullName": "devanshug2307/Awesome-AI-Image-Prompts",
+      "stars": 299,
+      "forks": 36,
+      "category": "generative-ai",
+      "pushedAt": "2026-08-08T05:43:52Z"
+    },
+    {
+      "id": 1239487602,
+      "fullName": "lien0219/trademind-ai",
+      "stars": 46,
+      "forks": 16,
+      "category": "agents",
+      "pushedAt": "2026-11-17T05:21:58Z"
+    },
+    {
+      "id": 1333479437,
+      "fullName": "whichmen/dxl-commerce-agent",
+      "stars": 147,
+      "forks": 12,
+      "category": "agents",
+      "pushedAt": "2026-11-14T12:38:02Z"
+    },
+    {
+      "id": 1186562824,
+      "fullName": "BENZEMA216/ai-ecommerce-agent-skills",
+      "stars": 86,
+      "forks": 11,
+      "category": "agents",
+      "pushedAt": "2026-04-11T14:04:07Z"
+    },
+    {
+      "id": 1418221961,
+      "fullName": "merran-app/merran",
+      "stars": 35,
+      "forks": 2,
+      "category": "llm",
+      "pushedAt": "2026-11-17T20:53:46Z"
+    },
+    {
+      "id": 1144263691,
+      "fullName": "Moksa1123/taiwan-ecommerce-toolkit",
+      "stars": 55,
+      "forks": 10,
+      "category": "agents",
+      "pushedAt": "2026-11-19T06:41:07Z"
+    },
+    {
+      "id": 141915831,
+      "fullName": "groundhoggwp/groundhogg",
+      "stars": 60,
+      "forks": 17,
+      "category": "agents",
+      "pushedAt": "2026-11-19T21:42:15Z"
+    },
+    {
+      "id": 641440545,
+      "fullName": "Anil-matcha/Open-AI-Design-Agent",
+      "stars": 488,
+      "forks": 83,
+      "category": "generative-ai",
+      "pushedAt": "2026-10-01T10:58:02Z"
+    },
+    {
+      "id": 1172290570,
+      "fullName": "gnuboard/g7",
+      "stars": 93,
+      "forks": 41,
+      "category": "agents",
+      "pushedAt": "2026-11-19T16:49:04Z"
+    },
+    {
+      "id": 1435484255,
+      "fullName": "zhtyyx/codex-seo",
+      "stars": 159,
+      "forks": 38,
+      "category": "agents",
+      "pushedAt": "2026-11-09T06:41:50Z"
+    },
+    {
+      "id": 1313245398,
+      "fullName": "DannylydST/sorftime-seller-agent",
+      "stars": 50,
+      "forks": 7,
+      "category": "agents",
+      "pushedAt": "2026-11-21T01:12:31Z"
+    },
+    {
+      "id": 1207844328,
+      "fullName": "Lifecycle-Innovations-Limited/claude-ops",
+      "stars": 556,
+      "forks": 64,
+      "category": "agents",
+      "pushedAt": "2026-11-21T02:32:56Z"
+    },
+    {
+      "id": 1219590575,
+      "fullName": "wzj177/ecommerce-image-suite",
+      "stars": 496,
+      "forks": 96,
+      "category": "secondary-images",
+      "pushedAt": "2026-08-27T06:33:46Z"
+    },
+    {
+      "id": 1098866858,
+      "fullName": "tgoai/tgo",
+      "stars": 664,
+      "forks": 126,
+      "category": "llm",
+      "pushedAt": "2026-04-28T08:57:45Z"
+    },
+    {
+      "id": 969187519,
+      "fullName": "Azure-Samples/eShopLite",
+      "stars": 173,
+      "forks": 89,
+      "category": "rag",
+      "pushedAt": "2026-11-21T06:33:33Z"
+    },
+    {
+      "id": 1188421161,
+      "fullName": "openilink/openilink-hub",
+      "stars": 1615,
+      "forks": 152,
+      "category": "llm",
+      "pushedAt": "2026-06-18T17:22:25Z"
+    },
+    {
+      "id": 1273501514,
+      "fullName": "MADEVAL/MindFluence",
+      "stars": 87,
+      "forks": 13,
+      "category": "agents",
+      "pushedAt": "2026-11-07T15:33:25Z"
+    },
+    {
+      "id": 1308553726,
+      "fullName": "XuHo-IT/Content-Agent-Kit",
+      "stars": 10,
+      "forks": 2,
+      "category": "agents",
+      "pushedAt": "2026-11-20T03:27:46Z"
+    },
+    {
+      "id": 1232820476,
+      "fullName": "RyanCoreAI/spring-ai-crossborder-customer-service",
+      "stars": 31,
+      "forks": 7,
+      "category": "agents",
+      "pushedAt": "2026-11-14T02:17:57Z"
+    },
+    {
+      "id": 1456428742,
+      "fullName": "MarchelloBruckman875170/virtual-card-usdt-cross-border-ai-ecommerce-saas-applepay",
+      "stars": 51,
+      "forks": 1,
+      "category": "agents",
+      "pushedAt": "2026-11-13T09:53:57Z"
+    },
+    {
+      "id": 1373900770,
+      "fullName": "qwqess121/ecommerce-ai-skills",
+      "stars": 17,
+      "forks": 0,
+      "category": "agents",
+      "pushedAt": "2026-11-11T01:34:05Z"
+    },
+    {
+      "id": 1353585164,
+      "fullName": "vulpy-io/vulpy-commerce-core",
+      "stars": 127,
+      "forks": 25,
+      "category": "llm",
+      "pushedAt": "2026-09-16T11:16:59Z"
+    },
+    {
+      "id": 1027105458,
+      "fullName": "zachshallbetter/adobe-mcp",
+      "stars": 39,
+      "forks": 11,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-19T13:26:47Z"
+    },
+    {
+      "id": 1092702823,
+      "fullName": "YosefHayim/ebay-mcp",
+      "stars": 201,
+      "forks": 75,
+      "category": "llm",
+      "pushedAt": "2026-11-20T18:12:05Z"
+    },
+    {
+      "id": 1314549531,
+      "fullName": "buluslan/amazon-listing-doctor",
+      "stars": 101,
+      "forks": 11,
+      "category": "agents",
+      "pushedAt": "2026-09-17T08:13:19Z"
+    },
+    {
+      "id": 1180139213,
+      "fullName": "finsilabs/awesome-ecommerce-skills",
+      "stars": 67,
+      "forks": 11,
+      "category": "agents",
+      "pushedAt": "2026-10-23T04:20:32Z"
+    },
+    {
+      "id": 1140478144,
+      "fullName": "Danielopol/Claude-Code-Playbooks",
+      "stars": 70,
+      "forks": 9,
+      "category": "agents",
+      "pushedAt": "2026-11-19T20:01:26Z"
+    },
+    {
+      "id": 1271437886,
+      "fullName": "joomcode/joompulse-skills",
+      "stars": 57,
+      "forks": 5,
+      "category": "agents",
+      "pushedAt": "2026-11-16T16:26:47Z"
+    },
+    {
+      "id": 1433252151,
+      "fullName": "haadoRamiz/Jarvis1.0",
+      "stars": 75,
+      "forks": 0,
+      "category": "llm",
+      "pushedAt": "2026-10-25T14:19:49Z"
+    },
+    {
+      "id": 1327610423,
+      "fullName": "biheto/ValuSee",
+      "stars": 39,
+      "forks": 0,
+      "category": "llm",
+      "pushedAt": "2026-11-12T06:21:13Z"
+    },
+    {
+      "id": 1218018309,
+      "fullName": "yuqie6/ProductFlow",
+      "stars": 313,
+      "forks": 66,
+      "category": "generative-ai",
+      "pushedAt": "2026-10-09T10:11:09Z"
+    },
+    {
+      "id": 1329410717,
+      "fullName": "pixgt-ai/awesome-ecommerce-ai-tools",
+      "stars": 19,
+      "forks": 14,
+      "category": "main-image",
+      "pushedAt": "2026-11-12T06:47:16Z"
+    },
+    {
+      "id": 1276486813,
+      "fullName": "iart-ai/ecommerce-video-skills",
+      "stars": 19,
+      "forks": 4,
+      "category": "agents",
+      "pushedAt": "2026-11-11T16:13:42Z"
+    },
+    {
+      "id": 693072990,
+      "fullName": "tryonlabs/opentryon",
+      "stars": 573,
+      "forks": 76,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-21T06:23:35Z"
+    },
+    {
+      "id": 1286839986,
+      "fullName": "usscottli-ctrl/novaryns",
+      "stars": 38,
+      "forks": 4,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-05T16:48:04Z"
+    },
+    {
+      "id": 1287449637,
+      "fullName": "growthack88/growth-marketing-os",
+      "stars": 132,
+      "forks": 27,
+      "category": "agents",
+      "pushedAt": "2026-10-10T13:08:15Z"
+    },
+    {
+      "id": 1134942413,
+      "fullName": "medusajs/medusa-agent-skills",
+      "stars": 237,
+      "forks": 29,
+      "category": "agents",
+      "pushedAt": "2026-11-13T13:18:53Z"
+    },
+    {
+      "id": 1146166995,
+      "fullName": "hookdeck/webhook-skills",
+      "stars": 102,
+      "forks": 18,
+      "category": "agents",
+      "pushedAt": "2026-11-20T16:20:01Z"
+    },
+    {
+      "id": 990832792,
+      "fullName": "CupOfOwls/kroger-mcp",
+      "stars": 84,
+      "forks": 32,
+      "category": "llm",
+      "pushedAt": "2026-10-23T22:55:14Z"
+    },
+    {
+      "id": 1223626282,
+      "fullName": "zhuoxinsi/amazon-automation-skills",
+      "stars": 67,
+      "forks": 10,
+      "category": "generative-ai",
+      "pushedAt": "2026-09-17T10:36:33Z"
+    },
+    {
+      "id": 1182053769,
+      "fullName": "Umair706/amazon-omniscient",
+      "stars": 52,
+      "forks": 15,
+      "category": "llm",
+      "pushedAt": "2026-10-03T09:39:34Z"
+    },
+    {
+      "id": 1261197405,
+      "fullName": "china-luo/ImageStudioRemasteredVersion",
+      "stars": 35,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-09-23T07:17:23Z"
+    },
+    {
+      "id": 1446638032,
+      "fullName": "workmagicio/workmagic-agent-plugin",
+      "stars": 24,
+      "forks": 0,
+      "category": "agents",
+      "pushedAt": "2026-11-13T06:02:46Z"
+    },
+    {
+      "id": 1159186374,
+      "fullName": "KenKaiii/king",
+      "stars": 20,
+      "forks": 9,
+      "category": "agents",
+      "pushedAt": "2026-11-19T02:59:08Z"
+    },
+    {
+      "id": 494331719,
+      "fullName": "Shoplazza/shoplazza-cli",
+      "stars": 18,
+      "forks": 8,
+      "category": "agents",
+      "pushedAt": "2026-11-19T05:35:17Z"
+    },
+    {
+      "id": 483894024,
+      "fullName": "beikeshop/beikeshop",
+      "stars": 1988,
+      "forks": 433,
+      "category": "agents",
+      "pushedAt": "2026-11-17T07:11:24Z"
+    },
+    {
+      "id": 1252321383,
+      "fullName": "filtalgo/Filtmall-Shopping-Skill",
+      "stars": 409,
+      "forks": 36,
+      "category": "agents",
+      "pushedAt": "2026-11-16T10:47:47Z"
+    },
+    {
+      "id": 1016029287,
+      "fullName": "hculap/awesome-ai-gtm",
+      "stars": 23,
+      "forks": 46,
+      "category": "agents",
+      "pushedAt": "2026-11-16T06:29:55Z"
+    },
+    {
+      "id": 1042844902,
+      "fullName": "RobotecAI/agentic-mobile-manipulator",
+      "stars": 51,
+      "forks": 5,
+      "category": "robotics",
+      "pushedAt": "2026-11-11T20:08:23Z"
+    },
+    {
+      "id": 1180542442,
+      "fullName": "nexscope-ai/awesome-amazon-seller-tools",
+      "stars": 50,
+      "forks": 32,
+      "category": "agents",
+      "pushedAt": "2026-11-11T06:56:23Z"
+    },
+    {
+      "id": 1246102385,
+      "fullName": "maxschottke-spec/seo-survival-kit",
+      "stars": 12,
+      "forks": 2,
+      "category": "agents",
+      "pushedAt": "2026-11-18T12:45:57Z"
+    },
+    {
+      "id": 1443060949,
+      "fullName": "liangjianshu/multimodal-image-retrieval",
+      "stars": 128,
+      "forks": 0,
+      "category": "rag",
+      "pushedAt": "2026-11-05T06:14:33Z"
+    },
+    {
+      "id": 744234337,
+      "fullName": "store-craft/storecraft",
+      "stars": 884,
+      "forks": 78,
+      "category": "ai-infra",
+      "pushedAt": "2026-05-02T17:42:01Z"
+    },
+    {
+      "id": 591995344,
+      "fullName": "rush86999/atom",
+      "stars": 912,
+      "forks": 94,
+      "category": "agents",
+      "pushedAt": "2026-11-21T09:51:05Z"
+    },
+    {
+      "id": 1207605833,
+      "fullName": "40RTY-ai/shopify-admin-skills",
+      "stars": 205,
+      "forks": 23,
+      "category": "agents",
+      "pushedAt": "2026-10-26T16:43:21Z"
+    },
+    {
+      "id": 1331176828,
+      "fullName": "MagePsycho/awesome-magento-ai",
+      "stars": 18,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-11-10T11:13:01Z"
+    },
+    {
+      "id": 703802567,
+      "fullName": "Bytedesk/bytedesk",
+      "stars": 539,
+      "forks": 147,
+      "category": "llm",
+      "pushedAt": "2026-11-21T05:50:38Z"
+    },
+    {
+      "id": 1173376661,
+      "fullName": "Gingiris/gingiris-launch",
+      "stars": 217,
+      "forks": 28,
+      "category": "agents",
+      "pushedAt": "2026-05-07T03:01:55Z"
+    },
+    {
+      "id": 1314661844,
+      "fullName": "HiAPIAI/awesome-ai-video-workflows",
+      "stars": 28,
+      "forks": 11,
+      "category": "agents",
+      "pushedAt": "2026-11-04T02:14:04Z"
+    },
+    {
+      "id": 1114441622,
+      "fullName": "sonnysangha/ecommerce-ai-nextjs-16-sanity-clerk-agentkit-stripe-checkout-vercel-ai-agents",
+      "stars": 120,
+      "forks": 83,
+      "category": "agents",
+      "pushedAt": "2025-12-11T11:46:38Z"
+    },
+    {
+      "id": 237993579,
+      "fullName": "contentful/apps",
+      "stars": 164,
+      "forks": 176,
+      "category": "ai-infra",
+      "pushedAt": "2026-11-21T01:46:33Z"
+    },
+    {
+      "id": 448541728,
+      "fullName": "daviddao/awesome-data-valuation",
+      "stars": 146,
+      "forks": 15,
+      "category": "generative-ai",
+      "pushedAt": "2026-08-14T22:21:13Z"
+    },
+    {
+      "id": 904893333,
+      "fullName": "upsidelab/enthusiast",
+      "stars": 186,
+      "forks": 46,
+      "category": "llm",
+      "pushedAt": "2026-11-18T09:37:56Z"
+    },
+    {
+      "id": 1248930600,
+      "fullName": "uni-infiniteai/clawec-agents",
+      "stars": 77,
+      "forks": 12,
+      "category": "agents",
+      "pushedAt": "2026-09-28T05:30:21Z"
+    },
+    {
+      "id": 1180426897,
+      "fullName": "SerendipityOneInc/ZooData-Skills",
+      "stars": 81,
+      "forks": 12,
+      "category": "agents",
+      "pushedAt": "2026-10-21T11:21:02Z"
+    },
+    {
+      "id": 1455312287,
+      "fullName": "tensorpass/aiconnect",
+      "stars": 30,
+      "forks": 0,
+      "category": "rag",
+      "pushedAt": "2026-11-19T23:59:32Z"
+    },
+    {
+      "id": 231864103,
+      "fullName": "MugglePay/MugglePay",
+      "stars": 241,
+      "forks": 48,
+      "category": "agents",
+      "pushedAt": "2026-11-16T17:21:23Z"
+    },
+    {
+      "id": 1169276096,
+      "fullName": "wanikua/become-ceo",
+      "stars": 67,
+      "forks": 8,
+      "category": "agents",
+      "pushedAt": "2026-03-13T07:39:39Z"
+    },
+    {
+      "id": 1248874749,
+      "fullName": "Gingiris-1031/gingiris-skills",
+      "stars": 91,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-11-17T10:44:11Z"
+    },
+    {
+      "id": 1222589733,
+      "fullName": "cliprise/awesome-ai-ugc-video-prompts",
+      "stars": 56,
+      "forks": 4,
+      "category": "generative-ai",
+      "pushedAt": "2026-04-28T05:41:03Z"
+    },
+    {
+      "id": 1012726162,
+      "fullName": "NVIDIA-AI-Blueprints/retail-shopping-assistant",
+      "stars": 109,
+      "forks": 47,
+      "category": "llm",
+      "pushedAt": "2026-11-18T03:23:48Z"
+    },
+    {
+      "id": 1285212911,
+      "fullName": "JiRaska/open-bank-oss",
+      "stars": 45,
+      "forks": 14,
+      "category": "ai-infra",
+      "pushedAt": "2026-11-21T09:26:07Z"
+    },
+    {
+      "id": 709930230,
+      "fullName": "GoogleCloudPlatform/genai-product-catalog",
+      "stars": 71,
+      "forks": 26,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-20T20:17:47Z"
+    },
+    {
+      "id": 1294960594,
+      "fullName": "bailinghub/bailinghub",
+      "stars": 130,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-11-11T01:10:16Z"
+    },
+    {
+      "id": 1148550616,
+      "fullName": "eltociear/awesome-molt-ecosystem",
+      "stars": 67,
+      "forks": 42,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-19T11:49:36Z"
+    },
+    {
+      "id": 1254034581,
+      "fullName": "rakei076/alimama-cli",
+      "stars": 56,
+      "forks": 12,
+      "category": "agents",
+      "pushedAt": "2026-11-19T15:00:16Z"
+    },
+    {
+      "id": 29405754,
+      "fullName": "n1crack/datatables",
+      "stars": 274,
+      "forks": 84,
+      "category": "agents",
+      "pushedAt": "2026-11-11T21:38:20Z"
+    },
+    {
+      "id": 1458407818,
+      "fullName": "liangdabiao/dsh-amazon-image-studio",
+      "stars": 27,
+      "forks": 3,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-16T02:01:55Z"
+    },
+    {
+      "id": 1088997315,
+      "fullName": "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment",
+      "stars": 47,
+      "forks": 25,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-18T17:22:54Z"
+    },
+    {
+      "id": 1201040549,
+      "fullName": "galyarderlabs/galyarder-framework",
+      "stars": 30,
+      "forks": 6,
+      "category": "agents",
+      "pushedAt": "2026-11-20T01:52:18Z"
+    },
+    {
+      "id": 1180702243,
+      "fullName": "coupler-io/skills",
+      "stars": 41,
+      "forks": 12,
+      "category": "agents",
+      "pushedAt": "2026-11-18T07:03:35Z"
+    },
+    {
+      "id": 1199101685,
+      "fullName": "pawbytes/skill-suites",
+      "stars": 118,
+      "forks": 25,
+      "category": "agents",
+      "pushedAt": "2026-11-10T03:02:24Z"
+    },
+    {
+      "id": 1461299329,
+      "fullName": "Replyze/shopify-ai-chatbot",
+      "stars": 19,
+      "forks": 0,
+      "category": "faq-generation",
+      "pushedAt": "2026-11-17T11:13:24Z"
+    },
+    {
+      "id": 1298121049,
+      "fullName": "handsomeng/LJHskill",
+      "stars": 17,
+      "forks": 2,
+      "category": "agents",
+      "pushedAt": "2026-11-21T05:18:46Z"
+    },
+    {
+      "id": 1177245056,
+      "fullName": "gitstore-dev/GitStore",
+      "stars": 19,
+      "forks": 0,
+      "category": "ai-infra",
+      "pushedAt": "2026-11-21T01:17:19Z"
+    },
+    {
+      "id": 892830182,
+      "fullName": "NatLabRockies/COMPASS",
+      "stars": 17,
+      "forks": 4,
+      "category": "robotics",
+      "pushedAt": "2026-11-21T00:54:09Z"
+    },
+    {
+      "id": 1307122986,
+      "fullName": "dalroot/agentic-seo",
+      "stars": 26,
+      "forks": 3,
+      "category": "agents",
+      "pushedAt": "2026-11-17T11:06:10Z"
+    },
+    {
+      "id": 998036124,
+      "fullName": "GreenHacker420/Tally_sync",
+      "stars": 21,
+      "forks": 5,
+      "category": "robotics",
+      "pushedAt": "2026-11-18T20:01:04Z"
+    },
+    {
+      "id": 912766924,
+      "fullName": "adobe-rnd/aem-commerce-prerender",
+      "stars": 13,
+      "forks": 13,
+      "category": "ai-infra",
+      "pushedAt": "2026-11-21T01:25:15Z"
+    },
+    {
+      "id": 62699408,
+      "fullName": "doofinder/doofinder-magento2",
+      "stars": 13,
+      "forks": 10,
+      "category": "rag",
+      "pushedAt": "2026-11-20T13:50:13Z"
+    },
+    {
+      "id": 1124100628,
+      "fullName": "MerlinStacks/overseek",
+      "stars": 29,
+      "forks": 6,
+      "category": "robotics",
+      "pushedAt": "2026-11-16T02:17:05Z"
+    },
+    {
+      "id": 1222812664,
+      "fullName": "angeo-dev/module-aeo-audit",
+      "stars": 11,
+      "forks": 1,
+      "category": "faq-generation",
+      "pushedAt": "2026-11-20T19:52:43Z"
+    },
+    {
+      "id": 1132071203,
+      "fullName": "Aakash109-hub/eCommerce-Customer-Support-Agent",
+      "stars": 12,
+      "forks": 1,
+      "category": "rag",
+      "pushedAt": "2026-11-19T03:52:32Z"
+    },
+    {
+      "id": 867633826,
+      "fullName": "aexol-studio/deenruv",
+      "stars": 11,
+      "forks": 0,
+      "category": "ai-infra",
+      "pushedAt": "2026-11-18T07:37:43Z"
+    },
+    {
+      "id": 833679022,
+      "fullName": "aws-solutions-library-samples/guidance-for-generative-ai-shopping-assistant-using-agents-for-amazon-bedrock",
+      "stars": 21,
+      "forks": 4,
+      "category": "llm",
+      "pushedAt": "2026-11-13T18:26:38Z"
+    },
+    {
+      "id": 1147121400,
+      "fullName": "maton-ai/api-gateway-skill",
+      "stars": 34,
+      "forks": 4,
+      "category": "agents",
+      "pushedAt": "2026-11-07T10:53:14Z"
+    },
+    {
+      "id": 1363331758,
+      "fullName": "mixocreative/ecommerce-cia",
+      "stars": 14,
+      "forks": 3,
+      "category": "agents",
+      "pushedAt": "2026-11-10T15:16:45Z"
+    },
+    {
+      "id": 1344948661,
+      "fullName": "Jingyi-Wu-Richael/replicate-video-ad",
+      "stars": 117,
+      "forks": 10,
+      "category": "agents",
+      "pushedAt": "2026-08-24T12:59:02Z"
+    },
+    {
+      "id": 1266890078,
+      "fullName": "nexscope-ai/awesome-ai-ecommerce-tools",
+      "stars": 12,
+      "forks": 13,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-11T06:56:29Z"
+    },
+    {
+      "id": 1289742466,
+      "fullName": "tttg2010/tj-short",
+      "stars": 26,
+      "forks": 3,
+      "category": "agents",
+      "pushedAt": "2026-11-06T08:37:28Z"
+    },
+    {
+      "id": 1315250209,
+      "fullName": "aaadanzghe/ecommerce-content-agent",
+      "stars": 129,
+      "forks": 5,
+      "category": "agents",
+      "pushedAt": "2026-08-20T14:04:08Z"
+    },
+    {
+      "id": 870727295,
+      "fullName": "Nutlope/description-generator",
+      "stars": 333,
+      "forks": 69,
+      "category": "generative-ai",
+      "pushedAt": "2026-07-12T19:12:08Z"
+    },
+    {
+      "id": 1332860044,
+      "fullName": "Eleven617/mall-ai-after-sales-platform",
+      "stars": 111,
+      "forks": 4,
+      "category": "llm",
+      "pushedAt": "2026-10-12T08:17:03Z"
+    },
+    {
+      "id": 1261690469,
+      "fullName": "tinyhumansai/tiny.place",
+      "stars": 146,
+      "forks": 36,
+      "category": "agents",
+      "pushedAt": "2026-08-08T16:09:07Z"
+    },
+    {
+      "id": 1024736951,
+      "fullName": "lydiayan/ecommerce-order-agent-platform",
+      "stars": 13,
+      "forks": 4,
+      "category": "rag",
+      "pushedAt": "2026-11-09T02:56:02Z"
+    },
+    {
+      "id": 1289902488,
+      "fullName": "machines-6657/Customer-Agent-2.0-official",
+      "stars": 124,
+      "forks": 3,
+      "category": "agents",
+      "pushedAt": "2026-07-05T10:49:24Z"
+    },
+    {
+      "id": 1199167796,
+      "fullName": "jtrackingai/analytics-tracking-automation",
+      "stars": 145,
+      "forks": 41,
+      "category": "agents",
+      "pushedAt": "2026-04-29T10:42:34Z"
+    },
+    {
+      "id": 952146584,
+      "fullName": "aws-solutions-library-samples/guidance-for-personalized-ecommerce-recommendations-using-amazon-bedrock-agents",
+      "stars": 210,
+      "forks": 15,
+      "category": "agents",
+      "pushedAt": "2026-07-28T14:38:24Z"
+    },
+    {
+      "id": 1183226075,
+      "fullName": "thearnavrustagi/marketmenow",
+      "stars": 138,
+      "forks": 40,
+      "category": "agents",
+      "pushedAt": "2026-04-13T05:44:40Z"
+    },
+    {
+      "id": 1163891582,
+      "fullName": "ankush850/ShopIQ-AI-Retail-Intelligence-Platform",
+      "stars": 136,
+      "forks": 3,
+      "category": "ai-infra",
+      "pushedAt": "2026-05-01T22:30:07Z"
+    },
+    {
+      "id": 897297668,
+      "fullName": "CatchTheTornado/open-agents-builder",
+      "stars": 180,
+      "forks": 39,
+      "category": "agents",
+      "pushedAt": "2025-12-08T20:33:05Z"
+    },
+    {
+      "id": 1245267327,
+      "fullName": "WANGLEVY9/VidForge",
+      "stars": 94,
+      "forks": 5,
+      "category": "agents",
+      "pushedAt": "2026-10-21T05:48:46Z"
+    },
+    {
+      "id": 1155267249,
+      "fullName": "BartWaardenburg/spaceship-mcp",
+      "stars": 13,
+      "forks": 4,
+      "category": "generative-ai",
+      "pushedAt": "2026-11-03T10:07:24Z"
+    }
+  ]
+}

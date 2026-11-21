@@ -6,10 +6,10 @@ AI tools and skills for product FAQs, buyer Q&A, objection handling, pre-sales a
 
 ## Category Snapshot
 
-- Projects tracked: 1
-- Recently active projects: 1
-- Docs or homepage signal: 1
-- Updated: Nov 20, 2026, 10:09 AM UTC
+- Projects tracked: 2
+- Recently active projects: 2
+- Docs or homepage signal: 2
+- Updated: Nov 21, 2026, 9:56 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,12 @@ Useful for teams generating product FAQs, buyer Q&A, objection handling, pre-sal
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 19 | +1 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
+| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
+| 2 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 11 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 19 | +1 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
+| 1 | [Replyze/shopify-ai-chatbot](https://github.com/Replyze/shopify-ai-chatbot) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 19 | +0 | +0 | TypeScript | Open-source Shopify AI chatbot integration with storefront chat widget, product FAQs, customer support and optional Replyze live chat. |
+| 2 | [angeo-dev/module-aeo-audit](https://github.com/angeo-dev/module-aeo-audit) | FAQ Generation | Recently active, Commerce skill, Open license, Docs available | 11 | +0 | +0 | PHP | Audit whether your Magento 2 store is visible to ChatGPT, Gemini & Perplexity. One CLI command scores every core AEO signal — robots.txt bot access, llms.txt/llms.jsonl, Product & FAQ schema, sitemap, AI product feed, OG tags, canonical — 0–100 with exact fix commands. Score-trend dashboard, admin UI, cron, --fail-on CI gate. Free, MIT. |
