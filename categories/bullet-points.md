@@ -9,7 +9,7 @@ AI tools and skills for Amazon five bullets, product selling points, feature-ben
 - Projects tracked: 0
 - Recently active projects: 0
 - Docs or homepage signal: 0
-- Updated: Nov 26, 2026, 11:03 AM UTC
+- Updated: Nov 27, 2026, 10:59 AM UTC
 
 ## Who This Helps
 

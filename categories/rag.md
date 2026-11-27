@@ -9,7 +9,7 @@ Catalog retrieval, semantic product search, FAQ knowledge bases, vector indexing
 - Projects tracked: 7
 - Recently active projects: 7
 - Docs or homepage signal: 4
-- Updated: Nov 26, 2026, 11:03 AM UTC
+- Updated: Nov 27, 2026, 10:59 AM UTC
 
 ## Who This Helps
 
@@ -19,7 +19,7 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 46 | +2 | +18 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
+| 1 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 47 | +1 | +17 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 174 | +0 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [Aakash109-hub/eCommerce-Customer-Support-Agent](https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent) | Product RAG & Knowledge Search | Recently active, Commerce skill, Production oriented, Self-host friendly | 13 | +0 | +1 | Python | A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit. |
 | 4 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 128 | +0 | +0 | Python | 多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。 |
@@ -31,7 +31,7 @@ Useful for builders creating product catalog search, FAQ assistants, semantic re
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 46 | +2 | +18 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
+| 1 | [tensorpass/aiconnect](https://github.com/tensorpass/aiconnect) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 47 | +1 | +17 | TypeScript | AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visitor's own ChatGPT, Claude, Gemini or OpenRouter account through the AI Wallet browser extension. It works with React, Web Components, MCP tools and the OpenAI, Anthropic and Vercel AI SDKs. |
 | 2 | [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license, Docs available | 174 | +0 | +1 | C# | eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more. |
 | 3 | [Aakash109-hub/eCommerce-Customer-Support-Agent](https://github.com/Aakash109-hub/eCommerce-Customer-Support-Agent) | Product RAG & Knowledge Search | Recently active, Commerce skill, Production oriented, Self-host friendly | 13 | +0 | +1 | Python | A production-style AI customer support assistant for eCommerce platforms. Built with LangChain + LangGraph, powered by a local Ollama LLM, enhanced with RAG for shipping, return, and FAQ policies, and deployed using Streamlit. |
 | 4 | [lydiayan/ecommerce-order-agent-platform](https://github.com/lydiayan/ecommerce-order-agent-platform) | Product RAG & Knowledge Search | Recently active, Commerce skill, Open license | 14 | +0 | +1 | Java | 面向电商订单场景以及企业内部多角色知识问答的可观测 AI Agent 平台，集成 StateGraph、RAG、记忆、MCP 工具与人工审批 |
