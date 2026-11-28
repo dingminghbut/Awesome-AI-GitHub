@@ -9,7 +9,7 @@ Recommendation evaluation, A/B testing, attribution, conversion analytics, growt
 - Projects tracked: 0
 - Recently active projects: 0
 - Docs or homepage signal: 0
-- Updated: Nov 27, 2026, 10:59 AM UTC
+- Updated: Nov 28, 2026, 10:36 AM UTC
 
 ## Who This Helps
 

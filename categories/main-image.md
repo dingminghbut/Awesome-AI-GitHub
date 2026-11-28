@@ -9,7 +9,7 @@ AI tools and skills for product hero images, marketplace main images, background
 - Projects tracked: 1
 - Recently active projects: 1
 - Docs or homepage signal: 0
-- Updated: Nov 27, 2026, 10:59 AM UTC
+- Updated: Nov 28, 2026, 10:36 AM UTC
 
 ## Who This Helps
 
@@ -19,10 +19,10 @@ Useful for teams producing marketplace main images, product hero visuals, white-
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 20 | +0 | +1 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 22 | +2 | +3 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
 
 ## Fast Movers In This Category
 
 | # | Repository | Category | Signals | Stars | +24h | +7d | Language | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 20 | +0 | +1 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
+| 1 | [pixgt-ai/awesome-ecommerce-ai-tools](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) | Main Image Generation | Recently active, Commerce skill, Good starting point | 22 | +2 | +3 | Unknown | 面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers. |
